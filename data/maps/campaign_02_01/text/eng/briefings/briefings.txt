@@ -1,0 +1,193 @@
+[blockstart:header] 
+
+THE PLAGUE
+[blockend:header]
+
+[blockstart:00_start] 
+I am Bjarni, son of Leif. As a young boy I went travelling with my tribe, and we discovered an unknown land in the far west. In this land lived strange redskinned people who became our friends after many dangerous adventures.
+
+My last adventure led me through the whole of Europe and to the Orient, trying to discover the secret surrounding a worrying vision. On the way I was joined by three valiant warriors from the lands I passed through. Together we defeated the terrifying Midgard serpent and saved the world. This was my vision and my destiny ...
+
+The victory celebrations were tremendous, but then the time came when our paths took us in different directions ...
+[blockend:00_start]
+
+[blockstart:00_start1] 
+Hatchie, the brave Saracen and fearless fighter, returned to his home town in the Orient. 
+Sigurd, the famous hero from the realm of the Franks, longed for the lush green of the meadows and forests of his home country. He joined a caravan to the north. 
+
+And Cyra, the valiant princess from Byzantium ... In spite or maybe because of all the dangers we had faced together, a deep affection developed between us. It was as though the gods had made us for one another ...
+
+Our paths were not to divide again, therefore we travelled to Byzantium to the court of Cyra's father, who was emperor of this glorious empire. 
+Words cannot describe the glory and wealth of the emperor's palace! We lacked nothing. The best chefs presented meals from all over the world, we drank the best wines of the empire and servants massaged our bodies with fragrant oils and balms.
+We lived like gods, and the days passed peacefully and free of worry.
+
+But, as often happens, our peace and quiet was again abruptly disturbed much too soon ... 
+
+One day we received an urgent appeal for help from our friend Hatchie. His home country was being troubled by strange serpent creatures, which brought chaos and destruction. He urgently needed help, and since he had hoped to find us here, he sent a messenger.
+
+Although we had to leave our pleasant life behind, Cyra and I didn't hesitate for a moment. We were ready to face any problems and hurried to help our friend ...
+[blockend:00_start1]
+
+
+[blockstart:50_endheader] 
+
+MISSION COMPLETED! 
+[blockend:50_endheader]
+
+[blockstart:50_end] 
+When we reached the abandoned village and couldn't find any serpent creatures, we knew that we had driven them back, but not finally defeated them. 
+Our new friend Ykol soon left us again to check his research. Other tasks awaited us in the meantime ...
+[blockend:50_end]
+
+
+
+[blockstart:01_nach_30_Sekunden] 
+We had barely gone ashore and started to erect our tents when we received a message from our old friend Hatchie. His news was both sad and shocking: Large parts of Arabia were already infested with serpents. These dark beings had attacked many villages in Hatchie's surroundings, and were already at the gates to Hatchie's village. We had to hurry to build up our economy and military ...
+
+Free Hatchie's village from the serpent plague! 
+[blockend:01_nach_30_Sekunden]
+
+
+[blockstart:02_flüchtlinge] 
+The refugees from the village were still under shock. The serpent creatures had forced them to leave their homes. Only the bravest stayed behind - led by our friend Hatchie. The others asked us to put an end to the plague before it spread over the whole of Arabia. 
+[blockend:02_flüchtlinge]
+
+
+[blockstart:03_Angriffswelle_1] 
+With a deafening hiss, the strange serpent creatures attacked us. Would we be able to stand firm against this attack? 
+[blockend:03_Angriffswelle_1]
+
+[blockstart:04_Angriffswelle_2] 
+The attack waves of the serpent creatures never seemed to stop! 
+
+Hatchie had therefore sent one of his men out to discover the cause of the serpent plague. This was YKOL, who had been supporting our friend Hatchie for some time now. He was from the far north and had intended to travel through the southern part of the world. However, when he heard about the serpent problem, he had stayed to help. We would soon get to know him well ...
+[blockend:04_Angriffswelle_2]
+
+[blockstart:05_Angriffswelle_3] 
+The terrible serpent creatures attacked us again. Their attacks grew stronger and stronger. Far away in the north, something terrible was brewing. Would we be able to withstand another wave? 
+[blockend:05_Angriffswelle_3]
+
+
+[blockstart:06_Megangriff1] 
+The serpent creatures attacked us more fiercely than ever before. This time we would not be able to fend them off so easily. There were simply too many of them! 
+[blockend:06_Megangriff1]
+
+[blockstart:07_Megangriff2] 
+Once more an army of serpent creatures assaulted us. They seemed to be everywhere! Would we be able to hold them back this time?
+[blockend:07_Megangriff2]
+
+
+[blockstart:08_player_2_seen_sarazene] 
+Not far from the coast we met the Saracens. They had been largely spared by the serpent plague and had no hostile feelings towards us. 
+
+We would be able to trade with them in exchange for a small tribute ...
+[blockend:08_player_2_seen_sarazene]
+
+[blockstart:09_handel_sarazene] 
+When we brought the Saracens the tribute, they soon became very friendly.
+
+They said we would be welcomed among them any time, and offered us promising trade agreements.  
+[blockend:09_handel_sarazene]
+
+[blockstart:10_player_3_seen_byzantine] 
+Our scouts found a Byzantine village whose inhabitants regarded us with mistrust, but weren't hostile. 
+
+In exchange for a small tribute we would be able to trade with them and hire mercenaries ...
+[blockend:10_player_3_seen_byzantine]
+
+[blockstart:11_handel_byzantine] 
+When we had proven our good intent by paying the tribute, they offered us friendship and support on our next mission. The Byzantines left 5 of their bravest longbow archers above the bridge as mercenaries and offered us more reinforcements. 
+
+Pay the Byzantines the tribute they demand for additional mercenaries if your Vikings require them. 
+[blockend:11_handel_byzantine]
+
+[blockstart:12_player_1_seen_sarazene] 
+When we came to Hatchie's village, we were received most graciously. These poor people had suffered from the serpent plague for too long. Now it was time for us to support them.
+
+Help the village and take care of Hatchie!
+[blockend:12_player_1_seen_sarazene]
+
+[blockstart:13_player_4_seen_Miguel] 
+When we passed the bridge, a travelling merchant approached us. He introduced himself as Miguel and gave us the following hint: "In the south there is a massive mountain of gold. Unfortunately, my old bones are too weary and I can't get it myself. But if you bring 20 gold nuggets to my warehouse, I'll give you some good advice!"
+
+Find the gold mountain and deliver 20 gold nuggets to Miguel!
+[blockend:13_player_4_seen_Miguel]
+
+[blockstart:14_Miguel_tipps] 
+After we had traded some gold with Miguel, he gave us important hints about how to stem the serpent plague. 
+
+He advised us to erect defence towers at the crossing points of the parched riverbanks in the north and to occupy them with archers. 
+
+"You will find chests with defence towers and archers. But look out for the wild animals of the desert!" he said ...
+[blockend:14_Miguel_tipps]
+
+
+[blockstart:15_Ykol] 
+Hatchie's friend Ykol, who had been gone for some time now, seemed to appear out of thin air. "My friends! You may have managed to defeat the plague, but they will return!" 
+His investigations throughout Arabia had been successful. He called to us: "Follow me to the abandoned village, I have found clues to the cause of the serpent plague!" 
+Thus we set out, not knowing where our journey would lead us ...
+
+Have your heroes follow Ykol to the abandoned village. 
+[blockend:15_Ykol]
+
+[blockstart:16_söldner] 
+Again the friendly Byzantines supplied us with mercenaries who waited for us above the bridge. Their bravest longbow archers joined us in the fight against the serpents! They even offered us more support if we needed their help. 
+
+Pay the Byzantines the tribute for additional mercenaries if your Vikings require them.   
+[blockend:16_söldner]
+
+[blockstart:17_lost] 
+MISSION FAILED!
+
+Oh dear! An entire people has fallen victim to the serpent creatures! Your Vikings were unable to stop the plague ...    
+[blockend:17_lost]
+
+[blockstart:18] 
+This had to be the gold mountain the merchant Miguel had told us about!  
+[blockend:18]
+
+[blockstart:19] 
+Ykol had already reached the 'abandoned village' ...
+It was strange that the wild animals didn't seem to harm him ...  
+[blockend:19]
+
+[blockstart:20] 
+Many of our goods were in our handcarts and ox carts and on the ship. 
+
+Use the goods from the vehicles if you need them!
+[blockend:20]
+
+
+
+[blockstart:100]
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION FAILED!
+<font:$local$\fonts\font12.fnt>
+<picture:$local$\graphics\Hero_Dead_F.pcx>
+Heroism or carelessness? When Bjarni died the gods were crying ... without this hero, the outcome of this mission will remain hidden to you!
+[blockend:100]
+
+[blockstart:200]
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION FAILED!
+<font:$local$\fonts\font12.fnt>
+<picture:$local$\graphics\Hero_Dead_F.pcx>
+A short moment of negligence, that's all it takes to lose your life! Your heroine Cyra died due to your negligence! Without this heroine, the outcome of this mission will remain hidden to you!
+[blockend:200]
+
+[blockstart:300]
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION FAILED!
+<font:$local$\fonts\font12.fnt>
+<picture:$local$\graphics\Hero_Dead_F.pcx>
+A short moment of negligence, that's all it takes to lose your life! Your friend and hero Hatchie died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you! 
+[blockend:300]
+
+[blockstart:500]
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION FAILED!
+<font:$local$\fonts\font12.fnt>
+<picture:$local$\graphics\Hero_Dead_F.pcx>
+A short moment of negligence, that's all it takes to lose your life! Ykol died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you!
+[blockend:500]
+

@@ -1,0 +1,223 @@
+[blockstart:header] 
+
+HEL'S REALM
+[blockend:header]
+
+[blockstart:00_start] 
+An unreal place ... 
+A dark, stony labyrinth full of streams of lava opened up right in front of us. Although we could not see anybody, we felt as if someone was watching us. Danger seemed to be lurking everywhere in these winding corridors ... 
+[blockend:00_start]
+
+[blockstart:00_start1] 
+We had to make our way through this dark maze and find Heimdall. He, the god of sun and daylight, watched over the path to the gods across the bridge of Bifrost. Only the sound of his mighty horn could show us the way to Asgard. 
+
+At least, that was what the ancient myths and legends claimed ...
+ 
+
+Find Heimdall and cross the bridge of Bifrost.
+[blockend:00_start1]
+
+
+[blockstart:50_endheader] 
+
+MISSION COMPLETED! 
+[blockend:50_endheader]
+
+[blockstart:50_end] 
+When Heimdall blew his horn, the bridge of Bifrost opened the way to Asgard. However, when we crossed the bridge of Bifrost we felt a slight shiver down our spines. Something was not right ...
+[blockend:50_end]
+
+[blockstart:50_end1] 
+Suddenly, an enormous ice storm broke out and froze everything around us. Only with great difficulty were we able to reach a cold, hard and bright white world. How could this happen? What had we done wrong? 
+[blockend:50_end1] 
+
+
+[blockstart:01_player_1_seen] 
+HEIMDALL'S HAVEN
+
+Deep within Hel's realm we found Heimdall's haven. This place was free of Werewolf, Serpent and Ghost Warriors, and we might even be able to settle here for the moment to produce new food and resources ...
+[blockend:01_player_1_seen]
+
+[blockstart:02_player_2_seen] 
+GHOST WARRIORS
+
+The souls of deceased Vikings seemed to dwell in these shells of warriors. We did not like the idea of fighting against soldiers from our own people, but if we got too close to them, we would have no choice!
+[blockend:02_player_2_seen]
+
+[blockstart:03_player_3_seen] 
+SERPENT WARRIORS 
+
+Although we had managed to defeat the serpent plague in the human world, our request to the genie seemed to have no effect whatsoever down here. 
+
+Here in Hel's realm, the plague was omnipresent, so we had to face it once again ...
+[blockend:03_player_3_seen]
+
+[blockstart:04_player_4_seen] 
+WEREWOLF WARRIORS
+
+We thought we had defeated the wolf plague by reforging the Fenris chain and putting it around the demon wolf's neck, but this heroic deed seemed to have no effect in Hel's realm. 
+
+Here the Werewolf Warriors were omnipresent, so we had to face them once again ...
+[blockend:04_player_4_seen]
+
+
+[blockstart:05_heimdall] 
+HEIMDALL
+
+Deep inside Hel's realm we found Heimdall's stronghold. In front of the bridge stood a hunchbacked, mysterious old man. He introduced himself as Heimdall and stopped us.
+
+"Halt, travellers! I have been expecting you," he said. "Don't move another step! Those who want to cross the bridge of Bifrost will have to free the world of all evil creatures or bring me my sword and my armour, so that I can venture forth against these dangers myself. 
+You will also not be allowed to cross until you have brought me my horn! The horn alone can show you the way to Asgard, but only I have the power to blow it, so don't dare to try and use it yourselves! 
+
+I keep my horn locked in a chamber in the western mountains."
+
+"So bring me my armour and my sword or defeat all the creatures. But in any case, bring me my mighty horn!"
+
+He also offered to let us hire heroes in return for a tribute. It could be worth our while ... 
+[blockend:05_heimdall]
+
+[blockstart:06_heimdall_tribut] 
+In front of the bridge, Heimdall gave us 3 heroes as mercenaries and offered us even more reinforcements. 
+
+But what was that? These heroes looked like us!
+Heimdall must have incredible magic powers in order to create such Ghost Warriors!
+
+Pay Heimdall the required tribute for additional heroes if your Vikings need them.
+[blockend:06_heimdall_tribut]
+
+
+[blockstart:07_brücke] 
+HEIMDALL
+
+Don't move another step! Those who want to cross the bridge of Bifrost will have to free the world of all evil creatures or bring me my sword and my armour. Otherwise you will not be allowed to go across. I see you have already found my horn."
+
+"So bring me my armour and my axe or defeat all the creatures!"
+[blockend:07_brücke]
+
+[blockstart:08_horn] 
+HEIMDALL'S HORN
+
+You have picked up Heimdall's horn! 
+[blockend:08_horn]
+
+[blockstart:09_tribut] 
+"You have fought well and brought me the requested arms, but are you as wise as you are brave? Your last task is to bring me my horn that will show you the way to Asgard. Only I have the power to blow it, so don't dare to use it yourselves! 
+
+I keep my horn locked in a chamber in the mountains." 
+
+Solve the riddle to open the door, and bring me my horn! 
+[blockend:09_tribut]
+
+[blockstart:10_tribut] 
+HEIMDALL
+
+"You have fought well and proved that you are worthy of crossing the bridge! Now go, but don't look back," Heimdall said. Then he began to blow his horn. 
+
+Although everything seemed to be running smoothly, I had a strange feeling in my stomach and a shiver was running down my spine. I felt we were in terrible danger. But as we could not actually detect anything unusual, we bravely set foot on the bridge of Bifrost. 
+
+
+But suddenly it turned cold. ICY cold ...
+[blockend:10_tribut]
+
+[blockstart:11_ykol] 
+YKOL
+
+"Ha, ha, ha ...!"
+With a malicious laugh Ykol disappeared, leaving the three of us behind. 
+What was the matter with Ykol? Why was he behaving in such a strange way? What was he up to? Did he know something about this place that he had not told us? If so, why had he kept his knowledge secret?
+
+Or had he been fooling us all the time? Had he made his own secret, deceitful plot and only used us as a means to carry it out? I couldn't forget the malicious, evil sound of his laughter. I had the strangest feeling something was about to happen ...
+[blockend:11_ykol]
+
+
+[blockstart:13_gate1no] 
+When we activated the switch, we heard a metallic clank. However, this switch did not seem to be able to open a gate alone! 
+There must be another one somewhere that would operate the lock TOGETHER with this switch here! 
+
+Should we leave one of our men behind to guard the switch?
+[blockend:13_gate1no]
+
+[blockstart:14_gate1] 
+When we activated the switch, we heard a loud metallic clank. Together with another one, this switch must have opened a large gate somewhere nearby!
+[blockend:14_gate1]
+
+[blockstart:15_gate2] 
+When we activated the switch, we heard a loud metallic clank. This switch must have opened a large gate somewhere nearby!
+[blockend:15_gate2]
+
+[blockstart:16_gate3] 
+When we activated the switch, we heard a loud metallic clank. This switch must have opened a large gate somewhere nearby!
+[blockend:16_gate3]
+
+
+[blockstart:17_horn] 
+HEIMDALL'S HORN
+
+We found a horn. Could this be Heimdall's horn? The one he could use to open the way to Asgard? We would surely find out. However, it was clear that we could only pick up the horn on Heimdall's orders!
+[blockend:17_horn]
+
+[blockstart:18_rüstung] 
+HEIMDALL'S ARMOUR
+
+We found armour with the following inscription: "Heimdall's skin to drive out all evil." 
+
+The future would show whether Heimdall was able to use it!
+[blockend:18_rüstung]
+
+[blockstart:19_sword] 
+HEIMDALL'S AXE
+
+We found an axe with the following inscription: "Heimdall's blade to drive out all evil." 
+The future would show whether Heimdall was able to use it!
+[blockend:19_sword]
+
+[blockstart:20] 
+We had completed our task and were now ready to return to Heimdall. He would blow his mighty horn for us to open the way to Asgard. 
+[blockend:20]
+
+[blockstart:21] 
+HEIMDALL'S ARMOUR
+
+You have picked up Heimdall's armour! 
+[blockend:21]
+
+[blockstart:22] 
+HEIMDALL'S AXE
+
+You have picked up Heimdall's axe! 
+[blockend:22]
+
+
+
+[blockstart:100]
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION FAILED!
+<font:$local$\fonts\font12.fnt>
+<picture:$local$\graphics\Hero_Dead_F.pcx>
+Heroism or carelessness? When Bjarni died the gods were crying ... without this hero, the outcome of this mission will remain hidden to you!
+[blockend:100]
+
+[blockstart:300]
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION FAILED!
+<font:$local$\fonts\font12.fnt>
+<picture:$local$\graphics\Hero_Dead_F.pcx>
+A short moment of negligence, that's all it takes to lose your life! Your friend and hero Hatchie died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you!  
+[blockend:300]
+
+[blockstart:400]
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION FAILED!
+<font:$local$\fonts\font12.fnt>
+<picture:$local$\graphics\Hero_Dead_F.pcx>
+A short moment of negligence, that's all it takes to lose your life! Your friend and hero Sigurd died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you! 
+[blockend:400]
+
+[blockstart:500]
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION FAILED!
+<font:$local$\fonts\font12.fnt>
+<picture:$local$\graphics\Hero_Dead_F.pcx>
+A short moment of negligence, that's all it takes to lose your life! Ykol died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you!
+[blockend:500]
+

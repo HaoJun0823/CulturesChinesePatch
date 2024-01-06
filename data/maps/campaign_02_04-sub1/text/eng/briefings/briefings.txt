@@ -1,0 +1,110 @@
+[blockstart:header]
+
+THE SWORDS OF THE KINGS
+[blockend:header]
+
+[blockstart:00_start] 
+A deep mysterious crypt opened in front of us ... It was hard to imagine that there were so many famous kings buried in this place ... 
+[blockend:00_start]
+
+[blockstart:00_start1] 
+The Frankish tyrant had been unable to stop us, but we encountered his dangerous grave robbers everywhere. We had to be careful and clever, because they greatly outnumbered us! 
+
+The gates had ingenious locking mechanisms. Wooden gates could only be opened with switches, metal gates were guarded by wild animals or were triggered by invisible mechanisms which had often been set in the ground. If we were not careful, we might easily walk into a trap!  
+
+Find the three swords of the ancient kings!
+[blockend:00_start1]
+
+
+[blockstart:50_endheader] 
+
+MISSION COMPLETED! 
+[blockend:50_endheader]
+
+[blockstart:50_end] 
+Our mission was completed, we had found the three swords of the ancient kings. They were the first component we needed for Fenrir's chain. 
+[blockend:50_end]
+
+[blockstart:50_end1] 
+To find out what was the next magic component, we had to go back to the old abbey. Further exciting adventures still lay in store for us on our mission ...
+[blockend:50_end1]
+
+[blockstart:01_player_1_seen_franks] 
+GRAVE ROBBERS
+
+We did not have to wait long for the grave robbers and soldiers of the Frankish tyrant ... When we entered the catacombs, they attacked us at once. We had to think quickly and develop smart tactics, or we would soon be defeated by them!
+[blockend:01_player_1_seen_franks]
+
+[blockstart:02_player_2_seen_viking] 
+IMPRISONED VIKINGS
+
+These poor Vikings had been held as prisoners by the Frankish barbarians for a long time. They offered to help us if we freed them from their prison. 
+[blockend:02_player_2_seen_viking]
+
+[blockstart:03_viking] 
+The liberated Vikings shouted for joy and celebrated their freedom. They wanted to help us on our mission.
+[blockend:03_viking] 
+
+
+[blockstart:04_sword] 
+In one of the bays we found an ancient sword. Its decorations and engravings pointed to the fact that it had belonged to a very influential king of old. But there was no magic in it, so we couldn't make any use of it at all.
+[blockend:04_sword]
+
+[blockstart:05_switch1] 
+OPEN THE GATES! Switch 1
+
+When we activated the switch, two gates opened near us. We had to leave one of our men on the switch so that the gates remained open.
+[blockend:05_switch1]
+
+[blockstart:06_switch2] 
+OPEN THE GATES! Switch 2
+
+When we activated the switch, five gates opened near us. We had to leave one of our men on the switch so that the gates remained open.
+[blockend:06_switch2]
+
+[blockstart:07] 
+In one of the bays we found an ancient sword. Its decorations and engravings pointed to the fact that it had belonged to a very influential king, but this king was still alive! 
+
+What a shame! We would not be able to use the sword for our purposes!
+[blockend:07]
+
+
+[blockstart:100]
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION FAILED!
+<font:$local$\fonts\font12.fnt>
+<picture:$local$\graphics\Hero_Dead_F.pcx>
+Heroism or carelessness? When Bjarni died the gods were crying ... without this hero, the outcome of this mission will remain hidden to you!
+[blockend:100]
+
+[blockstart:200]
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION FAILED!
+<font:$local$\fonts\font12.fnt>
+<picture:$local$\graphics\Hero_Dead_F.pcx>
+A short moment of negligence, that's all it takes to lose your life! Your heroine Cyra died due to your negligence! Without this heroine, the outcome of this mission will remain hidden to you! 
+[blockend:200]
+
+[blockstart:300]
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION FAILED!
+<font:$local$\fonts\font12.fnt>
+<picture:$local$\graphics\Hero_Dead_F.pcx>
+A short moment of negligence, that's all it takes to lose your life! Your friend and hero Hatchie died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you! 
+[blockend:300]
+
+[blockstart:400]
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION FAILED!
+<font:$local$\fonts\font12.fnt>
+<picture:$local$\graphics\Hero_Dead_F.pcx>
+A short moment of negligence, that's all it takes to lose your life! Your friend and hero Sigurd died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you!
+[blockend:400]
+
+[blockstart:500]
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION FAILED!
+<font:$local$\fonts\font12.fnt>
+<picture:$local$\graphics\Hero_Dead_F.pcx>
+A short moment of negligence, that's all it takes to lose your life! Ykol died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you!
+[blockend:500]

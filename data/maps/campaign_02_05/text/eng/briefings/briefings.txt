@@ -1,0 +1,130 @@
+[blockstart:header]
+
+FENRIR'S HORDES 
+[blockend:header]
+
+[blockstart:00_start] 
+The land that lay before us was fertile and wooded - an ideal place for hunting and stocking up our supplies, which were almost depleted by now. After all, we wanted to be well-prepared before going to war against the Fenris Wolf and his hordes ...
+[blockend:00_start]
+
+[blockstart:00_start1] 
+Build up your village with the help of the magic chests and equip your soldiers with potions and amulets.
+[blockend:00_start1]
+
+[blockstart:50_endheader] 
+
+MISSION COMPLETED! 
+[blockend:50_endheader]
+
+[blockstart:50_end] 
+But what had happened?
+
+"WHY CYRA?" I screamed, and realised that my legs were giving way beneath me ...
+
+[blockend:50_end]
+
+[blockstart:50_end1] 
+For a long time I did not understand what had happened. Cyra was the only one who could put the chain on the Fenris Wolf. But in so doing, she was dragged to Valhalla with him! 
+
+An infinite sadness descended on my life ... 
+[blockend:50_end1] 
+
+[blockstart:01_player_1_seen_franken] 
+In the west we came across friendly Franks. They had been largely spared by the wolf plague and offered us favourable trade agreements. 
+
+In return for a small tribute, we might even be able to hire some mercenaries for the mission which lay before us ...
+[blockend:01_player_1_seen_franken]
+
+[blockstart:02_tribut_franken] 
+The Franks provided 5 of their bravest longsword fighters as mercenaries beyond the swamps and offered us more reinforcements in return for a higher tribute. 
+
+Pay the Franks the required tribute for additional mercenaries if your Vikings need them.
+[blockend:02_tribut_franken]
+
+
+[blockstart:03_player_2_seen_byzantine] 
+Our scouts came across a Byzantine village in the east. The locals regarded us with suspicion, but they were not hostile.
+
+In return for a small tribute, we might be able to trade with them and hire mercenaries ...
+[blockend:03_player_2_seen_byzantine]
+
+[blockstart:04_tribut_byzantine] 
+Once we had proved our good intentions by paying a tribute, they offered us their friendship and support for our mission. The Byzantines provided 5 of their bravest longbow archers as mercenaries beyond the swamps and offered us more reinforcements. 
+
+Pay the Byzantines the required tribute for additional mercenaries if your Vikings need them.
+[blockend:04_tribut_byzantine]
+
+[blockstart:05_tribut2_byzantine] 
+When we had paid the Byzantine village the tribute, they immediately offered us additional mercenaries beyond the swamps.
+
+They said we could return any time to hire new mercenaries, and that it would be a pleasure for them to do business with us! 
+
+Well, that was hardly surprising ...
+[blockend:05_tribut2_byzantine] 
+
+
+[blockstart:06_warnung] 
+Our men fought bravely all the way to this place, but they could not reach the Fenris Wolf. A magic aura surrounded him ...
+
+Would anyone from our group be able to make it through to him?
+[blockend:06_warnung]
+
+
+[blockstart:07_cyrafenris] 
+Cyra had fought her way through to Fenrir! Would SHE be able to chain him?
+[blockend:07_cyrafenris]
+
+[blockstart:08_tribut_franken] 
+The Franks provided 5 of their bravest longsword fighters as mercenaries beyond the swamps and offered us more reinforcements for the same tribute.
+
+Pay the Franks the required tribute for additional mercenaries if your Vikings need them.
+[blockend:08_tribut_franken]
+
+[blockstart:09] 
+FENRIR'S HORDES
+
+There were countless dangerous wolves in this region. When we came across them for the first time, they joined in packs, bared their teeth and attacked us!
+[blockend:09]
+
+
+
+[blockstart:100]
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION FAILED!
+<font:$local$\fonts\font12.fnt>
+<picture:$local$\graphics\Hero_Dead_F.pcx>
+Heroism or carelessness? When Bjarni died the gods were crying ... without this hero, the outcome of this mission will remain hidden to you!
+[blockend:100]
+
+[blockstart:200]
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION FAILED!
+<font:$local$\fonts\font12.fnt>
+<picture:$local$\graphics\Hero_Dead_F.pcx>
+A short moment of negligence, that's all it takes to lose your life! Your heroine Cyra died due to your negligence! Without this heroine, the outcome of this mission will remain hidden to you!
+[blockend:200]
+
+[blockstart:300]
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION FAILED!
+<font:$local$\fonts\font12.fnt>
+<picture:$local$\graphics\Hero_Dead_F.pcx>
+A short moment of negligence, that's all it takes to lose your life! Your friend and hero Hatchie died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you! 
+[blockend:300]
+
+[blockstart:400]
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION FAILED!
+<font:$local$\fonts\font12.fnt>
+<picture:$local$\graphics\Hero_Dead_F.pcx>
+A short moment of negligence, that's all it takes to lose your life! Your friend and hero Sigurd died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you!
+[blockend:400]
+
+[blockstart:500]
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION FAILED!
+<font:$local$\fonts\font12.fnt>
+<picture:$local$\graphics\Hero_Dead_F.pcx>
+A short moment of negligence, that's all it takes to lose your life! Ykol died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you!
+[blockend:500]
+

@@ -1,0 +1,196 @@
+[blockstart:header] 
+
+ASGARD
+[blockend:header]
+
+[blockstart:00_start] 
+The incredible world of the gods opened up in front of us.
+We had reached our destination at last! This was it: Asgard - the world of the gods!
+ 
+A majestic broad staircase led up the mountain to a wide plain ...
+
+... but while we were still paralysed by this impressive sight, all of a sudden Ykol gave a malicious laugh and ran away up the stairs! As soon as he had passed the first step, it disappeared in the ground, so that the bottom of the staircase had soon vanished entirely!
+
+What I had almost suspected after entering Hel's realm was now a certainty: Whoever Ykol was and whatever he had planned - he was playing an evil game with us! 
+[blockend:00_start]
+
+[blockstart:00_start1] 
+My suspicions proved true sooner than I had thought. Ykol had left the first steps behind him, which now created a gap between him and us. He turned and faced us with a wicked sneer. And then he revealed his secret ...
+
+He had been playing us false all the time! 
+All he had ever really wanted was to gain the upper hand in the world of the gods, he wanted revenge on Odin and all the other gods for his banishment - and he would stop at nothing to get it ... 
+
+Revenge? What for? 
+Banished by the gods? A human? 
+Ykol? Who was he really?
+What did he intend to do next? 
+
+Whatever he might be planning - we had to stop him in any case! 
+
+Follow the stony path to the Halls of Asgard!
+[blockend:00_start1]
+
+
+
+[blockstart:50_endheader] 
+
+MISSION COMPLETED! 
+[blockend:50_endheader]
+
+[blockstart:50_end] 
+Together we managed to obtain the amulet. Thus the spell that the love amulet had cast on Odin was broken: He had seen only Cyra, the bearer of the amulet, and hadn't been aware of the world around him at all ... which would have given Loki an excellent opportunity to take his revenge unhindered. 
+
+What a malicious plan! But it had been thwarted and Loki's evil was finally ended! 
+
+The power of the amulet, which could do much good but also much evil, should never again do any damage to humans or to the gods ...
+[blockend:50_end]
+
+[blockstart:50_end1] 
+... such was the vow my friends and I took that day ...
+[blockend:50_end1]
+
+
+
+[blockstart:01_player_1_seen] 
+GHOST WARRIORS
+
+These undead warriors appeared from out of nowhere and attacked us without warning ... 
+[blockend:01_player_1_seen]
+
+
+[blockstart:02_skadi] 
+FREYA
+
+"Our world was once mighty and untarnished, but now Odin has lost his mind and we are trapped in the ice!" the ice statue told us. We immediately recognised Freya, the goddess of fertility and war.
+
+Loki, whom you call Ykol - the god of lies and falsehood - has brought this harm on us and on so many humans. 
+
+He alone was responsible for the famine in Arabia. With his evil spell he wrought privation and suffering on the humans! He deceived you with his feigned helpfulness so that you would trust him!" 
+[blockend:02_skadi]
+
+[blockstart:03_thor] 
+BALDUR
+
+"Our world was once mighty and untarnished, but now Odin has lost his mind and we are trapped in the ice!" the ice statue told us. We immediately recognised the friendly god of light, purity and healing: 
+Baldur - the son of the sun and source of all that is good.
+
+"Remember: Loki, whom you call Ykol - the god of lies and falsehood - fought by your side against the wolves ...
+
+But it was he himself who created the Fenris Wolf, and it was he who released him from his bonds and brought the wolf plague over the land! You helped him find "Odin's Heart". The amulet which you, Bjarni, placed about Cyra's neck on Loki's advice, has made her immortal. Loki knew that this would happen, and he also knew that Fenrir would take her to Valhalla, to the world of the immortal! 
+
+Here the amulet cast its love spell on Odin, who was from then on enchanted by its human bearer. He no longer perceived the world around him, therefore he could not ward off Loki's attacks!
+
+Odin is in very great danger!"
+[blockend:03_thor]
+
+
+[blockstart:04_noird] 
+NJORD
+
+"Our world was once mighty and untarnished, but now Odin has lost his mind and we are trapped in the ice!" the ice statue told us. We immediately recognised Njord, the god of the winds and seas. 
+
+"Remember: Loki, whom you call Ykol - the god of lies and falsehood - created the serpent plague and the famine with his dark magic! 
+
+He created these beings of horror, which eliminated large parts of Arabia!
+He obtained your trust and friendship in battle against his own creations!
+
+And now you have led him here. Thanks to your actions, nothing can now stop him from taking his revenge ..."
+
+[blockend:04_noird]
+
+[blockstart:05_baldur] 
+THOR
+
+"Our world was once mighty and untarnished, but now Odin has lost his mind and we are trapped in the ice!" the ice statue told us. We immediately recognised Thor, whose protecting might was reflected in the power of thunder and lightning.
+
+"Remember: Loki, whom you call Ykol - the god of lies and falsehood - left you in Hel's realm. 
+
+But he did not do so to pave the way for you, but to reach Heimdall's horn before you did! He secretly covered it with the ice potion of the Wyonasers, and when Heimdall blew his enchanted horn, he froze the world of the gods without knowing or intending it. That is how we were transformed into ice statues! 
+
+All we are now capable of is to tell you our story ..."
+[blockend:05_baldur]
+
+[blockstart:06_freya] 
+FRIGG 
+
+"Our world was once mighty and untarnished, but now Odin has lost his mind and we are trapped in the ice!" the ice statue told us. We immediately recognised Frigg, Odin's wife and the goddess of love, women, family and homes.
+
+"Loki, whom you call Ykol - the god of lies and falsehood - wrought disaster on us and so many humans! 
+Ask the others, they will explain everything. 
+
+They will send you warriors of the gods. You will never reach the way to the Halls of Asgard without them!"
+
+Speak to the gods in the ice and collect the warriors! 
+[blockend:06_freya]
+
+[blockstart:07_tor] 
+These gates concealed many secrets ... 
+
+There could hardly be any doubt that countless ghost warriors would be waiting for us behind these walls! We had to ready ourselves for a fierce battle!  
+[blockend:07_tor]
+
+[blockstart:08] 
+We had spoken to all the ice statues. The way into the Halls of Asgard was open to us now. We could not expect to receive any more support from the gods in the ice ...
+[blockend:08] 
+
+[blockstart:09_halle] 
+THE HALL OF THE GODS 
+
+You cannot enter this hall until we have uncovered the gods' secrets and destroyed Loki's ghost warriors.  
+[blockend:09_halle]
+
+[blockstart:10_loki] 
+LOKI
+
+"You unworthy creatures, you are so easily deceived! Now I wield the power over the gods' world, because Odin is blinded by your dear Cyra and her love amulet! 
+
+Hahahahaha!" 
+
+
+Fight Loki and his last warriors and take the amulet from Cyra to break Odin's spell!
+[blockend:10_loki]
+
+[blockstart:11] 
+ICE WARRIORS
+
+The goddess in the ice provided us with 5 valiant ice warriors. If we found the other statues, we would gain further warriors to accompany us on our way to the Halls of Asgard ...
+[blockend:11]
+
+[blockstart:12] 
+
+We had spoken to the gods in the ice about their story and ours, and all the ghost warriors had been defeated. The path into the last hall was now open!
+[blockend:12]
+
+
+
+
+
+
+
+
+
+[blockstart:100]
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION FAILED!
+<font:$local$\fonts\font12.fnt>
+<picture:$local$\graphics\Hero_Dead_F.pcx>
+Heroism or carelessness? When Bjarni died the gods were crying ... without this hero, the outcome of this mission will remain hidden to you!
+[blockend:100]
+
+[blockstart:300]
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION FAILED!
+<font:$local$\fonts\font12.fnt>
+<picture:$local$\graphics\Hero_Dead_F.pcx>
+A short moment of negligence, that's all it takes to lose your life! Your friend and hero Hatchie died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you! 
+[blockend:300]
+
+[blockstart:400]
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION FAILED!
+<font:$local$\fonts\font12.fnt>
+<picture:$local$\graphics\Hero_Dead_F.pcx>
+A short moment of negligence, that's all it takes to lose your life! Your friend and hero Sigurd died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you!
+[blockend:400]
+
+

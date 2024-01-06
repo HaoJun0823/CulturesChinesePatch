@@ -1,0 +1,132 @@
+[blockstart:header] 
+
+THE ICE WORLD
+[blockend:header]
+
+[blockstart:00_start] 
+When Heimdall blew his horn, the bridge of Bifrost opened the way to Asgard ... 
+
+Suddenly, an enormous ice storm broke out and froze everything around us. Within a split second, everything had turned a cold, hard and bright white, blinding our eyes and making our limbs ache. 
+[blockend:00_start]
+
+[blockstart:00_start1] 
+And suddenly Ykol reappeared! Somehow he must have reached the entrance before us ... But where had he been?
+He said he had more important things to do in his absence, but that he was back now. Oh well.
+
+Despite all my doubts and the faint distrust that still lingered, in the end we were glad that nothing had happened to him in this dark, dangerous kingdom. We were also happy that we had found the entrance to the world of the gods. 
+
+But, by the Asen Gods - this was NOT what we had imagined Asgard to be like! Everything was covered in ice, it was cold and inhospitable, and the whole world seemed to be dead and numb. THIS was supposed to be the realm of the gods? THIS was their home? THIS was supposed to be paradise?
+
+Full of doubt we entered another labyrinth ...
+And soon we discovered that this rough ice world was full of hidden dangers. 
+
+Reach the gate to the plains of Asgard with your heroes!
+[blockend:00_start1]
+
+
+[blockstart:50_endheader] 
+
+MISSION COMPLETED! 
+[blockend:50_endheader]
+
+[blockstart:50_end] 
+At the end of the huge labyrinth stood a mighty portal, nearly untouched by the ice. It sparkled in all colours imaginable, and when we walked through it a wonderful plain stretched before us, a place whose existence we had begun to doubt. Awestruck, we fell to our knees ...
+[blockend:50_end]
+
+[blockstart:50_end1] 
+A majestic staircase wound around a rise. THIS had to be the realm of the gods! And we were only a few hundred stairs away from it ...
+[blockend:50_end1]
+
+
+[blockstart:01_player_1_seen] 
+GHOST WARRIORS 
+
+The souls of deceased Vikings seemed to dwell in these shells of warriors. We did not like the idea of fighting against soldiers from our own people, but if we got too close to them, we would have no choice!
+[blockend:01_player_1_seen]
+
+[blockstart:02] 
+SHIP FOUND!
+
+In this unreal world, this ship would render us good service. If there was no other way to get any further, we would at least be able to continue by water.
+[blockend:02]
+
+[blockstart:03] 
+GATE OPEN! Switch 1
+
+When we activated the switch, a gate opened near us. We had to leave one of our men on the switch so that the gate remained open. 
+[blockend:03]
+
+[blockstart:04]
+GATE OPEN! Switch 2
+
+When we activated the switch, a gate opened near us. We had to leave one of our men on the switch so that the gate remained open. 
+[blockend:04]
+
+[blockstart:05]
+GATE OPEN! Switch 3
+
+When we activated the switch, a gate opened near us. We had to leave one of our men on the switch so that the gate remained open. 
+[blockend:05]
+
+[blockstart:06]
+GATE OPEN! Switch 4
+
+When we activated the switch, a gate opened near us. We had to leave one of our men on the switch so that the gate remained open. 
+[blockend:06]
+
+[blockstart:07]
+GATE OPEN! Switch 5
+
+When we activated the switch, a gate opened near us. We had to leave one of our men on the switch so that the gate remained open. 
+[blockend:07]
+
+[blockstart:08]
+GATE OPEN! Switch 6
+
+When we activated the switch, a gate opened near us. We had to leave one of our men on the switch so that the gate remained open. 
+[blockend:08]
+
+
+
+
+
+
+[blockstart:100]
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION FAILED!
+<font:$local$\fonts\font12.fnt>
+<picture:$local$\graphics\Hero_Dead_F.pcx>
+Heroism or carelessness? When Bjarni died the gods were crying ... without this hero, the outcome of this mission will remain hidden to you!
+[blockend:100]
+
+[blockstart:200]
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION FAILED!
+<font:$local$\fonts\font12.fnt>
+<picture:$local$\graphics\Hero_Dead_F.pcx>
+A short moment of negligence, that's all it takes to lose your life! Your heroine Cyra died due to your negligence! Without this heroine, the outcome of this mission will remain hidden to you! 
+[blockend:200]
+
+[blockstart:300]
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION FAILED!
+<font:$local$\fonts\font12.fnt>
+<picture:$local$\graphics\Hero_Dead_F.pcx>
+A short moment of negligence, that's all it takes to lose your life! Your friend and hero Hatchie died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you! 
+[blockend:300]
+
+[blockstart:400]
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION FAILED!
+<font:$local$\fonts\font12.fnt>
+<picture:$local$\graphics\Hero_Dead_F.pcx>
+A short moment of negligence, that's all it takes to lose your life! Your friend and hero Sigurd died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you!
+[blockend:400]
+
+[blockstart:500]
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION FAILED!
+<font:$local$\fonts\font12.fnt>
+<picture:$local$\graphics\Hero_Dead_F.pcx>
+A short moment of negligence, that's all it takes to lose your life! Ykol died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you!
+[blockend:500]

@@ -1,0 +1,190 @@
+[blockstart:header] 
+
+THE GREAT FAMINE
+[blockend:header]
+
+[blockstart:00_start] 
+The village Ykol originally led us to had been empty for a long time. But after we had driven back the serpent plague, Saracen nomads from the surrounding area gathered there to revive the village. We went our separate ways at a narrow passage, because we had not yet discovered the entrance to our next target - the legendary catacombs ... 
+[blockend:00_start]
+
+[blockstart:00_start1] 
+Ykol dedicated his time to further research and investigations, promising to report his progress soon. In the meantime, we received a call for help from friends of Hatchie's, who were running out of food for their people. 
+The serpent plague was no longer a regional problem. Due to the plague, a dreadful famine was spreading in the area. Our supplies were insufficient to be able to give much of them away. We knew we would have to find a suitable settling place before we could support the village. So our villagers set out ...
+
+Move along the valley and establish your own village there. But before you do, open the chests and equip your soldiers with the potions!
+[blockend:00_start1]
+
+
+
+[blockstart:50_endheader] 
+
+MISSION COMPLETED! 
+[blockend:50_endheader]
+
+[blockstart:50_end] 
+With the help of the genie from the bottle, we had managed to defeat the serpent plague and the famine, and soon we left the mysterious catacombs of Shumsali ... 
+[blockend:50_end]
+
+[blockstart:50_end1] 
+The troubling events of the past, which to our way of thinking could only have been caused by dark magic, could also only be undone with magic. It was shocking to realise that all our human strength and our valour would not suffice ... 
+
+Ykol suggested I should give my beloved Cyra "Odin's Heart" as a token of my affection. Who could have been more worthy of wearing an amulet of the gods?  
+[blockend:50_end1]
+
+
+
+[blockstart:01_informant_seen] 
+THE OLD MAN
+
+"Oh, there are travellers among you who don't know their way around this barren territory. Move along this valley and you will find a large and fertile valley. You can set up your camp there ..."
+
+"And your scouts should not forget to erect signposts!"
+[blockend:01_informant_seen]
+
+
+[blockstart:02_Tal_erreicht] 
+THE VALLEY
+
+A large, fertile valley lay right before our eyes. Here we could build up a camp and start gathering provisions for the village. The goods in our handcarts and ox carts were a good start ...
+
+Build up your village. Use the goods out of your handcarts and ox carts for this purpose!
+[blockend:02_Tal_erreicht]
+
+[blockstart:03_flüchtlinge] 
+REFUGEES
+
+Refugees approached us looking nearly starved, their faces sunken ... Because of the serpent creatures, they had suffered hunger for too long, therefore they had left their village. 
+Their path had led them through many dangers! But their eyes were full of hope when we picked them up and offered them fast help. 
+
+Bring the required food to the village in the south-west! 
+[blockend:03_flüchtlinge]
+
+
+[blockstart:04_Angriffswelle] 
+With a deafening hiss the weird serpent beings attacked us in this area as well. Would we be able to withstand this attack? 
+[blockend:04_Angriffswelle]
+
+[blockstart:07] 
+[blockend:07] 
+
+[blockstart:08_player_3_seen_byzantine] 
+On the other side of the maze lay outposts belonging to a fort of hostile Byzantines. These were intent on defending their territory, and there was nothing in the world that could make them friendly towards us. 
+[blockend:08_player_3_seen_byzantine]
+
+[blockstart:09_player_4_seen_sarazene] 
+When we found the village Hatchie had told us about, we were received very courteously. These poor people had suffered hunger for too long. Now we wanted to be at their side.
+
+Help the village to survive the famine by giving them water and cake as a tribute.
+[blockend:09_player_4_seen_sarazene]
+
+[blockstart:10_handel_player_4] 
+When we gave the food to the villagers, they were very happy and extremely grateful.
+
+They said we would be welcomed among them any time, and offered us promising trade agreements. 
+[blockend:10_handel_player_4]
+
+[blockstart:11_informant] 
+THE OLD MAN
+
+"Look out! The Saracens beyond this ravine are so hungry that they will not even let their own people pass in peace!" he said. "Maybe you can appease them by paying one or several tributes ..."
+
+Pay the Saracens 20 food as a tribute to put them in a neutral mood and an additional 10 mead to trade with them. You have to pay them a visit first so they can offer you the tribute!
+[blockend:11_informant]
+
+[blockstart:12_player_2_seen_sarazene] 
+These Saracens were starving! It was no wonder they were reacting so aggressively to any travellers and additional mouths. We knew we should avoid them if we didn't want to feel their arrows!
+
+Maybe we would be able to appease them with a food tribute?
+[blockend:12_player_2_seen_sarazene]
+
+[blockstart:13_tribut1] 
+When we brought the Saracens the tribute, they laid down the weapons that had been aimed at us. 
+
+But they warned us that, should we intend any evil or touch their food provisions, they would change their neutral attitude back to a hostile one. Maybe we should pay them additional tribute as a sign of our good intent?
+[blockend:13_tribut1]
+
+[blockstart:14_tribut2] 
+When we brought the Saracens the tribute, they soon became more friendly towards us. 
+
+They still didn't quite trust us, but they did make us some rather unusual trade offers.
+[blockend:14_tribut2]
+
+
+[blockstart:15_Ykol] 
+YKOL
+
+"My friends, you have indeed saved one of the villages from starvation, but there are three new problems already. The serpent plague has also only been temporarily banned - these beasts will return!"
+
+He told us about his research in old Arabian libraries and said that he had found a reference to the catacombs of Shumsali, which lay beyond the northern mountain. 
+"A very powerful genie dwells there," Ykol said. 
+We could take the western route, where we would have to defend ourselves against countless enemies, or we could try the eastern way, where less dangers awaited. 
+
+It was entirely up to us to choose the way ...
+
+Ykol agreed to guide us if the Saracens in the north-east had a neutral or friendly attitude towards us ...
+[blockend:15_Ykol]
+
+
+[blockstart:16_dungeon_erreicht] 
+THE VAULTS
+
+At last we had reached the portal to the catacombs of Shumsali. All our hopes now rested on Ykol's investigations, which had brought us here. Inside the catacombs he wanted to tell us why a mighty genie would have to help us complete our task ...
+So far we had been able to overcome any dangers through bravery, strength and courage ...
+
+We were very curious ...
+[blockend:16_dungeon_erreicht]
+
+
+[blockstart:17_lost] 
+MISSION FAILED!
+
+Oh dear! An entire tribe has fallen victim to the serpent creatures! Your Vikings were unable to stop the plague ...    
+[blockend:17_lost]
+
+[blockstart:18_lost] 
+MISSION FAILED!
+
+Oh dear! An entire tribe has been annihilated by the famine! Your Vikings were unable to give the tribe the necessary support ...    
+[blockend:18_lost]
+
+
+[blockstart:19] 
+YKOL
+
+"Follow me, my friends! The peaceful way to the catacombs lies before us!" 
+[blockend:19]
+
+
+
+
+[blockstart:100]
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION FAILED!
+<font:$local$\fonts\font12.fnt>
+<picture:$local$\graphics\Hero_Dead_F.pcx>
+Heroism or carelessness? When Bjarni died the gods were crying ... without this hero, the outcome of this mission will remain hidden to you!
+[blockend:100]
+
+[blockstart:200]
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION FAILED!
+<font:$local$\fonts\font12.fnt>
+<picture:$local$\graphics\Hero_Dead_F.pcx>
+A short moment of negligence, that's all it takes to lose your life! Your heroine Cyra died due to your negligence! Without this heroine, the outcome of this mission will remain hidden to you! 
+[blockend:200]
+
+[blockstart:300]
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION FAILED!
+<font:$local$\fonts\font12.fnt>
+<picture:$local$\graphics\Hero_Dead_F.pcx>
+A short moment of negligence, that's all it takes to lose your life! Your friend and hero Hatchie died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you! 
+[blockend:300]
+
+[blockstart:500]
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION FAILED!
+<font:$local$\fonts\font12.fnt>
+<picture:$local$\graphics\Hero_Dead_F.pcx>
+A short moment of negligence, that's all it takes to lose your life! Ykol died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you!
+[blockend:500]

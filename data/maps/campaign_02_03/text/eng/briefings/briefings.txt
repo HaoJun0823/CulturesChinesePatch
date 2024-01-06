@@ -1,0 +1,171 @@
+[blockstart:header]
+
+OLD FRIENDS
+[blockend:header]
+
+[blockstart:00_start] 
+The wooded European coast appeared in front of us, the land of mighty kings and many renowned heroes - such as our old friend Sigurd. His fortress loomed further north, a few days' travel away.
+[blockend:00_start]
+
+[blockstart:00_start1] 
+There were inviting green pastures between dense forests and fertile fields as far as the eye could see. Here we had to find a suitable place for a camp, because before we visited Sigurd in his castle, we wanted to look out for an adequate present.  
+
+Scout the area, provide food for your Vikings and find a present you can give your host Sigurd. 
+[blockend:00_start1]
+
+
+[blockstart:50_endheader] 
+
+MISSION COMPLETED! 
+[blockend:50_endheader]
+
+[blockstart:50_end] 
+At last we had reached Sigurd's fortress and fought back the wolves. Sigurd was delighted to see us, and organised a great party to celebrate. That evening was the first time that we were united again after our dreadful fight against the Midgard serpent (see "Cultures 2 - The Gates of Asgard"). 
+[blockend:50_end]
+
+[blockstart:50_end1] 
+Sigurd told us about the threat of the wolves and that they had been terrorising the surrounding lands for weeks now. When he spoke the following words a murmur went through the lines of the Vikings: 
+
+"There are rumours that the dreadful Fenris Wolf himself - the most dangerous of all wolfish demons - has returned, that he has freed himself from his magic chains and brought a wolf plague on this land ..." 
+[blockend:50_end1]
+
+
+[blockstart:01_Sigurd]
+SIGURD
+
+As soon as we had sent our present to Sigurd, we received his message: 
+"My fortress has been besieged by wild packs of wolves for weeks now! They are so hungry that they even attack small villages. I would really like to welcome you all here, but I fear the road is far too dangerous, my friends!" 
+
+Find a way to lure the wolves away or to minimise their numbers so you can reach Sigurd with all your heroes!
+[blockend:01_Sigurd]
+
+
+[blockstart:02_wölfe] 
+When a wild pack of wolves attacked us for the first time, we noticed that the wolves were especially aggressive in this area and that there were huge numbers of them.
+ 
+Later we realised that the wild packs were besieging all the roads to Sigurd's fortress. 
+[blockend:02_wölfe]
+
+
+[blockstart:03_Jäger1] 
+HUNTER
+
+"Have you heard about the packs of wolves as well, or have you seen them?" the huntsman called. 
+"There is a feeding place in a valley in the western massif. If you put enough food there, you might be able to lure the wolves into a trap!" he suggested.
+[blockend:03_Jäger1] 
+
+[blockstart:04_Jäger2] 
+HUNTER
+
+"Oh, these wild beasts! You can hardly risk to take a step outside!" the brave hunter said. 
+"If you put enough food in these feeding places, the wolves might be attracted by the smell. The hidden pits in the ground might do the rest! I could never do all this on my own, though!" 
+
+Help the hunter to fill the feeding places with food!
+[blockend:04_Jäger2]
+
+
+[blockstart:05_player_2_seen_byzantine] 
+When we came across the Byzantine village, we received a warm reception. 
+
+They told us we would be welcomed there any time, offered us advantageous trade agreements and suggested tributes.
+[blockend:05_player_2_seen_byzantine]
+
+[blockstart:06_player_3_burg] 
+One of our scouts went ahead to Sigurd's fortress. When he stood in front of Sigurd's castle with empty hands, Cyra took me aside and said: "Bjarni, we should not go in without sending Sigurd a present! That would be very impolite. Let's bake some cake for him." 
+And, since our women are nearly always right, we decided to do what she said ...
+
+Bake a nice cake for Sigurd and send it to him as a tribute.
+[blockend:06_player_3_burg] 
+
+[blockstart:07_player_4_seen_franks] 
+THE PORT
+
+There was a small Frankish port on an inviting coastline to the west. We thought we might be able to win these simple people as trading partners in exchange for a small tribute.
+[blockend:07_player_4_seen_franks]
+
+[blockstart:8_handel_player_4] 
+When we had brought the small tribute to the port, they said we would be welcomed among them any time, and offered us promising trade agreements. 
+[blockend:8_handel_player_4]
+
+
+[blockstart:9_lost] 
+MISSION FAILED!
+
+Oh dear! An entire tribe has been annihilated! Your Vikings were not able to successfully complete this mission ...     
+[blockend:9_lost]
+
+[blockstart:10_wölfe_send] 
+THE TRAP
+
+When there was enough food in the feeding place, we heard an eerie howling and screaming from all directions ...
+
+The wolves of the surrounding area went to the feeding place in packs. When they started eating greedily, the trap closed on them! 
+The wolves were trapped in the pits and the way to Sigurd's castle was free. The hunters' plan had worked!     
+[blockend:10_wölfe_send]
+
+[blockstart:11_söldner] 
+The friendly Byzantines supplied us with mercenaries, who waited for us at the feeding place. Their bravest spearmen with their iron spears and short sword fighters came with us! 
+They offered to send us additional reinforcements if we should need their help. 
+
+Pay the Byzantines the required tribute for additional mercenaries if your Vikings need them.
+[blockend:11_söldner]
+
+[blockstart:12_hero_siggi] 
+SIGURD
+
+"It is wonderful to see you! I see you have found a new companion as well!" Sigurd said. "You know, my friends - this courtly life is getting somewhat boring. I will join you and fight with you!"
+We were overjoyed to hear this from our old comrade-in-arms! At last we were all reunited. It was just like old times ...
+
+Sigurd continued: "As you will have noticed, the wolf plague is causing unrest throughout the land. My people hardly dare to leave the walls of this fortress, and I only have a few men at my command who will go out and fight the wolves with me. Won't you help me drive the wolves from this land? Together, I have no doubt we will succeed!"
+What a question - as if we'd deny our friend such a request ...
+
+
+Help Sigurd to drive away the wolves!
+[blockend:12_hero_siggi]
+
+[blockstart:13] 
+When our Vikings destroyed the port, we robbed ourselves of the valuable goods that we would have been offered to trade ...
+[blockend:13]
+
+[blockstart:14] 
+The destruction of the Byzantine fortress had brought us Vikings no advantage whatsoever ... Why had we even started this fight against the Byzantines?
+[blockend:14]
+
+[blockstart:100]
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION FAILED!
+<font:$local$\fonts\font12.fnt>
+<picture:$local$\graphics\Hero_Dead_F.pcx>
+Heroism or carelessness? When Bjarni died the gods were crying ... without this hero, the outcome of this mission will remain hidden to you!
+[blockend:100]
+
+[blockstart:200]
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION FAILED!
+<font:$local$\fonts\font12.fnt>
+<picture:$local$\graphics\Hero_Dead_F.pcx>
+A short moment of negligence, that's all it takes to lose your life! Your heroine Cyra died due to your negligence! Without this heroine, the outcome of this mission will remain hidden to you! 
+[blockend:200]
+
+[blockstart:300]
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION FAILED!
+<font:$local$\fonts\font12.fnt>
+<picture:$local$\graphics\Hero_Dead_F.pcx>
+A short moment of negligence, that's all it takes to lose your life! Your friend and hero Hatchie died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you! 
+[blockend:300]
+
+[blockstart:400]
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION FAILED!
+<font:$local$\fonts\font12.fnt>
+<picture:$local$\graphics\Hero_Dead_F.pcx>
+A short moment of negligence, that's all it takes to lose your life! Your friend and hero Sigurd died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you!
+[blockend:400]
+
+[blockstart:500]
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION FAILED!
+<font:$local$\fonts\font12.fnt>
+A short moment of negligence, that's all it takes to lose your life! Ykol died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you!
+[blockend:500]

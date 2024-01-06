@@ -1,0 +1,233 @@
+[blockstart:header]
+
+THREE WISHES
+[blockend:header]
+
+[blockstart:00_start] 
+"Our bravery, our strength and all our courage cannot help us fight the serpent plague, because the plague was caused by dark magic. It is a divine spell, so to speak ..." Ykol explained. 
+[blockend:00_start]
+
+[blockstart:00_start1] 
+"In these catacombs dwells an ancient genie who will make the impossible come true. Only he is strong enough and has the necessary magic power. 
+
+But remember: It is very difficult to get to him. Many gates bar the way ..."
+
+Open the gates and find the genie!
+[blockend:00_start1]
+
+
+[blockstart:50_endheader] 
+
+MISSION COMPLETED! 
+[blockend:50_endheader]
+
+[blockstart:50_end] 
+After the last wish, the genie from the bottle disappeared. But he left a shining red amulet behind. 
+[blockend:50_end]
+
+[blockstart:50_end1] 
+Ykol picked it up and brought it to me. I gave it to Cyra, because Ykol claimed its magic powers would protect its bearer ... 
+[blockend:50_end1]
+
+
+[blockstart:01_schlangenwesen] 
+SERPENT CREATURES
+
+Oh no! Those dreadful beasts had even spread underground! 
+However, we found out that they could not be exceedingly clever, because the door mechanisms troubled them, so that they became trapped in the catacombs for weeks!  
+
+Use the door mechanisms against the serpent creatures!
+[blockend:01_schlangenwesen]
+
+
+[blockstart:02_tor] 
+THE FIRST GATE
+
+A wooden gate nearby opened up with an enormous creak. 
+[blockend:02_tor]
+
+[blockstart:03_tor] 
+THE SECOND GATE 
+ 
+A wooden gate nearby opened up with an enormous creak. 
+[blockend:03_tor]
+
+[blockstart:04_tor] 
+THE THIRD GATE  
+
+A wooden gate nearby opened up with an enormous creak.
+[blockend:04_tor]
+
+[blockstart:05_genie] 
+GENIE
+
+We found the genie Ykol had spoken of, and from which he expected so much.
+
+It spoke to us:
+ 
+"I will only grant wishes to those willing to answer my riddle! 
+
+Well?!
+
+...
+
+There are three switches in these rooms.
+
+Remember the symbols of the switches well, because I will only show them to you once!" 
+[blockend:05_genie]
+
+[blockstart:06_erklärung1]
+
+"This is switch A."
+[blockend:06_erklärung1]
+
+[blockstart:07_erklärung2]
+
+"This is switch B."
+[blockend:07_erklärung2]
+
+[blockstart:08_erklärung3]
+
+"This is switch C." 
+
+There are three possible answers to each of my riddles. But beware! Only one of them is correct. Find the right answers!
+
+Answer me by operating the respective switch!  
+
+Are you ready for the riddle? Then come a little closer!"   
+[blockend:08_erklärung3]
+
+[blockstart:09_schalterbesetzt]
+
+You have to leave the switches, otherwise the genie will remain silent!
+[blockend:09_schalterbesetzt]
+
+[blockstart:10_falsch] 
+NOPE!
+
+Wrong answer!
+[blockend:10_falsch]
+
+
+[blockstart:11_wunsch1] 
+GENIE
+
+"You have solved the riddle and I will fulfil three wishes for you. What is your first wish?" 
+[blockend:11_wunsch1]
+
+[blockstart:11_wunsch1a] 
+We were amazed that our mission might be completed simply by wishing for something. Nevertheless we requested: 
+
+"The people in this land are being threatened by evil serpent beings. In spite of bitter resistance, they have only been warded off, but never defeated. 
+
+Fight the serpent plague, so the people can live in peace again!" 
+[blockend:11_wunsch1a]
+
+[blockstart:12_wunsch2] 
+BOOM - BANG!        
+... the wish had been fulfilled ...
+ 
+The entire SERPENT PLAGUE had been vanquished with a single strike! Their surviving victims arose from the remains of their tormentors!
+[blockend:12_wunsch2]
+
+[blockstart:12_wunsch2a] 
+"Well, this was your first wish," the genie said. "I will fulfil two more for you. 
+
+What is your second desire?" 
+
+We thought about the people: The serpent plague had ended, but the people would still be starving for a long time, because their villages and fields had been devastated ... 
+
+"Genie, if it is within your power to do so, please end this famine!" 
+[blockend:12_wunsch2a]
+
+[blockstart:13_wunsch3] 
+BOOM - BANG!         
+... the wish had been fulfilled ...
+ 
+The FAMINE was ended and the people had plenty of food. Their long torment was over ...
+[blockend:13_wunsch3]
+
+[blockstart:13_wunsch3a] 
+"You are very selfless, my riddle-solving friends!" the genie noted appreciatively. "I will fulfil one last wish for you. What is your third request?" 
+
+We thought about our third wish, but nobody seemed to want anything important. So Ykol rushed to the genie and asked him:
+
+"Give Bjarni 'Odin's Heart' for Cyra - an amulet with magic powers! It seems worthy of a Byzantine princess!" 
+
+The genie didn't seem to be much of an expert on Nordic mythology, but he wanted to see what he could do about it ... ;0)   
+[blockend:13_wunsch3a]
+
+
+
+[blockstart:14] 
+QUESTION 1 
+
+"How many thieves did Aladdin meet?" 
+
+A) 40  
+B) 712
+C) none!  
+[blockend:14]
+
+[blockstart:15] 
+QUESTION 2 
+
+"Which of these is known as the 'ship of the desert'?" 
+
+A) Mountain Hare
+B) Camel 
+C) Coelacanth
+[blockend:15]
+
+[blockstart:16] 
+QUESTION 3  
+
+"What do you call a mirage in the desert?" 
+
+A) Fata Morgana  
+B) Fatal Morgana
+C) Northern Lights
+[blockend:16]
+
+
+[blockstart:17] 
+
+CORRECT!
+[blockend:17]
+
+
+
+
+
+[blockstart:100]
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION FAILED!
+<font:$local$\fonts\font12.fnt>
+<picture:$local$\graphics\Hero_Dead_F.pcx>
+Heroism or carelessness? When Bjarni died the gods were crying ... without this hero, the outcome of this mission will remain hidden to you!
+[blockend:100]
+
+[blockstart:200]
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION FAILED!
+<font:$local$\fonts\font12.fnt>
+<picture:$local$\graphics\Hero_Dead_F.pcx>
+A short moment of negligence, that's all it takes to lose your life! Your heroine Cyra died due to your negligence! Without this heroine, the outcome of this mission will remain hidden to you! 
+[blockend:200]
+
+[blockstart:300]
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION FAILED!
+<font:$local$\fonts\font12.fnt>
+<picture:$local$\graphics\Hero_Dead_F.pcx>
+A short moment of negligence, that's all it takes to lose your life! Your friend and hero Hatchie died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you!
+[blockend:300]
+
+[blockstart:500]
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION FAILED!
+<font:$local$\fonts\font12.fnt>
+<picture:$local$\graphics\Hero_Dead_F.pcx>
+A short moment of negligence, that's all it takes to lose your life! Ykol died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you!
+[blockend:500]
+

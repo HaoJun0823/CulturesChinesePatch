@@ -1,0 +1,141 @@
+[blockstart:header] 
+
+NORTHLAND
+[blockend:header]
+
+[blockstart:00_start] 
+We were deeply grieved about the loss of Cyra! Her lifeless body seemed not to have changed at all since her spirit had been carried away with Fenrir. 
+Something unnatural surrounded her, and we were unable to return her body to the soil ... 
+[blockend:00_start]
+
+[blockstart:00_start1] 
+Ykol, who was well versed in mythology, said that Cyra's spirit had been taken and now lingered in Asgard, the world of the gods. But he also claimed that there might be a way to bring her back. 
+
+Only very few people have ever survived a journey to Asgard. He said that the only way to Asgard was through the ever-green World Tree Yggdrasil at the Well of Urd. This tree carries the world, its branches spread from heaven to earth, they connect the divine realm of Asgard with the human world of Midgard, both of which are again connected to the underground kingdoms of Hel and Niflheim.
+
+Travel to the World Tree Yggdrasil. But first look for clues in your surroundings!
+[blockend:00_start1]
+
+
+[blockstart:50_endheader] 
+
+MISSION COMPLETED! 
+[blockend:50_endheader]
+
+[blockstart:50_end] 
+The entrance to the World Tree Yggdrasil was surrounded by knotty roots. A dark, terrifying maw opened into the depths. There we would first have to cross the kingdom of Hel, the goddess of death, before reaching the gods in Asgard. 
+[blockend:50_end]
+
+[blockstart:50_end1] 
+The deeper we went, the warmer and darker it became, and soon we had forgotten the icy climate of Northland ...
+[blockend:50_end1] 
+
+
+[blockstart:01_player_1_seen_neutral] 
+VILLAGE
+
+We came across a Viking village. The locals regarded us with suspicion, but they were not hostile. Among them were guards of the World Tree who called themselves the Yggdrasil Order. 
+These Vikings also owned resources that were very scarce in these barren parts.
+
+In return for a tribute, we might be able to trade with them and get some information about the World Tree ...
+[blockend:01_player_1_seen_neutral]
+
+[blockstart:02_tribut1] 
+VILLAGE
+
+After we had paid them the tribute, the village offered us numerous trade agreements and gave us a useful hint on how to access the World Tree.
+ 
+"The guards of the tree, the Yggdrasil Order, will only grant men of pure heart passage to the entrance of the Underworld. In the past, men built a holy temple to prove their purity and thus gain access to the Underworld. But then the temple was destroyed, and the guards grew more suspicious than ever ..."
+
+Build a new temple so the guards will recognise your good intentions. 
+[blockend:02_tribut1]
+
+
+[blockstart:03_player_2_seen_orden] 
+THE YGGDRASIL ORDER
+
+"We only grant passage to the World Tree Yggdrasil to those who are pure of heart. Far too often has this entrance to the Underworld been abused for evil!" they said. "If you dare to approach the entrance without our approval, you will die!"
+
+"Prove that your soul is pure by erecting a sacred place! Remain there in humility for some time, and our brothers will come to get you. Passage to the Underworld shall then be granted to you!"
+
+Build a new temple. 
+[blockend:03_player_2_seen_orden]
+
+[blockstart:04_orden_temple] 
+THE YGGDRASIL ORDER
+
+"We only grant passage to the World Tree Yggdrasil to those who are pure of heart. Far too often has this entrance to the Underworld been abused for evil!" they said.
+
+"But, as our wise eyes see, you have already taken the effort to build a holy temple! You may pass through the gates. 
+
+We grant you, Bjarni, permission to pass through the gates with your friends Hatchie and Sigurd!"
+[blockend:04_orden_temple]
+
+[blockstart:05_Ykol] 
+What happened next left us speechless ...
+
+Ykol simply ignored the instructions of the Order and stormed past the stern guards, who seemed to take no notice of him ... 
+He shouted: "Follow me, my friends!" We never saw him again ... 
+
+Would he find a way to the world of the gods unscathed? The guards had not granted him passage to the World Tree! 
+[blockend:05_Ykol]
+
+[blockstart:06_temple] 
+THE TEMPLE HAS BEEN BUILT! 
+
+A magnificent temple rose to the sky and turned this place into sacred ground. We were certain that the Yggdrasil Order would now let us pass to the World Tree ...
+[blockend:06_temple]
+
+[blockstart:07_heldentot] 
+THE YGGDRASIL ORDER
+
+"Now you will die! This is your punishment for not heeding our warning!"
+
+As soon as these words were spoken, the heroes and leaders of your Vikings fell victim to the terrible curse of the Order and died a horrible death.
+[blockend:07_heldentot]
+
+[blockstart:08] 
+
+...
+
+More than once I watched Cyra's spirit walk the white realms of Northland. She appeared barely tangible, and disappeared again without a trace. 
+
+Sometimes it almost seemed as though she wanted to warn us of a menace ...
+[blockend: 08]
+
+
+
+
+
+[blockstart:100]
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION FAILED!
+<font:$local$\fonts\font12.fnt>
+<picture:$local$\graphics\Hero_Dead_F.pcx>
+Heroism or carelessness? When Bjarni died the gods were crying ... without this hero, the outcome of this mission will remain hidden to you!
+[blockend:100]
+
+[blockstart:300]
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION FAILED!
+<font:$local$\fonts\font12.fnt>
+<picture:$local$\graphics\Hero_Dead_F.pcx>
+A short moment of negligence, that's all it takes to lose your life! Your friend and hero Hatchie died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you! 
+[blockend:300]
+
+[blockstart:400]
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION FAILED!
+<font:$local$\fonts\font12.fnt>
+<picture:$local$\graphics\Hero_Dead_F.pcx>
+A short moment of negligence, that's all it takes to lose your life! Your friend and hero Sigurd died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you!
+[blockend:400]
+
+[blockstart:500]
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION FAILED!
+<font:$local$\fonts\font12.fnt>
+<picture:$local$\graphics\Hero_Dead_F.pcx>
+A short moment of negligence, that's all it takes to lose your life! Ykol died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you!
+[blockend:500]
+

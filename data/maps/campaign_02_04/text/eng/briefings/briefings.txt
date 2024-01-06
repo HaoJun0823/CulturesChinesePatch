@@ -1,0 +1,223 @@
+[blockstart:header]
+
+THE CHAIN OF FENRIR
+[blockend:header]
+
+[blockstart:00_start] 
+At the celebration of our reunion, where we also celebrated our success against the wolf plague, Sigurd described the wolf plague in great detail and explained how long his people had had to fight it. He also told us how he had come to believe that the gruesome Fenrir, the Fenris Wolf, the most dangerous demon from the ancient legends, was responsible for this plague. He had broken free of the magic chain the gods had fastened him to and was now ravaging the human world with his hordes.
+
+In order to return Fenrir to his shackles and thus end the problem with the wolves, the chain that once held the giant wolf captive would have to be reforged. 
+There was an abbey in the north-east whose monks had learned of this secret and might now be able to help us reforge the chain ...
+
+We set out to find this abbey. 
+[blockend:00_start]
+
+[blockstart:00_start1] 
+Ykol, who had gained extensive mythological knowledge on his numerous journeys and believed in the explanation offered by the monks, agreed with our plans. And so our decision was made!
+
+Settle between the courses of the river and proceed to the abbey in the north-eastern mountains!
+[blockend:00_start1]
+
+
+[blockstart:50_endheader] 
+
+MISSION COMPLETED! 
+[blockend:50_endheader] 
+
+[blockstart:50_end] 
+The two druids took the chain from the blacksmith and blessed it in a mysterious ceremony which we were not allowed to witness.
+Therefore, we waited patiently and in the meantime tried to recover from the strains of the past few hours. 
+
+The first faint rays of the rising sun had driven away the cold and darkness of the night when the exhausted druids returned to us ...
+[blockend:50_end]
+
+[blockstart:50_end1] 
+It had been accomplished! The chain of the Fenris Wolf had been reforged! Now it was up to us to put it on him and tame him ...
+[blockend:50_end1]
+
+
+[blockstart:01_Zutat1] 
+THE MONKS OF THE ABBEY
+
+When we reached the abbey high up in the mountains, the local monks gave us a warm welcome. 
+In answer to our request they were happy to tell us about the first component of the new Fenris chain. 
+The famous swords of three kings of ancient times lay hidden in the catacombs below the city of a Frankish tyrant. Their metal would form the foundation of the chain ...
+
+If we brought the swords of the kings to the monks and paid them a small tribute for the welfare of their abbey, they would tell us about the second magic component ... 
+Well, this was not exactly how I remembered the concepts of selfless Christian charity and helpfulness, but we had no choice.
+
+Our first mission took us westwards. 
+
+
+Find the three swords of the deceased kings. 
+[blockend:01_Zutat1]
+
+[blockstart:02_Zutat2] 
+THE MONKS OF THE ABBEY
+
+After the monks had verified the authenticity of the swords of the ancient kings and we had paid our small tribute, they revealed the second magic component: 
+"Find the Island of the Silent and answer the oracle's questions. If your answers are correct, you will receive the hair of a unicorn - one of the most beautiful and magical creatures on Earth. 
+Only with this component of the chain will you be able to ban the Fenris Wolf.
+
+There is a ferryman who knows the way to the island and can ferry you across. Go and find him." 
+
+Find the ferryman who will take the heroes across to the island, and answer the oracle's questions.
+[blockend:02_Zutat2]
+
+
+[blockstart:03_Zutat3] 
+THE MONKS OF THE ABBEY
+
+After we had successfully replied to the oracle's questions and received the hair of a unicorn in return, the monks of the abbey gave us the following hint: 
+
+"You now have the magic components of the chain that can ban the Fenris Wolf. 
+There is an old blacksmith by the name of John. He alone can forge the chain. Go and find him. Afterwards you must visit the two grey druids Smilch and Dobur to have the chain blessed so that it can develop the necessary magic power. All three of them live like hermits in a valley to the south-east." 
+
+Find the blacksmith who must forge the chain, then seek out the two grey druids to have it blessed. You must travel to the south-western mountains. 
+[blockend:03_Zutat3]
+
+[blockstart:04_player_2_seen_frank] 
+Tall and proud, the Frankish tyrant's stronghold reached up into the sky, erected over the graves of countless ancient kings and heroes. The catacombs must hold invaluable treasures that were, however, of no interest to us. After all, we had only come to look for the three swords of the ancient kings ... 
+But when we approached the stronghold, we were greeted in a less than friendly manner. The tyrant and his grave robbers considered us as intruders, and opened fire.
+
+Try to get into the catacombs with ALL your heroes. Pay the Frankish tyrant the required tribute or fight him.
+[blockend:04_player_2_seen_frank]
+
+
+[blockstart:05_tribut] 
+As soon as we had paid the horrendous tribute, the Frankish tyrant became neutral towards us. Would we now be safe from attacks by his vassals?
+[blockend:05_tribut]
+
+
+[blockstart:06_player_2_seen_siggi] 
+SIGURD
+
+Of course, Sigurd wanted to actively support us and didn't hesitate to join us. Unfortunately, his soldiers were not that easily convinced ... However, since we had arrived and brought such a tasty present, hardly anyone could resist our delicious cakes. Word quickly got out how scrumptious these cakes were, and we found it remarkable that battle-hardened, brave warriors could be lured with such a simple thing ...
+But the more cake we gave them, the more mercenaries joined us ...
+
+Bake some cake to lure the mercenaries. 
+[blockend:06_player_2_seen_siggi]
+
+[blockstart:07_söldner] 
+Sigurd's men could not resist our cakes. 5 of his men wanted to accompany us. They waited above his castle.
+
+Maybe we would be able to persuade even more mercenaries to join our mission with some more cake ...
+[blockend:07_söldner]
+
+
+[blockstart:08_player_4_seen] 
+FERRYMAN
+
+"I have not seen any strangers in this region for a long time! Come closer!" the ferryman said. He was willing to ferry us across to the island if we paid him a small fee. Otherwise, we could also have our own ship built by one of our shipbuilders by the lake ...
+
+
+Pay the ferryman a fee, and he will be glad to take the heroes to the island.
+[blockend:08_player_4_seen]
+
+[blockstart:09_tribut4] 
+FERRYMAN
+
+"Now I am happy to take you across to the island. No one knows the lake as well as I do! You have made a wise decision!" 
+[blockend:09_tribut4]
+
+[blockstart:10_sub1] 
+THE CATACOMBS
+
+Now we had found the entrance to the catacombs that were said to hold the swords of the ancient kings.  
+[blockend:10_sub1]
+
+[blockstart:11_sub2] 
+In the middle of the inconspicuous lake was a mighty whirlpool! We could not tell where the ferryman was taking us as we had lost all sense of direction in the fog ... 
+[blockend:11_sub2]
+
+[blockstart:12_schmied] 
+BLACKSMITH
+
+John's art of forging was said to be extraordinary, and there was an abundance of gold and iron. 
+
+John was prepared to forge the chain in return for a few shortswords.
+It seemed nothing was ever available for free, but if this was his price, then we had no choice but to pay it ...
+[blockend:12_schmied]
+
+[blockstart:13_druide] 
+THE GREY DRUIDS
+
+The two druids Smilch and Dobur lived in a truly idyllic place. Strange plants shot up from the soil, the surroundings were full of life and glowed a sparkling shade of green.
+Both druids were exceedingly friendly and obliging, and they demanded only a few mushrooms for the blessing of the chain.
+
+Pay the two druids a tribute of 10 mushrooms.
+[blockend:13_druide]
+
+[blockstart:14] 
+FERRYMAN
+
+"I have not seen any strangers in this region for a long time! Come closer!" the ferryman said. "You may need me again one day. The lake is my home, no one knows it better than I do!"
+[blockend:14]
+
+[blockstart:15] 
+THE GREY DRUIDS
+
+If we got John to forge the chain, they would certainly be prepared to bless it! But first the chain had to be forged!
+[blockend:15]
+
+[blockstart:16] 
+THE GREY DRUIDS
+
+These druids had picked a truly strange place to live. Maybe we would be able to make use of their magic skills later on.
+[blockend:16]
+
+[blockstart:17] 
+BLACKSMITH
+
+In the mountains lived a blacksmith who introduced himself as John. Maybe we would be able to make use of his art of forging later on. 
+[blockend:17]
+
+[blockstart:18] 
+We had paid the blacksmith the tribute, and he began to forge the chain from the swords of the ancient kings. At dawn he was finished and proudly showed us his work.
+
+Now the only thing left to do was to let the grey druids bless the chain! 
+[blockend:18]
+
+
+
+
+[blockstart:100]
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION FAILED!
+<font:$local$\fonts\font12.fnt>
+<picture:$local$\graphics\Hero_Dead_F.pcx>
+Heroism or carelessness? When Bjarni died the gods were crying ... without this hero, the outcome of this mission will remain hidden to you!
+[blockend:100]
+
+[blockstart:200]
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION FAILED!
+<font:$local$\fonts\font12.fnt>
+<picture:$local$\graphics\Hero_Dead_F.pcx>
+A short moment of negligence, that's all it takes to lose your life! Your heroine Cyra died due to your negligence! Without this heroine, the outcome of this mission will remain hidden to you! 
+[blockend:200]
+
+[blockstart:300]
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION FAILED!
+<font:$local$\fonts\font12.fnt>
+<picture:$local$\graphics\Hero_Dead_F.pcx>
+A short moment of negligence, that's all it takes to lose your life! Your friend and hero Hatchie died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you!
+[blockend:300]
+
+[blockstart:400]
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION FAILED!
+<font:$local$\fonts\font12.fnt>
+<picture:$local$\graphics\Hero_Dead_F.pcx>
+A short moment of negligence, that's all it takes to lose your life! Your friend and hero Sigurd died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you!
+[blockend:400]
+
+[blockstart:500]
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION FAILED!
+<font:$local$\fonts\font12.fnt>
+<picture:$local$\graphics\Hero_Dead_F.pcx>
+A short moment of negligence, that's all it takes to lose your life! Ykol died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you!
+[blockend:500]
+

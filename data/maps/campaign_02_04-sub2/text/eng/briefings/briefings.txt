@@ -1,0 +1,153 @@
+[blockstart:header]
+
+THE ISLAND OF THE SILENT
+
+[blockend:header]
+
+[blockstart:00_start]
+When the fog cleared, the shore of a small island appeared before us. 
+[blockend:00_start]
+
+[blockstart:00_start1] 
+This was a place created for other beings, its peace and harmony were strange to us humans, but it was charming ...
+
+Find a landing place! 
+[blockend:00_start1]
+
+
+[blockstart:50_endheader] 
+
+MISSION COMPLETED! 
+[blockend:50_endheader]
+
+[blockstart:50_end] 
+We had solved the riddles. The being gave us a horn which contained all the magic powers of the unicorns.   
+[blockend:50_end]
+
+[blockstart:50_end1] 
+Now we had found the second magic component, and we could return to the abbey. More exciting adventures still awaited us on our mission ...
+[blockend:50_end1]
+
+
+[blockstart:01_landed] 
+There were good landing places on the shores of the island. We chose a small bay in the west to disembark. It was very quiet and peaceful, a silent magic rested here ...
+
+Moor the ship and let your people explore the area!
+[blockend:01_landed]
+
+[blockstart:02_unicorn] 
+
+UNICORN
+
+In a clearing we met a bright and shining creature. It was as beautiful as something out of a fairytale, dazzling to our eyes. In its quiet and friendly language the unicorn told us that we were welcome, and that it would give us a magic horn of the unicorns if we solved the riddle surrounding this place. 
+It was like a dream - we understood every word without knowing the language ... 
+
+Answer the oracle!
+[blockend:02_unicorn]
+
+
+[blockstart:03_besetzt] 
+You have to leave the switches, otherwise the unicorn will remain silent!
+[blockend:03_besetzt] 
+
+[blockstart:04_erklärung1]
+The unicorn said: "To answer my riddle, just step on one of the three switches. Remember the following symbols! If you don't solve the riddle, you must visit the island again!"
+
+"This is switch A."
+[blockend:04_erklärung1]
+
+[blockstart:05_erklärung2]
+
+"This is switch B."
+[blockend:05_erklärung2]
+
+[blockstart:06_erklärung3]
+
+"This is switch C." 
+
+There are three possible answers to each of my riddles. But only one of them is correct. Answer me by pressing the right switch! Are you ready for the riddle?" 
+[blockend:06_erklärung3]
+
+[blockstart:7_falsch] 
+NOPE!
+
+Wrong answer!
+[blockend:7_falsch]
+
+[blockstart:8_frage1] 
+RIDDLE 1 
+
+"What is the tool of the thunder god Thor?" 
+
+A) Hammer 
+B) Pliers 
+C) Sickle
+[blockend:8_frage1]
+
+[blockstart:9_frage2] 
+RIDDLE 2
+
+"What did Old Mother Hubbard want to get out of the cupboard?" 
+
+A) Bone
+B) Bun
+C) Sausage
+[blockend:9_frage2]
+
+[blockstart:10_frage3] 
+RIDDLE 3
+
+"Who is Bjarni's father?" 
+
+A) Snoori Sturlarson
+B) Erick Gunnarson
+C) Leif Erickson
+[blockend:10_frage3]
+
+[blockstart:11_right] 
+
+CORRECT!!
+[blockend:11_right]
+
+
+
+
+[blockstart:100]
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION FAILED!
+<font:$local$\fonts\font12.fnt>
+<picture:$local$\graphics\Hero_Dead_F.pcx>
+Heroism or carelessness? When Bjarni died the gods were crying ... without this hero, the outcome of this mission will remain hidden to you!
+[blockend:100]
+
+[blockstart:200]
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION FAILED!
+<font:$local$\fonts\font12.fnt>
+<picture:$local$\graphics\Hero_Dead_F.pcx>
+A short moment of negligence, that's all it takes to lose your life! Your heroine Cyra died due to your negligence! Without this heroine, the outcome of this mission will remain hidden to you! 
+[blockend:200]
+
+[blockstart:300]
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION FAILED!
+<font:$local$\fonts\font12.fnt>
+<picture:$local$\graphics\Hero_Dead_F.pcx>
+A short moment of negligence, that's all it takes to lose your life! Your friend and hero Hatchie died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you! 
+[blockend:300]
+
+[blockstart:400]
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION FAILED!
+<font:$local$\fonts\font12.fnt>
+<picture:$local$\graphics\Hero_Dead_F.pcx>
+A short moment of negligence, that's all it takes to lose your life! Your friend and hero Sigurd died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you!
+[blockend:400]
+
+[blockstart:500]
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION FAILED!
+<font:$local$\fonts\font12.fnt>
+<picture:$local$\graphics\Hero_Dead_F.pcx>
+A short moment of negligence, that's all it takes to lose your life! Ykol died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you!
+[blockend:500]
