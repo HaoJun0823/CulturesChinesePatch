@@ -1,2 +1,5 @@
 *.cif
 /Saves
+/DataX/Mouse
+/DataX/DM2
+/DataX/Libs
