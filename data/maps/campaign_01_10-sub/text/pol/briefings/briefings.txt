@@ -1,0 +1,274 @@
+[blockstart:header]
+
+神谕使者
+
+[blockend:header]
+
+
+
+[blockstart:start]
+我们继续往圣殿深处的黑暗前进，
+
+直到哈奇找到火把，我们才稍微看得到一丝光亮。
+
+在阶梯末端，我们找到一段古老的碑文，
+
+正好在场有一位当地的伙伴可以进行翻译。
+
+碑文说道，我们此刻位于圣殿的最深处，
+
+这里由古老的圣殿护卫看守。
+
+唯有通过神谕使者的考验，才可能战胜这些护卫。
+
+只有一个既聪明且勇敢的男子能够通过考验...
+[blockend:start]
+
+
+[blockstart:orakel]
+「是谁在那儿? 」
+
+听起来像是从岩石中发出的声音斥喝着。
+
+「无耻的闯入者! 我是这座圣殿的神谕使者，
+
+想要通过我这关必须先回答七道问题
+
+并且击败我的巨蟒护卫!
+
+每道问题有三个选项，
+
+透过启动与选项相对应的开关来回答我即可。
+
+试着记清楚这些图案，我只说一次绝不重覆! 」
+[blockend:orakel]
+
+
+[blockstart:bjarnitot]
+<font:$local$\fonts\fonthead16bld.fnt>
+任务失败!
+<font:$local$\fonts\font12.fnt>
+<picture:$local$\graphics\Hero_Dead_F.pcx>
+是英雄主义作祟还是太过粗心大意? 
+
+柏嘉尼死去的时候诸神们都落下了眼泪...
+
+他们的未来已经没有挽转的余地，
+
+同时人类的末日也一并降临。
+[blockend:bjarnitot]
+
+[blockstart:3]
+<font:$local$\fonts\fonthead16bld.fnt>
+任务失败!
+<font:$local$\fonts\font12.fnt>
+<picture:$local$\graphics\Hero_Dead_F.pcx>
+短短一瞬间的粗心大意，
+
+造成来自预言中的英雄-思嘉因而阵亡。
+
+世界将走向末日!
+[blockend:3]
+
+[blockstart:4]
+<font:$local$\fonts\fonthead16bld.fnt>
+任务失败!
+<font:$local$\fonts\font12.fnt>
+<picture:$local$\graphics\Hero_Dead_F.pcx>
+短短一瞬间的粗心大意，
+
+造成来自预言中的英雄-席拉因而阵亡。
+
+世界将走向末日!
+[blockend:4]
+
+[blockstart:5]
+<font:$local$\fonts\fonthead16bld.fnt>
+任务失败!
+<font:$local$\fonts\font12.fnt>
+<picture:$local$\graphics\Hero_Dead_F.pcx>
+短短一瞬间的粗心大意，
+
+造成来自预言中的英雄-哈奇因而阵亡。
+
+世界将走向末日!
+[blockend:5]
+
+
+[blockstart:won]
+<font:$local$\fonts\fonthead16bld.fnt>
+任务成功!
+<font:$local$\fonts\font12.fnt>
+靠着勇气与智慧我们通过了守门人的考验
+
+并进入到圣殿的最深处。
+
+在一个小房间里我们找到一只古老的宝箱。
+
+它的盖子发出嘎嘎的声响缓缓地打开来。
+
+当我们小心翼翼地望进箱子里，
+
+全部的人都倒吸了一口气:
+
+装在箱子里的并不是什么神秘的东西或珍贵的宝藏...
+
+而是我们寻找了大半个地球的最后一块地图碎片。
+
+对我们来说，它比任何宝藏还要珍贵!
+
+当我们终于将那地图碎片握在手中，
+
+心中的喜悦无法形容。
+
+不过，卡里发绝对不会乐意看见我们空手而回的。
+
+所以我们决定带着地图，
+
+尽可能地快速逃离这个国家。
+
+哈奇提议说要帮助我们...
+[blockend:won]
+
+[blockstart:schalterbesetzt]
+你的手必须离开按钮，否则神谕使者将继续保持沉默!
+[blockend:schalterbesetzt]
+
+
+[blockstart:falsch]
+答错了! 
+
+你答错了! 
+
+每答错一题，会增加你通过此关的难度!
+[blockend:falsch]
+
+[blockstart:richtig]
+答对了! 
+
+神谕使者相当满意你的答案，
+
+一位护卫消失了!
+[blockend:richtig]
+
+[blockstart:frage1]
+「第一题:
+
+你最喜欢哪一种颜色? 」
+
+A) 红色...呃...不，是绿色...不，是蓝色!
+
+B) 鼻涕黄
+
+C) 沼泽绿...或发霉蓝?
+[blockend:frage1]
+
+
+[blockstart:frage2]
+「第二题:
+
+一吨的皮革与一吨的铁，哪一个比较重? 」
+
+A) 不清楚，说不定他们一样重呢!
+
+B) 其实是羽毛比较重...
+
+C) 铁比较重才对!
+[blockend:frage2]
+
+
+[blockstart:frage3]
+「第三题:
+
+法兰西的国王比拜占庭的皇帝穷；
+
+巴格达的回教领导人卡里发比法兰西的国王富有；
+
+拜占庭的皇帝跟巴格达的回教领导人一样有钱。
+
+谁最穷? 」
+
+A) 巴格达的回教领导者
+
+B) 拜占庭的皇帝
+
+C) 法兰西的国王
+[blockend:frage3]
+
+
+[blockstart:frage4]
+「第四题:
+
+探勘家的速度快于铁匠；
+
+铁匠的速度慢于农夫；
+
+探勘家的速度慢于农夫。
+
+谁最快? 」
+
+A) 农夫
+
+B) 探勘家
+
+C) 铁匠
+[blockend:frage4]
+
+
+[blockstart:frage5]
+「第五题:
+
+当你的母舰位于一个陌生的国度，
+
+那里的每一扇窗户都面向北边。
+
+你在哪里? 」
+
+A) 在北极
+
+B) 在南极
+
+C) 在赤道
+[blockend:frage5]
+
+
+[blockstart:frage6]
+「第六题:
+
+猜猜看这是什么:
+
+你放越多东西进去，它变的越小；
+
+你从它里面拿走越多东西，它就变的越大! 」
+
+A) 一杯蜂蜜酒
+
+B) 柏嘉尼的臭袜子
+
+C) 地上的一个洞
+[blockend:frage6]
+
+[blockstart:frage7]
+「第七题:
+
+如果柏嘉尼的儿子是我爸爸的儿子...那我是谁? 」
+
+A) 我是柏嘉尼
+
+B) 我是柏嘉尼的儿子
+
+C) 我是柏嘉尼的爸爸
+[blockend:frage7]
+
+
+[blockstart:erkl鋜ung1]
+「这是开关A」
+[blockend:erkl鋜ung1]
+
+[blockstart:erkl鋜ung2]
+「这是开关B」
+[blockend:erkl鋜ung2]
+
+[blockstart:erkl鋜ung3]
+「这是开关C」
+[blockend:erkl鋜ung3]
