@@ -1,0 +1,16 @@
+[blockstart:header]
+
+COLONIZATION
+
+[blockend:header]
+
+[blockstart:begin_00]
+Rivalling Viking tribes have selected the same piece of land for settling. They own nothing but the clothes on their backs, but they aim for the richest resources of the land!
+
+Select a location for your new village. This should be the place that provides the most resources!
+Whoever settles closest to the resources is also closest to victory ...
+Note: You require 500 wood and stone as well as 300 clay, iron and gold! And nasty persons will try to thwart your plans!
+
+There are many treasures waiting to be discovered here. They can help you save time! 
+[blockend:begin_00]
+
