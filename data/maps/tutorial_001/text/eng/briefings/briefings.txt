@@ -1,129 +1,129 @@
 [blockstart:header] 
-CONTROLS AND OTHER BASIC FUNCTIONS
+¿ØÖÆºÍÆäËû»ù±¾¹¦ÄÜ
 [blockend:header]
 
 
 [blockstart:00] 
-This tutorial will give you a first description of the user interface and how to move about in the game world. It will explain how to select and control your characters and perform other basic functions such as: 
+Õâ·İÖ¸ÄÏÈç¹ûÄãÏë¸øKnutÒ»¸öÃüÁî£¬¾ÍÑ¡ÖĞËû²¢°´×¡¿Õ¸ñ¼ü£¬»òÕßÔÚËûÉÏÃæÓÒ»÷Êó±ê£¬»á³öÏÖÒ»¸ö²Ëµ¥¡£ÔÚ¸÷ÖÖ¶¯×÷ÉÏ×ó»÷Êó±ê£¬Äã¿ÉÒÔ¾ö¶¨Ò»¸öÎ¬¾©ÈËÊÇ·ñµÃµ½Ò»·İ¹¤×÷¡¢½á»é¡¢°áĞÂ¾Ó¡¢ÉÏÑ§»òÕß¸Ä±äÖ°Òµ¡¢×°±¸¡£
 
--	navigating the map 
--	accelerating 
--	starting/ending/pausing the game
--	using basic buttons & windows 
+-	ÔÚµØÍ¼ÉÏº½ĞĞ
+-	¼ÓËÙ
+-	¿ªÊ¼/½áÊø/ÔİÍ£ÓÎÏ·
+-	Ê¹ÓÃ»ù±¾°´Å¥ºÍ´°¿Ú
 
-P.S.: CLOSING WINDOWS
-You can close any window by pressing the ESC key or by left-clicking on the "x" button in the top right-hand corner.
-(Click on the flag symbol on the left of the menu bar to view this and any of the following windows again.)
+¸½×¢£º¹Ø±Õ´°¿Ú
+Äã¿ÉÒÔ°´ÏÂ¡°ESC¡±¼ü»òÔÚÓÒÉÏ½ÇµÄ¡°X¡±°´Å¥ÉÏ×ó»÷Êó±êÀ´¹Ø±Õ´°¿Ú¡£
+£¨µã»÷²Ëµ¥Ìõ×ó±ßµÄ±ê¼ÇÀ´½øÈë¸Ã²Ëµ¥ºÍÒÔÏÂÈÎºÎÒ»¸ö´°¿Ú£©
 [blockend:00]
 
 
 [blockstart:01] 
-This is Knut.
+ÕâÊÇKnut¡£
 
 <usericon:2,1>
 
-Knut is unemployed and has nothing to do all day. 
-To select him, simply left-click on him. The character will start flashing slightly and the character display will open near the right edge of the screen.
+KnutÊ§ÒµÁË£¬ÕûÌìÎŞ¿ÉÊÂÊÂ¡£
+ÒªÑ¡ÔñËûºÜ¼òµ¥£ºÔÚÈËÏñÉÏÃæ×ó»÷Êó±ê¡£ÈËÏñ»á¿ªÊ¼ÉÁË¸£¬ÔÚÆÁÄ»ÓÒ±ßÔµÕ¹¿ªÈËÎïÁĞ±í¡£
 
-If you want to give Knut an order, select him and press the spacebar, or select him by right-clicking on him and a menu will appear. By left-clicking on the actions you can decide whether a Viking should get a job, marry, move into a new home, go to school or change his profession or equipment.
+Èç¹ûÄãÏë¸øKnutÒ»¸öÃüÁî£¬¾ÍÑ¡ÖĞËû²¢°´×¡¿Õ¸ñ¼ü£¬»òÕßÔÚËûÉÏÃæÓÒ»÷Êó±ê£¬»á³öÏÖÒ»¸ö²Ëµ¥¡£ÔÚ¸÷ÖÖ¶¯×÷ÉÏ×ó»÷Êó±ê£¬Äã¿ÉÒÔ¾ö¶¨Ò»¸öÎ¬¾©ÈËÊÇ·ñµÃµ½Ò»·İ¹¤×÷¡¢½á»é¡¢°áĞÂ¾Ó¡¢ÉÏÑ§»òÕß¸Ä±äÖ°Òµ¡¢×°±¸¡£
 
-Select Knut and send him to the marked spot by right-clicking.
+Ñ¡ÔñKnut£¬ÓÒ»÷Êó±êÅÉËûÈ¥±êÖ¾µØµã¡£
 [blockend:01]
 
 [blockstart:02] 
-GREAT! There is a faster and more direct way, though!
+ºÃ£¡µ«ÊÇ£¬ÓĞÒ»ÖÖ¸ü¿ì¸üÖ±½ÓµÄ°ì·¨£¡
 
-If you RIGHT-CLICK on a work place when you have selected a Viking, he will begin working in that building and will automatically take on the respective profession if he is skilled to perform it. If you right-click on a dwelling, your Viking will move in if there is still room available. If you choose a free place on the map by right-clicking, your protégé will go there directly. The TOOLTIPS that appear at your mouse pointer provide feedback on the respective action. 
+µ±ÄãÑ¡ÔñÁËÒ»¸öÎ¬¾©ÈË£¬Èç¹ûÄãÔÚ¹¤×÷µØµãÓÒ»÷Êó±ê£¬Ëû¾Í»áµ½ÕâÀï¿ªÊ¼¹¤×÷£¬²¢ÇÒÈç¹ûËû¶ÔÕâ·İ¹¤×÷ÒÑºÜÊìÁ·£¬¾Í»á×Ô¶¯°çÑİÆğÕâ¸ö½ÇÉ«¡£µ±ÄãÔÚÄ³¸ö×¡ËùÓÒ»÷Êó±ê£¬Èç¹û×¡ËùÀï»¹ÓĞ·¿¼ä¿Õ×Å£¬ÄãµÄÎ¬¾©ÈË»á×¡½øÈ¥¡£Èç¹ûÄãÓÒ»÷Êó±êÑ¡ÔñÁËµØÍ¼ÉÏµÄÒ»¿é¿ÕµØ£¬ÄãµÄÓÎÏ·ÈËÎï»áÖ±½Óµ½ÄÇÀï¡£¹â±ê´¦³öÏÖµÄ¹¤¾ßÌáÊ¾»á¸ù¾İÃ¿ÖÖĞĞÎª½øĞĞ±ä»¯¡£
 
-So: Give Knut a roof over his head and have him work as a farmer on the farm!
+ËùÒÔ£º¸øKnutÒ»Ëù×¡·¿£¬ÈÃËû³ÉÎªÅ©·òÔÚÅ©³¡¹¤×÷£¡
 [blockend:02]
 
 
 [blockstart:03] 
-WELL DONE! Knut has now got a roof over his head!
+¸ÉµÃºÃ£¡ KnutµÄÍ·ÉÏÒÑ¾­ÓĞÁË¸öÎİ¶¥£¡
 
-Now let him work as a farmer!
+ÏÖÔÚÈÃËû³ÉÎªÅ©·ò£¡
 
-By the way: You can cancel an order or deselect a character by left-clicking on any free space on the map.
+Ë³±ãËµÒ»ÏÂ£ºÄã¿ÉÒÔÔÚµØÍ¼ÉÏÈÎºÎÒ»´¦¿ÕµØ×ó»÷Êó±êÀ´·ÅÆúÃüÁî»òÈ¡ÏûÑ¡ÔñÈËÎï½ÇÉ«¡£
 [blockend:03]
 
 
 [blockstart:04]  
-WELL DONE! Now Knut has got a dwelling and a job, so he's well cared for - or is there something missing? 
+¸ÉµÃºÃ!ÏÖÔÚKnutµÃµ½ÁË×¡´¦ºÍ¹¤×÷£¬ËùÒÔËû±»ÕÕ¹ËµÃºÜºÃ¡ªÏÖÔÚ»¹È±Ê²Ã´ÄØ?
 
-Find a woman for him in his surroundings!
+ÔÚËûµÄÖÜÎ§ÎªËûÕÒÒ»¸öÅ®ÈË¡£
 
 
-NAVIGATING THE MAP
-Move the mouse cursor over a free place in the landscape. Now press and hold the middle mouse button and move the mouse. The screen detail will follow the movement of your mouse. The same function can be performed with the arrow keys.
+ÔÚµØÍ¼ÉÏº½ĞĞ
+°Ñ¹â±êÒÆµ½Ò»¿é¿ÕµØÉÏ¡£ÏÖÔÚ°´×¡²¢¿ØÖÆÊó±êÖĞ¼äµÄ¹öÂÖ¡£ÆÁÄ»ÉÏµÄ¾°Ïó»áËæ¹öÂÖ±ä»¯¡£¼ıÍ·¼üÒ²¿ÉÒÔ¿ØÖÆ¾°Îï×ª»»¡£
 
-If you want to scroll automatically by moving the cursor to the EDGE OF THE SCREEN, you need to set this option in the OPTIONS MENU (F2). This can be accessed by clicking the button with the tools on it in the bar on the left-hand side of the screen. Then press ENTER and you can set the scroll mode in the middle of the screen.
+Èç¹ûÄãÏë°ÑÖ¸ÕëÒÆµ½ÆÁÄ»±ßÔµÊ¹»­Ãæ×Ô¶¯·­¾í£¬ÄãĞèÒªÔÚÑ¡Ïî²Ëµ¥ F2 ÀïÉèÖÃ¡£Ò²¿ÉÒÔÔÚÆÁÄ»×ó±ßµÄ¹¤¾ßÌõÉÏµã»÷°´Å¥£¬È»ºó°´ÏÂ»Ø³µ¼ü£¬¾Í¿ÉÒÔÔÚÆÁÄ»ÖĞÑëÑ¡ÔñÆÁÄ»Ä£Ê½¡£ 
 [blockend:04]
 
 [blockstart:05] 
-Knut has found a mate! 
+KnutÕÒµ½ÁËÅäÅ¼£¡
 
 <usericon:2,2>
 
-Marry the two by selecting Knut and pressing the spacebar. Choose the symbol with the two rings and Knut will propose to Ulla. She will then automatically move in with Knut and take care of his household ...
+Ñ¡ÖĞKnut²¢°´×¡¿Õ¸ñ¼ü£¬ÈÃÁ½¸öÈË½á»é¡£Ñ¡ÖĞÁ½¸ö½äÖ¸µÄ±ê¼Ç£¬Knut»áÏòÎÚÀ­Çó»é¡£Ëı¾Í»á×Ô¶¯°áÈ¥ºÍKnutÒ»Æğ×¡£¬ÕÕ¹ËËûµÄ¼ÒÍ¥¡£
 
 
-HELP!
-It is often easier and quicker to enter commands via hotkeys. The key configuration (F1) in the HELP SYSTEM will give you more information about this.
+°ïÖú£¡
+Í¨¹ıÈÈ¼ü½øÈëÃüÁî²Ëµ¥Ò»°ã±È½ÏÈİÒ×¡¢¿ìËÙ¡£°ïÖúÏµÍ³ÖĞµÄÅäÖÃ¼ü£¨F1£©»á¸ø³ö¹ØÓÚÕâ·½ÃæµÄ¸ü¶àĞÅÏ¢¡£
 [blockend:05]
 
 [blockstart:06] 
-PAUSE AND GAME SPEED
+ÔİÍ£ºÍÓÎÏ·ËÙ¶È
 
-You can pause the game and start it again at any time by pressing the "p" key.
+°´¡°p¡±¼ü¿ÉÒÔËæÊ±ÔİÍ£ºÍÔÙ´Î¿ªÊ¼¡£
 
-Press the "l" key on the keyboard to double the game speed. By pressing "l" again you can triple the game speed. If you then press the key again you'll return to the normal playing speed.
+ÔÚ¼üÅÌÉÏ°´¡°l¡±¼ü¿ÉÒÔÊ¹ÓÎÏ·ËÙ¶È¼Ó±¶¡£ÔÙ´Î°´ÏÂ¡°l¡±¼ü£¬ËÙ¶È½«±äÎªÔ­À´µÄÈı±¶¡£Èç¹ûÄãµÚÈı´Î°´ÏÂ¸Ã¼ü¾Í»á·µ»Ø×î³õµÄËÙ¶È¡£
 
-Left-click on the red patch in the general map at the lower left edge of the screen. You'll see a small village there. Now try adjusting the game speed and see how fast the villagers move! 
+ÔÚÆÁÄ»×óÏÂ·½¸ÅÂÔÍ¼µÄºìÉ«Ğ¡¿éÉÏ×ó»÷Êó±ê£¬»á¿´µ½ÄÇÀïÓĞ¸öĞ¡´å×¯¡£ÏÖÔÚµ÷ÕûÓÎÏ·ËÙ¶È£¬¿´¿´´åÃñµÄ¶¯×÷ËÙ¶ÈÔõÑù£¡
 [blockend:06]
 
 [blockstart:07] 
-MAKING GROUPS
+½¨Èº
 
-Your two Vikings have got visitors! Meet Ljotolf, Thorbjorn, Kari and Groa.
+ÄãµÄÁ½¸öÎ¬¾©ÈËÒÑ¾­ÓĞÁË°İ·ÃÕß£¡ÈÃÁôÍĞ·ò¡¢Ë÷²¼Ô¼¶÷¡¢¿¨ÀïºÍ¼ªÅµ°¢¾Û¼¯ÆğÀ´.
 
 <usericon:2,3>
 
-You can select several characters at the same time by left-clicking on a free area of the map, holding the left mouse button and dragging a frame around the characters you want to select. 
+ÔÚµØÍ¼ÉÏµÄ¿Õ°×Çø°´ÏÂÊó±ê×ó¼ü£¬ÍÏ³öÒ»¿éÇøÓòÈ¦×¡ÄãÏëÑ¡ÔñµÄ¼¸¸öÈËÎï£¬ÕâÑù¿ÉÒÔ´ïµ½Í¬Ê±Ñ¡ÔñËûÃÇµÄÄ¿µÄ¡£
 
-You can create a group by pressing the SHIFT key and left-clicking on individual Vikings (on the map or from a window of your choice) with the left mouse button to add them to the group.
-By pressing the CTRL key, you can deselect the individual Vikings again.
-If you have selected a group you may need more often, you can save it by pressing the CTRL key and a number key from 0 to 9. To select this group again, all you have to do it press the respective number key. A group can be controlled in the same way as an individual character.
+°´ÏÂ¡°SHIFT¡±¼ü¿ÉÒÔ´´½¨Ò»¸öÈº£¬»òÔÚµ¥¸öÎ¬¾©ÈËÉÏ£¨ÔÚµØÍ¼»òÄãÑ¡ÔñµÄ´°¿ÚÖĞ£©×ó»÷Êó±êÊ¹ËûÃÇ¼ÓÈëÈº¡£
+°´ÏÂ¡°CTRL¡±¼ü£¬¿ÉÒÔÈ¡ÏûÑ¡ÔñµÄµ¥¸öÎ¬¾©ÈË¡£
+Èç¹ûÑ¡ÔñÁËÄã¿ÉÄÜ¾­³£ĞèÒªµÄÒ»¸öÈº£¬¿ÉÒÔ°´ÏÂ¡°CTRL¡±¼üºÍÊı×Ö0¡ª9±£´æ¡£ÒªÔÙ´ÎÑ¡ÔñÕâ¸öÈºÖ»Ğè°´ÏÂÏàÓ¦µÄÊı×Ö¼ü¡£¸öÈËºÍ¼¯Ìå¿ÉÒÔÓÃÏàÍ¬µÄ·½Ê½¿ØÖÆ¡£
 
-Try it. Send Ljotolf, Thorbjorn, Kari, Groa and Ulla into the village!
+ÊÔÒ»ÊÔ¡£ÅÉÁôÍĞ·ò¡¢Ë÷²¼Ô¼¶÷¡¢¿¨Àï¡¢¼ªÅµ°¢ºÍÎÚÀ­µ½´å×ÓÀï£¡
 [blockend:07]
 
 [blockstart:08] 
-MISSION OBJECTIVES
+ÈÎÎñÄ¿±ê
 
-If you click on the flag symbol in the menu bar on the left-hand side of the screen, this will open the mission window. Here you can read any orders and hints and see your mission objectives summarised. The main objective, if applicable, will stand out slightly from the other objectives. 
-A second click on the flag symbol closes the window.
+µã»÷ÆÁÄ»×ó±ß²Ëµ¥ÌõÉÏµÄ±êÖ¾¿ò£¬»á³öÏÖÈÎÎñ´°¿Ú¡£ÔÚÕâ¸ö´°¿Ú¿ÉÒÔ¿´µ½ÈÎºÎÃüÁî¡¢ÌáÊ¾ºÍÄãµÄÈÎÎñÄ¿±ê×ÜºÍ¡£µ±Ç°µÄÖ÷ÒªÄ¿±ê»á±ÈÆäËûÄ¿±êÍ»³ö¡£
+ÔÙ´Îµã»÷±êÖ¾¿ò£¬½«¹Ø±Õ´°¿Ú¡£
 [blockend:08]
 
 
 [blockstart:09] 
-PROBLEMS FINDING THE RIGHT WAY ...
+ÕÒµ½ÕıÈ·µÀÂ·µÄÎÊÌâ¡­¡­
 
-Your Vikings will often have problems orientating themselves, therefore it is a good idea to have a scout erect signposts so your people won't get lost!
+ÄãµÄÎ¬¾©ÈË¾­³£»áÃÔÊ§·½Ïò£¬Òò´ËÈÃÕì²ìÔ±ÊúÁ¢Ò»¿éÂ·±êÊÇ¸öºÃ°ì·¨£¬ÕâÑùÄãµÄÈË¾Í²»»áÃÔÂ·£¡
 
-Have your scout Ljotolf erect signposts if your Vikings can't find their way about.
+Èç¹ûÄãµÄÎ¬¾©ÈËÕÒ²»µ½Â·¾ÍÈÃÕì²ìÔ±ÁôÍĞ·òÊúÁ¢Ò»¿éÂ·±ê¡£
 
-To do so, select him and click on the "Erect Signpost" symbol in his menu. By right-clicking you can set a signpost on any space that is lit up. Make sure the signposts are always connected! This is indicated by the fact that signs point in the respective directions.
+ÎªÁË×öÕâ¼şÊÂ£¬Ñ¡ÖĞÁôÍĞ·ò²¢ÔÚËûµÄ²Ëµ¥ÉÏµã»÷¡°ÊúÁ¢Â·±ê¡±¡£È»ºó¿ÉÒÔÔÚÈÎºÎÕÕÁÁµÄµØ·½ÓÒ»÷Êó±ê£¬ÉèÁ¢Ò»¸öÊúÆğµÄÂ·±ê¡£ÒªÈ·±£Â·±êÊÇÁ¬ĞøÒ»ÖÂµÄ£¡Â·±êÖ¸Ïò²»Í¬·½ÏòµÄÊÂÊµ»á½øĞĞÌáÊ¾¡£
 [blockend:09]
 
 
 [blockstart:10] 
-CONGRATULATIONS! 
+×£´Ê£¡
 
-Now you know all about the most important basic functions, how to control a character and give orders. The next chapter will deal with the skills of the characters. 
+ÏÖÔÚÄãÒÑ¾­ÁË½âÁËËùÓĞ×îÖØÒªµÄ»ù±¾¹¦ÄÜ£¬ÒÔ¼°ÈçºÎ¿ØÖÆ½ÇÉ«¡¢·¢³öÃüÁî¡£ÏÂÒ»ÕÂ½«½éÉÜÈËÎïµÄ¼¼ÄÜ¡£
 
-Proceed to the next TUTORIAL!
+½øÈëÏÂÒ»¸öÖ¸ÄÏ£¡
 
-You can RESTART, EXIT and SAVE the game at any time from the OPTIONS MENU (F2). 
-To begin with, you should save any completed tutorial so that you can fall back on the things you have learned.
+Äã¿ÉÒÔ´ÓÑ¡Ïî²Ëµ¥£¨F2£©ËæÊ±ÖØĞÂ¿ªÊ¼¡¢ÍË³öºÍ±£´æ¡£
+¿ªÊ¼Ç°£¬ÄãÓ¦¸Ã±£´æÃ¿·İ¶ÁÍêµÄÖ¸ÄÏ£¬ÕâÑùÄã¿ÉÒÔ·µ»ØÒÑ¾­Ñ§µ½µÄµØ·½¡£
 [blockend:10]

@@ -1,134 +1,134 @@
 [blockstart:header] 
-TRADE AND SHIPS
+贸易和船只
 [blockend:header]
 
 [blockstart:00] 
-Goods can be supplied for trade within your village and outside it as well. Of course, this is the merchant's job. He transports the goods between the production places, warehouses and headquarters. 
+在你的村庄里外都有货物进行贸易。当然，这是商人的职责。他在生产地、仓库、指挥部之间运送货物。
 
-Here you will be shown how to trade with other people by land and sea, and how to use the merchant in your own village.
+在这里将向你介绍如何同他人通过陆路和海路进行贸易，如何在自己的村庄里发挥商人的作用。
 [blockend:00]
 
 [blockstart:01] 
-THE MERCHANTS
+商人
 
-Here are Thorfinn, Lodin and Ari, three experienced merchants. 
+Thorfinn、 Lodin 和Ari是三个经验丰富的商人。
 
-When selecting a merchant his character display opens on the TRADE tab, where you can adjust the trade settings.
+选择了一个商人后，在“贸易”标签上会显示这个人物的属性，在此你可以更改贸易设置。
 
-The first thing you have to do is to assign two TRADE POSTS. To do so, click on the small round button next to "Trade Post" in the character display for every trade post, or click the button with the scales in the merchant's action menu, then click on the respective trade post. As with any worker, you can assign the merchant to a trade post by right-clicking.
-You can trade between any buildings with stores in your own settlement, i.e. also between places of production. 
+首先你需要分配两个贸易地点。每个贸易地点的属性框里“贸易地点”标签旁都有一个圆形小按钮，点击它，或者在商人行为菜单里点击这个按钮，然后点击各自的贸易地点。和工人一样，你可以右击商人设置其贸易地点。
+在你的营地里，你可以在任意两个带有仓库的建筑物之间进行贸易，例如在两个生产地之间。
 
-Assign one merchant to two warehouses.
+派一个商人去管理两个仓库。
 [blockend:01]
 
 [blockstart:02] 
-If you don't give the merchant any order, he will transport any goods - in this case honey. 
-If you have assigned two trade posts, you should "EMPLOY MERCHANT". To do so, click on the respective button in the merchant's character display.
+如果你不对商人下令，他就会随意运送货物。
+如果你已经设定了两个贸易地点，你应该“雇佣商人”。在商人属性显示栏点击各自的按钮。
 
-If you trade within your nation, a window will appear with both trade posts, and in the middle you will see a list of goods that can be traded. If you don't click on anything, the merchant will try to balance the stores of goods in the warehouses. The arrows next to the list stand for the direction in which the goods are taken as well as letting you choose goods. 
-If you click on one or several arrows, only those goods will be transported whose arrows are active, i.e. lit up. 
+如果你在你的部落里进行贸易，会有一个窗口显示贸易地点，在中央你会看到一个可交易的货物列表。如果你不点击任何东西，商人会尽量平衡仓库储存的货物进出。列表附近的箭头代表货物是买进还是卖出。
+如果你点击了箭头，只有那些可运输的货物的箭头被激活，即变亮。
 [blockend:02] 
 
 [blockstart:03] 
-CLAYME AND STONY NEED TOOLS 
-(Trading within your own people)
+黏土工和石匠需要工具
+（在你的人民中开展贸易）
 
-Somewhere far away from your village your potter and stonemason are doing their jobs. Unfortunately, they forgot to take their good iron tools with them, therefore they are not very productive ... 
+在离你村庄很远的制陶工和石匠正忙碌着。不幸的是，他们忘了使用高效的铁器工具，因此生产率受到影响……
 
-Select Thorfinn, Lodin or Ari and assign the northern warehouse as trade post 1 and the southern warehouse at the pottery as trade post 2! (If you want to select a different trade post, select the button "Remove Trade Post" and click on the trade post you no longer need to deselect it. Choose another one afterwards.)
+选择Thorfinn, Lodin或Ari，让他们以北部的仓库作为贸易地点1，陶器场南部的仓库为贸易地点2！（如果你想选择其他的贸易地点，选择“取消贸易地点”按钮，在你不再需要的贸易地点点击，就能取消它，然后选择另外一个。）
 
-Take 5 IRON TOOLS to the warehouse! 
+送5个铁制工具到仓库！，
 [blockend:03]
 
 [blockstart:04] 
-HANDCARTS and OX CARTS
+手推车和牛车
 
-Carts are a major advantage for carriers and merchants, because they can carry 10 to 20 goods respectively at the same time. Therefore, they can make a merchant far more effective. To use a cart, a carrier or merchant must be assigned to the vehicle so he can steer it. 
-This can be done using the action button "Assign Vehicle". As soon as you have used this button, the possible vehicles (ship, handcart or ox cart) will light up. Click on one of the carts with the right mouse button to inform the Viking of your choice. 
+手推车对于搬运工和商人来说十分便捷，因为它们能同时运送10至20件不同的货物。因此，它们可以让商人效率更高。使用手推车，必须派一个搬运工或商人去控制它。
+用动作按钮“分配车辆”完成。当你使用这个按钮，某种车辆（船，手推车，牛车）就会高亮度显示。鼠标右键点击其中一辆车，让你所选择的Viking人控制它。
 
-Hint:
-You can assign a cart to a Viking as a vehicle directly via the tooltip option by right-clicking.
+提示：
+右键点击工具条，你可以分配手推车给Viking人，
 [blockend:04]
 
 [blockstart:05] 
-GREAT!
+太好了！
 
-Now Clayme and Stony have got their tools, their productivity has been considerably improved.
+现在黏土工和石匠得到了他们的工具，他们的生产力开始大幅度的提升。
 
-In the meantime, our merchants can establish new trade relations with a Frankish people ...
+其间，我们的商人可以确立和法兰克民族的新贸易联系……
 [blockend:05]
  
 [blockstart:06] 
-TRADING WITH ANOTHER NATION
+和另一个民族的贸易
 
-To trade with another nation which has a FRIENDLY attitude towards you, you need an effective trade agreement, and the other people must have a WAREHOUSE. Both prerequisites are fulfilled by this tiny Frankish people on the north coast. Your merchants also need to be assigned a CART.
+和一个对你态度和善的民族进行贸易，你需要一个有效的贸易协定，且他们必须有一个仓库。这个位于北部海湾的微小的法兰克民族已具备了所有先决条件，你的商人需要分配到一辆手推车。
 
-If you trade with another people, you can choose the goods you want your merchant to trade from among one or several of your trading partner's offers. The left-hand side displays the goods the friendly tribe supplies. The right-hand side shows what they expect in exchange. 
-Left-click on the line with the respective offer. Your merchant will then try to trade these goods. 
-If you want to choose another trade post, click on the button "Remove Trade Post" and click on the respective trading partner to deselect him and choose the new trading partner.
+如果你和另一个民族进行贸易，你可以选择你所希望商人从你的贸易伙伴那里换取到的物品。左侧显示了友好部落所提供的物品。右侧显示的是他们希望通过交换获取到的物品。
+左键点击各自的供应行。你的商人将会尝试这些物品的贸易交换。
+如果你想选择另外的贸易地点，点击“转移贸易地点”按钮，并分别点击贸易伙伴，取消选定，然后选择一个新的贸易伙伴。
 
-Trade 10 furniture with the Franks! You will receive 20 gold pieces in exchange.
+卖给法兰克人10套家具！你将获得20个金币。
 [blockend:06]
 
 [blockstart:07] 
-VERY GOOD!
+非常好！
 
-You have received 20 gold pieces for your furniture from the Franks. Thus you have fulfilled your trade agreement.
+你卖给法兰克人家具，得到了20个金币。这样你已经完成了你的贸易协定。
 [blockend:07]
 
 [blockstart:08] 
-Let's take a look at the overseas trade. Sometimes you'll need to load ships to take goods to distant countries ... like this friendly Saracen village.
+让我们关注一下海外贸易。有时你需要装载货物到船上，进行远距离贸易……例如和友善的撒拉逊村庄进行贸易。
 
-SHIPS are produced in the carpenter's workshop 4. This needs to be built close to the shore so the carpenter can build ships.
+船只是由木材场4制造的。这需要你在靠近海岸附近的地方建造木材场，以方便木匠造船。
 
-To load goods on a ship, a CARRIER needs to be assigned to it. The administration of the ship's store is handled the same as for warehouses: With individual registers grouped by goods. Click on the ship and the respective plus signs of the desired good to set the minimum stock.
+要装载货物上船，需要派一名搬运工到那里去。船坞的管理和仓库一样：单独登记成批的货物。点击船只和所需货物上附有的加号标记，使得货舱得到充分利用。
 
-Load at least 5 sacks of flour onto the ship and assign a CARRIER with a CART to it. (To do so, first assign the carrier a cart as his vehicle, then select the cart and assign it to the ship.)
+至少装5大袋面粉上船，分派一个带有手推车的搬运工去做。（首先，分给搬运工一辆手推车，然后选择车子分派给船只。）
 [blockend:08]
 
 [blockstart:09] 
-The goods have now been loaded onto your ship and it is ready to set sail!
+货物已经装上船，准备起航！
 
-Any adult Viking assigned to the ship can steer it - he will automatically become its commander! This is done via the action button "ASSIGN VEHICLE". As soon as you have clicked this button, the possible vehicles will light up. Right-click on a ship to inform the Viking about your choice. 
-(You can assign a ship to a Viking as a vehicle directly via the tooltip option by right-clicking.)
+任何一个被分派给船的Viking都可以驾驶船——他自动就成为船的指挥官！利用动作按钮“分配交通工具”。一旦你点击这个按钮，可用的交通工具就会高亮显示。右键点击一艘船，让Viking去驾驶。
+（直接右键点击工具条，你可以分配给一个Viking一艘船）
 
-Steer the ship to the Saracens' shore as you would one of your Vikings by using the "GO TO" order. 
+使用“GO TO”命令，让Viking驾驶船只按照你的命令到达撒拉逊海湾。
 [blockend:09]
 
 [blockstart:10] 
-You have reached the Saracens' shore.
-If you want to go ashore, you will first need to MOOR your ship, because that is the only way your Vikings can embark or disembark, load and unload the ship! 
+你来到了撒拉逊人的海湾。
+如果你想要靠岸，你首先需要停泊你的船，因为只有这样，你的Viking人才能上船或登陆，装载或卸载货物！
 
-Select the ship and press the SPACEBAR. The ship's available actions will be indicated. Select "Moor" and right-click on one of the highlighted places on the shore. 
-You can see that a ship is moored because its sails are pulled up.
+选择船只，按下空格键。对这艘船可进行的操作即可显示。选择“停泊”，右键单击海岸边的高亮显示区域。
+你可以看到船停下来，因为它的船帆被落下了。
 
-A ship has its own store, similar to the headquarters and the warehouses, but it is still a means of transport - not a house. Therefore, it is not possible to trade straight from the ship, you need a fixed TRADE POST, i.e. a warehouse.
+船只都有自己的储备，和指挥部、仓库一样，但它只是运输的一种方式，而不是一栋房屋。因此，它不能直接从船上进行贸易，你需要一个固定的贸易地点，比如一个仓库。
 
-Your Vikings have already been very busy, they have built a warehouse on the Saracens' shore.
-Unload the goods (by selecting the ship, pressing the spacebar and clicking on the button "Unload All Goods") and trade with the Saracens!
+你的Vikings非常的忙碌。他们已在撒拉逊人的海湾建成了一个仓库。
+卸下货物（选择船只，按下空格键，点击“卸下全部货物”）和撒拉逊人进行交易！
 [blockend:10]
 
 [blockstart:11] 
-FANTASTIC!
+多奇妙呀！
 
-You have fulfilled your trade agreement with the Saracens. Now you can consider yourself a great merchant indeed.
+你完成了和撒拉逊人的贸易协议。现在你可以自己考虑进行一项真正伟大的贸易。
 
-Proceed to the next tutorial!
+进入下一指南
 [blockend:11]
 
 [blockstart:12] 
 
-Check if you have assigned the northern warehouse to the merchant as trade post 1 and another warehouse as trade post 2.
+核查你是否分派了北部的仓库给商人作为贸易地点1，另一个仓库为贸易地点2。
 
-Assign the two warehouses to the merchant!
+把这两个仓库分配给商人！
 [blockend:12]
 
 [blockstart:13] 
 
-Have one merchant take iron tools to Clayme and Stony's warehouse!
+让一个商人带着铁制工具去黏土工和石匠的仓库！
 [blockend:13]
 
 [blockstart:14] 
 
-Trade furniture for gold with the Franks. 
+卖给法兰克人家具换取金币。
 [blockend:14]

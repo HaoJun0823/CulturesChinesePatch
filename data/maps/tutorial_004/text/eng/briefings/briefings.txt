@@ -1,213 +1,213 @@
 [blockstart:header] 
-TECHNOLOGIES
+科技
 
 [blockend:header] 
 
 
 [blockstart:00]
-Here the technology tree will be introduced and you will learn how to upgrade building levels.
+在这里将向你介绍技术树，你也将学习如何升级建筑物等级。
 
-The basic food provisions have already been taken care of in this village, therefore we now want to concentrate on the development of other technologies. 
+这个村庄的基本食物供应已能满足需要。因此我们现在需要集中精力发展其他的技术。
 
-Our extractors Snorri, Hedin and Orm will help us with any building plans. 
-Extractors have professions that don't involve specific work places. You can change the raw materials they extract as well as the goods that are produced, provided that the worker is experienced enough and that the respective work place is available. 
+我们的采集者Snorri，Hedin和Orm将会帮我们拟定一些建筑计划。
+采集者的工作地点没有特殊限制。如果工人们达到相应的经验值且有空缺的岗位，你就可以更改他们所搜集的原料和生产物品。
 [blockend:00]
 
 
 [blockstart:01]
 
-FROM A CLAY-WORKER TO A POTTER
+使黏土工人成为制陶工
 
-Your clay-worker is experienced enough to become a potter. He needs a pottery where he can produce bricks to be used as building materials.
+你的黏土工的经验值足以变成制陶工了。他需要一个陶器场，在那里生产砖块，为建造房屋提供原料。
 
-Build a POTTERY close to a clay pit and assign the clay-worker there!
+在黏土坑附近建造一个陶器场，让黏土工去那里工作！
 [blockend:01]
 
 [blockstart:02]
 
-UPGRADE THE POTTERY
+升级陶器场
 
-The potter has gained enough experience at making bricks for your Vikings, and is now able to produce tiles. 
+制陶工的经验值足以为Viking人制造砖石，现在可以生产瓦片了。
 
-Tiles are required in order to build houses that have tiled roofs rather than thatched ones, e.g. the cattle farm.
+建造瓦制屋顶的房子需要瓦片，如养牛场的屋子，瓦房比茅草房好得多。
 
-Upgrade the POTTERY! To do so, click on the pottery to open its building display. Click on the button "START UPGRADE". This button will only appear if all the goods required for the upgrade are available.
+升级陶器场！单击陶器场以显示，按下“开始升级”按钮。这个按钮只有在升级所需的所有物品齐全后才能显示。
 [blockend:02] 
 
 [blockstart:03]
 
-UPGRADE THE POTTERY 2
+升级陶器场2
 
-The potter has gained enough experience at making tiles to produce crockery. This requires you to upgrade the pottery once more. 
+陶工具备把瓦片制为瓦器的技能了。这需要你将陶器场再次升级。
 
-Upgrade the POTTERY 2! To do so, click on the pottery to open its building display. Click on the button "START UPGRADE". This button will only appear if all the goods required for the upgrade are available.
+升级到陶器场2！单击陶器场以显示，按下“开始升级”按钮，这个按钮只有在升级所需的所有物品齐全后才能显示。
 [blockend:03] 
 
 
 
 [blockstart:04]
 
-FROM A STONE COLLECTOR TO A STONEMASON
+从采石工变为石匠
 
-Your stone collector is experienced enough to become a stonemason. He needs a stonemason's workshop in order to turn quarrystone into hewn stone.
+你的采石工已具备石匠的技能。他需要在石场里进行石头凿刻。
 
-Build a STONEMASON'S WORKSHOP close to a stone deposit and assign the stone collector there!
+在靠近石头堆积处建设石场，让采石工去那里工作！
 [blockend:04]
 
 [blockstart:05]
 
-UPGRADE THE STONEMASON'S WORKSHOP
+升级石场
 
-Your stonemason is very experienced and his workshop is almost too small for his goods. 
+你的石匠已经很娴熟，他的工场太小，不够存放产品。
 
-You should upgrade the stonemason's workshop. To make marble out of quarrystone, your stonemason requires a stonemason's workshop 2. However, upgrading the stonemason's workshop requires the use of bricks which can only be produced in a pottery 1.
+你应该升级石场。为了生产大理石，你的工匠需要石场2。可是，升级石场需要的砖块只能由陶器场1生产。
 
-Upgrade the STONEMASON'S WORKSHOP! To do so, click on the stonemason's workshop to open its building display. Click on the button "START UPGRADE". This button will only appear if all the goods required for the upgrade are available.
+升级石场！单击石场以显示。按下按钮“开始升级”。这个按钮只有在升级所需的所有物品齐全后才能显示。
 [blockend:05]
 
 
 [blockstart:06]
 
-FROM A WOODCUTTER TO A CARPENTER
+从伐木工变为木匠
 
-Your woodcutter is experienced enough to become a carpenter. He needs a carpenter's workshop in order to produce wooden tools.
+你的伐木工已具备木匠的技能。他需要一个木材场进行木制工具的生产。
 
-Build a CARPENTER'S WORKSHOP and assign the woodcutter there!
+建立一个木材场，让你的伐木工去那里工作！
 [blockend:06]
 
 [blockstart:07]
 
-UPGRADE THE CARPENTER'S WORKSHOP
+升级木材场
 
-The carpenter has gained enough experience at toolmaking to produce furniture. This requires an upgrade of the carpenter's workshop.
+木匠已具备生产家具的技能。这需要升级木材场。
  
-Once he has gained enough experience at making furniture, he will even be able to make wooden spears.  
+一旦他能通过家具的生产得到足够的技能，他将能够生产木制的矛。
 
-Upgrade the CARPENTER'S WORKSHOP! To do so, click on the carpenter's workshop to open its building display. Click on the button "START UPGRADE". This button will only appear if all the goods required for the upgrade are available. 
+升级木材场！单击木材场以显示。按下按钮“开始升级”。这个按钮只有在升级所需的所有物品齐全后才能显示。
 [blockend:07]
 
 [blockstart:08]
 
-UPGRADE THE CARPENTER'S WORKSHOP 2
+升级到木材场2
 
-The carpenter has gained enough experience to produce handcarts. This requires you to upgrade the carpenter's workshop once more.  
+木匠已具备生产手推车的技术。这需要你对木材场再一次进行升级。
 
-Upgrade the CARPENTER'S WORKSHOP 2! To do so, click on the carpenter's workshop to open its building display. Click on the button "START UPGRADE". This button will only appear if all the goods required for the upgrade are available. 
+升级到木材场2！单击木材场以显示。按下按钮“开始升级”。这个按钮只有在升级所需的所有物品齐全后才能显示。
 [blockend:08]
 
 [blockstart:09]
 
-UPGRADE THE CARPENTER'S WORKSHOP 3
+升级到木材场3
 
-The carpenter has gained enough experience to produce merchant ships. This requires you to upgrade the carpenter's workshop once more. In the further course of the game you should bear in mind that this requires the carpenter's workshop to be built close to the shore. 
+木匠已具备生产贸易商船的技能。这需要你对木材场再次升级。考虑到游戏后来的发展，你要牢记应该在靠近岸边的位置建造木材场。
 
-Upgrade the CARPENTER'S WORKSHOP 3 anyway! To do so, click on the carpenter's workshop to open its building display. Click on the button "START UPGRADE". This button will only appear if all the goods required for the upgrade are available. 
+升级到木材场3！单击木材场以显示。按下按钮“开始升级”。这个按钮只有在升级所需的所有物品齐全后才能显示。
 [blockend:09]
 
 
 [blockstart:10]
 
-FROM AN ORE MINER TO A BLACKSMITH
+从采矿工变为铁匠
 
-The ore miner is experienced enough to become a blacksmith. He needs a smithy to produce iron tools and later iron spears and shortswords using iron and wood.
+采矿工已具备铁匠的技能。他需要一个铁匠铺进行铁制工具的生产，接着还能利用铁和木头生产铁矛、短剑。
 
-Build a SMITHY and assign the ore miner there!
+建立铁匠铺，派你的矿工去那里工作！
 [blockend:10]
 
 [blockstart:11]
-UPGRADE THE SMITHY
+升级铁匠铺
 
-The blacksmith is experienced enough to produce longswords. This requires you to upgrade the smithy.
+铁匠能够生产长剑了。这需要你对铁匠铺进行升级。
 
-He will later be able to learn to produce chain mail and even plate armour.
+接着他将学会制造铁盔甲。
 
-Upgrade the SMITHY! To do so, click on the smithy to open its building display. Click on the button "START UPGRADE". This button will only appear if all the goods required for the upgrade are available.
+升级铁匠铺！单击铁匠铺以显示。按下按钮“开始升级”。这个按钮只有在升级所需的所有物品齐全后才能显示。
 [blockend:11]
 
 
 [blockstart:12]
 
-FROM A HUNTER TO A TAILOR OR STOCK FARMER
+从猎人变为剪裁师或牧场主
 
-The hunter is experienced enough to work as a tailor or stock farmer. 
+猎人已具备剪裁师或牧场主的技能
 
-A tailor needs a tailor's workshop to produce leather shoes. 
+剪裁师需要一个裁缝店生产皮鞋。
 
 
-A stock farmer needs a cattle farm, which should be built close to grazing animals. These can be caught by a scout. 
-Sheep provide wool and meat, while cattle provide meat and leather.
+牧场主需要一个畜牧场，它应该靠近牛群搭建。让侦察兵追寻他们的踪迹便可抓到他们。
+羊群提供了羊毛和肉食，而牛群提供了肉食和皮革。
 
-Build a TAILOR'S WORKSHOP and a CATTLE FARM and assign the hunters there!
-Bear in mind that for the cattle farm you'll need roof tiles, which can only be produced in the upgraded pottery. You'll also only be able to build a cattle farm if you own a pottery 2.
+搭建裁缝店和畜牧场，派猎人去那里工作！
+记住你需要用瓦片屋顶的房屋建造牛舍，只有升级的陶器场才能提供瓦片。等你拥有陶器场2时才能搭建牛舍。
 [blockend:12]
 
 [blockstart:13]
 
-UPGRADE THE TAILOR'S WORKSHOP
+升级裁缝店
 
-The tailor has gained enough experience at making shoes to produce leather armour. This requires you to upgrade the tailor's workshop.
+剪裁师从制鞋中获得了制造皮革盔甲的技能。你需要对裁缝店进行升级。
 
-As he gains experience, the tailor will be able to make tunics.
+等剪裁师获得经验，他就能制造束腰外衣。
 
-Upgrade the TAILOR'S WORKSHOP! To do so, click on the tailor's workshop to open its building display. Click on the button "START UPGRADE". This button will only appear if all the goods required for the upgrade are available.
+升级裁缝店！单击裁缝店以显示。按下按钮“开始升级”。这个按钮只有在升级所需的所有物品齐全后才能显示。
 [blockend:13]
 
 
 [blockstart:14]
 
-VERY GOOD! 
+非常好！
 
-Your buildings are really well upgraded! 
-You have managed to establish really good production chains, and with them important technologies for your people!
+你的房屋升级得不错！
+你已经成功的打造了一条良好的生产流水线，为你的人民准备好了重要的技术！
 
-Proceed to the next tutorial!
+进入下一指南
 [blockend:14]
 
 
 [blockstart:15]
 
-WELL DONE! 
+干得好！
 
-Now you have upgraded your pottery, but the potter doesn't know that he is supposed to produce roof tiles instead of bricks ... 
-To have the potter produce roof tiles, select him and click on the button next to the roof tiles in the WORK tab. He will automatically change the production to the new goods.
+现在你已经升级了你的陶器场，但是制陶工并不知道他应该开始生产屋顶用的瓦片，而不是砖块……
+为了让陶工生产瓦片，选择他，然后按下在WORK标签旁边的按钮。他就会自动改变生产的物品类型。
 
-Please change the potter's production to roof tiles!
+让陶工开始生产瓦片！
 [blockend:15]
 
 
 [blockstart:16]
 
-WELL DONE! 
+干得好！
 
-Now you have upgraded your stonemason's workshop, but the stonemason doesn't know that he is supposed to produce marble instead of quarrystone ...
-To have the stonemason produce marble, select him and click on the button next to the marble in the WORK tab. He will automatically change the production to the new goods. 
+现在你已经升级了你的石场，但是石匠并不知道应该开始生产石器，而不是石料……
+为了让石匠生产大理石，选择他，然后按下在WORK标签旁边的按钮。他就会自动改变产品类型，开始新的生产。
 
-Please change the stonemason's production to marble!
+让石匠开始生产大理石！
 [blockend:16]
 
 [blockstart:17]
 
-WELL DONE! 
+干得好！
 
-Now you have upgraded your carpenter's workshop, but the carpenter doesn't know that he is supposed to produce furniture instead of wooden tools ...
-To have the carpenter produce furniture, select him and click on the button next to the furniture in the WORK tab. He will automatically change the production to the new goods.
+现在你已经升级了你的木材场，但是木匠并不知道应该开始生产家具，而不是木头工具……
+为了让木匠生产家具，选择他，然后按下在WORK标签旁边的按钮。他就会自动改变产品类型，开始新的生产。
 
-Please change the carpenter's production to furniture!
+让木匠开始制造家具！
 [blockend:17]
 
 [blockstart:18]
 
-WELL DONE! 
+干得好！
 
-Now you have upgraded your tailor's workshop, but the tailor doesn't know that he is supposed to produce leather armours instead of shoes ...
-To have the tailor produce leather armour, select him and click on the button next to the leather armour in the WORK tab. He will automatically change the production to the new goods. 
+现在你已经升级了你的裁缝店，但是剪裁师并不知道应该开始制作皮革盔甲，而不是鞋子……
+为了让剪裁师制作皮盔甲，选择他，然后按下在WORK标签旁边的按钮。他就会自动改变产品类型，开始新的生产
 
-Please change the tailor's production to leather armour!
+让剪裁师开始制作皮盔甲！
 [blockend:18]
 
 [blockstart:19]
 
-Cattle farm available!
+牛舍建好！
 
-Now you can build a cattle farm as well, because the potter has produced the required roof tiles!
+现在你可以建造牛舍了，因为制陶工已经生产了足够的瓦片屋顶！
 [blockend:19]

@@ -1,132 +1,132 @@
 [blockstart:header] 
 
-EVERY VIKING IS UNIQUE!
+每个维京人都是独特的！
 [blockend:header]
 
 [blockstart:00] 
-Here you will be informed about the individual skills and attributes of a character, such as:
--	name,
--	knowledge, 
--	profession, 
--	marital status,
--	social group,
--	life energy and needs, 
--	heroes' characteristics ...
+这里你会看到个人技能和性格特征，例如：
+-	姓名，
+-	学问，
+-	职业，
+-	婚姻状况，
+-	社交圈，
+-	生命力和需要，
+-	英雄品质……
 
- ... because every Viking is unique! But they are all stubborn by nature! ;0)
+……因为每个维京人都是独特的！他们天生都是性格坚毅的；
 [blockend:00] 
 
 [blockstart:01] 
-Take HALLDOR, for example. 
+比如哈尔多尔。
 
 <usericon:2,1>
 
-He is a woodcutter, and he is happy doing his job. He has a wife and a young child waiting for him at home after work.
+他是木板雕刻师，很热爱自己的工作。他有个妻子和一个小孩，在家等他工作完回去。
 
-Every villager is a unique character. They all look different, they have different names, different professional developments and individual skills and needs. And you can influence all these things except for their looks! 
+每个村民都有自己的特征。他们长相不同，名字不同，职业、个人技能和需要都不同。除了相貌你可以改变其他所有方面！
 [blockend:01]
 
 [blockstart:02] 
-This is Gunnhild. She is the happy woman at Halldor's side, and the pair have a little girl called Grimmhild ...
+这是古恩希尔德。她是哈尔多尔身边一个快乐的女人，这对夫妇有个小女孩叫格里希尔德……
 
 <usericon:1,88,192>
 
-SOCIAL GROUP
-If you move the cursor over Gunnhild, her outline will light up. Everything connected to this character will also flash: the home, partner, work place and children. This way you can see at a glance who belongs to her, where she lives and works and what paths she has to take. Moreover, the name, current profession and experience level of the highlighted character are indicated underneath the mouse pointer if this Viking is currently learning a profession.
+社交圈
+如果你把光标放在古恩希尔德的人像上面，她的轮廓就会亮起来。与这个角色相关的每件事也会闪烁：家庭、伴侣、工作地点和孩子。你能看到一闪而过的那条路属于她，她在那里居住、工作，必须走那条路。而且，如果这个高亮显示的维京人目前正在学习一种技能，那么他的名字、当前职业和经验水平会在鼠标指针下有提示。
 
-You'll see the same effect if you move the cursor over a building as well. All the characters who live or work in that building will flash.
+如果你把指针移到一座建筑上，会看到同样的效果。所有在这座建筑里生活或工作的人物都会闪烁。
 [blockend:02]
 
 [blockstart:03] 
-This is BJOERN. He is a scout and he is fed up with erecting signposts all day long ... 
+这是布约恩。他是侦察员，靠每天竖立路标来谋生……
 
 <usericon:2,6>
 
-He'd like to have a wife as well, to live in a dwelling and add to the Viking tribe. He doesn't like his name and his profession either, and he'd much rather sit and fish all day. 
+他也想有个妻子，住在房子里，加入维京人的部落。他不喜欢自己的名字和职业，宁愿一天到晚坐着钓鱼。
 
-Give BJOERN a new identity! 
+给布约恩一个新身份！
 
-Start with the NAME. Select Bjoern and click on his name in the character display. A small window will pop up where you can change his name. 
-Give him the profession of a fisherman.
+从名字开始。选中布约恩，在任务列表中点击他的名字。一个小窗口会弹出来，可以在这里改变名字。
+给他一个渔夫的职业。
 [blockend:03]
 
 [blockstart:04] 
-The next thing he should do is look out for a bride.
-Further inland master carpenter Kalf is living with his beautiful and intelligent daughter Ragna. 
+他要做的下一件事是找个新娘。
+内陆更深处的主人是木匠卡弗，他与美丽聪明的女儿拉格娜一起生活。
 
 <usericon:1,87,149>
 
-Marry RAGNA to the Viking who was called BJOERN, assign them the dwelling on the shore and let them have a child.
+让拉格娜和一个叫布约恩的维京人结婚，在海边分配给他们一所住房并让他们有个孩子。
 
-Note: Marrying is not always that easy. Some Vikings are so focused on their tasks that they won't even notice the approaches of another character, or they may even choose a different partner. If you experience problems with two people who you think should love one another, send them both away from the others and order at least one of them to marry! 
+注意：结婚并不总是很简单。一些维京人对他们的任务过于专心，以至于没注意到另一个人的靠近，甚至可能会选择另外的伴侣。如果你认为两个人可以相爱，但却出了问题，他们没在一起，就得让他们分开并命令至少其中一个结婚！
 [blockend:04] 
 
 
 [blockstart:05] 
-GREAT! A little Viking has seen the light of day at last.
+好！最后一个小小的维京人看到了白天的日光。
 
 <usericon:1,124,181>
 
-Each of your Vikings, even the little newborn child, has a certain amount of LIFE ENERGY. This can be reduced by HUNGER or INJURY. As soon as this disadvantage has been repaired, the character's energy will regenerate little by little - provided the Viking is still alive, of course. None of your Vikings can ever die of old age! 
+每个维京人甚至包括那个刚出生的孩子，都有一定的生命能量。这种能量会由于饥饿和伤害而减少。一旦不利状况被改善，人物的能量会慢慢再生—当然，前提是这个维京人仍然活着。你的维京人没有人是老死的！
 [blockend:05]
 
 [blockstart:06] 
-NEEDS
+需要
 
-All your Vikings have the same needs as real humans. They have to eat, sleep and talk, and some of them even need religion to be content. If the villagers have such a need, they'll do anything to fulfil it as soon as possible. If they are hungry for example, they'll stop working to look for some food in their surroundings. If they find some, they will go there and eat it. They will only return to their work when they are no longer hungry. 
-You should make sure that your Vikings can satisfy their needs quickly, so they can carry on with their work. 
+你所有的维京人和真正的人有相同的需求。他们必须吃饭、睡觉和谈话，有些人甚至需要宗教来满足。如果村民有这种需要，只要有条件他们会做任何事来实现。例如如果他们感到饥饿，就会停止工作在周围寻找食物。发现食物后他们会走到那里吃掉它。只有当他们觉得不饿了，才会回去工作。
+你要保证你的维京人能很快满足需求，这样他们才会继续工作。
 
-Your Vikings will tell you what they think is important via the parchments at the top of the screen! Red parchments are important, green ones are slightly less important. By holding CTRL and right-clicking, you can delete all the displayed messages.
+你的维京人会通过屏幕顶端的羊皮纸告诉你他们认为重要的东西！读羊皮纸很重要，绿色的重要性低一些。按下CTRL并右击鼠标，你可以取消显示的信息。
 [blockend:06]
 
 
 [blockstart:07] 
-HEROES
+英雄
 
-Some Vikings differ from your civilian population: They are stronger and faster than ordinary Vikings, they don't get hungry and they don't need to sleep. They don't have a profession either, because their profession is to be a HERO. Their exploration radius corresponds to that of a scout. Heroes mainly live a solitary life and there are not many of them in the world, but one of them will accompany you from the very start of the game. He is BJARNI - the son of a legendary Viking king of the past. 
+有些维京人和你的一般平民不同。他们更强壮、速度更快，不会饿也不用睡觉。他们也不需要职业，因为他们的职业就是做英雄。他们的活动范围与侦察员的相符。英雄大体上过着孤独的生活，在世界上没有多少这样的人，但有一个会从游戏开始时就跟随你。他是布加尼——传说中古代维京国王的儿子。
 
 <usericon:2,7>
 
-Beware! If a hero dies, you have failed your mission!
+小心！如果一个英雄死掉，你的任务就失败了!
 
-CHARACTER DISPLAY
+人物列表
 
-If you lose a hero or another Viking, use the character display (F7) or click the button with the helmet and the question mark. There you can search for your characters according to different categories and select them.
+如果你失去了一位英雄或一个维京人，就使用人物列表（F7）或点击有头盔和问题标记的按钮。然后你可以根据不同类别搜索人物并选中他们。
 [blockend:07]
 
 
 
 [blockstart:08] 
-WOLVES
+狼
 
-As mentioned before, your Vikings can only die of starvation or injuries in battle. Wolves and other wild animals therefore represent a great danger.
-With a hero at your side, they should not be a problem for you though ...
+如前所述，你的维京人只可能死于饥饿或战争中的伤害。所以狼和其他野生动物代表着很大危险。
+在你的身旁带个英雄，他们不会给你带来问题……
 
 <usericon:1,225,156>
 
-Fight the wolves in the swamp with Bjarni by selecting him and clicking on the animals with the RIGHT MOUSE BUTTON when the tooltip "Bjarni - Attack animal" appears!
+让布加尼在沼泽地和狼作战，要选中他并在提示“布加尼——击野兽”出现时用右键点击野兽！
 [blockend:08]
 
 
 [blockstart:09] 
-Unfortunately you have not succeeded, because Bjarni fell victim to the wolves. 
-In the real game, your mission would have failed.
+不幸的是你没有成功，因为布加尼在与狼的战斗中牺牲了。
+在真正玩游戏时，你的任务将会失败。
 
-We'll give you another chance and revive the hero ...
+我们会再给你一次机会，让英雄复活……
 [blockend:09]
 
 [blockstart:10] 
-VERY GOOD! 
+非常好！
 
 <usericon:2,7>
 
-You have passed the second tutorial, now you know how to influence the individual features of a character and how to take care of the skills and needs of the little beings.
+你已经通过了第二份指南，现在你了解了如何改变人物的特征以及如何考虑人物的技能和需求。
 
-Let's head for the next tutorial!
+让我们进入下一份指南!
 [blockend:10]
 
 [blockstart:11] 
-Three of your Vikings are going about their work in this massif. They are too far apart from one another to talk though, they have no food and they could do with some sleep as well. Your Vikings will basically look after themselves, i.e. they will sleep when they are tired, eat when they are hungry and talk as much as they like! However, if they are not able to fulfil one of their needs, the other needs are affected as well.
+有三个维京人在山丘从事工作。他们彼此相聚太远不能谈话，没有食物，可以睡觉。你的维京人基本上都是自己照顾自己，比如他们累时就想睡觉，饿了就吃，还可以随心所欲的谈话！然而，如果他们不能满足一种需求，其他需求也会受影响。
 [blockend:11]
 
 

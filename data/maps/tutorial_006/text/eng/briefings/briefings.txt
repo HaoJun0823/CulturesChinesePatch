@@ -1,266 +1,266 @@
 [blockstart:header] 
-BATTLE AND DIPLOMACY SYSTEM
+外交和战斗体系
 [blockend:header]
 
 [blockstart:00]
-Your Viking tribe is basically very peaceful. But if hostile tribes give them a hard time, your people know how to fight ...
-Any Vikings can defend themselves very well. Even women can fight off approaching enemies with their fists. However, if you get involved in warfare or are attacked by a superior group, you will need a group of brave heroes ...
+Viking部落基本是和平的部落，但如果敌军与他们为难，你的人民知道怎样应付……
+每个Viking都能很好的自卫。甚至女人也可以用拳头和靠近的敌人作战。但如果你被卷入战争或被一支武装精良的部队袭击，你将需要一群勇敢的英雄……
 [blockend:00]
 
 
 [blockstart:01] 
-SOLDIERS
+士兵
 
-And these are your heroes!
-Soldiers are the most efficient attack and defence forces of your Vikings. 
-They differ from the civilian population mainly in their attack and defence skills and are defined by their equipment and experience. There are three basic kinds of soldiers, whose weapons make up the main differences:
+这是你的英雄！
+士兵是Vikings有效的攻防力量
+区别于平民，他们具有攻防技能，并且由不同装备不同经验值所决定。有三种基本类型的士兵，所使用武器决定了他们的类型：
 [blockend:01]
 
 [blockstart:02] 
 
-These are your SPEARMEN. 
+这是你的长枪兵。
 
 <usericon:1,80,139>
 
-They fight with powerful WOODEN or IRON SPEARS. 
-Spearmen are only suited for close combat and are most successful if several of them fight against one target together. Their range is wider than a sword fighter's.
+他们使用木枪或铁矛作战。
+长枪兵是最适于近距离作战的兵士，如果几个人一起对抗一个目标，成功几率会更高。他们的攻击范围比剑士更广。
 [blockend:02]
 
 [blockstart:03] 
 
-These are your ARCHERS.
+
  
 <usericon:1,102,133>
 
-Archers fight with bows and arrows. They can be equipped with SHORT BOWS or LONGBOWS. Their advantage is based on the wide range of their arrows, which makes them the most effective when fighting a target from a safe distance. However, they should avoid melees.
+射手用弓箭打仗。他们的装备是短弓或长弓。弓箭的优势在于箭的射程广，当弓箭在其射程内攻击目标的时候，最有威力。无论怎样，弓箭都可以避免近距离格斗。
 [blockend:03]
 
 [blockstart:04] 
 
-And these are your SWORD FIGHTERS.
+这些是你的剑手。
 
 <usericon:1,92,132>
 
-Sword fighters fight with powerful SHORTSWORDS or LONGSWORDS. They are dangerous and enduring units, which can also damage enemy buildings heavily.
+剑手们用有力的短剑或是长剑。剑是一种很危险而且很耐用的武器，它还可以严重毁坏敌人的建筑。
 [blockend:04]
 
 [blockstart:05] 
-THE BARRACKS
+兵营
 
-When your Vikings have to defend themselves effectively or if you are planning an attack, you will need soldiers. Soldiers have to be recruited and trained in a barracks. The barracks must be constructed by your builders just like any other building.
+在你的Vikings只能有效的防卫他们自己或是在你计划一次袭击的时候，你就需要士兵了。一定要在兵营里招募并训练新兵。兵营就像其他建筑一样，是由你的施工人员建造的。
 
-Build a barracks!
+建造一座兵营！
 [blockend:05]
 
 [blockstart:06] 
 
-Well done! The barracks has been built. 
-It would be ideal to store any necessary equipment (weapons, armour, potions and gold) in the great store of the barracks, so you can train and equip your Vikings quickly if you need to. To that end, assign at least one carrier to the barracks to organise supplies.
+干的好！兵营建好了。
+巨大的兵营仓库是一个理想的地方，用来存放必要的装备（武器，盔甲，药，金币），因此如果需要，你可以在兵营里快速训练并装备你的Vikings。最后，至少指派一个运输员来给兵营提供补给。
 
-Hint: If you want to recruit a carrier, scout or merchant, you need to give him a different profession (e.g. civilian) before sending him to the barracks. Otherwise he will not be trained there because he thinks that he is supposed to work in the barracks! 
+提示：如果你想要招募运输员，侦查员，或是批发商，再将他送入兵营之前，你需要给他不同的专业训练（如：文职）。否则，在兵营里是无法训练他的，因为他认为他应该是在兵营里工作的！
 
-Take the equipment to the barracks and train 5 additional spearmen, archers and sword fighters each! 
+将装备放入兵营，再额外训练枪兵，射手，剑手各５个！
 [blockend:06]
 
 [blockstart:07] 
-THE BARRACKS
+兵营
 
-When your Vikings have to defend themselves effectively or if you are planning an attack, you will need soldiers. Soldiers have to be recruited and trained in a barracks. The barracks must be constructed by your builders just like any other building.
+在你的Vikings只能有效的防卫他们自己或是在你计划一次袭击的时候，你就需要士兵了。一定要在兵营里招募并训练新兵。兵营就像其他建筑一样，是由你的施工人员建造的。
 
-It would be ideal to store any necessary equipment (weapons, armour, potions and gold) in the great store of the barracks, so you can train and equip your Vikings quickly if you need to. To that end, assign at least one carrier to the barracks to organise supplies. Your carriers are already busy taking the equipment to the barracks.
+巨大的兵营仓库是一个理想的地方，用来存放必要的装备（武器，盔甲，药，金币），因此如果需要，你可以在兵营里快速训练并装备你的Vikings。最后，至少指派一个运输员来给兵营提供补给。运输员经常忙于往兵营中运输装备。
 
-(If you want to recruit a carrier, scout or merchant, you need to give him a different profession (e.g. civilian) before sending him to the barracks. Otherwise he will not be trained there because he thinks that he is supposed to work in the barracks!)
+（如果你想要招募运输员，侦查员，或是批发商，再将他送入兵营之前，你需要对他进行不同的专业训练（如：文职）。否则，在兵营里是无法训练他的，因为他认为他应该是在兵营里工作的！）
 
-Train 5 additional spearmen, archers and sword fighters each!
+额外训练枪兵，射手，剑手各５个！
 [blockend:07]
  
  
 
 
 [blockstart:08] 
-Oh dear, you're short of eager recruits! 
-By coincidence, 15 Vikings from the surrounding area have just dropped by, and they'd just love to be trained as soldiers.
+天呢，你缺少积极热情的新兵！
+刚巧，有１５个Vikings从周围路过，而且他们很愿意被训练成士兵。
 
-RECRUITING AND TRAINING
+招募和训练
 
-Any male Vikings - apart from carriers, merchants and heroes - can be assigned to the barracks to be trained. As soon as a Viking has arrived at the barracks, he will automatically be trained as a soldier. He'll leave the barracks as a trained soldier, but without any weapons or armour. You still have to give these to him (via the action menu option "Change Equipment" or via his EQUIPMENT tab)
+任何男性Vikings——运输人员，批发商，和英雄除外——都可以被指派到兵营里去接受训练。Vikings一来到兵营，他就会自动的被训练成一名士兵。作为一名训练有素的士兵他将离开兵营，但是他没有任何武器或是盔甲。因此你必须把武器和盔甲给他（通过动作菜单选项“改变装备”或是通过他的装备列表）
 
-If you send the soldiers back to the barracks, they will be trained again. 
-Each soldier can be trained as often as you please. For each training in the barracks, you will have to pay coins from the barracks' store so that the soldier obtains 5 more experience points. The more experience points he has, the stronger and more powerful your soldier will be.
+如果你将这些士兵从新送回兵营，他们将再次接受训练。
+你想让他们什么时候接受训练就什么时候接受训练。在兵营中每训练一次， 你就要从兵营仓库中拿出钱来支付费用，这样能让士兵多得５点的经验点数。士兵拥有的经验点数越多，他就会越强壮有力。
 
-Now send the 15 civilians to the barracks and train them as soldiers.
+现在将１５个平民送入兵营，将他们训练成士兵。
 [blockend:08]
 
 
 [blockstart:09]
 
-Great! You have created 15 soldiers now. 
-But only the equipment will determine whether a soldier is a sword fighter, an archer or a spearman. 
+棒极了！现在你创造了１５个士兵。
+由装备来决定士兵是剑手，射手，还是枪兵。
 
-EQUIPPING
+装备
 
-To equip a Viking, select him and give him the objects in the equipment register via the individual buttons. To equip a group of soldiers, it is recommended to select them all and press the SPACEBAR, then choose the button "CHANGE EQUIPMENT" (displaying a big and a small hammer). With this function you can easily equip entire armies! 
+装备一个Viking，选择他，通过单独的按钮给他配备设备清单中的物品。装备一组士兵，推荐做法是全部选中他们，按下空格键，然后选择“改变装备”按钮（显示一个最大和最小的锤子）通过这个功能就可以很容易的装备整个军队！
 
-Soldiers can be equipped with potions, mead and amulets as well. With nourishing potions and mead they can satisfy their hunger several times without having to look around for food so often. Some amulets greatly reduce some needs or give their bearer some valuable qualities, e.g. a soldier with an amulet of stamina doesn't need to sleep at all. 
+士兵可以装有药，蜂蜜酒，也可以装护身符。带着营养药和蜂蜜酒，很多时候他们就可以充饥，不用那么频繁的四处去找食物。有的护身符可以大幅度减少一些需求，或是带给他们的佩带者一些有价值的性质，例如：一个带有耐力护身符的士兵根本就不需要睡觉。
 
-There should be sufficient armour and weapons in your warehouse next to the barracks.
-Use them to make 5 soldiers shortsword fighters, to make 5 soldiers longbow archers and to make 5 soldiers spearmen with wooden spears!
+在紧挨着兵营的仓库里要存有充足的盔甲和武器。
+用这些武器创造５个短剑手，５个长弓射手和５个用木枪的枪兵
 [blockend:09]
 
 
 [blockstart:10] 
-ARMOUR
+盔甲
 
-Your soldiers can be equipped with armour in order to protect them. Available armour types include: woollen armour, leather armour, chain mail and plate armour. Not every armour is effective against every weapon, though: A longsword, for instance, cannot do any harm against a plate armour, but is very effective against woollen armour ... 
+给你的士兵装备盔甲是为了保护他们自己。可供选择的盔甲类型包括：羊毛盔甲，皮毛盔甲，锁子甲，金属甲。并不是每一种的盔甲都可以有效的抵御每一种武器，例如，虽然长剑无法对金属盔甲造成任何伤害，但是他对羊毛盔甲就很有杀伤力．．．
 
-Hint: If a soldier becomes a civilian again or if he takes on another profession, he'll drop his equipment in the barracks, in a defence tower, in a store or in the landscape, so it can be used again. He can return to his duties as a soldier any time ("Change Profession"), but he won't have any equipment. 
+提示：如果一个士兵再次成为一个平民，或是他从事了另外一种职业，他就会卸下武器装备，放在兵营中，防御塔里，仓库里，或是地里，这样就可以再次使用这些武器。在任何时候（“改变职业”）他都可以回到自己以前做士兵时的岗位上去，但他不会再有任何装备。
 [blockend:10]
 
 [blockstart:11] 
-CATAPULTS 
+弹弓
 
-Soldiers and heroes can man catapults, which are especially efficient when attacking buildings. They are produced in the armourer's workshop 2. A soldier or a hero must be assigned to the vehicle in order to steer it. 
+士兵和英雄可以配备弹弓，弹弓在攻击建筑的时候是特别有效的武器。弹弓是在机械师工作车间２中生产的。一定要给士兵或是英雄配备工具，这样他们就可以使用工具。
 
 <usericon:1,96,154>
 
-Use the action button "Assign Vehicle" to assign a catapult to a Viking. As soon as you have clicked the button, the possible catapults will light up. Right-click on a catapult to inform the Viking about your choice.
+使用动作按钮“分配工具”给Vikings分配弹弓。一点击这个按钮，可用的弹弓就会亮起来。在所选的弹弓上右击，通知Vikings你的选择。
 
-Assign soldiers to the catapults!
+向投石车指派士兵！
 [blockend:11]
 
 
 [blockstart:12] 
 
-OH DEAR!
+天呢！
 
-The Saracens, who have been peaceful so far, have attacked one of your outposts. If they decide to strengthen their position, they will not leave your village alone either!
+到目前为止都是爱好和平的Saracens，攻击了一个你的边缘村庄。如果他们决定巩固他们的形式，他们就不会单独离开你的村庄。
 
-Drive the Saracens back!
+把Saracens驱除回去！
 [blockend:12]
 
 [blockstart:13] 
 
-SOLDIER GROUPS and ATTACK
+军队和进攻
 
-Several soldiers are selected the same way as normal Vikings. By DOUBLE-CLICKING with the left mouse button you can select all soldiers of the same type. Double-clicking on one of your spearmen, for example, will select all the spearmen in a certain area. You can also select all the visible soldiers via the selection button in the subjects window in the lower right corner. 
+几个士兵的选择方式和平常Vikings的选择方式是一样的。双击鼠标左键，就可以选择同一类型的所有士兵。例如：在你的一个枪兵上双击鼠标，就会选择某一个地区内的所有枪兵。你也可以选择所有看得到的士兵，只要点击主窗口右下角的选择按钮。
 
-You can create a group of soldiers just like you would a group of civilians (see tutorial 1) by using the SHIFT and CTRL keys. If you have selected several soldiers, you can assign these to a group by holding CTRL and pressing a number from 0 to 9 to create a group with the respective number. To select this group, simply press its number key again. This function is very useful in battle!
+你可以创建一队士兵，就像你可以创建一队平民一样（参见向导１），就用SHIFT and CTRL键。如果你已经选择了几个士兵，就可以把他们编成一队，按住CTRL，再按下数字键０到９，可以用０到９给军队编号，每一个数字代表一队士兵。要选择一队士兵只需按下该队编号的数字键即可。这个功能在战争中是很有用的！
 
-With an individual soldier, you can open the action menu as usual. If you have selected several soldiers, press the SPACEBAR. The action menu which opens next to the cursor now applies to any selected soldiers.
+对于一个单独的士兵，像平常一样打开动作菜单就可以了。如果你已经选择了几个士兵，就按下空格键。紧挨着光标打开的动作菜单现在适用于任何一个已经被选择的士兵。
 
-If you right-click on an enemy or a hostile building, the selected soldiers will attack the enemy or the building. Watch out: To recognise somebody as an enemy, your diplomacy status must be set to hostile, otherwise your soldiers will not attack.
+如果用右键点击敌人或是敌方的建筑，那么已经选择的士兵就会攻击敌人或敌人的建筑。注意：在识别敌人的时候，你的外交状态一定要设置为敌对，否则，你的士兵是不会进行攻击的。
 [blockend:13]
 
 [blockstart:14] 
 
-SOLDIER MODES
+士兵模式
 
-Attack mode: Your soldiers can only attack units who are defined as hostile.
-If an enemy approaches your soldiers, they will chase and fight him until he is out of range or the fight has been decided.
+攻击模式：士兵只攻击敌人。
+如果有敌人接近你的士兵，士兵们就会追打敌人直到把敌人赶出你的领域或是引发一场不可避免的战争。
 
-Defence mode: Soldiers attack approaching enemies automatically. They also defend themselves as soon as they are attacked. If there are fights nearby, they will rush there in order to support their comrades.
+防御模式：士兵会自动攻击靠近他们的敌人。他们一受到攻击就会防卫他们自己。如果在邻近的地方有战斗发生，他们就会冲过去支援他们的战友。
 
-Ignorant mode: This function ensures that your soldiers will hold their positions, whatever happens! Whether they become hungry or their friends are attacked - they will not move one single step.
+忽略模式：无论发生什么情况，这个功能都确保你的士兵能够坚守他们的岗位。无论是他们自己很饿还是他们的朋友受到攻击——他们一步都不会动。
 
-Allow Regeneration: This function allows the soldiers to satisfy their needs, such as hunger and sleep. 
+同意修复：这个功能是让士兵们去满足他们自己的需求，例如：饥饿和睡觉。
 
-Prohibit Regeneration: With this function enabled, a soldier will neither eat nor sleep.
+禁止修复：如果这个功能是可用的，那么士兵既不能吃东西也不能睡觉。
 
-Hint:
-Using the action button "Assign Work Place", you can send soldiers to a barracks or position archers in a defence tower or main warehouse. They will then defend that building in case of an attack. Instead of using this button, you can also assign a selected soldier by right-clicking on the desired building.
+提示：
+使用动作按钮“分配工作地”，你可以指派士兵去兵营，或是去防御塔作阵地射手，还可以指派他去主要的仓库里。他们会防护所在地的建筑，以免建筑受到攻击。不用这个按钮的话，你也可以通过右击需要防护的建筑分配一个选中的士兵。
 [blockend:14]
 
 [blockstart:15] 
 
-BRILLIANT!
+漂亮！
 
-You have conquered the outpost. Unfortunately, you don't know how the Saracen village in the south will react to these confrontations! Therefore, you should build some fortifications to be on the safe side. 
+你已经占领了边缘村庄。不幸的是，你不知道南部的Saracen村庄在两军对峙的时候会如何应对！因此你必须在安全线上建一些防御工事。
 
-FORTIFICATIONS
+防御工事
 
-To protect your village you can have your builders construct some impressive defence towers, stockades and gates. 
+为了保护你的村庄，你应该让施工人员建一些醒目的防御塔，栅栏和门。
 
-DEFENCE TOWERS are defence buildings only. A defence tower can be occupied by several soldiers who secure the surroundings against attackers. The more soldiers occupy a tower, the better its defensive force.
-A small defence tower can be occupied by a maximum of 3 longbow archers and 3 short bow archers, a large defence tower can be occupied by 4 longbow archers and 4 short bow archers.
+防御塔仅仅是一种防御的建筑而已。防御塔可以由几个士兵坚守，士兵要保护周围地区免受攻击者的攻击。坚守防御塔的士兵越多，塔的防御能力就越强。
+一个小防御塔最多可以由３个长弓射手和３个短弓射手坚守，一个大的防御塔可以由４个长弓射手和４个短弓射手坚守。
 
-STOCKADES are not only good against attackers, they are also excellent protection against wild animals. Gates enable your Vikings to depart without problems from a village fortified by stockades. They can only be erected where there is already a reasonably straight stockade.
+栅栏不但可以有效的抵御攻击者，还可以有力的抵制野兽的攻击。门可以让你的Vikings离开一个用栅栏进行防御的村庄，而不出任何问题。门只能被建在有很多栅栏的地方。
 
-Build 2 defence towers here! Find a way to master the Saracens.
+在这建两个防御塔！找到可以征服Saracens的方法。
 [blockend:15]
 
 
 [blockstart:16] 
 
-For your safety, you can ask tribes that are friendly towards you for help. By paying a tribute, you can also often hire a certain number of brave warriors who will support you.
+为了你的安全，你可以向对你表示友好的部落请求帮助。只要送一些礼物，你就可以雇用一定数量的勇士，他们会支援你。
 
-MERCENARIES
+雇佣兵
 
-Mercenaries are controlled exactly the same way as your own soldiers.
+用控制你的士兵一样的方法来控制雇佣兵。
 
-Open the diplomacy window by clicking the button on the left-hand side of the screen or pressing the F5 key. The general map displays all nations which have already been discovered by you. 
-The section where the demanded tributes are shown now displays possible goods demands for hiring mercenaries as well.
-If you have the required goods in your warehouses, you can left-click the corresponding option - and your army will have acquired some new brave warriors!
+点击左手边屏幕上的按钮或是按下Ｆ５键就可以打开外交窗口。总图上显示的是你发现的所有种族。
+需要礼物的区域会显示出来，而且还会显示雇用雇佣兵时可能需要的物品。
+如果在仓库中有你需要的物品，只需左击相应的选项——那么你的军队将获得一些新的勇士！
 
-Hire 5 mercenaries from the Franks!
+从Franks中雇用５个雇佣兵！
 [blockend:16]
 
 [blockstart:17] 
 
-MERCENARIES
+雇佣兵
 
-Your army has acquired some new brave warriors!
+你的军队已经拥有了一些新的勇士！
 
-Hire an additional 5 mercenaries from the Franks if you want to!
+如果你想的话从Franks中再额外雇用５个雇佣兵！
 [blockend:17]
 
 [blockstart:18] 
 
-DIPLOMACY (F5)
+外交（Ｆ５）
 
-Opening the diplomacy window displays a general map. If there is more than one nation on the map, you can see whether the other nations are hostile, neutral or friendly, as well as set your own attitude. These attitudes may sometimes differ: Just because someone is friendly towards you, it doesn't mean you have to like him.
+打开外交窗口就会显示一张总图。如果地图上显示的种族不止一个，你就要看看其他的种族是敌对的，中立的还是友好的，同时也要确立你自己的态度。态度有时可能会不同：就算有的种族对你表示出友好，也并不意味着你也要对他表示友好。
 
-If another nation is hostile towards your Vikings, it will not hesitate to attack your people or their buildings, just as your Viking soldiers will attack if they meet the enemy.
-As soon as a tribe is attacked, its attitude towards the attacker becomes hostile, even if it was friendly before.
+如果另一种族对你的Vikings怀有敌意，就会毫不犹豫的攻击你的人民和建筑，正如你的Vikings如果遇到敌人就要攻击一样。
+一个部落一被攻击，这个部落对攻击者的态度就会变成敌对，即使以前的态度是友好的。
 
-Neutral means that both sides are quite happy with their situation. They don't argue and fight, but they don't trade with one another either.
+态度中立意味着双方对目前的形式都很满意。双方不会争执，打仗，但是他们也不会进行贸易往来。
 
-You can only set your attitude towards nations you have encountered. To do so, click on the button with the respective tribe's colour and adjust your attitude, or pay a tribute.
+你只需对你遇到过的种族确立你的态度。只要点击按钮就可以表明态度， 不同部落的按钮有着各自不同的颜色，调整你的态度，或是送礼物。
 [blockend:18]
 
 [blockstart:19] 
 
-PAYING TRIBUTES
+送礼物
 
-If a tribe's attitude towards you is hostile or neutral, your Vikings may be able to change their attitude by paying a tribute.
-In that case, the tribute required to effect a change of attitude is given in the diplomacy window.
+如果一个部落对你的态度是敌对的或是中立的，你的Vikings可以用送礼的办法改变他们对你的态度。
+在这种情况下，改变态度所需的礼物就会在外交窗口中送出。
 
-If the desired goods are available in your warehouses, left-click the respective button. The goods will immediately be removed from your warehouse and handed over to the other tribe. The latter's attitude towards you will change at once.
+如果想要的物品就在仓库里，只要左击分别代表物品的按钮。该物品就会立即从你的仓库中移出来并传递到另一个部落。这样后者对你的态度就会立即改变。
 
-Pay the demanded tribute to make the Saracens friendly or defeat them in battle!
+送Saracens需要的礼物给他们，使他们对你的态度变得友好，否则就在战争中击败他们！
 [blockend:19]
 
 [blockstart:20] 
 
-BRILLIANT!
+漂亮！
 
-You have performed excellently, both in finding peaceful solutions and in proving your strength in battle! 
+无论是在寻找和平解决的方法上还是在战争中加强你的实力上，你的表现都棒极了！
 
-Proceed to the next tutorial!
+进入下一指南
 [blockend:20]
 
 [blockstart:21] 
 
-BRILLIANT!
+漂亮！
 
-You have real talent as a warrior! However, you really should work on your readiness to find peaceful solutions ... ;0)
+你是一个天生的勇士！即使这样，你也还是要去做这样的工作，就是去寻找和平的解决方法．．．；０）
 
-Proceed to the next tutorial!
+进入下一指南
 [blockend:21]
 
 [blockstart:100]
 <font:$local$\fonts\fonthead16bld.fnt>
-MISSION FAILED!
+任务失败！
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
-Heroism or carelessness? When Bjarni died the gods were crying ... without this hero, the outcome of this mission would have remained hidden to you and you would have had to start all over again! 
+英雄主义还是粗心大意？当Bjarni死去的时候，重神都会哭泣．．．若不是这位英雄，这次任务的结果对于你来说就仍将是未知的，并且你将不得不一切从头开始！
 [blockend:100]

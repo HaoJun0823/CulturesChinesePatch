@@ -1,143 +1,143 @@
 [blockstart:header] 
-THE FOOD CHAIN
+食物链
 [blockend:header] 
 
 [blockstart:00] 
-This tutorial deals with the basic principles of the game, such as the exploitation of raw materials, the erection of buildings and basic food procurement.
+这篇指南将向你介绍该游戏的基本法则，如：原材料的开采、建筑物的修建和基本食物的获取。
 
-EXTRACTORS are the basic workers for any building. At the beginning they collect clay, wood or stone. With the necessary experience, they can also extract gold, ore and mushrooms. 
-Since you'll definitely need extractors, choose one of your Viking civilians, press the SPACEBAR or RIGHT-CLICK and assign him the profession of a clay-worker. You should make sure that his work area is over a clay pit so he can start working. If your extractor has nothing to do later on in the game, that will be because all the raw materials have been exploited. When this happens, just give him a different job. 
+对于任何营造物，采集者都是最基本的工人。任务初始，他们采集黏土，木头或石头。有了必需的技能后，可以开始开采黄金，矿石，蘑菇。
+由于你一定会需要采集者，选择一个Viking居民，按下空格键或者右键点击他，并派遣他去做黏土工。你必须确保他的工作场所在黏土坑，这样他才能开始工作。如果你的采集者在游戏中无所事事，那是因为所有的原料已经开采完毕。此时，给他分配其他的工作。
 
-Turn a Viking into a CLAY-WORKER!
+使Viking成为粘土工人！
 [blockend:00]
 
 [blockstart:01] 
-GOOD!
+干得好！
 
-Now employ a WOODCUTTER and a STONE COLLECTOR.
+现在雇佣一名伐木工和一名采石匠。
 
-Hint: Extractors have professions that don't involve specific work places. You can change the raw materials they extract as well as the goods that are produced, provided that the worker is experienced enough and that the respective work place is available.
+提示：采集者的工作地点没有特殊限制。如果工人们熟练且有空缺的岗位，你可以改变他们所搜集的原料和生产物品。
 
-Give two of your Vikings the job of a woodcutter and a stone collector respectively.
+让你手下的两个维京人分别从事樵夫和石头收集者的工作。
 [blockend:01]
 
 [blockstart:02] 
-To erect buildings, you require builders. To create one of these you must select one of your Viking civilians, press the SPACEBAR or RIGHT-CLICK and turn him into a builder.
+为了建造房屋，你需要建筑工。你必须先选择一个Viking，按下空格键或右键单击就能使他成为建筑工。
 
-Now turn some of your idle men into BUILDERS!
+让你的空闲人手成为建筑工！
 [blockend:02]
 
 
 [blockstart:03] 
-That's it! Now you have some busy builders. 
-You can only build a farm if the clay-worker has extracted enough clay. 
+好了！你现在拥有了忙碌着的建筑工。
+如果黏土工采集到足够的黏土，你便可以建设一个农场。
 
 <usericon:1,250,175>
 
-Click on the building symbol (house with hammer) in the menu bar on the left-hand side of the screen or press "b" on your keyboard, then select the farm from the list. The ground will then darken, except where it is possible to erect a farm. Click with the RIGHT MOUSE BUTTON on any light location of your choice. Your builders will pick a building site to work at on their own, but you can also assign them to particular constructions if necessary.
+在屏幕左侧的菜单条点击建筑符号（带有铁锤的房屋）或按下键盘上的“b”键，然后从列表里选择农场。地面会变暗，表示这里不可以建造农场。在你选择范围里发亮的地方点击鼠标右键。你的建筑工就会自己开始建造房屋，但是如果需要，你也可以指派他们去建造别的建筑。
 
-Have your builders construct a FARM!
+让你的建筑工人建设一个农场！
 [blockend:03]
 
 
 [blockstart:04] 
-Well done! 
+干得好！
 
-Now make at least one of your Vikings a farmer. Once he is experienced enough, your people can build a mill. 
-Watch how the farmer gains experience.
+现在至少需要一个Viking成为农夫。一旦他变得熟练，你的人民就能建造一个磨坊。
+注意农夫怎样获得经验值。
 
 
-Have one of your people join the farm as a farmer!
+再派一个人加入农场建设！
 [blockend:04]
 
 
 [blockstart:05] 
-HINT
+提示
 
-Your workers have several different natural NEEDS. They need to eat, sleep and they want to talk. Armourers who make armour or weapons need the blessing of the gods, so they must pray on a regular basis. 
-All this keeps your characters from doing their jobs, therefore you should make sure they can satisfy their needs.
+你的工人也有各种正常需要。他们要吃喝，睡眠，还需要沟通。制造军械和武器的军械士需要神的祝福，因此他们需要按时有规律的向神进行祷告。
+这些都是让你的人物保持工作状态所必需的，因此你应该确保他们的需要得到满足。
 
-If a worker lives in a nice DWELLING, ideally one close to his work place, he can relax much better than if he has to sleep outside.
-If a woman lives in the dwelling with him, she will cook good food for all the inhabitants. This feeds them better than simple fare. She will also entertain all the inhabitants of her home.
+如果工人居住条件良好，最好是靠近他工作的地段，他能够更加轻松的投入工作。
+如果有妇女居住在他住所的附近，她会为那里的居民烹煮食物。这会更好的满足他们。她还会招待她附近的居民，使他们得到放松。
 
-Long DISTANCES will exhaust your people. You should make sure that work places that depend on one another are as close together as possible. 
+遥远的路途会使你的人民乏力费神。你应该尽可能确保让他们集中的住在一起。
 
-Give your people SHOES so they can walk better and faster. The same applies to roads.
+给你的人民配备鞋子，这样能让他们走得更快更省力。便捷的道路也起到这个作用。
 
-Have your builders construct some dwellings in the meantime, and have your Vikings live in them. Just perform the same actions as you did when building a farm!
+让你的建筑者同时也建造一些住处，让你的Vikings住进去。方法和建造农场一样！
 [blockend:05]
 
 
 [blockstart:06] 
-Your farmer has sufficient experience now! 
+你的农夫具有足够的经验值了！
 
-Your builders can erect a mill! 
+建筑工可以建造磨坊了！
 
 <usericon:1,258,185>
 
-Build the mill close to the farm that supplies it with wheat to grind flour.
+把磨坊建在靠近农场的地方，这样更容易获得小麦供应，把它磨成面粉。
 
-Build a MILL.
+建造一个磨坊。
 [blockend:06]
 
 
 [blockstart:07] 
-Your mill proudly stands! 
+你的磨坊建好了！
 
-Your farmer is the only one who has enough experience in working with wheat. 
+只有具备足够经验值的农夫能去磨面。
 
-Turn the farmer into a miller and watch how he gains experience in his new profession.
+让你的农夫成为磨面工，注意他怎样在新岗位上获得经验值。
  
-Have somebody else work as a farmer to maintain the wheat production.
+让其他的农夫继续生产小麦。
 [blockend:07]
 
 
 [blockstart:08] 
-HINT
+提示
 
-You can assign CARRIERS or MERCHANTS to some work places while we are waiting for the miller. They can help the craftsman a lot and enable him to concentrate on the production of goods. 
+在等待磨坊建设时，你可以派遣搬运工和商人去那些工作场所。他们可以帮助工匠们，使工匠能够集中精神去生产。
 
-Carriers are particularly useful in warehouses and headquarters.
+搬运工在仓库和指挥部能发挥重要作用。
 [blockend:08]
 
 
 [blockstart:09] 
-Your future baker will need water to bake his bread. 
+未来的面包师需要水来烘烤他们的面包。
 
 <usericon:1,231,199>
 
-Build a well close to the place where you will build your bakery later on. There is still room directly in front of the headquarters. It's a nice spot and you can save building space for your really big buildings."
+在要建设面包房的位置附近打一口井。在指挥部的正前方还有一块空地。这是一个不错的地点，你可以为以后的大面积建设留下一些空间。
 
 
-Build a WELL.
+井打好了。
 [blockend:09]
 
 
 [blockstart:10] 
-Build a bakery close to the mill and the well. 
+在井和磨坊的附近建一个面包房。
 
 <usericon:1,244,195>
 
-With the food production from a farm, mill and bakery you can provide food to last a large village for a long time.
+有了农场、磨坊和面包房的食物生产，你为村庄储备了能坚持很长一段时间的食物。
 
 
-Build a BAKERY.
+面包房完成建设
 [blockend:10]
 
 
 [blockstart:11] 
-Your bakery has been built and your Vikings are looking forward to good fresh bread. But first somebody needs to work in the bakery. The only person who can do this due to his experience is the miller. 
+你的面包房建好了，Vikings都期待着新鲜的面包。但是首先得有人去烤面包。只有熟练的磨面工能从事这项工作。
 
 
-Turn the miller into a baker.
-Have a new miller work in the mill, so its production can continue.
-If the farm is empty now, assign a new farmer there.
+将农夫转成面包工人。
+找一个新的磨面工，让生产继续下去。
+如果农场现在是闲置的话，给那儿分配一名新的农夫。
 [blockend:11]
 
 [blockstart:12] 
-CONGRATULATIONS! Your people shouldn't have to go hungry in the near future!
+祝贺你！你的人民最近不会挨饿了！
 
-You have managed to set up a really well-functioning chain of food production!
+你已经成功的打造了一条运转良好的食物生产流水线！
 
-Proceed to the next tutorial!
+进入下一指南
 [blockend:12]

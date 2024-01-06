@@ -1,142 +1,142 @@
 [blockstart:header] 
-BONUS ITEMS AND WEAPONS
+奖励条例和武器
 [blockend:header]
 
 [blockstart:00] 
-Here the bonus items and weapons will be introduced. 
--	collecting
--	using
--	effects/uses
--	own production
--	capturing bonus items
--	soldiers and heroes 
+在这里将介绍奖励条例和武器。
+-	收集
+-	使用
+-	财产／费用
+-	自产
+-	获得奖励
+-	士兵和英雄
 
-There are other things, apart from marriage and homes, that will help you equip your Vikings and influence their happiness, productivity and skills - these are the so-called bonus items.
+除了婚姻和家庭，还有其他的东西可以用来装备你的Vikings，并且这些东西会影响他们愉快的心情，生产力和技能——这就是所谓的奖励条例。
 
-Most bonus items have to be produced and are slowly used up, meaning they need renewing. However, there are some bonus items your Vikings will receive from other nations or find on their journey, mainly in CHESTS ...
+大多数奖励条例被制定后很少会全部用到，这就意味着奖励条例需要更新补充。无论怎样，有一些奖项你的Vikings可以从其他种族那里得到或是在他们旅行时得到，这些奖主要是在箱子里．．．
 [blockend:00]
 
 [blockstart:01] 
-CHESTS
+箱子
 
-There are some chests which can be opened by any Viking - male or female - and magic chests which can only be opened by a druid or a hero. 
-Chests usually contain rare and useful items such as potions or amulets. In some cases, they may also contain powerful house permits. There is even a rumour that some chests open to reveal wild beasts and humans inside them ...
-To open a chest, select a Viking and move your mouse over the chest. You will see the tooltip "Open Chest". Confirm by right-clicking. 
+有一些箱子是任何Vikings都可以打开的，——无论是男的还是女的——而有魔力的箱子只有巫师和英雄才能打开的。
+箱子里通常装的是一些稀有的有用的东西，像药或者是护身符。有时候箱子里也会装功能强大的房屋许可证。甚至还有一个传中说有些箱子里装的是野兽和人．．．
+只要选择一个Viking并在箱子上面移动鼠标就可以打开箱子。可以参考工具提示中的“打开箱子”。右击确定。
 
-Open the three chests to the west, they contain potions for your soldiers! 
+满朝西打开这三个箱子，给你的士兵的药就装在里面！
 [blockend:01]
 
 
 [blockstart:02] 
-POTIONS
+药
 
-If you don't find any potions in chests, but you still need them, they can be brewed by a druid in an alchemist's hut. To do this, the druid requires not only mushrooms and oil, but also water and herbs. He also needs gold in order to acquire mysterious and rare ingredients. All Vikings - excepting women and heroes - can be equipped with these special supply, healing and battle potions. Small potions can be used twice, large ones can be used 5 times. Then they are used up.
+如果在箱子里没找到一点药，而你又需要它，其时巫师可以在炼金术士的屋子里酿出药来的。为了酿药，巫师不仅需要蘑菇和油，还需要水和香草。为了获得神秘而稀有的成分还需要有金子。所有的Vikings——除了妇女和英雄——都可以有这种特殊的供应品，有康复功效的战争用药。小剂量的药可以用两次，大剂量的药可以用５次。而后它就用完了。
 
-There are NOURISHING POTIONS which satisfy hunger; STAMINA POTIONS which protect your Vikings from fatigue, and HEALING POTIONS which heal injuries. 
+还有充饥的营养药，防止Vikings疲劳的耐力药，以及可以医治伤口的治愈药。
 
-Equip your Viking soldiers with the potions by selecting them all - except BJARNI - as a group and pressing the spacebar. Choose the option "CHANGE EQUIPMENT" and give them the potions! You can also tell individual characters how many potions to take of any kind by using the round yellow buttons in the character display. This also opens the equipment register. 
+给你的Viking士兵配备药的时候，选择他们所有人作为一组——除了BJARNI——按下空格键。选择选项“改变装备”然后把药给他们就可以了！你可以告诉个人每种药的服用剂量，只要用在该人物上显示的圆形黄色按钮就行了。同时这样做也可以打开装备记录。
 [blockend:02]
 
 
 [blockstart:03] 
-Great, you have found all the chests with potions!
+太棒了，你已经找到所有装有药的箱子了！
 
-After equipping your soldiers with the potions, go to the Saracen oasis in the south! You'll find mysterious amulets there!
+给你的士兵装备好药之后，就向Saracen南部的绿洲进发了！在那你会发现神秘的护身符！
 [blockend:03]
 
 
 [blockstart:04] 
-AMULETS
+护身符
  
-Amulets cannot be manufactured. You either have to find them or purchase them by trading with other tribes. All male Vikings - except your heroes - can be equipped with amulets. They give the bearer certain characteristics and their power is never diminished. There are various kinds of amulets:
-A nourishing amulet prevents the bearer from starving, an amulet of stamina keeps the bearer awake, an amulet of strength gives the bearer courage and bravery and increases his strength in an attack by 50 percent, an amulet of defence weakens the blow of attacks by wild beasts and enemies, an amulet of precision has a 20 percent chance of increasing the bearer's strength in an attack on animals and enemies, and 
-a wind amulet enables the bearer to move faster. 
+护身符是无法生产的。你只有找到它，或是与其它部落进行贸易交换得到它。所有的男性Vikings——除了英雄——都可以配有护身符。护身符会带给佩带它的人一定的特质使他们的力量永远不会减少。有各种各样的护身符：
+营养护身符可以防止佩戴者饥饿，耐力护身符可以让佩戴者保持清醒，力量护身符带给佩戴者勇气和力量，并且在一次攻击中可以增加他百分之五十的力量，防御护身符可以减弱野兽和敌人对他的攻击力，精度护身符在一次面对野兽和敌人的攻击中，它有百分之二十的机会可以增加佩戴者的力量，
+风护身符可以让佩戴者移动的更快。
 
-Find all six amulets in the Saracens' village and equip your Viking soldiers with the amulets by proceeding in the same way as for the potions.
+在Saracen的村庄里找到全部６种护身符，给你的Viking士兵装备护身符，步骤和装备药是一样的。
 [blockend:04]
 
 [blockstart:05] 
-GOOD! You have found all the amulets in the Saracens' village! If you have kept your eyes open in the village, you should have seen some weapons as well. 
+很好！你已经找到了Saracen村庄里所有的护身符！如果你一直在村庄里四处看，你还会看到一些武器。
 
-ARMOUR AND WEAPONS
+盔甲和武器
 
-On the one hand, weapons and armour can be produced by your Viking tribe; on the other hand, they can also be taken off other warriors in battle - every defeated warrior leaves his weapon, armour and his unused potions and amulets behind. You can use these to equip your own Viking soldiers. 
+一方面，盔甲和武器是可以由你的Viking部落生产的，另一方面，盔甲和武器也可以在战争中通过缴械其他战士的而获得——每一个被击败的战士都会放下武器，盔甲和他没用的药，还有护身符。你可以用这些去装备你的Viking士兵。
 
-Try it! A little to the north 5 robbers are on the rampage and might pose a threat to your village as well. Confront them and use their equipment!
+试一下！往北一点的地方，有５个强盗在制造暴乱，同时也可能会对你的村庄构成威胁。用他们的武器迎击他们！
 
 
-P.S.: You'll find a description of which weapons are efficient against which armour and which are not in the help and in the weapon efficiency table in the manual. 
+P.S.:在手册的武器功效列表中，你可以找到那种武器可以有效的攻击那种盔甲，那种武器则没用的详细说明。
 [blockend:05]
 
 
 [blockstart:06] 
-You have successfully confronted the robbers! Now you can search the map for additional chests and equipment ... 
+你已经成功的迎击了强盗！现在你就可以搜索地图，去寻找额外的箱子和装备．．．
 [blockend:06]
 
 [blockstart:07] 
- ... but for now we'll return to your civilian population, because you can contribute a lot to their well-being as well:
+．．．但是现在我们要回报你的人民，因为你也能让他们过上好生活。
 
-WOODEN TOOLS
+木制工具
 
-These increase a worker's productivity. He can produce more goods in the same space of time with wooden tools than he could without them. Wooden tools are produced by a carpenter.
+木制工具可以提高工人的生产力。在同样的时间里，工人用木制工具会比不用木制工具生产更多的产品。木制工具是木匠造出来的。
 
-Have the carpenter make 5 wooden tools and give them to the population by activating the order "Always give wooden tools to civilians" in the extras window (the button with the chest symbol)!
+让木匠做５个木制的工具，要把这些工具配给你的人民，只需激活命令 “将木制工具配给人民”，该命令在另外的窗口里（按钮上有箱子的标记）！
 [blockend:07]
 
 [blockstart:08]
-IRON TOOLS
+铁制工具
 
-Iron tools increase a worker's productivity even more than wooden tools. In other words, his output becomes even greater. Iron tools are produced by a blacksmith.
+铁制工具可以增加工人的生产力，甚至比木制工具增加的更多。换句话说就是，用铁制工具做出来的东西更多了。铁制工具是由铁匠打制的。
 
-Have the blacksmith make iron tools and give them to the population using the same procedure as for the wooden tools!
+让铁匠打造铁制工具，然后把工具发给人民，发铁制工具的步骤和发木制工具的步骤是一样的！
 [blockend:08]
 
 [blockstart:09] 
-FURNITURE
+家具
 
-If you have furniture (beds) in your houses, your Vikings will sleep much better. Their need for sleep can then be fulfilled entirely! Furniture is produced by a carpenter and fetched to the house by a woman.
+如果在你们的房子里有家具（床），那么你的Vikings可以睡得更好。他们的睡眠需求就完全可以满足了！家具是由木匠制造，由妇女搬进房子里的。
 
-Change the production of the carpenter in your village to furniture and equip your dwellings with it!
+将你的村庄里木匠生产的产品改为家具，用家具去布置住处！
 [blockend:09]
 
 
 [blockstart:10] 
-CROCKERY
+陶器
 
-Crockery enables your Viking women to improve their meals and double their nutritional values!
-Crockery is produced in a pottery.
+陶器可以让你的Viking妇女改善她们的伙食，并且具有双倍的营养价值！
+陶器是在陶器场制造的。
 
-Change the potter's production to crockery and equip your dwellings with it!
+将制陶工人生产的产品改为陶器，你就可以用陶器来装饰住处了！
 [blockend:10]
 
 [blockstart:11] 
-SHOES
+鞋
 
-Every barefoot Viking would give just about anything for a pair of shoes, as these make walking much more pleasant. A Viking wearing shoes can walk much faster and uses up less energy, meaning he won't become hungry and tired so quickly. Shoes are produced in a tailor's workshop.
+任何一个赤脚的Viking都愿意用任何东西去换一双鞋，因为有了鞋走路就舒服多了。穿了鞋的Viking走得更快，消耗的能量更少，这就意味着他不会那么快就感到饥饿和疲倦。鞋是在裁缝车铺里做的。
 
-Have your tailor produce shoes, give them to the population and take five of them to the headquarters!
+让裁缝做鞋子，把鞋子分发给人民，并把其中的５双送给司令部！
 [blockend:11]
 
 [blockstart:12]
-OIL (Holy Fire)
+油（圣火）
 
-Outside each dwelling is a metal dish that a woman can fill with oil and use to light the Holy Fire. Once this blue flame begins to flicker, a man can come to this house to pray. This covers his need for religion! Oil is produced by a druid. 
+在每一个住所的外面都有一个金属盘，妇女用油把它装满，用来点燃圣火。一旦蓝色的火焰在一所房子前开始闪动，男人们就可以来到这所房子前祈祷。这是一种对宗教信仰的需求！油是巫师制造的。
 
-Have the druid produce 5 oil and take it to the headquarters!
+让巫师制出来５份油，把这些油拿到司令部去！
 [blockend:12]
 
 [blockstart:13]
-GREAT!
+太好了！
 
-If you have completed the tutorials in sequence, you have now perfectly mastered them all! 
+如果你依次完成了向导，那么你已经熟练的掌握了所有步骤！
 
-You can replay them individually to refresh your knowledge of the game's mechanisms any time. 
+任何时候你都可以重新分别去玩任何一个游戏，更新对这个游戏机制的了解。
 [blockend:13]
 
 
 [blockstart:100]
 
-Heroism or carelessness? When Bjarni died the gods were crying ... without this hero, the outcome of this mission would have remained hidden to you and you would have had to start all over again! 
+英雄主义还是粗心大意？当Bjarni死去的时候，重神都会哭泣．．．若不是这位英雄，这次任务的结果对于你来说就仍将是未知的，并且你将不得不一切从头开始！
 
 <picture:$local$\graphics\Hero_Dead_F.pcx>
 [blockend:100]
