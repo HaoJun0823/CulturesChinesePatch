@@ -1,0 +1,305 @@
+[blockstart:header] 
+THE HANGING GARDENS 
+OF SEMIRAMIS
+[blockend:header]
+
+[blockstart:00_start] 
+We were settling down along the Euphrates. There it was, the large and mighty city of Babylon. It must have been in this area that King Nebuchadnezzar once had the Hanging Gardens built for his wife, as she loved these wooded mountains. The Gardens were named after the legendary Queen Semiramis of Assyria.
+
+This was the second Wonder of the Ancient World that had to be resurrected with our help ...
+
+[blockend:00_start]
+[blockstart:00_start1] 
+But we had active support: The Babylonians had already been trying to water the fields and grow rare plants for a few months. But Mother Earth did not offer enough nutrients, and also the plans of the Hanging Gardens seemed to be incomplete ... 
+
+Find a site to build the legendary Hanging Gardens. You will receive more detailed instructions there. 
+[blockend:00_start1]
+
+
+[blockstart:50_endheader] 
+MISSION COMPLETED! 
+[blockend:50_endheader]
+[blockstart:50_end] 
+We were full of pride when the first plants began to grow and the trees took root in the artificial terraces.
+
+[blockend:50_end]
+[blockstart:50_end1] 
+The people of Babylon were full of gratitude for our help. The Council of Nations, too, was deeply satisfied. Our next task waited in the land of the Greeks: THE COLOSSUS OF RHODES!
+[blockend:50_end1]
+
+
+[blockstart:01] 
+SITE OF THE HANGING GARDENS
+
+We had found an ideal site to build the Gardens.
+The people of Babylon and the nomads of the surrounding villages had already been watering this place, but there was still much to be done. 
+
+<usericon:1,368,115>
+
+We had to dig some wells and get the building materials for the artificial terraces! 
+
+Build 9 wells near the Gardens to produce water. Additionally, deliver 80 wood, 40 stones, 40 clay and 40 tiles to the Gardens for the artificial mountain terraces! 
+[blockend:01]
+
+
+[blockstart:02] 
+WELL BUILT
+
+We had done our work well and managed to build 9 wells in this area! Now we only had to take the required goods to this building site. 
+[blockend:02]
+
+[blockstart:03] 
+GOODS DELIVERED!
+
+We had delivered the required goods to the building site. But we still had to build the wells in order to supply the Gardens with water ...
+[blockend:03]
+
+[blockstart:04] 
+NEW UPGRADE LEVEL OF THE WONDER
+
+We had built the wells and delivered the required goods to the building site. It did not take long until the foundations were laid. 
+
+<usericon:1,357,112>
+
+Using the rest of the clay, the Babylonians shaped little granules to dig their plants in. The water in these clay granules was stored for days - a great feature! They named this invention after their Assyrian Queen Semiramis. These clay granules later became known as Seramis due to a typing error made by some young scholar ...
+ 
+Now, since the plans for the Hanging Gardens seemed to be incomplete, we could not proceed with our work ... 
+
+Find the other part of the construction plan!
+
+
+Also the plants planted by the Babylonians didn't seem to want to blossom. Their ancestors must have used a secret art of plant growing?!
+
+Find out their secret! Collect cattle!
+[blockend:04]
+
+[blockstart:05] 
+KOBUL
+
+When we crossed the arm of the river, the inhabitants of a small village approached us. They were neither friendly nor hostile, but they were willing to trade with us if we paid them a tribute. 
+
+<usericon:1,533,22>
+
+They noticed our good footwear, even though our shoes were rather worn. They wanted to have a few pairs for themselves! 
+
+Give the Kobulians a few pairs of shoes, and they will present their trade offers! 
+[blockend:05]
+
+[blockstart:06] 
+BABYLON
+
+These were the gates of the legendary city of Babylon.
+Full of curiosity and uncertainty, we entered the city. 
+
+<usericon:1,320,164>
+
+What would we find there? 
+[blockend:06]
+
+[blockstart:07] 
+SHEPHERDS
+
+Deep in the south lived a quiet pastoral tribe that suffered a great disaster.
+
+<usericon:1,321,382>
+
+"Our poor women," they wailed. "They were kidnapped during the night by wild Saracen robbers!" They had already sent out a search party, but in vain! "Help us to get our women back, and we will support your mission! The rest of our women are kept safe in the underground halls, so that they will be spared by those barbarians!"
+
+"These three dragons accompanied us out of the underground halls this morning. We live in harmony and help each other out in times of need. They will be glad to assist you." 
+
+<usericon:2,20>
+
+Free the shepherds' women!
+[blockend:07]
+
+
+[blockstart:08] 
+ROBBERS
+
+"Hey, you! You are not welcome in our camp! Pay us a tribute and we will do you no harm!
+
+<usericon:1,103,196>
+
+[blockend:08]
+
+[blockstart:09] 
+NOMADS
+
+We came across a little oasis in the middle of the desert, untouched by the rest of the world. 
+
+Things were very peaceful here, the people were friendly and obliging. Nobody knew how urgent our mission was to resurrect the Wonders of the World ... 
+[blockend:09]
+
+[blockstart:10] 
+SHEPHERDS
+
+"You have brought us back our beloved women!" the shepherds cried joyfully when we returned to the village. "As a reward, you may have all our cows! They will provide milk and dung for rare plants! Maybe they will be of use to you.
+ 
+Also, the way to the underground halls is now open to you! That is where we have so far hidden the women who were not kidnapped by the Saracens. When they hear how you helped us, they will surely give you the construction plans!"
+
+Take your heroes to the underground halls!
+[blockend:10]
+
+[blockstart:11] 
+NEW UPGRADE LEVEL OF THE WONDER
+
+With the help of the missing construction plan, it had to be possible to construct a firm framework for the Hanging Gardens. 
+
+<usericon:2,5>
+
+We had gained a new little friend in this mission. But as yet we did not know how much help he would be!
+[blockend:11]
+
+[blockstart:12] 
+NEW UPGRADE LEVEL OF THE WONDER
+
+The plants in the Gardens reached into the sky with their thick, bright green leaves! The cow dung provided the plants with the necessary nutrients. 
+
+<usericon:1,357,112>
+[blockend:12]
+
+[blockstart:13] 
+TRIBUTE PAID TO KOBUL!
+
+We had given the shoes to the Kobulians as a tribute. They instantly changed their attitude towards us. They were so happy about the shoes that they made us some extremely favourable trade offers. 
+[blockend:13]
+
+[blockstart:14] 
+TRIBUTE PAID TO ROBBERS!
+
+After we had paid the robbers the enormous tribute, they reluctantly let the women of the Saracen shepherds go. They said that the Saracen shepherds were easy victims, so they might attack and plunder them again any time ...
+[blockend:14]
+
+[blockstart:15] 
+ENTRANCE TO THE UNDERGROUND HALLS
+
+You don't have permission to enter the underground halls. Go and help the pastoral tribe. Then return with your heroes, and you will be allowed to enter!
+
+<usericon:1,39,473>
+[blockend:15]
+
+[blockstart:16] 
+"Maybe some cattle dung would help the plants of the Hanging Gardens to grow," we though when we found the first cow ...
+[blockend:16]
+
+[blockstart:17] 
+BUILDER
+
+"We have come to assist in the construction of the Hanging Gardens," the hard-working people above the building site told us. 
+
+<usericon:1,373,35>
+
+"You are welcome to use the resources from our warehouse."
+[blockend:17]
+
+[blockstart:18] 
+MAGIC FIELDS
+
+A strange magic surrounds the bright fields that are fenced by obelisks as high as five men. One of them will take you to a valley in the desert, the other one will bring you back!
+[blockend:18]
+
+[blockstart:19] 
+50 QUARRYSTONES
+
+<usericon:1,367,38>
+
+There were 50 quarrystones in this magic chest. They were automatically transferred to our headquarters!
+[blockend:19]
+
+[blockstart:20] 
+100 COINS
+
+<usericon:1,289,124>
+
+There were 100 gold coins in this magic chest. They were automatically transferred to our headquarters!
+[blockend:20]
+
+[blockstart:21] 
+SARACEN WOMEN DEAD!
+
+Oh dear, the shepherds' wives have died. Without these women, the outcome of the mission will remain hidden to you!
+[blockend:21]
+
+[blockstart:22] 
+ROBBERS DEFEATED!
+
+We had successfully beaten the robbers! Never again would they harm the pastoral tribe. 
+[blockend:22]
+
+[blockstart:23] 
+CATAPULTS FOUND
+
+<usericon:1,103,74>
+
+Who had left these catapults here? In any case, they would prove very helpful for us!
+[blockend:23]
+
+[blockstart:24] 
+NEW FRIENDS
+
+<usericon:2,6>
+
+When MANI and NORBERT met for the first time, they immediately knew that they would become the best of friends! 
+[blockend:24]
+
+[blockstart:25] 
+MANI
+
+<usericon:2,6>
+
+One day MANI wants to be a hero like Cyra and Bjarni. But he is still too little for this mission!
+[blockend:25]
+
+[blockstart:26] 
+COWS CAUGHT! 
+
+We managed to catch the cows, but without the construction plans and the completed construction of the Hanging Gardens, they were of no use to us!
+[blockend:26]
+
+[blockstart:100]
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION FAILED!
+<font:$local$\fonts\font12.fnt>
+<picture:$local$\graphics\Hero_Dead_F.pcx>
+Heroism or carelessness? When BJARNI died the gods were crying ... without this hero, the outcome of this mission will remain hidden to you!
+[blockend:100]
+
+[blockstart:200]
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION FAILED!
+<font:$local$\fonts\font12.fnt>
+<picture:$local$\graphics\Hero_Dead_F.pcx>
+A short moment of negligence, that's all it takes to lose your life! Your heroine CYRA died due to your negligence! Without this heroine, the outcome of this mission will remain hidden to you! 
+[blockend:200]
+
+[blockstart:300]
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION FAILED!
+<font:$local$\fonts\font12.fnt>
+<picture:$local$\graphics\Hero_Dead_F.pcx>
+A short moment of negligence, that's all it takes to lose your life! Your friend and hero HATCHIE died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you! 
+[blockend:300]
+
+[blockstart:400]
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION FAILED!
+<font:$local$\fonts\font12.fnt>
+<picture:$local$\graphics\Hero_Dead_F.pcx>
+A short moment of negligence, that's all it takes to lose your life! Your friend and hero SIGURD died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you! 
+[blockend:400]
+
+[blockstart:500]
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION FAILED!
+<font:$local$\fonts\font12.fnt>
+<picture:$local$\graphics\Hero_Dead_F.pcx>
+A short moment of negligence, that's all it takes to lose your life! Your friend and hero NORBERT, the dragon, died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you!
+[blockend:500]
+
+[blockstart:600]
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION FAILED!
+<font:$local$\fonts\font12.fnt>
+<picture:$local$\graphics\Hero_Dead_F.pcx>
+A short moment of negligence, that's all it takes to lose your life! MANI, son of Bjarni and Cyra, died due to your negligence! Without him, the outcome of this mission will remain hidden to you!
+[blockend:600]

@@ -1,0 +1,461 @@
+[blockstart:header] 
+THE PHAROS LIGHTHOUSE
+[blockend:header]
+
+[blockstart:00_start]
+Shadow and chaos were threatening the world. A dark power was spreading across the lands, turning people into beasts and life into death. A feeling of melancholy and hopelessness was slowly pervading the people. Where there had once been happiness, now there was sadness and depression. All that was left of the once large and mighty kingdoms were the memories ...
+
+And so the Council of Nations had gathered in order to find a solution.
+
+When the ambassador reached the Council with news of the ancient legend, the signs of the past were interpreted: The dark power could only be banned by reviving the largest and most glorious works of humanity. Their mysterious powers might be able to avert all evil.
+
+And thus the Council of Nations decided to resurrect all the Wonders of the Ancient World ... 
+
+[blockend:00_start]
+[blockstart:00_start1] 
+But even the last two Wonders of the World that were still preserved, the Pyramids of Giza and the Lighthouse on the island of Pharos off the coast of Alexandria, were threatened. Regular earthquakes shook the Lighthouse, and invading armies of dark warriors and wild beasts threatened the Pyramids. Together the nations would have to act quickly.
+
+While the frontlines at the Pyramids of Giza are defended by the Byzantines, Egyptians and Saracens, it is up to your Viking people to save the Lighthouse of Alexandria from collapsing with the help of the most powerful heroes of the present day.
+[blockend:00_start1]
+
+[blockstart:50_endheader] 
+MISSION COMPLETED! 
+[blockend:50_endheader]
+[blockstart:50_end] 
+We had made it! The Pharos Lighthouse, probably the tallest building on Earth, was shining again and could be seen by sailors far out at sea. From now on it would guarantee them a safe entry into the harbour. 
+
+[blockend:50_end]
+[blockstart:50_end1] 
+The people of Alexandria were grateful for our support and planned to organise a large feast in our honour. However, the next task was already waiting: the HANGING GARDENS OF SEMIRAMIS in Babylon were our next port of call ...
+[blockend:50_end1]
+
+
+[blockstart:01] 
+MOORING PLACE FOUND!
+
+<usericon:1,294,174>
+
+We found an ideal mooring place in this little bay. Lush green meadows invited us to set up our dwellings in this spot.
+
+Unload the goods and set up a small settlement.
+[blockend:01]
+
+
+[blockstart:02] 
+NOMAD TRIBES
+
+A large part of the Lighthouse had already been destroyed, and if we did not act quickly this Wonder of the World would not survive the next tremors! 
+Many extractors from other surrounding nomadic tribes, like this one here, were also already mining stone. 
+
+<usericon:1,341,264>
+
+Unfortunately, they did not have the necessary carriers and merchants to carry the stones to a warehouse near the Lighthouse. We were able to help them ...
+
+Take 100 stones and 50 blocks of marble to the Lighthouse. If you want to, you can use the nomad tribe's trade offers! 
+
+Hint: Build a well directly next to the headquarters. If a carrier works in the headquarters, he will constantly deliver water that you need for trading.
+[blockend:02]
+
+[blockstart:03] 
+GOODS DELIVERED
+NEW UPGRADE LEVEL REACHED!
+
+<usericon:1,219,71>
+
+We had unloaded the required goods in the warehouse at the Lighthouse, and the people of Alexandria showed their gratitude. Nevertheless, the work was not going very well. Vagabonds had recently kidnapped the building's engineer in the mountains, and since then there was no one who really knew how to build it. Maybe we could talk to the vagabonds and reach a peaceful agreement ... 
+
+Free the architect SOSTRATOS from the vagabonds' camp and take him to the Lighthouse.
+[blockend:03]
+
+[blockstart:04] 
+VAGABONDS
+
+"Hey, you! We do not tolerate intruders in our village!
+
+<usericon:1,538,280>
+
+Or are you here to pay the ransom for the architect SOSTRATOS?! The ransom that we charged the Alexandrines, however, is no longer enough! We now want more, as dragon fodder is becoming more and more expensive as well! 
+Also, it is said that you Vikings can brew incredible amounts of mead. We wouldn't mind having a few barrels ourselves!" 
+
+Pay the tribute or drive the vagabonds out of this region!
+[blockend:04]
+
+[blockstart:05] 
+VAGABONDS
+
+"Your ale was very tasty, and since you paid the ransom, you are welcome to have a look around our camp and take whatever you want - even the architect! He is of no use to us anyway!" the vagabonds said before they became intoxicated and disappeared in their houses ... 
+
+<usericon:1,562,272>
+[blockend:05]
+
+[blockstart:06] 
+SOSTRATOS
+
+"Greetings. The Alexandrines must have sent you, for I haven't finished my work yet! 
+
+<usericon:2,5>
+
+They will probably not be able to finish it without me. Would you take me to the Lighthouse?
+
+Take SOSTRATOS to the Lighthouse.
+[blockend:06]
+
+[blockstart:07] 
+ARCHITECT AT LIGHTHOUSE
+NEW UPGRADE LEVEL REACHED!
+
+<usericon:2,5>
+
+The architect SOSTRATOS, who knew his business very well, gave the necessary instructions for building the Lighthouse. 
+[blockend:07]
+
+
+[blockstart:08] 
+ALEXANDRIA
+
+These were the gates of the legendary city of Alexandria! 
+
+<usericon:1,243,371>
+
+Full of curiosity and uncertainty, we entered the city. 
+What would we find here? 
+
+Explore Alexandria and open the hidden chests!
+[blockend:08]
+
+[blockstart:09] 
+GUARDS!
+
+Two sinister-looking guards approached us: 
+
+"Wait! Not another step, or you will feel pain!"
+
+<usericon:2,12>
+[blockend:09]
+
+
+[blockstart:10] 
+GATES OPENED!
+
+When we operated this switch, two gates opened nearby! 
+
+<usericon:1,51,471>
+
+What could be hiding behind those gates? Surely one of them would lead into the mines where the Holy Fire was said to be kept! One of our men had to stay on the switch, so that we could pass through the gates ...
+[blockend:10]
+
+[blockstart:11] 
+VIKING SCOUTS
+
+"My people sent me to explore the mines of the Saracens! They are up to no good and they have stolen the Holy Fire from the Lighthouse!" 
+
+<usericon:2,8>
+
+The Viking said that the gates could not be opened. There had to be a key or a switch somewhere nearby! 
+
+Open the gates!
+[blockend:11]
+
+[blockstart:12] 
+The gates of the mountain people could not be opened, there had to be a key or a switch somewhere ...
+
+<usericon:1,51,471>
+[blockend:12]
+
+[blockstart:13] 
+VIKINGS 
+
+Other Vikings had also settled in these fertile plains along the Nile. 
+
+<usericon:1,109,240>
+
+If we delivered them their requested goods, they were prepared to support us in our mission ...
+[blockend:13]
+
+[blockstart:14] 
+PEOPLE'S SUPPORT GAINED!
+
+We had delivered the Vikings their requested goods. Now they offered us their support. 
+
+<usericon:1,122,195>
+
+We established another Viking village, and their soldiers, too, were willing to support us in battle.
+[blockend:14]
+
+[blockstart:15] 
+NOMAD TRIBE
+
+We came across a little oasis in the middle of the desert, untouched by the rest of the world. 
+
+Things were very peaceful here, the people were friendly and obliging. Nobody knew how urgent our mission was to resurrect the Wonders of the World ... 
+[blockend:15]
+
+[blockstart:16] 
+VAGABONDS
+
+"You dare to venture here? We will teach you some manners!"
+[blockend:16]
+
+[blockstart:17] 
+MOUNTAIN PEOPLE
+
+"What was that? 
+
+<usericon:1,97,458>
+
+"Go away! We won't let some Norman tramps walk away with our precious gold! 
+Or are you willing to pay us a tribute?"
+[blockend:17]
+
+
+[blockstart:18] 
+MOUNTAIN PEOPLE
+
+"As long as you do not attack us, we will not do you any harm! But should you touch our gold, you'll be very sorry!"
+[blockend:18]
+
+[blockstart:19] 
+MOUNTAIN PEOPLE
+
+<usericon:1,97,458>
+
+"You dare to attack us?
+You will regret this, infidel! Our brothers will come to help us and drive you back to the sea!"
+[blockend:19]
+
+[blockstart:20]
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION FAILED!
+<font:$local$\fonts\font12.fnt>
+The architect SOSTRATOS has died! Now you will never be able to build the Lighthouse! The mission has failed!
+[blockend:20]
+
+
+[blockstart:21] 
+MOUNTAIN PEOPLE SURRENDER!
+
+<usericon:1,97,458>
+
+When the mountain people saw that they could not win against our tactics and strength, they finally gave in and reluctantly let us have their gold and gave up mining.
+[blockend:21]
+
+
+[blockstart:22] 
+THE OLD MAN
+
+At first we thought it was a fata morgana. But all of a sudden an old man did indeed appear in the middle of the desert! Where he came from, only Odin knew ...
+
+<usericon:1,395,262>
+
+"I've been robbed! By those miserable vagabonds in the eastern mountains!" the old man swore when he approached us. 
+"They even had dragons with them! But they had no use for an old man like me, so they let me go. The poor engineer they are keeping captive will surely face a more tragic fate ..."  
+
+"It is easy to get lost in this vast desert," the old man whispered. "I came from the north where the land is dusty and empty. In the south there are only some scattered nomad villages, and if you look to the west, you will see the domes of the town of Alexandria."
+
+A strange magic surrounds the bright fields that are fenced by obelisks as high as five men. The lower one will take you across the Nile, the other one will bring you back!
+[blockend:22]
+
+[blockstart:23] 
+THE OLD MAN
+
+This land was full of surprises! All of a sudden we met an old man who was leaning on a crooked staff.
+
+<usericon:1,171,237>
+
+"Oh, more Vikings," the old man muttered. "There will soon be more Vikings than Saracens! Though the Northlanders in the west are actually rather nice, albeit rough lads. They don't particularly like the mountain people in the south ..."
+
+"They don't have a chieftain and they are looking for a strong leader ... Maybe you can take over this people?" he mumbled into his beard.
+[blockend:23]
+
+
+[blockstart:24] 
+SHIPS OF ALEXANDRIA
+
+In the entrance to the harbour we came across some ships belonging to the people and merchants of Alexandria.
+
+<usericon:1,215,138>
+
+They had been expecting us and directed us to a suitable spot for settlement. Soon we would learn more about our mission ...
+[blockend:24]
+
+[blockstart:25] 
+SOSTRATOS' FATHER
+
+<usericon:2,9>
+
+"Oh my poor boy! Have you found him yet? He is an architect like me, and he was about to fortify his largest work, the Lighthouse of Alexandria. What wouldn't I give to have him back! He must have been kidnapped! Whoever finds and frees him will be given a valuable award!" 
+[blockend:25]
+
+[blockstart:26] 
+SOSTRATOS' FATHER
+
+<usericon:2,9>
+
+"Oh my poor boy! You are the one who found him! Allah be praised! Take these precious amulets!"
+[blockend:26]
+
+[blockstart:27] 
+EARTHQUAKE!
+
+We had not been in this region for long, but these earthquakes were enormous! The once so magnificent Lighthouse collapsed. 
+
+<usericon:1,219,76>
+
+The damaged Lighthouse would not be able to withstand the vibrations for much longer!
+
+Take 100 quarrystones and 50 blocks of marble to the Lighthouse for repairs.
+[blockend:27]
+
+[blockstart:28] 
+EARTHQUAKE!
+
+Every tremor damaged the Pharos Lighthouse! We had to hurry up and repair it!
+
+<usericon:1,219,76>
+[blockend:28]
+
+[blockstart:29] 
+EARTHQUAKE!
+
+The earthquake hardly did any damage to the newly fortified Lighthouse. Nevertheless, we had to hurry up and find the Holy Fire!
+
+<usericon:1,219,55>
+[blockend:29]
+
+[blockstart:30] 
+WAREHOUSE OF THE SARACENS
+
+<usericon:1,240,126>
+
+The Saracens must have built this warehouse particularly for the construction works at the Lighthouse. But why did they want to trade these particular goods? We thought it wiser to take them to an extra warehouse and only trade superfluous goods.
+
+Build an EXTRA warehouse if necessary, and don't forget to put up signposts along the trade route!
+[blockend:30]
+
+
+[blockstart:31] 
+You are not yet allowed to operate this switch!
+
+<usericon:1,51,471>
+[blockend:31]
+
+[blockstart:32] 
+RANSOM 
+
+Alexandria gave us the originally requested ransom money of 100 coins and some soldiers to hunt down the vagabonds and free the engineer. It was up to us to decide whether to fight them or pay the ransom ...
+
+<usericon:2,14>
+[blockend:32]
+
+[blockstart:33] 
+WAREHOUSE BUILT!
+
+We had built a warehouse. Now we only had to store the required goods there or take them to some place nearby.
+[blockend:33]
+
+[blockstart:34] 
+PEOPLE DEFEATED!
+
+Your Viking soldiers heroically proved their courage and bravery and won!
+[blockend:34]
+
+[blockstart:35] 
+MAGIC FIELDS
+
+A strange magic surrounds the bright fields that are fenced by obelisks as high as five men. The lower one will take you across the Nile, the other one will bring you back!
+
+<usericon:1,410,263>
+[blockend:35]
+
+[blockstart:36] 
+GOODS DELIVERED
+NEW UPGRADE LEVEL REACHED!
+
+We had taken the required goods to the warehouse at the Lighthouse, and the people of Alexandria showed their gratitude. 
+
+<usericon:1,219,76>
+[blockend:36]
+
+[blockstart:37] 
+THE SEARCH FOR THE HOLY FIRE
+
+Soon the Lighthouse stood tall before us, and no earthquake in this world should ever be able to raze it to the ground again! 
+
+<usericon:1,219,55>
+
+But something was still missing ... Although the Lighthouse stood firm as a rock, it did not show sailors the way into the city - it had no light! 
+No ordinary fire was to light the top of this Wonder of the World, the Alexandrines wanted to regain the Holy Fire from the mountains. Disloyal Saracen nomads were using it in their gold mines. 
+
+Search for the Holy Fire in the south-west and take it to the Lighthouse.
+[blockend:37]
+
+[blockstart:38] 
+MANI
+
+<usericon:2,6>
+
+Mani is the son of Bjarni and Cyra. He is allowed to join their adventures for the first time. Make sure he isn't harmed!
+
+Since the dark threat began, some children haven't grown any older. Mani is one of them ...
+[blockend:38]
+
+[blockstart:39] 
+MANI IS STILL TOO LITTLE!
+
+<usericon:2,6>
+
+One day MANI wants to be a hero like Cyra and Bjarni. But he is still too little for this mission!
+[blockend:39]
+
+[blockstart:40] 
+THE OLD MAN
+
+This town was full of surprises! Between some camels we met an old man who was leaning on a crooked staff.
+
+<usericon:1,211,309>
+
+"If you leave the city in the north," he muttered, "you will meet SOSTRATOS' FATHER, whose son's fate worries him greatly. If you then continue to the west, you will meet other Northlanders. They don't have a chieftain and they are looking for a strong leader ... Maybe you can take over this people?" he mumbled into his beard.
+
+"The mountain people in the south-west, however, are the greediest people when it comes to gold! Treat them with care, they do not allow anyone into their lands!"
+[blockend:40]
+
+
+[blockstart:100]
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION FAILED!
+<font:$local$\fonts\font12.fnt>
+<picture:$local$\graphics\Hero_Dead_F.pcx>
+Heroism or carelessness? When BJARNI died the gods were crying ... without this hero, the outcome of this mission will remain hidden to you!
+[blockend:100]
+
+[blockstart:200]
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION FAILED!
+<font:$local$\fonts\font12.fnt>
+<picture:$local$\graphics\Hero_Dead_F.pcx>
+A short moment of negligence, that's all it takes to lose your life! Your heroine CYRA died due to your negligence! Without this heroine, the outcome of this mission will remain hidden to you! 
+[blockend:200]
+
+[blockstart:300]
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION FAILED!
+<font:$local$\fonts\font12.fnt>
+<picture:$local$\graphics\Hero_Dead_F.pcx>
+A short moment of negligence, that's all it takes to lose your life! Your friend and hero HATCHIE died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you! 
+[blockend:300]
+
+[blockstart:400]
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION FAILED!
+<font:$local$\fonts\font12.fnt>
+<picture:$local$\graphics\Hero_Dead_F.pcx>
+A short moment of negligence, that's all it takes to lose your life! Your friend and hero SIGURD died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you! 
+[blockend:400]
+
+[blockstart:600]
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION FAILED!
+<font:$local$\fonts\font12.fnt>
+<picture:$local$\graphics\Hero_Dead_F.pcx>
+A short moment of negligence, that's all it takes to lose your life! MANI, son of Bjarni and Cyra, died due to your negligence! Without him, the outcome of this mission will remain hidden to you!
+[blockend:600]

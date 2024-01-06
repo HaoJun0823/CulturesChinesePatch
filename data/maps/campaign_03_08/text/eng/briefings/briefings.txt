@@ -1,0 +1,262 @@
+[blockstart:header] 
+THE EIGHTH WONDER OF THE WORLD
+[blockend:header]
+
+[blockstart:00_start] 
+We landed on the island that held a mighty obelisk in the middle - the Eighth Wonder of the World. We could already see it from a distance. According to the predictions of the Council of Nations, it was supposed to bind the energies of the other Wonders and thus banish the dark powers. 
+
+When this didn't happen after the completion of the other seven Wonders, the Council of Nations sent us to this place to get to the bottom of this mystery ...
+[blockend:00_start]
+[blockstart:00_start1] 
+Go to the obelisk and find out why the dark forces have not been driven away yet!
+[blockend:00_start1]
+
+
+[blockstart:01] 
+THE DIVIDED CITY
+
+"When the island rose from the sea we hoped to find a good fertile land that nobody could take from us. But now we have had to divide our city. 
+
+Each of the three areas is administered by its own mayor. They never negotiate with one another, as neither wants to enter either of the other ones' areas! If only someone could get the three pigheads together," wailed the citizens of the divided city.
+
+<usericon:1,127,180>
+
+Unite the divided city! Pay each of the mayors a visit and take them to the obelisk!
+[blockend:01]
+
+[blockstart:02] 
+OBELISK
+
+Now that we were seeing it at close range, our jaws dropped! Its height and grace excelled every other Wonder of the World. At the foot of the obelisk, on each side, were pedestals for the artefacts of the other seven Wonders of the World. But these artefacts were missing! 
+Had the people that had settled down here maybe taken them?
+
+<usericon:1,195,224>
+
+We should find this out ... 
+[blockend:02]
+
+
+[blockstart:03] 
+SARACENS
+
+"The Pharos Lighthouse was built in our country from OUR resources," the Saracens complained. "Deliver us some marble, and maybe we will bring the artefact of the Lighthouse back to its place and guard it, so that nobody else can take it!"
+
+<usericon:1,314,182>
+
+Bring the Saracens 30 blocks of marble into their city or fight them! 
+[blockend:03]
+
+[blockstart:04] 
+GOODS DELIVERED
+
+<usericon:1,195,221> 
+
+We had delivered the Saracens the required goods. They kept their word and took the artefact of the Pharos Lighthouse back to its rightful position. 
+[blockend:04]
+
+
+[blockstart:05] 
+ALL ARTEFACTS FOUND!
+
+Full of pride we could report that we had found all the artefacts of the Wonders of the World!
+
+<usericon:1,195,221> 
+
+Now, take ALL of your heroes back to the obelisk!
+[blockend:05]
+
+[blockstart:06] 
+NORTHERN MAYOR
+
+<usericon:2,7>
+
+"I administer the northern part of town. Are you trying to tell me that I am not doing my job properly?" the mayor snapped at us.
+"I will never meddle in someone else's area! That's out of the question!
+
+...
+
+What? The other two want to meet me on neutral ground? At the obelisk? Sounds like an idea I might have had myself!"
+
+Take the mayor to the obelisk!
+[blockend:06]
+
+[blockstart:07] 
+CENTRAL MAYOR
+
+<usericon:2,8>
+
+"I administer the central part of town. Are you trying to tell me that I am not doing my job properly?" the mayor snapped at us.
+"I will never meddle in someone else's area! That's out of the question!
+
+...
+
+What? The other two want to meet me on neutral ground? At the obelisk? Sounds like an idea I might have had myself!"
+
+Take the mayor to the obelisk!
+[blockend:07]
+
+
+[blockstart:08] 
+SOUTHERN MAYOR
+
+<usericon:2,9>
+
+"I administer the southern part of town. Are you trying to tell me that I am not doing my job properly?" the mayor snapped at us.
+"I will never meddle in someone else's area! That's out of the question!
+
+...
+
+What? The other two want to meet me on neutral ground? At the obelisk? Sounds like an idea I might have had myself!"
+
+Take the mayor to the obelisk!
+[blockend:08]
+
+[blockstart:09] 
+CITY UNITED!
+
+<usericon:2,9>
+
+When the mayors of the three districts got together, it didn't take long until they were reconciled. This was because each of them thought that the others had taken the first step. 
+In a joyful ceremony, they jointly put the artefacts that were in each of their areas back on their pedestals at the obelisk.
+
+The three mayors stayed there and personally guarded the place!
+[blockend:09]
+
+[blockstart:10] 
+SWAMP TRIBE
+
+"We have the artefact of the Artemis Temple in Ephesus. We once supported you during the rising of the swamps in Ephesus. However, this prevented us from cultivating our herbs. 
+
+Now we want you to do us a favour to make up for it," the wise men of the swamp said.
+
+<usericon:1,241,475>
+
+Give the swamp tribe 25 herbs as a tribute!
+
+What joy!
+
+<usericon:2,3>
+
+Among the wise men of the swamp was Hatchie! It was so good to see him again! In the meantime, the wise men had learned a lot about his culture, so that Hatchie could join us again right on time. Now we were happy to give the wise men of the swamp the small tribute!
+[blockend:10]
+
+[blockstart:11] 
+SWAMP TRIBE
+
+"So many precious herbs! Your herb gardener knows his job! We will now put the artefact back in its place and guard it!"
+
+<usericon:1,241,475>
+
+Only a short time later, several of the women disappeared in a cloud of smoke. We would surely see them again at the obelisk ...
+[blockend:11]
+
+[blockstart:12] 
+ISLAND PEOPLE
+
+"We have the artefact of the Pyramids of Giza, because they actually belong to our people," the Saracens said. 
+"What? You need the artefact to activate the obelisk? We didn't know that! How could we simply take it? 
+We will bring it back to its rightful place."
+
+<usericon:1,107,50>
+
+Our brothers and sisters in the south-east, however, took the artefact of the Zeus Statue. They do not welcome strangers and do not speak your language. 
+You have to take at least one of us with you if you want them to give you the artefact."
+[blockend:12]
+
+[blockstart:13] 
+ISLAND PEOPLE
+
+<usericon:1,339,435>
+
+"Brothers! We welcome you," the Saracens of this island said in their own language, which was translated for us. They, too, soon sent their people to take the artefact back to its place.
+[blockend:13]
+
+[blockstart:14] 
+ISLAND PEOPLE
+
+<usericon:1,339,435>
+
+We did not understand what these island people were shouting at us, but apparently they did not welcome us.
+[blockend:14]
+
+[blockstart:15] 
+THE OLD MAN
+
+<usericon:1,166,220>
+
+"These disbelieving fools! All the artefacts have been stolen! The first one was taken by the Saracens in the east, the second, third and fourth are in the divided city in the west. The fifth one is in the hands of the swamp tribe that lives on an island in the south, the sixth and the seventh have been taken by the island people. 
+
+Without these artefacts, the obelisk is worth nothing!"
+[blockend:15]
+
+[blockstart:16] 
+THE OLD MAN
+
+<usericon:1,141,362>
+
+"If you are looking for the swamp tribe: You can only reach them by boat. But watch out, there are dangers lurking on the nearby islands!"
+[blockend:16]
+
+[blockstart:17] 
+SARACENS ATTACKED!
+
+<usericon:1,314,182>
+
+You have attacked the Saracens. They will never forgive you! 
+[blockend:17]
+
+[blockstart:18] 
+SARACENS DIED!
+
+<usericon:1,314,182>
+
+You have defeated the Saracens. The artefact is now yours, but was it worth it? 
+[blockend:18]
+
+[blockstart:100]
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION FAILED!
+<font:$local$\fonts\font12.fnt>
+<picture:$local$\graphics\Hero_Dead_F.pcx>
+Heroism or carelessness? When BJARNI died the gods were crying ... without this hero, the outcome of this mission will remain hidden to you!
+[blockend:100]
+
+[blockstart:200]
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION FAILED!
+<font:$local$\fonts\font12.fnt>
+<picture:$local$\graphics\Hero_Dead_F.pcx>
+A short moment of negligence, that's all it takes to lose your life! Your heroine CYRA died due to your negligence! Without this heroine, the outcome of this mission will remain hidden to you! 
+[blockend:200]
+
+[blockstart:300]
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION FAILED!
+<font:$local$\fonts\font12.fnt>
+<picture:$local$\graphics\Hero_Dead_F.pcx>
+A short moment of negligence, that's all it takes to lose your life! Your friend and hero HATCHIE died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you! 
+[blockend:300]
+
+[blockstart:400]
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION FAILED!
+<font:$local$\fonts\font12.fnt>
+<picture:$local$\graphics\Hero_Dead_F.pcx>
+A short moment of negligence, that's all it takes to lose your life! Your friend and hero SIGURD died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you!
+[blockend:400]
+
+[blockstart:500]
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION FAILED!
+<font:$local$\fonts\font12.fnt>
+<picture:$local$\graphics\Hero_Dead_F.pcx>
+A short moment of negligence, that's all it takes to lose your life! Your friend and hero NORBERT, the dragon, died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you!
+[blockend:500]
+
+[blockstart:600]
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION FAILED!
+<font:$local$\fonts\font12.fnt>
+<picture:$local$\graphics\Hero_Dead_F.pcx>
+A short moment of negligence, that's all it takes to lose your life! MANI, son of Bjarni and Cyra, died due to your negligence! Without him, the outcome of this mission will remain hidden to you!
+[blockend:600]

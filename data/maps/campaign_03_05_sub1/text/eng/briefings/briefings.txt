@@ -1,0 +1,123 @@
+[blockstart:header] 
+HEROSTRATES' HEIRS
+[blockend:header]
+
+[blockstart:00_start] 
+In order to avert the danger from the Temple, we followed the arsonist army through a mountain path into a seemingly different world. This place could only be accessed via this entrance. We would never have expected such a place in the mountains!
+
+<usericon:1,40,298>
+[blockend:00_start]
+[blockstart:00_start1] 
+In order to put a stop to the game of "Herostrates' heirs", we had to get past his disciples and the fire-spewing dragon! 
+
+After all, we knew the attacks would not stop until Herostrates the Younger had been found and put in a dungeon, so that he wouldn't be able to incite more people.
+
+Find Herostrates the Younger and put him in a dungeon! Watch out for secret paths and passages!
+[blockend:00_start1]
+
+
+[blockstart:50_endheader] 
+MISSION COMPLETED! 
+[blockend:50_endheader]
+[blockstart:50_end] 
+We had returned to the entrance of the mountain world after we had handed Herostrates over to the dungeon keeper. There he would be guarded, and would no longer incite people to lay fires.
+
+<usericon:1,24,287>
+[blockend:50_end]
+[blockstart:50_end1] 
+
+[blockend:50_end1]
+
+
+[blockstart:01] 
+THE HEIRS OF HEROSTRATES
+
+"Hey, you! Who has granted you access to our territory?"
+[blockend:01]
+
+
+[blockstart:02] 
+THE HEIRS' SECRET HIDING PLACE
+
+"You want to lock up our leader Herostrates in a dungeon? We will never allow that!"
+[blockend:02]
+
+[blockstart:03] 
+DUNGEON KEEPER
+
+"Greetings! I have been expecting you. The heirs' arson has done terrible damage that serves nobody.
+
+<usericon:1,43,175>
+
+This place is sacred and is not visited by Herostrates' heirs. Lock Herostrates in here. I will take care of him then."
+[blockend:03]
+
+[blockstart:04] 
+HEROSTRATES
+
+"You want to lock me up in a dungeon? You had better not think that I will follow you just like that!"
+
+<usericon:2,7>
+
+Take Herostrates to a dungeon!
+[blockend:04]
+
+[blockstart:05] 
+HEROSTRATES IN THE DUNGEON!
+
+We made it! Herostrates was captured in the dungeon and was now being watched by the dungeon keeper. His disciples would not be able to get him out of here.
+
+<usericon:2,7>
+
+Take your heroes back to the entrance! 
+[blockend:05]
+
+
+
+[blockstart:100]
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION FAILED!
+<font:$local$\fonts\font12.fnt>
+<picture:$local$\graphics\Hero_Dead_F.pcx>
+Heroism or carelessness? When BJARNI died the gods were crying ... without this hero, the outcome of this mission will remain hidden to you!
+[blockend:100]
+
+[blockstart:200]
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION FAILED!
+<font:$local$\fonts\font12.fnt>
+<picture:$local$\graphics\Hero_Dead_F.pcx>
+A short moment of negligence, that's all it takes to lose your life! Your heroine CYRA died due to your negligence! Without this heroine, the outcome of this mission will remain hidden to you! 
+[blockend:200]
+
+[blockstart:300]
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION FAILED!
+<font:$local$\fonts\font12.fnt>
+<picture:$local$\graphics\Hero_Dead_F.pcx>
+A short moment of negligence, that's all it takes to lose your life! Your friend and hero HATCHIE died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you! 
+[blockend:300]
+
+[blockstart:400]
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION FAILED!
+<font:$local$\fonts\font12.fnt>
+<picture:$local$\graphics\Hero_Dead_F.pcx>
+A short moment of negligence, that's all it takes to lose your life! Your friend and hero SIGURD died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you! 
+[blockend:400]
+
+[blockstart:500]
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION FAILED!
+<font:$local$\fonts\font12.fnt>
+<picture:$local$\graphics\Hero_Dead_F.pcx>
+A short moment of negligence, that's all it takes to lose your life! Your friend and hero NORBERT, the dragon, died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you!
+[blockend:500]
+
+[blockstart:600]
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION FAILED!
+<font:$local$\fonts\font12.fnt>
+<picture:$local$\graphics\Hero_Dead_F.pcx>
+A short moment of negligence, that's all it takes to lose your life! MANI, son of Bjarni and Cyra, died due to your negligence! Without him, the outcome of this mission will remain hidden to you!
+[blockend:600]

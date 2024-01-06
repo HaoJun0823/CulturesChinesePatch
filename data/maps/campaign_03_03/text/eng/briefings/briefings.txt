@@ -1,0 +1,934 @@
+// **************************
+// Standardmeldungen
+// **************************
+
+
+// Mission verloren
+
+[blockstart:100]
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION FAILED!
+<font:$local$\fonts\font12.fnt>
+<picture:$local$\graphics\Hero_Dead_F.pcx>
+Heroism or carelessness? When BJARNI died the gods were crying ... without this hero, the outcome of this mission will remain hidden to you!
+[blockend:100]
+
+[blockstart:200]
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION FAILED!
+<font:$local$\fonts\font12.fnt>
+<picture:$local$\graphics\Hero_Dead_F.pcx>
+A short moment of negligence, that's all it takes to lose your life! Your heroine CYRA died due to your negligence! Without this heroine, the outcome of this mission will remain hidden to you! 
+[blockend:200]
+
+[blockstart:300]
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION FAILED!
+<font:$local$\fonts\font12.fnt>
+<picture:$local$\graphics\Hero_Dead_F.pcx>
+A short moment of negligence, that's all it takes to lose your life! Your friend and hero HATCHIE died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you! 
+[blockend:300]
+
+[blockstart:400]
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION FAILED!
+<font:$local$\fonts\font12.fnt>
+<picture:$local$\graphics\Hero_Dead_F.pcx>
+A short moment of negligence, that's all it takes to lose your life! Your friend and hero SIGURD died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you! 
+[blockend:400]
+
+[blockstart:500]
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION FAILED!
+<font:$local$\fonts\font12.fnt>
+<picture:$local$\graphics\Hero_Dead_F.pcx>
+A short moment of negligence, that's all it takes to lose your life! Your friend and hero NORBERT, the dragon, died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you!
+[blockend:500]
+
+[blockstart:600]
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION FAILED!
+<font:$local$\fonts\font12.fnt>
+<picture:$local$\graphics\Hero_Dead_F.pcx>
+A short moment of negligence, that's all it takes to lose your life! MANI, son of Bjarni and Cyra, died due to your negligence! Without him, the outcome of this mission will remain hidden to you!
+[blockend:600]
+
+
+[blockstart:700]
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION FAILED!
+<font:$local$\fonts\font12.fnt>
+<picture:$local$\graphics\People_Dead_F.pcx>
+You attacked your best friends although you had been warned! 
+
+This way you will not be able to complete your mission!
+[blockend:700]
+
+
+
+// **************************
+// Startbriefing
+[blockstart:header] 
+THE COLOSSUS OF RHODES
+[blockend:header]
+
+[blockstart:00_start1] 
+We had arrived on a small island near Rhodes to restock our supplies and to recover from our journey. We wanted to cross to Rhodes, as this was the right spot to complete the next Wonder of the World - a statue that was to tower above the roofs of the city. A mighty Colossus! This was what the Council had ordered us to do, and we felt that this was not going to be an easy task ...
+
+[blockend:00_start1]
+
+[blockstart:00_start3]
+
+We had hardly left our ship when we heard the sounds of battle, and horns being blown in the distance!
+A war was raging! 
+
+We could not tell exactly where the noise was coming from over the sea, but we feared that, of all places, our destination Rhodes was at war! Had evil stretched this far already? In this case we had to hurry up and act quickly!
+
+We decided to settle down for the moment and send out some scouts to find out exactly what was happening in Rhodes.
+
+
+Settle down on the island and send scouts to Rhodes.
+Use your papers and the goods from the ship.
+[blockend:00_start3]
+
+
+[blockstart:00_start2] 
+THE JOURNEY HOME
+
+We had hardly arrived and unloaded the ships when our son Mani suddenly collapsed and lay on the beach unconscious! 
+We immediately ran up to him and turned him on his side. What we saw left us speechless! 
+
+His forehead was glowing like fire, he was soaked with sweat, and big red blotches covered his entire body!
+Cyra sobbed with fear and concern, as she seemed to know this disease - years ago, it had claimed numerous victims among the children of Byzantium! 
+
+Mani needed medical help quickly, but there was nobody among our friends who was skilled in medicine.
+After some discussion, we finally decided to take Mani to his grandfather's court in Byzantium. They had the best physicians of the empire, who would surely be able to help him - at least we hoped so ...
+
+With sad hearts we had to leave Hatchie and Sigurd behind with their task, but they both showed understanding for our miserable situation.
+
+We wished them good luck and promised to return as soon as Mani was better.
+Then we set sail towards Byzantium ...
+[blockend:00_start2]
+
+
+
+// Mission gewonnen
+[blockstart:09_end_header] 
+MISSION COMPLETED! 
+[blockend:09_end_header]
+
+[blockstart:09_end_text1] 
+We made it! With our help, Chares had managed to erect the third Wonder of the World!
+
+There the Colossus of Rhodes stood tall above the entrance to the harbour. Helios would be satisfied, and we had reached our goal as well.
+
+Only Chares wasn't too enthusiastic. The construction had financially ruined him! Full of despair and depression, he boarded a ship and set off.
+
+[blockend:09_end_text1]
+
+[blockstart:09_end_text2] 
+It was time for us to say goodbye now. We left the magnificent city of Rhodes and sailed towards Halicarnassus. 
+
+This was our next port of call - THE TOMB OF MAUSOLOS.
+[blockend:09_end_text2]
+
+
+
+// **************************
+// Event-Texte
+// **************************
+
+// Oxidos
+[blockstart:10] 
+OXIDOS
+
+This is the island of Oxidos. A small, quiet island. Ideal for a short trip, but who has got time for such things? 
+...
+
+Well, there are huge iron and gold deposits on Oxidos. The people of the island make their living by fishing and trading all kinds of ore. 
+They are happy about every business they can do, and are altogether very satisfied. 
+
+They will surely be glad to do trade with you, too.
+[blockend:10]
+
+[blockstart:11] 
+Is this a way to behave? To attack peaceful people who only think of your good? Should you behave like this when you are not at home?
+
+Anyhow - the people of Oxidos are more interested in good trade than in dispute. That's why they offer to forget about the trouble and trade with you. 
+
+However, this offer is not exactly for free ...
+
+
+Pay the requested tribute if you want to make the people of Oxidos happy again.
+[blockend:11]
+
+
+// Chronos
+[blockstart:20] 
+CHRONOS
+
+You have reached Chronos. Weapon and armour merchants live here, who are well known for their excellent products in the whole Mediterranean area. However, they are so popular that they can charge a price before they start trading.
+
+
+Pay a tribute if you want to trade.
+[blockend:20]
+
+[blockstart:21] 
+You have paid Chronos the tribute. Now you are allowed to trade.
+[blockend:21]
+
+
+// Croesus
+[blockstart:30] 
+CROESUS
+
+You have invaded King Croesus' empire! And he doesn't like it when strangers try to lay hands on his gold! 
+
+<usericon:1,47,390>
+
+However, he is prepared to put down his weapons in return for a certain "peace price".
+
+Pay the tribute in order to establish peace ...
+[blockend:30]
+
+[blockstart:31] 
+TRUCE
+
+As promised, Croesus withdraws from the gold deposit. 
+
+<usericon:1,53,466>
+
+He will not attack you any more.
+[blockend:31]
+
+
+// Rhodos
+[blockstart:40] 
+RHODES
+
+The famous seaport of Rhodes, in the north of the island bearing the same name. Travellers referred to Rhodes as one of the most beautiful islands of the Aegean Sea. But we didn't like what WE were seeing at all!
+
+There were soldiers everywhere, and they were nervously running around in the streets. Battle noises echoed from the city walls.
+
+Rhodes was under siege! The city was at war!
+
+But as long as the war lasted, it was impossible to carry out our plans - to build the Colossus that would be remembered as a Wonder of the World for centuries to come!
+We had to find a way to end the war. But how were we to do that? After all, we were in no condition to face a whole army ...
+
+We decided to check the situation and look for information. Surely, there must be people in town who could help us ...
+
+
+Search the city for information that might help you.
+[blockend:40]
+
+[blockstart:41] 
+Why do you have a hostile attitude towards the people of Rhodes? They haven't done you any harm!
+
+Change your attitude, or you will not reach your goal! 
+[blockend:41]
+
+
+
+// Demetrios
+[blockstart:50] 
+DEMETRIOS
+
+King Demetrios with his army. He has been besieging the city of Rhodes for weeks. So far he has not been able to penetrate the firm city walls, but his attacks are getting stronger and stronger.
+
+
+Keep away from his soldiers! They will show you no mercy!
+[blockend:50]
+
+[blockstart:55] 
+NAVAL BLOCKADE
+
+Demetrios has established a naval blockade. There is no way through! 
+
+<usericon:1,409,199>
+
+[blockend:55]
+
+
+// Lindos
+[blockstart:60] 
+LINDOS
+
+This is the city of Lindos. Although the people are close friends with Rhodes, they are too weak to provide military support against Demetrios.
+
+But who knows what role the brave people of this town will play in this conflict ...
+[blockend:60]
+
+[blockstart:61] 
+Why do you have a hostile attitude towards the people of Lindos? They haven't done you any harm!
+
+Change your attitude, or you won't reach your goal! 
+[blockend:61]
+
+
+[blockstart:70] 
+BACKSHISH
+
+This is where Bakshish the desert merchant usually lives with his wife. But since the beginning of the siege led by Demetrios, he has been hiding somewhere.
+
+<usericon:1,118,187>
+
+[blockend:70]
+
+[blockstart:75] 
+BACKSHISH
+
+This is the camp of Bakshish the famous desert merchant. Since the end of the blockade, he has opened up his stores again and is looking forward to flourishing business.
+
+<usericon:1,118,187>
+
+[blockend:75]
+
+
+// **************************
+// Informanten
+// **************************
+
+[blockstart:201] 
+DIMITRI 
+
+"Ahhhh ... a stranger. In this region? Are you a spy maybe?
+
+<usericon:1,231,81>
+
+Listen: For weeks our city has been besieged by King Demetrios and his army! We are still able to hold the city, but the situation is getting worse!
+The attacks are getting stronger and stronger, and our men are exhausted from battle.
+
+Go to Petros, our mayor! He is leading our troops and has made a plan how to defeat Demetrios!
+You will find him in his house near the Byzantine quarter.
+
+...
+
+And if you turn out to be a spy, you will be very sorry!"
+[blockend:201]
+
+[blockstart:210] 
+OXOS
+
+"Sometimes I have good offers. Come back again later."
+
+<usericon:1,267,118>
+
+[blockend:210]
+
+[blockstart:220] 
+HELENA
+
+"This is a nice spot, isn't it? There used to be a magnificent warehouse, but when they built the port in the west, it was torn down. It was so nice though ...
+
+<usericon:1,276,79>
+
+Well, who knows...maybe someone else will soon build another nice warehouse in this spot ...
+
+Don't you want to build one? You look like a hard worker ..."
+[blockend:220]
+
+[blockstart:230] 
+INTRIGANTOS
+
+"Hey, stranger ...
+Have you heard of the mountain in the south? There are said to be large gold deposits! Even ore can be found there! 
+
+<usericon:1,321,103>
+
+However, they say that this mountain belongs to King Croesus and that he doesn't like it at all if people come too close to his treasures!"
+[blockend:230]
+
+[blockstart:240] 
+ALCOLIOS
+
+"Hey, stranger ... Shhhhhh ... I can offer you the best rotgut in the world! The finest stuff! Fresh from the press house! Good vintage, I can tell you!
+
+<usericon:1,340,107>
+
+There is nothing left at the moment, but if you come back again later, I may be able to help you ...
+
+HEY - and ... Shhhh! Only for good friends like you!"
+[blockend:240]
+
+[blockstart:241] 
+ALCOLIOS
+
+"Ahhh - haven't we met? Hehehe ... best stuff, you know ... hoho ...
+
+<usericon:1,340,107>
+
+I got a new delivery. Do you want to try it? At no expense, of course ... hoho
+Those who like it come back again anyway ... hohoho ..."
+[blockend:241]
+
+[blockstart:250] 
+ULYSSES
+
+"Greetings, strangers!
+
+I have been on numerous journeys, I have travelled the world. I could tell you a lot of stories ...
+
+<usericon:1,317,141>
+
+But tell me - do you know the islands of Oxidos and Chronos? Beautiful places, ideal for a short trip! Also, on Chronos you will get the best weapons around here!
+And on Oxidos you will find endless deposits of gold and ore. You can also do excellent trade with both islands!
+
+Travel north and from there continue towards the rising sun. Then you will find the islands!
+May Neptune be with you!"
+[blockend:250]
+
+[blockstart:260] 
+BADENSOS
+
+"Oh, stranger!
+I used to live in the south of this country, in the west of the big mountain range. 
+
+<usericon:1,245,126>
+
+There were lush meadows, wonderful woods full of deer and endless resources. 
+I moved into the city when I grew old and too weak to cultivate my fields.
+
+But to be honest - I liked it better in the south!"
+[blockend:260]
+
+[blockstart:270] 
+LINDA, WIFE OF PETROS
+
+"Greetings, strangers.
+
+I am Linda, the wife of our mayor Petros. 
+
+<usericon:1,218,126>
+
+For weeks, our city has been besieged by Demetrios and his army. Our situation is getting worse and worse!
+
+However, Petros has made a plan for advancing against the besiegers. It is a dangerous plan, though!
+
+Unfortunately, Petros is ... how can I put it ... slightly scared of rain. He won't leave the house in this weather, he locks himself up.
+Petros can help you, but he is scared of rain. He is sitting in the house refusing to go outside ...
+
+Look out for my sister ... She often visits the temple in the eastern part of town, tending the garden. You will recognise her easily. She is somewhat slimmer than ... hrmpf ... me, but other than that, we are as like as two peas in a pod. 
+She knows how to talk to the gods of the wind and the weather. She is a mighty sorceress. Find her, maybe she can do something about the rain.
+
+And if it stops raining, maybe Petros will come out and talk to you ..."
+[blockend:270]
+
+[blockstart:271] 
+LINDA'S SISTER
+
+We had found Linda's sister. But before we could ask her the favour, she began to speak:
+
+<usericon:1,317,91>
+
+"So, once again I am asked to spirit away the rain ... Is our dear Petros refusing to leave the house again? Hahaha."
+
+Oh well - I will help you. Stand back ..."
+[blockend:271]
+
+[blockstart:272] 
+"Now go to our scared little hero. Go to Petros ... hahaha.
+
+<usericon:1,317,91>
+
+And give my regards to Linda!"
+[blockend:272]
+
+[blockstart:273] 
+PETROS
+
+"Greetings, strangers! My wife has already told me about you! You came here to help, right? Excellent!
+
+<usericon:1,218,128>
+
+Well, then listen to my plan:
+
+A spy is hiding in the enemy camp. His name is Metros. He is a merchant and supplies the enemy troops with various kinds of goods. But in his heart he is a friend of Rhodes and will always put his life at risk for the sake of the city!
+
+Underneath my house, there is a secret underground passage leading to a cave near Metros' camp. 
+It is my plan to use the passage to supply Metros with mead which he can then offer the enemy soldiers and thus distract them for a while! The time this buys us must be used for someone to sneak past the troops and make their way through to Lindos.
+
+Lindos is a port in the south-east, and its inhabitants have always been good friends of ours. There is an oracle not far from the city. It is this oracle that we have to consult! The oracle will surely be able to tell us how to defeat Demetrios!
+
+The plan is simple, it can't go wrong! Metros has already been informed, he is only waiting for the delivery. 
+I would go myself, but you know ... my back! Ah, it hurts like hell! I would hardly make it to the end of the passage!
+
+You will do this for us, won't you?!
+
+Bring a handcart full of mead here. I will then let you sneak into the secret passage so you can take it to Metros.
+You might be able to buy a handcart from Oxos at the market.
+
+See you later!"
+[blockend:273]
+
+[blockstart:274] 
+OXOS
+
+"I have a great offer for you! A fine handcart! Newly built, very solid! A real masterpiece!
+
+<usericon:1,267,118>
+
+You can have it in return for two mead! We can settle it with a tribute payment, all right?!"
+[blockend:274]
+
+[blockstart:275] 
+OXOS
+
+"Thank you for the mead! 
+
+<usericon:1,267,118>
+
+Here you go, take good care of it!"
+[blockend:275]
+
+
+[blockstart:280] 
+KING OF THULE
+
+"Greetings, friends from home! How are things going in distant Northland? Is there still a lot of snow? 
+
+<usericon:1,199,138>
+
+Although I used to be chief of a huge Viking people, I never really got used to the snow and the cold.
+That's why I moved to the south a few years ago. It is a lot warmer, a good treatment for my old bones, I can tell you, hoho.
+
+There is a beautiful city in the south-east! Its name is Lindos, you will have to go and visit one day. They have very good wine! 
+I also know a secret passage through the mountains! It's hard to find, but it offers a magnificent view of the sea. If you look for it, keep a lookout for treasure chests ..."
+[blockend:280]
+
+[blockstart:285] 
+PETROS' MESSENGER 
+
+"We have already prepared everything for you! 
+
+<usericon:2,62>
+
+May fortune favour you this time!"
+[blockend:285]
+
+[blockstart:290] 
+PETROS
+
+"Ah, I see you are carrying mead with you! Very good ...
+
+<usericon:1,218,128>
+
+Now take the mead to Metros through the underground labyrinth. Take a few of my men to assist you ... you never know ...
+
+Good luck! The fate of the people of Rhodes depends on you!
+
+As I said, I would go myself, but my back ..."
+[blockend:290]
+
+[blockstart:295] 
+ATTACK!
+
+Suddenly a ship with soldiers aboard arrived at the coast! 
+
+<usericon:1,32,228>
+
+Demetrios' troops! They had discovered us and were now intent on securing the coast ...
+[blockend:295]
+
+
+
+// **************************
+// Nach Submission
+// **************************
+
+[blockstart:310] 
+EXIT
+
+We had made it! We left the secret passage and stepped into the daylight. Metros the merchant was supposed to meet us here to take the mead from us.
+
+<usericon:1,207,234>
+
+We waited ...
+[blockend:310]
+
+[blockstart:315] 
+METROS
+
+"Hello, strangers! You have ventured far beyond enemy lines!
+
+<usericon:2,90>
+
+I do business with the soldiers of Demetrios. A lucrative business, you know, hehehe. They buy everything ...
+But still - my heart belongs to Rhodes. You should always separate business from private matters, that's my motto ...
+ 
+Well, I can't do anything for you at the moment, but go and find the mayor in Rhodes. His name is Petros. He may be able to help you."
+[blockend:315]
+
+
+[blockstart:320] 
+METROS
+
+We hadn't been waiting long when Metros approached us:
+
+<usericon:2,90>
+
+"Ah, there you are. I have been expecting you. You came through the secret passage, didn't you? 
+I love underground passages, you know. My cousin in distant Lutetia is digging many such tunnels below the city. He says it's in order to lessen the traffic load. 
+He's always been hard-working ...
+
+Thank you for the mead! I will try to distract the soldiers with a free round ... When they pitch into it, you should set off through their lines as quickly as possible. But wait here until the path is clear ...
+
+Oh, and here is the key to the secret passage's teleport chamber. If anyone has to go through there again, it will shorten the way significantly.
+
+And take these weapons here. The path to Lindos might be defended! In this case you will have to fight your way through.
+And now go ...
+
+Take good care of yourselves! Hide until the soldiers have passed and then hurry up!
+
+Good luck!"
+[blockend:320]
+
+[blockstart:330] 
+Your messenger is dead!
+
+The trick with the mead will surely work a second time. 
+Send another messenger to Petros with a handcart full of mead. He will again open the entrance to the secret passage ...
+[blockend:330]
+
+[blockstart:340] 
+PLATO
+
+We had found the mayor of Lindos:
+
+<usericon:2,95>
+
+"Greetings, strangers. How did you get through the enemy lines? It wasn't easy, I suppose?
+
+You are looking for the oracle? Well, the temple of the oracle is located on an island in the east. Most of the time it is protected by an impenetrable fog ... And you would also need a ship ...
+
+Hm ... let me think ... Yes, go to Buerocrates the harbour master. Please give him my regards. Ask him to give you a ship and see whether he can do something about the fog.
+
+My secretary will go with you. He will settle the rest for you. In the meantime you may go and rest, if you want to."
+[blockend:340]
+
+[blockstart:341] 
+PLATO
+
+"Oh ...
+
+<usericon:2,95>
+
+My valued Secretarios has passed away ... What tragedy!
+
+Well, now one of you Vikings will have to take over his job and carry out the orders."
+[blockend:341]
+
+
+[blockstart:350] 
+BUEROCRATES
+
+We found the harbour master near the harbour. Stoically, he listened to our story.
+
+<usericon:2,96>
+
+"A ship. Hm. Well, anybody could come and claim that! Your words are pointless! 
+First I need an official letter of approval from the mayor!
+
+Without such a letter I won't do anything, understood?
+
+The sooner you return with the letter, the better. I want to finish work on time! So, hurry up!"
+[blockend:350]
+
+[blockstart:360] 
+PLATO
+
+When the mayor heard about Buerocrates' request, he simply shook his head:
+
+<usericon:2,95>
+
+"Typical bureaucrat! Well then, wait a minute ..."
+[blockend:360]
+
+[blockstart:370] 
+PLATO
+
+"Here is the letter of approval. Three copies, two seals.
+
+<usericon:2,95>
+
+Take it to Buerocrates. And you can tell him from me ... Oh, forget it. 
+After all, he's only doing his job ..."
+[blockend:370]
+
+[blockstart:380] 
+BUEROCRATES
+
+"Ah, you did it ... Now give me that.
+
+<usericon:2,96>
+
+... well ... ah ... hm ...yes.
+
+It seems to be in order.
+
+Well then ...
+Take this ship and set off towards the east. There you will find the holy island with the temple of the oracle. Enter the temple and ask the goddess for advice! 
+
+Ah, and now -
+that's it for today ..."
+[blockend:380]
+
+
+[blockstart:390] 
+FOG OF POSEIDON
+
+Out of nowhere a huge fog wall suddenly appears in front of you. There is no way through.
+
+Now what?
+[blockend:390]
+
+
+[blockstart:391] 
+BUEROCRATES
+
+Suddenly Buerocrates spoke up:
+
+<usericon:2,96>
+
+"Ah, I totally forgot ... 
+
+The notorious Fog of Poseidon ...
+It is meant to keep nosy tourists away from the island ...
+No ship can get through there. That, however, is a slight problem ...
+
+Hm. Hm. Hm ...
+
+I may be able to help you ... a little magic now and then does no harm ..."
+[blockend:391]
+
+
+[blockstart:401] 
+THE TEMPLE OF THE ORACLE
+
+Finally, we had reached the temple of the oracle.
+Behind the entrance gate a path led down to a mysterious vault ...
+[blockend:401]
+
+[blockstart:410] 
+HELIOS' PUNISHMENT
+
+When we left the temple, Helios made us feel his power! 
+
+An enormous tremor shook the ground, glaring beams scorched Demetrios' army! 
+Dazzled by the blinding light, we turned away, and when we dared to open our eyes after some minutes, Demetrios had disappeared from the face of the Earth with all of his men!
+
+Helios had kept his word! Rhodes was free!
+
+Now it was up to us to build the statue in return for his support. 
+Was it coincidence or fate - there was no doubt that this Colossus was the very Wonder of the World that we had set out to build!
+[blockend:410]
+
+[blockstart:420] 
+PETROS
+
+"We will be forever grateful, friends! 
+
+<usericon:2,95>
+
+It was your courage and bravery that saved our people!
+
+Even though I am aware of the debt my people now owe you, I do have another favour to ask:
+
+We are happy to build the mighty Colossus in honour of Helios, the sun god! But no one in our town has the necessary knowledge to do it.
+In Lindos, however, lives the famous architect Chares! Find him and ask him to take on this honourable task for the people of Rhodes. It won't be to his disadvantage!
+
+We are already much obliged to you!"
+
+
+Find Chares in Lindos.
+[blockend:420]
+
+[blockstart:421] 
+CITIZEN
+
+"You are looking for Chares? The famous architect?
+
+<usericon:2,120>
+
+I haven't seen him for a while ..."
+[blockend:421]
+
+[blockstart:422] 
+CITIZEN
+
+"Chares? 
+
+<usericon:2,121>
+
+Yes, I know him. I heard that he wanted to go on holiday for a few days."
+[blockend:422]
+
+[blockstart:423] 
+CITIZEN
+
+"Oh yes, Chares is a good friend of mine! 
+
+<usericon:2,122>
+
+He's had so much work lately that he wanted to recover. Take a few days off to get some fresh air, you know?
+
+I think he wanted to go fishing! He knows this secret little place ... But he never told me where it is ..."
+[blockend:423]
+
+[blockstart:424] 
+CITIZEN
+
+"Chares? Yes, I have seen him. 
+
+<usericon:2,123>
+
+He's sitting at the beach to the north, trying to catch some fish. Haha!
+If I know him, he will only pull a lousy mackerel ashore and then tell everybody he caught a HUGE whale. Hehehe.
+
+Oh well, good old Chares ..."
+[blockend:424]
+
+
+[blockstart:430] 
+CHARES
+
+So, this is the famous architect Chares! 
+
+<usericon:2,98>
+
+We explained our problem, but he didn't seem to be too enthusiastic.
+
+"Can't you see that I'm taking some time off! I do so far too rarely, considering all this work! And now you want me to interrupt my well-earned holiday?!
+
+...
+
+You want me to build a Colossus in honour of the god Helios, is that right? 
+
+...
+
+Well, actually it would be interesting ...
+
+Yes, that might tempt me. But on one condition only:
+
+You have to assist me! I want to get back to my fishing as soon as possible, so you had better have the necessary building materials delivered to me! 
+Other than that, I am unable to grant your request ...
+
+So, how about it?"
+[blockend:430]
+
+[blockstart:440] 
+We thought for a while and finally agreed to Chares' proposal. After all, we had come here to build the Wonder of the World. 
+It was all the better if a famous architect was willing to assist us.
+
+After we had promised Chares our support, he immediately travelled to Rhodes to meet with the mayor.
+We, too, set off into the city.
+[blockend:440]
+
+[blockstart:450] 
+NEGOTIATIONS
+
+Chares and Petros the mayor of Rhodes negotiated for quite a while. 
+
+<usericon:2,98>
+
+They discussed what the monument should look like, how tall it was to be, which material they were to use, where to build it and - Chares' main concern - what they would pay him.
+
+Finally they agreed to build the Colossus near the harbour and make it 18 meters tall.
+
+Its foundations were to be made of the finest marble, and on top would be an iron frame filled with clay and stones in order to make it sturdy.
+In the end, it would be mantled in gold to do justice to the splendour and the grace of the god Helios.
+
+
+It was a momentous undertaking, and Chares required an adequate wage from the city fathers. 
+They agreed on Chares' wage for building the monument, including the material and workforce.
+
+When everything was settled, they started the construction. A warehouse at the harbour was torn down. This was the place where the Colossus was to be built.
+Chares now turned to us and required a delivery of 25 marble for the foundations.
+
+
+Deliver 25 marble to Chares (as a tribute).
+[blockend:450]
+
+[blockstart:455] 
+FOUNDATIONS BUILT
+
+With the marble that we delivered, Chares was able to build the foundations quickly. 
+
+<usericon:1,229,69>
+
+It was magnificent to look at, and we could already guess what a gigantic masterpiece would stand here one day ...
+
+When Chares was finished with the foundations, the mayor called him.
+[blockend:455]
+
+[blockstart:460] 
+NEGOTIATIONS
+
+"Chares, I am delighted!" Petros greeted him. "You are a true master of your art! 
+
+<usericon:2,98>
+
+No doubt you will succeed in turning this Colossus into the largest piece of art in the whole Mediterranean area! What a genius!"
+
+Chares, of course, was flattered by such praise. We, however, found it slightly strange ... Such praise, just because he had built a little foundation?
+
+"Chares, oh great master! What if we make your piece of art even more powerful and magnificent? Your name would be known forever. In a hundred years' time, people would still talk about you and your great achievement! 
+
+What if we built the Colossus TWICE as big? Not 18 meters, but 36 meters high?
+
+Of course, we would pay you double the wage ..."
+[blockend:460]
+
+[blockstart:465] 
+That was all there was to it! Twice the height for a double wage! What seemed to be a fair deal at first glance turned out to be a smart trick by the merchants of Rhodes:
+ 
+Chares would not need twice as many, but eight times as many materials! This would, of course, increase his expenses enormously. A calculation that would never work out!
+
+We wanted to warn him, but he had already accepted the mayor's offer. 
+
+It looked like we were in for some fun ...
+
+He now ordered us to get him the calculated material for the statue. He needed gold, clay and quarrystone.
+
+
+Deliver 5 gold, 10 clay and 10 quarrystones to Chares (as a tribute).
+[blockend:465]
+
+[blockstart:470] 
+We brought Chares the requested materials and the construction continued. But even though he had used up all of the materials, only the feet of the Colossus had been built ...
+
+Chares, who had precisely calculated the necessary amount of material for the WHOLE statue beforehand, was completely aghast! How could it be that he had made such a miscalculation? It was simply impossible!
+
+<usericon:2,98>
+
+This was exactly what we had expected! Chares had been fooled by the people of Rhodes, and he had only just become aware of it. But despite all this, apparently he still wasn't aware of the whole significance of the deceit, because he simply requested the same amount of materials once more. This would be enough according to his calculation.
+
+We were sceptical, but sometimes it was better to learn things step by step ...
+
+
+Deliver another 5 gold, 10 clay and 10 quarrystones to Chares (as a tribute).
+[blockend:470]
+
+
+[blockstart:480] 
+It was starting to be an effort to get all the necessary materials. But in the end we made it and Chares took up work immediately.
+
+The construction was proceeding, and when all the materials were used up, the Colossus was finished ...
+
+... at least up to its belly!
+
+<usericon:2,98>
+
+Chares was raving and furious as he began to realise that the wool had been pulled over his eyes, and that all his profit would be lost. He would even have to pay part of the cost out of his own pocket!
+
+He walked up to Petros to negotiate a new price, but in vain. 
+"You gave us your word, oh noble Chares," were the brief words of the mayor, who didn't seem to be moved at all by the fate of the poor architect.
+Chares didn't have a choice but to complete his masterpiece ...
+
+
+Deliver another 10 gold and 10 iron to Chares (as a tribute).
+[blockend:480]
+
+
+[blockstart:990] 
+[blockend:990]
+

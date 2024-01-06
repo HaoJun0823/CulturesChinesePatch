@@ -1,0 +1,134 @@
+[blockstart:header] 
+UNDERGROUND HALLS
+[blockend:header]
+
+[blockstart:00_start] 
+The shepherds had kept their women hidden in these halls to guard them against the Saracen robbers. The entrance was well protected. We hoped that nobody had followed us ...
+
+<usericon:1,21,20>
+[blockend:00_start] 
+
+[blockstart:00_start1] 
+Find a way to retrieve the construction plans!
+[blockend:00_start1]
+
+[blockstart:50_endheader] 
+MISSION COMPLETED! 
+[blockend:50_endheader]
+[blockstart:50_end] 
+"May you live long! For you alone drove the intruders from our halls. Please accept this construction plan for the Hanging Gardens as a token of our thanks. It has lain hidden in a crevice in the underground halls for centuries, and may now be of great use to you."
+
+<usericon:1,50,16>
+[blockend:50_end]
+[blockstart:50_end1] 
+[blockend:50_end1]
+
+
+[blockstart:01] 
+WOMEN
+
+"Are you intruders? 
+
+<usericon:1,30,48>
+
+Our men brought us to these underground halls for our protection, to spare us the fate that many other women of our people have suffered. 
+They were kidnapped by the robbers in the north-west. Our men were outnumbered and therefore powerless! Do you also belong to these vagabonds? 
+How do we know we can trust you? Can you hear those horrible sounds? Are the dragons in danger?"
+[blockend:01]
+
+
+[blockstart:02] 
+ROBBERS
+
+"Ha! This is where the shepherds keep their women and their goods! I'm glad that we followed you strange people! We heard how you wangled the loot from our brothers! You won't have such an easy time of it with us! Haha!" 
+[blockend:02]
+
+[blockstart:03] 
+
+[blockend:03]
+
+[blockstart:04] 
+INSIDE THE UNDERGROUND HALLS
+
+"You have made it inside the great underground halls! You say our men sent you? But how do we know whether we can trust you? Oh, it would be so nice to live freely under the sun again," the shepherds' women said.
+ 
+... but what was that? Again we heard noises from the southern end of the structure ... 
+Was there maybe a second entrance?
+[blockend:04]
+
+[blockstart:05] 
+THANK YOU!
+
+"You have banned the intruders from our halls. We are deeply grateful for that! You have earned our trust and in return we will trust you with the hidden construction plans of the Hanging Gardens. They are kept in a secret place in the upper halls!
+
+<usericon:1,50,16>
+
+We will accompany you back to our men, because you seem to have averted the threat of the ever-invading robbers! What a pity that the robbers have almost wiped out these friendly dragons. But you seem to have found a new friend ...
+
+Follow us to the upper hall!" 
+[blockend:05]
+
+[blockstart:06] 
+DANGER!
+
+We had hardly left when we heard horrible sounds! Somebody must be suffering greatly not far from here!
+
+<usericon:1,37,138>
+[blockend:06]
+
+[blockstart:07] 
+THE LITTLE DRAGON
+
+We were too late! The robbers had slaughtered the dragons!
+
+<usericon:1,37,138>
+
+But what was that?
+
+<usericon:1,57,157>
+
+A little dragon was sitting in the bushes shivering with fear. This little fellow had had to witness the horrible fate of his parents and was now all alone! We had to take care of him!
+
+Return to the women together with the dragon and all your heroes as soon as you have defeated the robbers!
+[blockend:07]
+
+
+[blockstart:100]
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION FAILED!
+<font:$local$\fonts\font12.fnt>
+<picture:$local$\graphics\Hero_Dead_F.pcx>
+Heroism or carelessness? When BJARNI died the gods were crying ... without this hero, the outcome of this mission will remain hidden to you!
+[blockend:100]
+
+[blockstart:200]
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION FAILED!
+<font:$local$\fonts\font12.fnt>
+<picture:$local$\graphics\Hero_Dead_F.pcx>
+A short moment of negligence, that's all it takes to lose your life! Your heroine CYRA died due to your negligence! Without this heroine, the outcome of this mission will remain hidden to you! 
+[blockend:200]
+
+[blockstart:300]
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION FAILED!
+<font:$local$\fonts\font12.fnt>
+<picture:$local$\graphics\Hero_Dead_F.pcx>
+A short moment of negligence, that's all it takes to lose your life! Your friend and hero HATCHIE died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you! 
+[blockend:300]
+
+[blockstart:400]
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION FAILED!
+<font:$local$\fonts\font12.fnt>
+<picture:$local$\graphics\Hero_Dead_F.pcx>
+A short moment of negligence, that's all it takes to lose your life! Your friend and hero SIGURD died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you! 
+[blockend:400]
+
+[blockstart:500]
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION FAILED!
+<font:$local$\fonts\font12.fnt>
+<picture:$local$\graphics\Hero_Dead_F.pcx>
+A short moment of negligence, that's all it takes to lose your life! Your friend and hero NORBERT, the dragon, died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you!
+[blockend:500]

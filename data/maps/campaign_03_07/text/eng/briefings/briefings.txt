@@ -1,0 +1,351 @@
+[blockstart:header] 
+THE PYRAMIDS OF GIZA
+[blockend:header]
+
+[blockstart:00_start] 
+The infinite beauty of the Giza Plateau opened up before us. The Pyramids of Giza were built in the days of the Fourth Dynasty by the kings Cheops, Chepren and Mycerinus. We had great respect for their age.
+
+The Pyramids that could be climbed from all sides were now to be painted white again and smoothed out on the outside, so that they would shine like crystals in the sunlight or shimmer mysteriously under the stars and the glaring moon at night. This should reactivate the mysterious powers that rested in each of the Wonders of the World.
+[blockend:00_start]
+[blockstart:00_start1] 
+For years the construction of the Pyramids continued during the three months of the inundation of the Nile. We, too, had to use this time to cover the Pyramids. 
+
+However, we were not safe from enemy attacks ...
+
+Extend the Pyramids and help defend them!
+[blockend:00_start1]
+
+
+[blockstart:50_endheader] 
+MISSION COMPLETED! 
+[blockend:50_endheader]
+[blockstart:50_end] 
+We had managed to paint the Pyramids and ward off the dark menace from this Wonder of the World with our own army! 
+
+In the face of our superior united forces, the serpent creatures took flight!
+ 
+Now the Pyramids were shining again like crystals during the daytime and mysteriously under the stars in the glaring moonlight at night ...
+[blockend:50_end]
+[blockstart:50_end1] 
+At the time when all Wonders of the World still existed on Earth, a mighty island had risen from the sea, crowned with a mighty obelisk. 
+
+This was the last Wonder of the World that could bind the powers of all Wonders ...
+
+The wise men from the Council of Nations, however, were helpless because the obelisk should have developed its power a while ago. So, our next destination was fixed: We set off for the EIGHTH WONDER OF THE WORLD!
+[blockend:50_end1]
+
+[blockstart:01] 
+THE CITIZENS OF GIZA
+
+<usericon:1,254,387>
+
+"The sadness and melancholy of the dark menace has struck our city before. We are not scared of it and are prepared to send our soldiers to war with you! 
+
+Give us some mead as a tribute for travel rations, and our troops will march with you towards the east and north-east!"
+
+If you want to, pay the tribute for the Egyptian mercenaries.
+[blockend:01]
+
+[blockstart:02] 
+THE PYRAMIDS OF GIZA
+
+<usericon:1,113,309>
+
+"The dark menace is spreading everywhere. There is hardly a tribe in this country that has not suffered melancholy and sadness! To top it all, our scouts have sighted dark troops approaching from the east and north-east. 
+We have to stop them! Please, you have to help us protect the Pyramids and finish their construction!"
+
+Fortify the Pyramids with your own troops during the next attack! Place 25 soldiers at the Pyramids!
+
+If necessary, build several warehouses around the building site and deliver 50 stones, 70 gold and 40 marble columns! 
+[blockend:02]
+
+
+[blockstart:03] 
+THE DARK MENACE
+
+<usericon:1,152,337>
+
+Not far from our landing spot we heard cries and the sounds of jangling metal.
+Did this mean that the Pyramids were in serious danger?
+[blockend:03]
+
+[blockstart:04] 
+GOODS DELIVERED
+
+We had delivered the required goods to the building site. This should help speed up the painting of the Pyramids. 
+
+<usericon:1,113,309>
+[blockend:04]
+
+[blockstart:05] 
+ALL MAIN MISSION OBJECTIVES ACHIEVED!
+
+We had managed to paint the Pyramids and ward off the dark menace from the Wonder of the World with our army! In the face of our superior forces, the serpent creatures took flight! 
+
+<usericon:2,1 >
+
+Take your heroes to the Pyramids!
+[blockend:05]
+
+[blockstart:06] 
+THE DARK MENACE
+
+<usericon:2,12>
+
+The army of terror invaded this piece of land once more. Could our troops ward them off again?
+[blockend:06]
+
+[blockstart:07] 
+THE DARK MENACE
+
+<usericon:2,1 >
+
+You have not placed 25 soldiers at the Pyramids yet! Can you ward off the attacks by the dark army?
+[blockend:07]
+
+[blockstart:08] 
+THE DARK MENACE
+
+<usericon:1,152,337>
+
+The army of terror invaded this piece of land once more. Would our troops be able to ward them off again?
+[blockend:08]
+
+[blockstart:09] 
+BEDOUINS
+
+<usericon:1,369,364>
+
+"Our poor brothers," the Bedouins wailed. "They hardly have enough to survive on and are constantly being attacked by these dark beasts. We don't have enough weapons to line up a new army, even though there are enough volunteers in our tribe ...
+
+Hand over some weapons as a tribute, and we will go to war with you." 
+[blockend:09]
+
+[blockstart:10] 
+BEDOUINS
+
+<usericon:1,369,364>
+
+"Our men are ready to fight," the Bedouins said. "They are braver than all other warriors in this country and will fight on your side!"
+
+In return for more weapons, even more warriors wanted to go to war with us.
+[blockend:10]
+
+[blockstart:11] 
+TRIBE OF MERCHANTS
+
+"This trading centre is the only good one in this area. Nowhere else will you find such a great product range. But first you will have to prove your friendship! Look for Miguel, the merchant. He will tell you the conditions for our trade."
+
+<usericon:1,341,263>
+
+Look for Miguel, the merchant!
+[blockend:11]
+
+[blockstart:12] 
+MERCHANT
+
+"We have numerous treasures on offer. But before you can benefit from them, you have to give me a small donation to show your good will."
+ 
+<usericon:1,315,271>
+
+Hand Miguel the requested tribute!
+[blockend:12]
+
+[blockstart:13] 
+TRIBUTE GIVEN TO THE MERCHANT!
+
+<usericon:1,315,273>
+
+"You have shown your good intentions. As a token of my good will I therefore would like to give you these two ox carts full of marble. 
+You can use them for your mission, can't you? Well, you scratched my back - now I'll scratch yours. 
+
+I may have fibbed a bit about my favourable offers, but you are welcome to have a look around my warehouses!"
+[blockend:13]
+
+[blockstart:14] 
+BYZANTINES
+
+<usericon:1,38,69>
+
+"We support the construction works at the Pyramids and have even sent our soldiers for protection. There is not a lot more that we can do. After all, our beloved wives don't want to stay at home all by themselves ...
+Even though I must say that, in return for your fine crockery, some women would certainly let their men go to war ... Hahaha."
+
+Give the Byzantines crockery as a tribute to hire mercenaries! 
+[blockend:14]
+
+[blockstart:15] 
+TRIBUTE PAID TO THE BYZANTINES!
+
+<usericon:1,116,318>
+
+We had hardly given the Byzantine women some crockery when they sent their well-armoured husbands to war! They were given so many rations by their wives that they didn't need any additional food for months! We were glad about this ...
+[blockend:15]
+
+[blockstart:16] 
+SARACENS
+
+<usericon:1,95,460>
+
+"There used to be huge gold deposits in this area, and our village flourished. But now these deposits are slowly running low, and soon we'll have to leave ..."
+[blockend:16]
+
+[blockstart:17] 
+THE OLD MAN
+
+<usericon:1,221,177>
+
+"The land along the Nile is fertile and rich in resources. Only gold is very rare on this side of the river. High up in the north, on the other side, there are plenty of gold mountains. 
+
+But the dark armies attack anyone who dares to enter the region that has been covered by the shadows."
+[blockend:17]
+
+[blockstart:18] 
+THE OLD MAN
+
+<usericon:1,57,348>
+
+"Watch out if you cross these magic fields! On the other side, the dark army is not far away. They also know about the teleporter!"
+[blockend:18]
+
+[blockstart:19] 
+SARACENS
+
+"There used to be huge gold deposits in this area, and our village flourished. But now these deposits are slowly running low, and soon we'll have to leave ...
+
+<usericon:1,95,460>
+
+What? You have found a gold deposit in the north?! We will go there, mine it and then we can share it ..."
+[blockend:19]
+
+[blockstart:20] 
+SARACENS
+
+<usericon:1,386,20>
+
+"Greetings, friends! As agreed, we have set up our camp here in the north to mine gold for you and for ourselves. 
+
+One of the warehouses is now yours!"
+[blockend:20]
+
+[blockstart:21] 
+BEDOUINS
+
+<usericon:1,456,181>
+
+"We live in fear and terror because we are constantly threatened by these dark warriors. Can you help us? Pay our brothers a visit, they will surely send some help!"
+
+Look for the other Bedouin oases if you want to help the Saracens.
+[blockend:21]
+
+[blockstart:22] 
+PYRAMID DESTROYED
+
+<usericon:1,113,309>
+
+Oh dear, one of the Pyramids has been destroyed and cannot be rebuilt! The mission has failed!
+[blockend:22]
+
+[blockstart:23] 
+GIZA HAS BEEN DESTROYED
+
+<usericon:1,254,387>
+
+Giza has fallen! Without the hard-working people of this city, the mission has failed!
+[blockend:23]
+
+[blockstart:24] 
+BYZANTINE SOLDIERS
+
+<usericon:1,96,287>
+
+These Byzantine soldiers belonged to a city in the north. Surely, we would find even more support for the defence of the Pyramids there!
+[blockend:24]
+
+[blockstart:25] 
+GOLD DEPOSITS!
+
+<usericon:1,392,43>
+
+This area accommodated unbelievably large gold deposits. Now it would be easy to gather the required gold for the construction of the Pyramids! 
+
+A Saracen village deep in the south-west would surely help us mine the gold. The people there were experienced miners ...
+[blockend:25]
+
+[blockstart:26] 
+PHARAONIC WARRIORS
+
+<usericon:1,224,366>
+
+"Our warriors are ready for war," the Egyptians said. "They are braver than all other warriors in this country and will fight on your side!"
+
+In return for more mead, even more warriors wanted to go to war with us.
+[blockend:26]
+
+
+[blockstart:27] 
+MAGICIAN
+
+<usericon:1,480,573>
+
+"Yes, we have heard about the attacks by the dark people. We are working on a potion that will put them in a deep coma. We only need plenty of herbs to make it!
+
+Give us herbs as a tribute, and we will mix the potion for you."
+[blockend:27]
+
+[blockstart:28] 
+MAGICIAN
+
+<usericon:1,480,573>
+
+"Thank you so much for the herbs. The potion has been mixed and distributed in the vicinity of the Pyramids. It is harmless to you, but the dark creatures will be harmed. 
+
+But watch out! It will only last for a certain time until it evaporates! If you want to renew it, you have to deliver a new supply of herbs!"
+[blockend:28]
+
+[blockstart:100]
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION FAILED!
+<font:$local$\fonts\font12.fnt>
+<picture:$local$\graphics\Hero_Dead_F.pcx>
+Heroism or carelessness? When BJARNI died the gods were crying ... without this hero, the outcome of this mission will remain hidden to you!
+[blockend:100]
+
+[blockstart:200]
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION FAILED!
+<font:$local$\fonts\font12.fnt>
+<picture:$local$\graphics\Hero_Dead_F.pcx>
+A short moment of negligence, that's all it takes to lose your life! Your heroine CYRA died due to your negligence! Without this heroine, the outcome of this mission will remain hidden to you! 
+[blockend:200]
+
+[blockstart:300]
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION FAILED!
+<font:$local$\fonts\font12.fnt>
+<picture:$local$\graphics\Hero_Dead_F.pcx>
+A short moment of negligence, that's all it takes to lose your life! Your friend and hero HATCHIE died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you! 
+[blockend:300]
+
+[blockstart:400]
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION FAILED!
+<font:$local$\fonts\font12.fnt>
+<picture:$local$\graphics\Hero_Dead_F.pcx>
+A short moment of negligence, that's all it takes to lose your life! Your friend and hero SIGURD died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you!
+[blockend:400]
+
+[blockstart:500]
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION FAILED!
+<font:$local$\fonts\font12.fnt>
+<picture:$local$\graphics\Hero_Dead_F.pcx>
+A short moment of negligence, that's all it takes to lose your life! Your friend and hero NORBERT, the dragon, died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you!
+[blockend:500]
+
+[blockstart:600]
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION FAILED!
+<font:$local$\fonts\font12.fnt>
+<picture:$local$\graphics\Hero_Dead_F.pcx>
+A short moment of negligence, that's all it takes to lose your life! MANI, son of Bjarni and Cyra, died due to your negligence! Without him, the outcome of this mission will remain hidden to you!
+[blockend:600]

@@ -1,0 +1,121 @@
+[blockstart:header] 
+THE SEA OF FLAMES
+[blockend:header]
+
+[blockstart:00_start] 
+An inhospitable area opened up underneath the barracks. This was the former basement of the Spartans!
+
+<usericon:1,108,35>
+
+But how this place must have changed! They seemed to have built their city on a volcano.
+[blockend:00_start] 
+
+[blockstart:00_start1] 
+Reach the artefact. Beware of fire-spewing rockfaces! 
+[blockend:00_start1]
+
+[blockstart:50_endheader] 
+MISSION COMPLETED! 
+[blockend:50_endheader]
+[blockstart:50_end] 
+We made it! Finally, we were holding the artefact in our hands and could leave the Sea of Flames. 
+
+And we did not want to stay another minute!
+[blockend:50_end]
+[blockstart:50_end1] 
+<usericon:1,136,102>
+[blockend:50_end1]
+
+[blockstart:01] 
+BASEMENT GUARD
+
+"These warehouses used to be full, but now the rockfaces are cracked and fire is coming out of the gaps. All ways to the warehouses are blocked.
+
+<usericon:1,100,55>
+
+The switches that used to open the gates to the warehouses have all gone rusty except one. But what can a flyweight like me do ..."
+[blockend:01]
+
+[blockstart:02] 
+WARNING!
+
+The flames have already claimed a fair number of heroes' lives!
+[blockend:02]
+
+[blockstart:03] 
+FLAMES PUT OUT!
+
+Together we managed to operate the switch, but no door opened! A strong draught flowed through the halls, blowing out the flames for a while.
+[blockend:03]
+
+[blockstart:04] 
+SWITCH OPERATED
+
+Although we had managed to operate the switch, it had no effect.
+
+<usericon:1,90,70>
+[blockend:04]
+
+[blockstart:05] 
+SWITCH
+
+This switch showed no effect. Maybe the power of only one switch wasn't enough ...
+
+<usericon:1,85,50>
+[blockend:05]
+
+[blockstart:06] 
+SWITCH
+
+Although we had managed to operate the switch, it had no effect.
+
+<usericon:1,111,65>
+[blockend:06]
+
+[blockstart:07]
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION FAILED!
+<font:$local$\fonts\font12.fnt>
+What a tragedy! The ELISIAN died in the flames.
+The mission had failed.
+[blockend:07]
+
+[blockstart:100]
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION FAILED!
+<font:$local$\fonts\font12.fnt>
+<picture:$local$\graphics\Hero_Dead_F.pcx>
+Heroism or carelessness? When BJARNI died the gods were crying ... without this hero, the outcome of this mission will remain hidden to you!
+[blockend:100]
+
+[blockstart:200]
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION FAILED!
+<font:$local$\fonts\font12.fnt>
+<picture:$local$\graphics\Hero_Dead_F.pcx>
+A short moment of negligence, that's all it takes to lose your life! Your heroine CYRA died due to your negligence! Without this heroine, the outcome of this mission will remain hidden to you! 
+[blockend:200]
+
+[blockstart:400]
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION FAILED!
+<font:$local$\fonts\font12.fnt>
+<picture:$local$\graphics\Hero_Dead_F.pcx>
+A short moment of negligence, that's all it takes to lose your life! Your friend and hero SIGURD died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you!
+[blockend:400]
+
+[blockstart:500]
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION FAILED!
+<font:$local$\fonts\font12.fnt>
+<picture:$local$\graphics\Hero_Dead_F.pcx>
+A short moment of negligence, that's all it takes to lose your life! Your friend and hero NORBERT, the dragon, died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you!
+[blockend:500]
+
+[blockstart:600]
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION FAILED!
+<font:$local$\fonts\font12.fnt>
+<picture:$local$\graphics\Hero_Dead_F.pcx>
+A short moment of negligence, that's all it takes to lose your life! MANI, son of Bjarni and Cyra, died due to your negligence! Without him, the outcome of this mission will remain hidden to you!
+[blockend:600]

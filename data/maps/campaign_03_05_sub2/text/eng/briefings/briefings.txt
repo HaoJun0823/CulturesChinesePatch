@@ -1,0 +1,134 @@
+[blockstart:header] 
+THE LOST SWAMPS
+[blockend:header]
+
+[blockstart:00_start] 
+We had no idea yet how to find a solution to fight the rising swamps. 
+
+<usericon:1,208,156>
+
+The people of Ephesus told us of "wise men" who were said to live somewhere hidden in the swamp. 
+
+Maybe they could show us a way, that's what we hoped for ...
+[blockend:00_start]
+[blockstart:00_start1] 
+Pay the wise men a visit!
+[blockend:00_start1]
+
+
+[blockstart:50_endheader] 
+MISSION COMPLETED! 
+[blockend:50_endheader]
+[blockstart:50_end] 
+When we crossed the bridge, we saw the wise men approaching us. They spoke to us in soft, dull voices:
+[blockend:50_end]
+[blockstart:50_end1] 
+WISE MEN
+
+"Brave heroes! You have found the way to us wise men! This courage and ambition must be rewarded.
+
+<usericon:1,120,15>
+
+We know your problem and will suppress the rising of the swamps for a certain time. This will give you enough time to finish your construction, if you work hard ...
+
+Your hero Hatchie, however, is to stay with us for a while because we wise men would like to learn everything about the exotic culture of his homeland."
+[blockend:50_end1]
+
+
+[blockstart:01] 
+SWAMP TRIBE
+
+"You have come to look for the wise men? This is a privilege for our people, but you are likely not to pass the trial of the swamp holes," the women of the swamp tribe said. 
+
+<usericon:1,409,47>
+
+"But we wish you good luck anyway! Keep your eyes open and explore the environment when you pass through the next hole!"
+[blockend:01]
+
+
+[blockstart:02] 
+SWAMP HOLE
+
+There were swamp holes in this area. According to our reports, one could easily get lost in them as they led the people to completely different places. But we had to use them to our advantage ...
+[blockend:02]
+
+[blockstart:03] 
+BACK TO THE BEGINNING
+
+When we stepped through this hole, we were back at the beginning of our mission. This could hardly be the right way!
+[blockend:03]
+
+[blockstart:04] 
+ATTENTION!
+
+Without a doubt we had to cross this swamp hole, but we had a strange feeling while doing so. What might be waiting for us on the other side?
+[blockend:04]
+
+[blockstart:05] 
+LIFE ENERGY
+
+A strange magic surrounded this place ... 
+
+<usericon:1,268,116>
+
+All of our men felt like they had been reborn!
+[blockend:05]
+
+[blockstart:06] 
+HATCHIE
+
+"There you are again! What kept you so long? 
+
+There is a way in, but no way out!" 
+
+<usericon:2,3 >
+[blockend:06]
+
+
+[blockstart:100]
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION FAILED!
+<font:$local$\fonts\font12.fnt>
+<picture:$local$\graphics\Hero_Dead_F.pcx>
+Heroism or carelessness? When BJARNI died the gods were crying ... without this hero, the outcome of this mission will remain hidden to you!
+[blockend:100]
+
+[blockstart:200]
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION FAILED!
+<font:$local$\fonts\font12.fnt>
+<picture:$local$\graphics\Hero_Dead_F.pcx>
+A short moment of negligence, that's all it takes to lose your life! Your heroine CYRA died due to your negligence! Without this heroine, the outcome of this mission will remain hidden to you! 
+[blockend:200]
+
+[blockstart:300]
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION FAILED!
+<font:$local$\fonts\font12.fnt>
+<picture:$local$\graphics\Hero_Dead_F.pcx>
+A short moment of negligence, that's all it takes to lose your life! Your friend and hero HATCHIE died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you! 
+[blockend:300]
+
+[blockstart:400]
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION FAILED!
+<font:$local$\fonts\font12.fnt>
+<picture:$local$\graphics\Hero_Dead_F.pcx>
+A short moment of negligence, that's all it takes to lose your life! Your friend and hero SIGURD died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you!
+[blockend:400]
+
+[blockstart:500]
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION FAILED!
+<font:$local$\fonts\font12.fnt>
+<picture:$local$\graphics\Hero_Dead_F.pcx>
+A short moment of negligence, that's all it takes to lose your life! Your friend and hero NORBERT, the dragon, died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you!
+[blockend:500]
+
+[blockstart:600]
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION FAILED!
+<font:$local$\fonts\font12.fnt>
+<picture:$local$\graphics\Hero_Dead_F.pcx>
+A short moment of negligence, that's all it takes to lose your life! MANI, son of Bjarni and Cyra, died due to your negligence! Without him, the outcome of this mission will remain hidden to you!
+[blockend:600]

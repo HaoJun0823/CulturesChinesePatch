@@ -1,0 +1,129 @@
+// **************************
+// Standardmeldungen
+// **************************
+
+
+// Mission verloren
+
+[blockstart:100]
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION FAILED!
+<font:$local$\fonts\font12.fnt>
+<picture:$local$\graphics\Hero_Dead_F.pcx>
+Heroism or carelessness? When BJARNI died the gods were crying ... without this hero, the outcome of this mission will remain hidden to you!
+[blockend:100]
+
+[blockstart:200]
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION FAILED!
+<font:$local$\fonts\font12.fnt>
+<picture:$local$\graphics\Hero_Dead_F.pcx>
+A short moment of negligence, that's all it takes to lose your life! Your heroine CYRA died due to your negligence! Without this heroine, the outcome of this mission will remain hidden to you! 
+[blockend:200]
+
+[blockstart:300]
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION FAILED!
+<font:$local$\fonts\font12.fnt>
+<picture:$local$\graphics\Hero_Dead_F.pcx>
+A short moment of negligence, that's all it takes to lose your life! Your friend and hero HATCHIE died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you! 
+[blockend:300]
+
+[blockstart:400]
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION FAILED!
+<font:$local$\fonts\font12.fnt>
+<picture:$local$\graphics\Hero_Dead_F.pcx>
+A short moment of negligence, that's all it takes to lose your life! Your friend and hero SIGURD died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you! 
+[blockend:400]
+
+[blockstart:500]
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION FAILED!
+<font:$local$\fonts\font12.fnt>
+<picture:$local$\graphics\People_Dead_F.pcx>
+You attacked your best friends although you had been warned! 
+
+This way you will not be able to complete your mission!
+[blockend:500]
+
+[blockstart:600]
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION FAILED!
+<font:$local$\fonts\font12.fnt>
+<picture:$local$\graphics\Hero_Dead_F.pcx>
+The guard of the oracle was stronger than you. 
+
+Now you will never know what secret the oracle is hiding!
+[blockend:600]
+
+
+
+// **************************
+
+// Startbriefing
+[blockstart:header] 
+THE ORACLE
+[blockend:header]
+
+[blockstart:00_start] 
+A path in the temple's vaults led down to the holy site of the oracle. But what we saw there made our blood freeze!
+
+The oracle - it was none other than Circe, daughter of the sun god Helios and the moon goddess Perseis! 
+She was a mighty sorceress, and above all notorious for turning men's heads and changing them into animals!
+
+What fate awaited us here? Had we been deceived?
+
+
+Reach the oracle.
+[blockend:00_start]
+
+
+
+
+// Mission gewonnen
+[blockstart:09_end_header] 
+
+[blockend:09_end_header]
+
+[blockstart:09_end_text1] 
+EXIT
+
+Well, that had been easier than we had expected.
+
+Curiously we stepped outside to see how the fury of the gods would be revealed ...
+[blockend:09_end_text1]
+
+
+
+// Event-Texte
+
+[blockstart:10] 
+CIRCE
+
+When we faced Circe, the goddess turned to us with a mysterious voice:
+
+"Helios, the god of the sun, the protector of Rhodes, speaks through me.
+Listen, stranger. Your trouble is not unknown to me. Demetrios, the miserable blasphemer, will fall with all of his men!
+Those who invoke the fury of the gods will suffer evil!
+
+As a token of your thanks, build a statue in my honour! It should be mighty and shining to honour my name to the end of time! 
+It is to decorate the city of Rhodes and always remind the people of my support! 
+
+Now go back up and witness my power!"
+
+
+Leave the oracle.
+[blockend:10] 
+
+
+[blockstart:20] 
+THE GUARD OF THE ORACLE
+
+We might have known ... 
+Out of the darkness a huge demon appeared in front of us to guard the oracle!
+
+May the gods be kind to us!
+[blockend:20] 
+
+

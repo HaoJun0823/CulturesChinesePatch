@@ -1,0 +1,333 @@
+[blockstart:header] 
+THE ARTEMIS TEMPLE IN EPHESUS
+[blockend:header]
+
+[blockstart:00_start] 
+The biggest temple of the Ancient World was to be resurrected by the time the Artemis celebration took place here in Ephesus in April! The construction work had already begun. This could prove positive for our mission. This way we didn't have to complete this hard task on our own.
+
+[blockend:00_start]
+[blockstart:00_start1] 
+The people of Ephesus had almost finished building the Temple, but they had trouble with the rising swamp. Nevertheless, the construction was to be finished as soon as possible, so that we could then help build the Zeus Statue of Phidias in Olympia. 
+
+Follow the mighty road towards the north to the construction site of the Artemis Temple, where you will get further instructions.
+[blockend:00_start1]
+
+
+[blockstart:50_endheader] 
+MISSION COMPLETED! 
+[blockend:50_endheader]
+[blockstart:50_end] 
+There it was! The biggest temple of the Ancient World was shining again in all its glory! This was indeed something we could be proud of! 
+
+Despite numerous obstacles, we had managed to finish the temple in time for the Artemis celebration in April!
+[blockend:50_end]
+[blockstart:50_end1] 
+Neither the arsonist Herostrates and his disciples, nor the rising of the swamp or the sometimes difficult delivery of the building materials could put us off our mission. 
+
+But we didn't stay long because we were already looking towards the west.
+This was the place where we had to bring the sixth Wonder of the Ancient World back to life ...
+[blockend:50_end1]
+
+[blockstart:01] 
+THE CITIZENS OF EPHESUS
+
+"Greetings! We have been expecting you. The arsonists are causing us a lot of trouble. It is time to put a stop to their game!"
+[blockend:01]
+
+[blockstart:02] 
+BUILDING SITE OF THE ARTEMIS TEMPLE
+
+"Oh dear, the construction had already been completed to a large extent, it was almost finished," the diligent workers of Ephesus moaned. 
+
+<usericon:1,269,121>
+
+"It will take years to rebuild the Temple again, because we don't have the marble columns!"
+
+If necessary, build several warehouses around the temple site and deliver 127 marble columns! 
+
+But there was also the trouble with the rising swamp:
+
+"A balcony alone weighs 20 tons and even if the goddess Artemis herself lifts it onto the right spot - the muddy ground will not be able to hold it," the architect said. "We have to prevent the swamp from rising, if we want to resurrect this important monument!"
+
+
+Look for a way to drive back the swamp and fortify the temple site.
+[blockend:02]
+
+
+[blockstart:03] 
+100 MARBLE COLUMNS
+
+The King of Lydia, Croesus the Younger, donates 100 marble columns to the construction of the Artemis Temple. 
+[blockend:03]
+
+[blockstart:04] 
+GOODS DELIVERED
+
+We had brought the necessary goods to the construction site. From then on, the temple construction didn't take long. 
+
+<usericon:1,269,121>
+[blockend:04]
+
+[blockstart:05] 
+ALL MAIN MISSION OBJECTIVES COMPLETED!
+
+We had captured Herostrates the Younger, prevented the rising of the swamp and delivered the necessary building materials. There was nothing to stop the Temple from being finished now!
+
+Take your heroes to the temple site to see whether the Temple has been properly built! 
+[blockend:05]
+
+[blockstart:06] 
+FORTIFYING THE TEMPLE SITE
+
+We had banished the heirs of Herostrates and as if by magic, nature was laid to rest for a while before it made itself felt again by drowning the Temple in the mud ...
+
+... the construction of the Temple could finally begin!
+[blockend:06]
+
+[blockstart:07] 
+THE HEIRS OF HEROSTRATES
+
+Oh dear! The construction of the temple was in danger! A group of arsonists, the HEIRS OF HEROSTRATES, attacked it and started a fire which the building could not withstand!
+
+<usericon:1,258,128>
+
+They were led by Herostrates the Younger. His ancestor Herostrates had already burnt down the old Temple in his time, driven by the obsessive ambition to gain fame! His "disciples" now pursued the same goal and were going to attack the site of the temple constantly. 
+
+The attacks would not stop until Herostrates the Younger was found and put in a dungeon to prevent him from inciting more people.
+
+Find Herostrates the Younger and put him in a dungeon! 
+[blockend:07]
+
+[blockstart:08] 
+Only four brave heroes should enter this place if they receive the order! 
+[blockend:08]
+
+
+[blockstart:09] 
+HARBOUR PEOPLE
+
+When we explored the coastline, the inhabitants of a small fishing village approached us. They were neither hostile nor friendly. 
+
+<usericon:1,146,352>
+
+They had heard about our fine iron tools. Even though they were well-used, they wanted to keep some for themselves! 
+
+Give the harbour people a few iron tools as a tribute, and they will show you their trade offers! 
+[blockend:09]
+
+
+[blockstart:10] 
+TRIBUTE GIVEN TO THE HARBOUR PEOPLE!
+
+We had given the harbour people the tools as a tribute, and they immediately changed their attitude towards us. 
+
+<usericon:1,146,352>
+
+They were so happy that they presented us with some extremely favourable trade offers. 
+[blockend:10]
+
+[blockstart:11] 
+SARACEN CITY
+
+When we explored the desert, the inhabitants of a city approached us. They were exceedingly friendly towards us.
+
+<usericon:1,398,28>
+
+Unfortunately, these people were deeply grieved, as the daughter of an old and respected man of the city had been missing for a few days. We decided to pay him a visit ... 
+
+Look for Hermeias! 
+[blockend:11]
+
+[blockstart:12] 
+HERMEIAS
+
+"Oh, my poor daughter! She only wanted to pick some rare plants and must have got lost in the forest to the south-west ... Or something terrible has happened to her ..."
+
+<usericon:2,9>
+
+"Can't you bring her back? My legs are old and tired. It would take days for me to find her."
+
+Find Hermeias' daughter Amelia!
+[blockend:12]
+
+[blockstart:13] 
+HERMEIAS
+
+"Oh, my daughter! You found her! I will speak to the King of Lydia to support you in your mission!"
+
+<usericon:2,9>
+[blockend:13]
+
+[blockstart:14] 
+AMELIA
+
+"Oh, my father must be very worried about me! Would you be so kind and take me back to him? I don't want to get lost again!"
+
+<usericon:2,8>
+
+Take Amelia back to her father!
+[blockend:14]
+
+[blockstart:15] 
+MERCHANT
+
+When we explored the coast, a tribe of merchants approached us. They were neither hostile nor friendly towards us, and they wanted to do trade with us and give us a present if we paid them a tribute.
+
+<usericon:1,184,439>
+
+Give the merchants a few bowls of honey as a tribute, and they will show you their trader offers and give you a present! 
+[blockend:15]
+
+[blockstart:16] 
+MERCHANTS
+
+We had given the merchants the tribute, and in return they gave us 30 of their marble columns, which were in high demand ...
+
+<usericon:1,186,443>
+
+... and showed us their favourable trade offers.
+[blockend:16]
+
+[blockstart:17] 
+THE OLD MAN
+
+"The swamp is insidious, and dangerous animals are on the rampage. But if you want to see the wise men of the swamp, follow the path to the north-east," the old man said. 
+
+<usericon:1,251,59>
+
+Then he disappeared again in the mist, just as quickly as he had appeared ... 
+[blockend:17]
+
+[blockstart:18] 
+THE OLD MAN
+
+"A few days ago, a nice girl was walking by, looking for the forest in the west. I did not see her come back this way ... 
+
+<usericon:1,121,288>
+
+I hope nothing has happened to her," the old man said. 
+Then he disappeared again in the mist, just as quickly as he had appeared ...
+[blockend:18]
+
+[blockstart:19] 
+THE OLD MAN
+
+<usericon:1,243,386>
+
+"A tribe of merchants has settled down further south. For the moment, they have a friendly attitude towards you, and their gifts and trade offers are very generous," the old man said. 
+Then he disappeared again in the mist, just as quickly as he had appeared ...
+[blockend:19]
+
+[blockstart:20] 
+THE GENERAL OF EPHESUS
+
+"Greetings, strangers! I can't believe what the heirs of Herostrates are doing to our Temple!" 
+
+<usericon:2,10>
+
+"I will equip my soldiers to be prepared for an emergency. So far they have been afraid of the arsonists. But with a bit of mead from you, they will surely find enough courage to start a diversion. The entrance to the mountain camp would then be cleared, so that brave heroes like you would then be able to put a stop to Herostrates' game!"
+
+If you want to, pay the tribute for the diversionary manoeuvre.
+[blockend:20]
+
+[blockstart:21] 
+TRIBUTE PAID TO GENERAL OF EPHESUS!
+
+<usericon:2,10>
+
+"Your mead lends my men the courage they need. Nothing can stop us now, and we will start the distraction at once! This way you may be able to cross the bridge from the west to the entrance of the mountain unscathed."
+
+"If this is not enough to help you, you could pay us another tribute. We will then do everything that is in our power! I give you my word!"
+[blockend:21]
+
+[blockstart:22] 
+PEOPLE FROM EPHESUS FIGHT HEROSTRATES' HEIRS!
+
+<usericon:1,197,104>
+
+The general's army intrepidly faced the arsonists. They could hardly do them any harm!
+[blockend:22]
+
+[blockstart:23] 
+HATCHIE ON EXPLORATORY MISSION!
+
+<usericon:2,3>
+
+Hatchie decided to further explore the area above the Temple. 
+[blockend:23]
+
+[blockstart:24] 
+MANI and NORBERT are now old enough to take part in the heroes' adventures!
+
+<usericon:2,5>
+[blockend:24]
+
+[blockstart:25] 
+THE HEIRS OF HEROSTRATES
+
+This was the stronghold of Herostrates' heirs. There was said to be a secret entrance to the massif where Herostrates himself was hiding!
+
+<usericon:1,143,43>
+
+Take ALL your heroes to the entrance to the mountains! 
+[blockend:25]
+
+[blockstart:26] 
+GOODS DELIVERED
+
+We had delivered the requested goods to the building site. But the construction of the Temple could not be started yet. 
+
+<usericon:1,269,121>
+
+First, we had to see to TWO other problems: the rising of the swamp and the expulsion of the arsonist army of Herostrates' heirs! 
+
+The builders of Ephesus took care of the goods, but did not want to proceed with the construction until both dangers were averted ...
+[blockend:26]
+
+[blockstart:27] 
+TRIBUTE PAID TO GENERAL OF EPHESUS!
+
+<usericon:2,10>
+
+"Your mead and your money is payment enough for my army. We will fight to a man!" 
+[blockend:27]
+
+[blockstart:100]
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION FAILED!
+<font:$local$\fonts\font12.fnt>
+<picture:$local$\graphics\Hero_Dead_F.pcx>
+Heroism or carelessness? When BJARNI died the gods were crying ... without this hero, the outcome of this mission will remain hidden to you!
+[blockend:100]
+
+[blockstart:200]
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION FAILED!
+<font:$local$\fonts\font12.fnt>
+<picture:$local$\graphics\Hero_Dead_F.pcx>
+A short moment of negligence, that's all it takes to lose your life! Your heroine CYRA died due to your negligence! Without this heroine, the outcome of this mission will remain hidden to you! 
+[blockend:200]
+
+[blockstart:400]
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION FAILED!
+<font:$local$\fonts\font12.fnt>
+<picture:$local$\graphics\Hero_Dead_F.pcx>
+A short moment of negligence, that's all it takes to lose your life! Your friend and hero SIGURD died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you! 
+[blockend:400]
+
+[blockstart:500]
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION FAILED!
+<font:$local$\fonts\font12.fnt>
+<picture:$local$\graphics\Hero_Dead_F.pcx>
+A short moment of negligence, that's all it takes to lose your life! Your friend and hero NORBERT, the dragon, died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you!
+[blockend:500]
+
+[blockstart:600]
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION FAILED!
+<font:$local$\fonts\font12.fnt>
+<picture:$local$\graphics\Hero_Dead_F.pcx>
+A short moment of negligence, that's all it takes to lose your life! MANI, son of Bjarni and Cyra, died due to your negligence! Without him, the outcome of this mission will remain hidden to you!
+[blockend:600]

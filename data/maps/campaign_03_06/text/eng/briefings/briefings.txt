@@ -1,0 +1,399 @@
+[blockstart:header] 
+THE ZEUS STATUE OF PHIDIAS IN OLYMPIA
+[blockend:header]
+
+[blockstart:00_start] 
+Our next task was to build a mighty statue of Zeus. The Council of Nations had found out that this was the next Wonder of the World in which mysterious powers lay dormant that could avert all evil. In the face of constantly growing dangers we could only hope that the Council was right and the Wonders of the World would indeed be able to drive the darkness from the Earth ...
+
+We had to convince the people near Olympia to help us build the Zeus Statue, because without their help the construction would take far too long. 
+
+But we faced serious problems ourselves ... A heavy storm had separated our ships upon our arrival. Our women and men must have arrived at a different location on the peninsula.
+[blockend:00_start]
+[blockstart:00_start1]
+In these gloomy times there was much armed conflict between the tribes. 
+But every fourth summer, a huge festival was held in Olympia. For the duration of the festival, the area around the Kronos Hill in the Holy Grove was peaceful. All participants in the Olympic Games were given safe conduct on their way to Olympia, according to the orders of Zeus ...
+
+Assist in the construction of the Zeus Statue!
+[blockend:00_start1]
+
+
+[blockstart:50_endheader] 
+MISSION COMPLETED! 
+[blockend:50_endheader]
+[blockstart:50_end] 
+We made it! The enthroned figure of Zeus stood on a limestone plinth and was about seven times as tall as a man!
+
+The mighty centre of this colossal structure was made from cypress and ebony. The naked body parts were artfully modelled and carved in ivory. The soles of the sandals, the ankle-length robe of the god and the flowing hair were made of pure gold!
+[blockend:50_end]
+[blockstart:50_end1]
+In his outstretched right hand, Zeus was holding a floating, slim Nike; the left hand held a sceptre made out of various precious metals and crowned by the golden eagle.
+ 
+Full of pride and awe, we stood at the foot of the Zeus Statue. Whatever mysterious power this monument might hold - we almost thought that we could feel it! 
+
+However, we could not remain here for long. We had been told that the destination of our next task, the GIZA PYRAMIDS, were heavily besieged! Therefore we had to return to the country of the Saracens quickly ...
+[blockend:50_end1]
+
+[blockstart:01] 
+THE CITIZENS OF OLYMPIA
+
+"Oh! Greetings, novices to the Olympic Games! I am glad to offer you our support for the reconstruction of the Zeus Statue. 
+But first prove your sportsmanship! Compete with the runner of Elis in a race! You will find him somewhere in the hinterland of our beautiful city.
+
+<usericon:2,7>
+
+He exercises day and night, running around the track."
+
+Find the runner of Elis and compete with him in a race!
+[blockend:01]
+
+[blockstart:02] 
+GUARDS OF THE ZEUS STATUE
+
+"A mighty temple once stood here and accommodated the Zeus Statue of Phidias in its centre. We are the guards of the building site and watch over the Holy Grove. 
+We people from Olympia will only assist you in building the Zeus Statue if you prove yourselves worthy of our support ..."
+[blockend:02]
+
+
+[blockstart:03] 
+GUARDS OF THE STATUE
+
+"You have truly proved worthy to lead the construction of the Zeus Statue. As you can see, the citizens of Olympia and Elis have already started building it." 
+
+<usericon:1,83,253>
+
+"Unfortunately, we are running out of resources. We need more gold and marble columns. You can get the marble columns from the Elisians, but nobody here possesses gold apart from the cities in the north-west. 
+
+The Corinthians are quite easy to get along with and have told us that they would give us their gold, if we brought them an artefact that the Spartans possessed. Unfortunately, the Spartans are not very friendly towards us. And the citizens of Megara, high up in the north-west, don't want to share their possessions with anybody ..."
+
+Deliver 80 gold and 40 marble columns to the building site! The runner of Elis will show you the way!
+[blockend:03]
+
+[blockstart:04] 
+OUR VILLAGE
+
+This was where the other ships of our people had landed and even established a functioning settlement in the meantime. We could either use this one or build another one near the Zeus Statue building site ...
+[blockend:04]
+
+[blockstart:05] 
+GOODS DELIVERED
+
+We had brought the required goods to the building site. From now on, the construction of the Zeus Statue would not take long. 
+[blockend:05]
+
+[blockstart:06] 
+THE RUNNER
+
+"Ah! You want to enter into a competition with me! But I will only compete against your Frankish hero!"
+
+<usericon:2,7>
+
+Take Sigurd to the runner!
+[blockend:06]
+
+[blockstart:07] 
+THE RUNNER
+
+"Are you ready for a competition? So be it!"
+
+<usericon:2,7>
+[blockend:07]
+
+[blockstart:08] 
+ELIS
+
+"We like strangers! Come closer. You want to compete against our runner? If you win, we will support you and supply you with all our marble ... 
+
+A little hint: He runs so fast that you often can't catch up with him. Wait for him on the small wooden bridge ...
+
+<usericon:1,108,275>
+
+... sooner or later he should run past you ..."
+[blockend:08]
+
+[blockstart:09] 
+ELIS
+
+"So, you managed to defeat the runner of Elis? As a reward, we will supply you with marble columns for the construction of the Zeus Statue ... 
+
+<usericon:1,87,147>
+
+These merchants could take them to you. Give them safe escort ... Maybe they can even be of use for other trade ..."
+[blockend:09]
+
+[blockstart:10] 
+CORINTH
+
+"There is mistrust everywhere among the cities. If you manage to retrieve our ancient artefact from the Spartans, we will support you in your mission. But the Spartans are not friendly to anybody except the Elisians!"
+
+Bring the Corinthians the artefact of their faith from the Spartans.
+[blockend:10]
+
+[blockstart:11] 
+CORINTH
+ARTEFACT DELIVERED!
+
+"You made it! I'm sure it wasn't easy to retrieve it from the Spartans, because they aren't friendly to anybody except the Elisians.
+Our people are deeply indebted to you and will therefore donate 60 gold to the construction of the Zeus Statue! It will be taken to the building site immediately ...
+
+<usericon:1,76,241>
+
+Furthermore, you will receive the required ivory and the rare precious metals from us."
+[blockend:11]
+
+[blockstart:12] 
+SPARTA
+
+"We do not like you! We mistrust all strangers! The only ones that we trust are the Elisians from the north-west.
+Go back where you came from!"
+
+Leave and come back with the WARRIORS of the Elisians!
+[blockend:12]
+
+[blockstart:13] 
+SPARTA
+
+"Welcome, Elisians! We have not held a joint celebration for a long time, and we are happy that you are paying us a visit again! Your friends are welcome as well ..."
+
+Search Sparta for an ARTEFACT for the Corinthians.
+[blockend:13]
+
+[blockstart:14] 
+SPARTA
+
+"You have come to retrieve the artefact for the Corinthians? - This is a just a fake! 
+
+<usericon:1,236,505>
+
+Due to the constant disturbances and raids, we do not keep it on the surface any more. It is hidden underneath our city - in the SEA OF FLAMES. 
+The entrance is near the barracks. Only heroes must enter this place! If you manage to retrieve it from there, it shall be yours!"
+
+Take all of your heroes and an Elisian soldier to the barracks.
+[blockend:14]
+
+
+[blockstart:15] 
+MEGARA
+
+"The gold is ours! We won't give it to anybody, not even for the construction of the Zeus Statue," the citizens of Megara called out from a distance, before their arrows rained down on us ...
+
+They were not the least bit friendly. There was no way their attitude could be misinterpreted ...
+[blockend:15]
+
+[blockstart:16] 
+MARBLE DELIVERED
+
+"Very good, you have got the marble.
+By the way, I almost forgot to tell you that we also need some more ivory and additional precious metals for the construction. I'm sure the Corinthians or the Spartans will be able to help you ..."
+
+Bring some ivory and the precious metals to the building site.
+[blockend:16]
+
+[blockstart:17] 
+THE OLD MAN
+
+"I came through these magic fields. I met a tribe like yours in the south, on the other side. 
+
+<usericon:1,193,330>
+
+They were very friendly and offered me freshly baked bread."
+[blockend:17]
+
+[blockstart:18] 
+THE OLD MAN
+
+"Oh yes, the runner of Elis can hardly be stopped! 
+
+<usericon:1,134,198>
+
+His wife always waits for him on the small bridge for snacks. That's where you will meet him for sure ..."
+[blockend:18]
+
+[blockstart:19] 
+THE OLD MAN
+
+"This site is ideal for building a warehouse because it is located right between the two trade posts of the Saracen markets. 
+
+<usericon:1,355,285>
+
+If I was still young, I would build my warehouse here, too. There is no better place."
+
+If you want to, build a warehouse within the marked area.
+[blockend:19]
+
+
+[blockstart:20] 
+
+[blockend:20]
+
+[blockstart:21] 
+STATUE OF ZEUS EXTENDED!
+
+<usericon:1,83,242>
+
+With the precious metals, the citizens of Olympia were able to speed up the construction of the Zeus Statue, but they were still lacking the remaining goods they had already requested.
+[blockend:21]
+
+[blockstart:22] 
+ALL MAIN MISSION OBJECTIVES COMPLETED!
+
+<usericon:1,83,231>
+
+Finally, we had got all the materials, so that the Zeus Statue could be finished.
+
+Take your heroes to the Zeus Statue!
+[blockend:22]
+
+[blockstart:23] 
+ANTHUSA
+
+"I have heard that there are also red and blue flowers of this kind. 
+
+<usericon:2,13>
+
+Unfortunately, only yellow flowers grow in my garden. What wouldn't I give only to have a few red ones! Take these yellow flowers. Maybe you will find someone who likes this variety ..."
+[blockend:23]
+
+[blockstart:24] 
+DESTASIA
+
+"I have heard that there are also yellow and blue flowers of this kind. 
+
+<usericon:2,14>
+
+Unfortunately, only red flowers grow in my garden. What wouldn't I give only to have a few blue ones! Take these red flowers. Maybe you will find someone who likes this variety ..."
+[blockend:24]
+
+[blockstart:25] 
+PASARA
+
+"I have heard that there are also red and yellow flowers of this kind. 
+
+<usericon:2,15>
+
+Unfortunately, only blue flowers grow in my garden. What wouldn't I give only to have a few yellow ones! Take these blue flowers. Maybe you will find someone who likes this variety ..."
+[blockend:25]
+
+[blockstart:26] 
+ANTHUSA
+
+"Oh! Red flowers! I have always wanted to have some of those! In return, please take the gold in front of my house. Please, you cannot deny my wish."
+
+<usericon:2,13>
+
+You will receive 10 gold and 5 coins! 
+[blockend:26]
+
+[blockstart:27] 
+DESTASIA
+
+"Oh! Blue flowers! I have always wanted to have some of those! In return, please take the gold in front of my house. Please, you cannot deny my wish."
+
+<usericon:2,14>
+
+You will receive 10 gold and 5 coins!
+[blockend:27]
+
+[blockstart:28] 
+PASARA
+
+"Oh! Yellow flowers! I have always wanted to have some of those! In return, please take the gold in front of my house. Please, you cannot deny my wish."
+
+<usericon:2,15>
+
+You will receive 10 gold and 5 coins!
+[blockend:28]
+
+[blockstart:29] 
+NOMAD WARRIORS
+
+"We won't let travellers pass, for the will of Zeus does not count for us!" 
+
+Pay a tribute of 15 longswords!
+[blockend:29]
+
+[blockstart:30] 
+TRIBUTE PAID TO NOMAD WARRIORS!
+
+"We will let you go in peace," the nomad warriors told us as they took our tribute. 
+[blockend:30]
+
+[blockstart:31] 
+MARKET PLACE
+
+"In return for a tribute, you can get handcarts and ox carts, nourishing amulets and longswords here ...
+
+But first build an extra warehouse between our two warehouses!"
+[blockend:31]
+
+[blockstart:32] 
+TRIBUTE PAID TO MERCHANTS OF THE MARKET PLACE! 
+
+"For this tribute you will receive 15 longswords from us. May they be of great use to you."
+
+<usericon:1,354,272>
+[blockend:32]
+
+[blockstart:33] 
+TRIBUTE PAID TO MERCHANTS OF THE MARKET PLACE! 
+
+"For this tribute you will receive a handcart and an ox cart from us. May they be of great use to you."
+
+<usericon:1,350,290>
+[blockend:33]
+
+[blockstart:34] 
+TRIBUTE PAID TO MERCHANTS OF THE MARKET PLACE! 
+
+"For this tribute you will receive 15 nourishing amulets from us. May they be of great use to you."
+
+<usericon:1,354,272>
+[blockend:34]
+
+
+[blockstart:100]
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION FAILED!
+<font:$local$\fonts\font12.fnt>
+<picture:$local$\graphics\Hero_Dead_F.pcx>
+Heroism or carelessness? When BJARNI died the gods were crying ... without this hero, the outcome of this mission will remain hidden to you!
+[blockend:100]
+
+[blockstart:200]
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION FAILED!
+<font:$local$\fonts\font12.fnt>
+<picture:$local$\graphics\Hero_Dead_F.pcx>
+A short moment of negligence, that's all it takes to lose your life! Your heroine CYRA died due to your negligence! Without this heroine, the outcome of this mission will remain hidden to you! 
+[blockend:200]
+
+[blockstart:300]
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION FAILED!
+<font:$local$\fonts\font12.fnt>
+<picture:$local$\graphics\Hero_Dead_F.pcx>
+A short moment of negligence, that's all it takes to lose your life! Your friend and hero HATCHIE died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you! 
+[blockend:300]
+
+[blockstart:400]
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION FAILED!
+<font:$local$\fonts\font12.fnt>
+<picture:$local$\graphics\Hero_Dead_F.pcx>
+A short moment of negligence, that's all it takes to lose your life! Your friend and hero SIGURD died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you!
+[blockend:400]
+
+[blockstart:500]
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION FAILED!
+<font:$local$\fonts\font12.fnt>
+<picture:$local$\graphics\Hero_Dead_F.pcx>
+A short moment of negligence, that's all it takes to lose your life! Your friend and hero NORBERT, the dragon, died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you!
+[blockend:500]
+
+[blockstart:600]
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION FAILED!
+<font:$local$\fonts\font12.fnt>
+<picture:$local$\graphics\Hero_Dead_F.pcx>
+A short moment of negligence, that's all it takes to lose your life! MANI, son of Bjarni and Cyra, died due to your negligence! Without him, the outcome of this mission will remain hidden to you!
+[blockend:600]

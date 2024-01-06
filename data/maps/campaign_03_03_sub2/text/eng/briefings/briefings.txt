@@ -1,0 +1,111 @@
+// **************************
+// Standardmeldungen
+// **************************
+
+
+// Mission verloren
+
+[blockstart:100]
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION FAILED!
+<font:$local$\fonts\font12.fnt>
+<picture:$local$\graphics\Hero_Dead_F.pcx>
+Heroism or carelessness? When BJARNI died the gods were crying ... without this hero, the outcome of this mission will remain hidden to you!
+[blockend:100]
+
+[blockstart:200]
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION FAILED!
+<font:$local$\fonts\font12.fnt>
+<picture:$local$\graphics\Hero_Dead_F.pcx>
+A short moment of negligence, that's all it takes to lose your life! Your heroine CYRA died due to your negligence! Without this heroine, the outcome of this mission will remain hidden to you! 
+[blockend:200]
+
+[blockstart:300]
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION FAILED!
+<font:$local$\fonts\font12.fnt>
+<picture:$local$\graphics\Hero_Dead_F.pcx>
+A short moment of negligence, that's all it takes to lose your life! Your friend and hero HATCHIE died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you! 
+[blockend:300]
+
+[blockstart:400]
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION FAILED!
+<font:$local$\fonts\font12.fnt>
+<picture:$local$\graphics\Hero_Dead_F.pcx>
+A short moment of negligence, that's all it takes to lose your life! Your friend and hero SIGURD died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you! 
+[blockend:400]
+
+[blockstart:500]
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION FAILED!
+<font:$local$\fonts\font12.fnt>
+<picture:$local$\graphics\People_Dead_F.pcx>
+You attacked your best friends although you had been warned! 
+
+This way you will not be able to complete your mission!
+[blockend:500]
+
+
+// **************************
+
+// Startbriefing
+[blockstart:header] 
+THE SECRET PASSAGE
+[blockend:header]
+
+[blockstart:00_start] 
+Take the cart full of mead to the exit, it should remain undamaged. The soldiers will escort you and protect you against potential enemies in the tunnels.
+
+<usericon:1,91,129>
+
+And remember: The cart has to be FULL when you reach the exit! 
+Do not touch the mead! It is not meant for you!
+
+Good luck!
+[blockend:00_start]
+
+
+// Mission gewonnen
+[blockstart:09_end_header] 
+WELL DONE! 
+[blockend:09_end_header]
+
+[blockstart:09_end_text1] 
+You have managed to take the cart with 10 bottles of mead through the underground passage undamaged! Well done.
+
+Wait outside for Metros.
+[blockend:09_end_text1]
+
+
+
+
+// Event-Texte
+[blockstart:10] 
+HEALING FOGS
+
+These strange wisps of fog appeared to have healing qualities!
+
+You only had to remain in the fog for a few seconds, and all your wounds were healed!
+[blockend:10]
+
+
+
+// Karren zerstört
+[blockstart:110] 
+MISSION FAILED
+
+The cart carrying the mead has been destroyed! Your mission has failed!
+[blockend:110]
+
+[blockstart:120] 
+REINFORCEMENT
+
+Petros is sending you some reinforcements. 
+This is the only kind of help he can offer you ...
+[blockend:120]
+
+
+
+

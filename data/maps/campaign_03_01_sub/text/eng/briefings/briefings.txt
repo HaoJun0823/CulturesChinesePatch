@@ -1,0 +1,103 @@
+[blockstart:header] 
+THE HOLY FIRE
+[blockend:header]
+
+[blockstart:00_start] 
+Deep down in the tunnel the merciless heat of the desert could hardly be felt.
+
+<usericon:1,38,49>
+
+The mouldy air penetrated our lungs, and from somewhere nearby we heard the echoing blows of the miners' hammers. But where did they keep the Holy Fire?
+[blockend:00_start]
+[blockstart:00_start1] 
+Find the Holy Fire.
+[blockend:00_start1]
+
+
+[blockstart:50_endheader] 
+MISSION COMPLETED! 
+[blockend:50_endheader]
+[blockstart:50_end] 
+Finally we had found the fire for the Pharos Lighthouse. The Saracen people had given us a hard time.
+
+<usericon:1,137,14>
+[blockend:50_end]
+[blockstart:50_end1] 
+
+[blockend:50_end1]
+
+
+[blockstart:01] 
+MOUNTAIN PEOPLE
+
+"Hey, you! Who allowed you to enter our mines?"
+[blockend:01]
+
+
+[blockstart:02] 
+WORKER
+
+"Don't hurt us! We only do our work and we hardly know what is happening above ground!" 
+
+<usericon:1,23,62>
+[blockend:02]
+
+[blockstart:03] 
+The entrance to the gate is still blocked!
+
+<usericon:1,121,52>
+
+Find a way to open the gate!
+[blockend:03]
+
+[blockstart:04] 
+Your Vikings may now pass the gate! But beware of the guards of the Holy Fire who are hiding behind the gate!
+
+<usericon:1,121,52>
+[blockend:04]
+
+[blockstart:05] 
+LIFE ENERGY
+
+A strange magic surrounded this place ... 
+
+<usericon:1,96,77>
+
+All our men felt like they had been reborn!
+[blockend:05]
+
+
+
+
+
+[blockstart:100]
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION FAILED!
+<font:$local$\fonts\font12.fnt>
+<picture:$local$\graphics\Hero_Dead_F.pcx>
+Heroism or carelessness? When BJARNI died the gods were crying ... without this hero, the outcome of this mission will remain hidden to you!
+[blockend:100]
+
+[blockstart:200]
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION FAILED!
+<font:$local$\fonts\font12.fnt>
+<picture:$local$\graphics\Hero_Dead_F.pcx>
+A short moment of negligence, that's all it takes to lose your life! Your heroine CYRA died due to your negligence! Without this heroine, the outcome of this mission will remain hidden to you! 
+[blockend:200]
+
+[blockstart:300]
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION FAILED!
+<font:$local$\fonts\font12.fnt>
+<picture:$local$\graphics\Hero_Dead_F.pcx>
+A short moment of negligence, that's all it takes to lose your life! Your friend and hero HATCHIE died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you! 
+[blockend:300]
+
+[blockstart:400]
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION FAILED!
+<font:$local$\fonts\font12.fnt>
+<picture:$local$\graphics\Hero_Dead_F.pcx>
+A short moment of negligence, that's all it takes to lose your life! Your friend and hero SIGURD died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you! 
+[blockend:400]

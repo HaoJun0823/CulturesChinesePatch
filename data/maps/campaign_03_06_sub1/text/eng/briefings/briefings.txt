@@ -1,0 +1,46 @@
+[blockstart:header] 
+THE COMPETITION
+[blockend:header]
+
+[blockstart:00_start] 
+The runner of Elis was in good shape and it wasn't going to be easy for Sigurd to beat him in the competition! 
+
+<usericon:1,22,119>
+
+But still - he had to try because if he won the race, the citizens of Olympia and Elis would give us their support ...
+[blockend:00_start] 
+
+[blockstart:00_start1] 
+Defeat the runner in the competition!
+[blockend:00_start1]
+
+[blockstart:50_endheader] 
+MISSION COMPLETED! 
+[blockend:50_endheader]
+[blockstart:50_end] 
+Congratulations! Nobody had believed Sigurd capable of winning! 
+
+<usericon:2,4>
+
+But his sportsmanship and ambition were so strong that he was able to defeat the runner of Elis!
+[blockend:50_end]
+[blockstart:50_end1] 
+[blockend:50_end1]
+
+[blockstart:01] 
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION FAILED!
+<font:$local$\fonts\font12.fnt>
+The runner has died! This is not what we call fair play!
+[blockend:01]
+
+[blockstart:02]
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION FAILED!
+<font:$local$\fonts\font12.fnt>
+What a tragedy! The runner was clearly faster than your friend and hero Sigurd.
+
+<usericon:2,7>
+
+Try again!
+[blockend:02]
