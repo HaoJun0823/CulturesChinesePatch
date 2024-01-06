@@ -1,198 +1,198 @@
 [blockstart:header]
 
-THREE WISHES
+三个愿望
 [blockend:header]
 
 [blockstart:00_start] 
-"Our bravery, our strength and all our courage cannot help us fight the serpent plague, because the plague was caused by dark magic. It is a divine spell, so to speak ..." Ykol explained. 
+我们的勇敢，力量和精神也无法帮助我们对抗毒蛇瘟疫，因为这场瘟疫是黑魔法制造的。有着超常的魔力，所以说．．．＂Ykol解释道。
 [blockend:00_start]
 
 [blockstart:00_start1] 
-"In these catacombs dwells an ancient genie who will make the impossible come true. Only he is strong enough and has the necessary magic power. 
+＂在这些地下墓穴中住着一个古代的妖怪，这个妖怪可以将不可能的事情变成现实。只有他足够强壮和具有所需要的魔力。
 
-But remember: It is very difficult to get to him. Many gates bar the way ..."
+但是请记住：很难找到他。有许多门挡在找他的路上．．．
 
-Open the gates and find the genie!
+打开这些门就可以找到这个妖怪！
 [blockend:00_start1]
 
 
 [blockstart:50_endheader] 
 
-MISSION COMPLETED! 
+任务完成！
 [blockend:50_endheader]
 
 [blockstart:50_end] 
-After the last wish, the genie from the bottle disappeared. But he left a shining red amulet behind. 
+许下最后一个愿望之后，瓶子里的妖怪消失了。但是他剩下了一个闪闪发亮的红色的护身符。
 [blockend:50_end]
 
 [blockstart:50_end1] 
-Ykol picked it up and brought it to me. I gave it to Cyra, because Ykol claimed its magic powers would protect its bearer ... 
+Ykol把它捡起来，递给我。我又把它递给Cyra，因为Ykol说这个护身符有魔力可以保护它的佩戴者．．．
 [blockend:50_end1]
 
 
 [blockstart:01_schlangenwesen] 
-SERPENT CREATURES
+毒蛇
 
-Oh no! Those dreadful beasts had even spread underground! 
-However, we found out that they could not be exceedingly clever, because the door mechanisms troubled them, so that they became trapped in the catacombs for weeks!  
+哦，不！这些可怕的野兽已经蔓延到地下去了！
+但是我们发现这些毒蛇不是很聪明，因为门的结构就难住了他们，所以，它们被陷在地下墓穴中好几个星期！
 
-Use the door mechanisms against the serpent creatures!
+用门的结构对付这些毒蛇！
 [blockend:01_schlangenwesen]
 
 
 [blockstart:02_tor] 
-THE FIRST GATE
+第一扇门
 
-A wooden gate nearby opened up with an enormous creak. 
+旁边的一扇木门伴着巨大的声响打开了。
 [blockend:02_tor]
 
 [blockstart:03_tor] 
-THE SECOND GATE 
+第二扇门
  
-A wooden gate nearby opened up with an enormous creak. 
+旁边的一扇木门伴着巨大的声响打开了。
 [blockend:03_tor]
 
 [blockstart:04_tor] 
-THE THIRD GATE  
+第三扇门
 
-A wooden gate nearby opened up with an enormous creak.
+旁边的一扇木门伴着巨大的声响打开了。
 [blockend:04_tor]
 
 [blockstart:05_genie] 
-GENIE
+妖怪
 
-We found the genie Ykol had spoken of, and from which he expected so much.
+我们找到了Ykol说过的那个妖怪，那个Ykol寄予了无限期望的妖怪。
 
-It spoke to us:
+妖怪对我们说：
  
-"I will only grant wishes to those willing to answer my riddle! 
+“猜出我的谜语我才会答应你们的愿望！
 
-Well?!
+那么？！
 
-...
+……
 
-There are three switches in these rooms.
+在这些房间里有三个开关。
 
-Remember the symbols of the switches well, because I will only show them to you once!" 
+牢记开关上的标记，因为我只让你们看一次！
 [blockend:05_genie]
 
 [blockstart:06_erkl鋜ung1]
 
-"This is switch A."
+“这是开关Ａ
 [blockend:06_erkl鋜ung1]
 
 [blockstart:07_erkl鋜ung2]
 
-"This is switch B."
+这是开关Ｂ
 [blockend:07_erkl鋜ung2]
 
 [blockstart:08_erkl鋜ung3]
 
-"This is switch C." 
+这是开关Ｃ“
 
-There are three possible answers to each of my riddles. But beware! Only one of them is correct. Find the right answers!
+每一个谜语都有三个可选的答案。但是注意！只有一个是对的。找到正确答案！
 
-Answer me by operating the respective switch!  
+通过操作各自的开关回答我！
 
-Are you ready for the riddle? Then come a little closer!"   
+准备好猜谜语了吗？那么走近些！“
 [blockend:08_erkl鋜ung3]
 
 [blockstart:09_schalterbesetzt]
 
-You have to leave the switches, otherwise the genie will remain silent!
+一定要离开开关，否则，妖怪就会保持沉默！
 [blockend:09_schalterbesetzt]
 
 [blockstart:10_falsch] 
-NOPE!
+不！
 
-Wrong answer!
+回答错误！
 [blockend:10_falsch]
 
 
 [blockstart:11_wunsch1] 
-GENIE
+妖怪
 
-"You have solved the riddle and I will fulfil three wishes for you. What is your first wish?" 
+“你们已经猜出了谜语，我可以实现你们的三个愿望。你们的第一个愿望是什么呢？”
 [blockend:11_wunsch1]
 
 [blockstart:11_wunsch1a] 
-We were amazed that our mission might be completed simply by wishing for something. Nevertheless we requested: 
+我们好吃惊，我们的任务居然可以通过许愿就轻易的完成了。不管怎样，我们请求；
 
-"The people in this land are being threatened by evil serpent beings. In spite of bitter resistance, they have only been warded off, but never defeated. 
+＂这片土地上的人们正被邪恶的毒蛇威胁着。尽管通过痛苦的抵抗，毒蛇已经被锁住了，但是并没有被彻底击败。
 
-Fight the serpent plague, so the people can live in peace again!" 
+击败蛇灾，那样人们就可以恢复平静的生活了！
 [blockend:11_wunsch1a]
 
 [blockstart:12_wunsch2] 
-BOOM - BANG!        
-... the wish had been fulfilled ...
+一声巨响！
+．．．愿望实现了．．．
  
-The entire SERPENT PLAGUE had been vanquished with a single strike! Their surviving victims arose from the remains of their tormentors!
+整个蛇灾随着一次简单的重击就消失了！幸存的受害者从怪物的遗体中站起来！
 [blockend:12_wunsch2]
 
 [blockstart:12_wunsch2a] 
-"Well, this was your first wish," the genie said. "I will fulfil two more for you. 
+“那么，这是你们的第一个愿望，”妖怪说。“我还要满足你们另外两个愿望
 
-What is your second desire?" 
+你们的第二个愿望是什么呢？”
 
-We thought about the people: The serpent plague had ended, but the people would still be starving for a long time, because their villages and fields had been devastated ... 
+我们关心着人们：虽然蛇灾结束了，但人们已经挨饿很长时间了，因为他们的村庄和田地已经被毁了．．．“
 
-"Genie, if it is within your power to do so, please end this famine!" 
+“妖怪，如果这是你的力量所及，就请结束饥荒！”
 [blockend:12_wunsch2a]
 
 [blockstart:13_wunsch3] 
-BOOM - BANG!         
-... the wish had been fulfilled ...
+一声巨响！
+．．．愿望实现了．．．
  
-The FAMINE was ended and the people had plenty of food. Their long torment was over ...
+饥荒结束了，人们有了充足的食物。人们长期的痛苦结束了．．．
 [blockend:13_wunsch3]
 
 [blockstart:13_wunsch3a] 
-"You are very selfless, my riddle-solving friends!" the genie noted appreciatively. "I will fulfil one last wish for you. What is your third request?" 
+＂你们很无私，答出谜语的朋友们！＂妖怪赞许的点着头。＂我要实现你们的最后一个愿望。你们的最后一个愿望是什么？＂
 
-We thought about our third wish, but nobody seemed to want anything important. So Ykol rushed to the genie and asked him:
+我们思考着第三个愿望，但是似乎没有人还有什么重要的东西想要了。所以Ykol走进妖怪请求他：
 
-"Give Bjarni 'Odin's Heart' for Cyra - an amulet with magic powers! It seems worthy of a Byzantine princess!" 
+“把'Odin's Heart' for Cyra给Bjarni ，——个有魔力的护身符！它的价值几乎是一个Byzantine的公主
 
-The genie didn't seem to be much of an expert on Nordic mythology, but he wanted to see what he could do about it ... ;0)   
+这个妖怪似乎并不是很精通北欧的神话，但是他想知道他还可以做什么... ;0)
 [blockend:13_wunsch3a]
 
 
 
 [blockstart:14] 
-QUESTION 1 
+问题１
 
-"How many thieves did Aladdin meet?" 
+“Aladdin遇到了多少个小偷？”
 
-A) 40  
+A) 40
 B) 712
-C) none!  
+C) 没有!
 [blockend:14]
 
 [blockstart:15] 
-QUESTION 2 
+问题２
 
-"Which of these is known as the 'ship of the desert'?" 
+“这些船中的那一只被誉为＇沙漠号＇？”
 
-A) Mountain Hare
-B) Camel 
+Ａ）Mountain Hare
+Ｂ）Camel
 C) Coelacanth
 [blockend:15]
 
 [blockstart:16] 
-QUESTION 3  
+问题３
 
-"What do you call a mirage in the desert?" 
+“你认为什么景象是沙漠中的海市蜃楼？”
 
-A) Fata Morgana  
+A) Fata Morgana
 B) Fatal Morgana
-C) Northern Lights
+C)北极光
 [blockend:16]
 
 
 [blockstart:17] 
 
-CORRECT!
+正确！
 [blockend:17]
 
 
@@ -201,33 +201,33 @@ CORRECT!
 
 [blockstart:100]
 <font:$local$\fonts\fonthead16bld.fnt>
-MISSION FAILED!
+任务失败！
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
-Heroism or carelessness? When Bjarni died the gods were crying ... without this hero, the outcome of this mission will remain hidden to you!
+英雄主义还是疏忽大意？当布加尼死的时候，苍天也在哭泣……没有了这位英雄，你无法得到最后的胜利！
 [blockend:100]
 
 [blockstart:200]
 <font:$local$\fonts\fonthead16bld.fnt>
-MISSION FAILED!
+任务失败！
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
-A short moment of negligence, that's all it takes to lose your life! Your heroine Cyra died due to your negligence! Without this heroine, the outcome of this mission will remain hidden to you! 
+一瞬间的疏忽足以夺走你的生命，你的女英雄希拉由于你的疏忽失去了生命，没有她，你无法得到最后的胜利！
 [blockend:200]
 
 [blockstart:300]
 <font:$local$\fonts\fonthead16bld.fnt>
-MISSION FAILED!
+任务失败！
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
-A short moment of negligence, that's all it takes to lose your life! Your friend and hero Hatchie died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you!
+一瞬间的疏忽足以夺走你的生命！你的朋友和英雄哈奇由于你的疏忽丧失了生命！没有了他，你无法得到最后的胜利！
 [blockend:300]
 
 [blockstart:500]
 <font:$local$\fonts\fonthead16bld.fnt>
-MISSION FAILED!
+任务失败！
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
-A short moment of negligence, that's all it takes to lose your life! Ykol died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you!
+一瞬间的疏忽足以夺走你的生命！Ykol由于你的疏忽失去了生命，没有了他，你无法得到最后的胜利！
 [blockend:500]
 

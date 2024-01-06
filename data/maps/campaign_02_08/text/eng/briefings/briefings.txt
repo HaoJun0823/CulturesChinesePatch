@@ -1,164 +1,164 @@
 [blockstart:header] 
 
-ASGARD
+仙宫
 [blockend:header]
 
 [blockstart:00_start] 
-The incredible world of the gods opened up in front of us.
-We had reached our destination at last! This was it: Asgard - the world of the gods!
+虚幻的天界在我们眼前出现了。
+我们终于到达了目的地！就是它：仙宫——天神的国度！
  
-A majestic broad staircase led up the mountain to a wide plain ...
+一座巨大宏伟的楼梯从山脉一直延伸到一个宽阔的平原……
 
-... but while we were still paralysed by this impressive sight, all of a sudden Ykol gave a malicious laugh and ran away up the stairs! As soon as he had passed the first step, it disappeared in the ground, so that the bottom of the staircase had soon vanished entirely!
+……但当我们还沉浸于眼前的震撼画面时，突然，Yko1发出恶毒的笑声，抢先一步上了楼梯！当他往上走了几级台阶，台阶不见了，这楼梯的底部很快就完全消失了！
 
-What I had almost suspected after entering Hel's realm was now a certainty: Whoever Ykol was and whatever he had planned - he was playing an evil game with us! 
+自从踏入冥府后我一直怀有的猜疑此刻变成了现实：无论Yko1是谁，无论他想要作甚么——他正在拿我们玩一个邪恶的游戏！
 [blockend:00_start]
 
 [blockstart:00_start1] 
-My suspicions proved true sooner than I had thought. Ykol had left the first steps behind him, which now created a gap between him and us. He turned and faced us with a wicked sneer. And then he revealed his secret ...
+我的怀疑得到了证实，比我料想的还要早。Yko1与我们拉开了一段距离，现在我们和他之间是一道鸿沟。他转向我们，露出讽刺的嘲笑，显示出他的本来面目……
 
-He had been playing us false all the time! 
-All he had ever really wanted was to gain the upper hand in the world of the gods, he wanted revenge on Odin and all the other gods for his banishment - and he would stop at nothing to get it ... 
+他一直在耍我们！
+他所想要做的，完全就是为了得到掌控仙界的权力，他想要对欧丁和所有天神进行报复，报复他们曾经将他驱逐——为了他的目的，他将会不择手段……
 
-Revenge? What for? 
-Banished by the gods? A human? 
-Ykol? Who was he really?
-What did he intend to do next? 
+复仇？为谁？
+被天神驱逐？一个平民？
+Yko1？他到底是谁？
+他下一步想要干嘛？
 
-Whatever he might be planning - we had to stop him in any case! 
+不管他有什么计划——我们必须竭尽全力去阻止他！
 
-Follow the stony path to the Halls of Asgard!
+沿着这条石径前往仙宫大厅！
 [blockend:00_start1]
 
 
 
 [blockstart:50_endheader] 
 
-MISSION COMPLETED! 
+任务完成！
 [blockend:50_endheader]
 
 [blockstart:50_end] 
-Together we managed to obtain the amulet. Thus the spell that the love amulet had cast on Odin was broken: He had seen only Cyra, the bearer of the amulet, and hadn't been aware of the world around him at all ... which would have given Loki an excellent opportunity to take his revenge unhindered. 
+我们团结一致，成功获得了护身符。这张护身符对欧丁施了爱的魔咒：他的眼中只有Cyra，护身符的佩戴者，根本不再关注周围的世界……这样给了洛基一个天赐良机去毫无顾忌的实施复仇计划。现在它的魔力被解除了。
 
-What a malicious plan! But it had been thwarted and Loki's evil was finally ended! 
+多么恶毒的计划！但它被中止了，洛基的邪恶也被终结！
 
-The power of the amulet, which could do much good but also much evil, should never again do any damage to humans or to the gods ...
+能量护身符，既能扬善，又会纵恶，它将再也不能对平民和天神造成伤害……
 [blockend:50_end]
 
 [blockstart:50_end1] 
-... such was the vow my friends and I took that day ...
+这就是我和我的朋友立下的誓言……
 [blockend:50_end1]
 
 
 
 [blockstart:01_player_1_seen] 
-GHOST WARRIORS
+幽灵武士
 
-These undead warriors appeared from out of nowhere and attacked us without warning ... 
+这些不死武士突然出现，到处都是，毫无预警的袭击了我们……
 [blockend:01_player_1_seen]
 
 
 [blockstart:02_skadi] 
 FREYA
 
-"Our world was once mighty and untarnished, but now Odin has lost his mind and we are trapped in the ice!" the ice statue told us. We immediately recognised Freya, the goddess of fertility and war.
+“我们的世界曾经繁荣昌盛，但后来没落了，现在欧丁发了疯，而我们被冰雪困住！”冰雪雕像对我们说道。我们立即认出了她，是Freya，掌管生产力和战争的女神。
 
-Loki, whom you call Ykol - the god of lies and falsehood - has brought this harm on us and on so many humans. 
+洛基，你们叫做Yko1的——谎言和谬误之神——给我们和众多平民带来了这样的灾难。
 
-He alone was responsible for the famine in Arabia. With his evil spell he wrought privation and suffering on the humans! He deceived you with his feigned helpfulness so that you would trust him!" 
+阿拉伯半岛的饥荒完全归咎于他。他的邪恶符咒给人民带来了穷困和痛苦！他用虚假的援助欺骗了你们，骗取了你们的信任！”
 [blockend:02_skadi]
 
 [blockstart:03_thor] 
-BALDUR
+Baldur
 
-"Our world was once mighty and untarnished, but now Odin has lost his mind and we are trapped in the ice!" the ice statue told us. We immediately recognised the friendly god of light, purity and healing: 
-Baldur - the son of the sun and source of all that is good.
+“我们的世界曾经繁荣昌盛，但后来没落了，现在欧丁发了疯，而我们被冰雪困住！”冰雪雕像对我们说道。我们立即认出了他是Njord，掌管风和海洋的天神。
+Baldur——太阳神的儿子，所有真善美的源泉。
 
-"Remember: Loki, whom you call Ykol - the god of lies and falsehood - fought by your side against the wolves ...
+“记住：洛基，你们叫做Yko1的——谎言和谬误之神——帮你们对敌狼群……
 
-But it was he himself who created the Fenris Wolf, and it was he who released him from his bonds and brought the wolf plague over the land! You helped him find "Odin's Heart". The amulet which you, Bjarni, placed about Cyra's neck on Loki's advice, has made her immortal. Loki knew that this would happen, and he also knew that Fenrir would take her to Valhalla, to the world of the immortal! 
+但就是他自己制造了Fenris狼，也是他释放了Fenris，使狼群在大陆泛滥成灾！你们帮他找到了“欧丁之心”。那个护身符，Bjarni听从洛基的建议，将它挂在了Cyra的脖子上，为了让她灵魂不朽。洛基知道这能够实现，但他还知道Fenrir会带她到瓦尔哈拉殿堂，不朽的世界！
 
-Here the amulet cast its love spell on Odin, who was from then on enchanted by its human bearer. He no longer perceived the world around him, therefore he could not ward off Loki's attacks!
+然后护身符对欧丁施下了爱的魔咒，欧丁从此迷上了佩戴护身符的人Cyra。他不再感知得到他周围的世界，因此他对洛基的攻击毫无防备！
 
-Odin is in very great danger!"
+欧丁正处在极度危险之中！
 [blockend:03_thor]
 
 
 [blockstart:04_noird] 
-NJORD
+Njord
 
-"Our world was once mighty and untarnished, but now Odin has lost his mind and we are trapped in the ice!" the ice statue told us. We immediately recognised Njord, the god of the winds and seas. 
+“我们的世界曾经繁荣昌盛，但后来没落了，现在欧丁发了疯，而我们被冰雪困住！”冰雪雕像对我们说道。我们立即认出了他是Njord，掌管风和海洋的天神。
 
-"Remember: Loki, whom you call Ykol - the god of lies and falsehood - created the serpent plague and the famine with his dark magic! 
+“记住：洛基，你们叫做Yko1的——谎言和谬误之神——用阴暗的魔法制造了蛇灾、饥荒！
 
-He created these beings of horror, which eliminated large parts of Arabia!
-He obtained your trust and friendship in battle against his own creations!
+他造出这些恐怖的东西，他们消灭了巨大的阿拉伯半岛！
+他和自己创造的生物作战，骗取了你们的信任和友谊！
 
-And now you have led him here. Thanks to your actions, nothing can now stop him from taking his revenge ..."
+现在你们把他引到了这里。由于你们的所作所为，没有任何人可以阻挡他实施复仇计划……
 
 [blockend:04_noird]
 
 [blockstart:05_baldur] 
-THOR
+托尔
 
-"Our world was once mighty and untarnished, but now Odin has lost his mind and we are trapped in the ice!" the ice statue told us. We immediately recognised Thor, whose protecting might was reflected in the power of thunder and lightning.
+“我们的世界曾经繁荣昌盛，但后来没落了，现在欧丁发了疯，而我们被冰雪困住！”冰雪雕像对我们说道。我们立即认出了他是托尔，雷电是他力量的源泉。
 
-"Remember: Loki, whom you call Ykol - the god of lies and falsehood - left you in Hel's realm. 
+“记住：洛基，你们叫做Yko1的——谎言和谬误之神——就是他把你们留在了冥府。
 
-But he did not do so to pave the way for you, but to reach Heimdall's horn before you did! He secretly covered it with the ice potion of the Wyonasers, and when Heimdall blew his enchanted horn, he froze the world of the gods without knowing or intending it. That is how we were transformed into ice statues! 
+但是他没有为你们引路，而是抢在你们之前拿走了Heimdall的号角！他悄悄的用Wyonasers的冰雪魔药涂抹上去，而当Heimdall吹响他的被施魔的号角时，他毫无预知的冻住了整个天界。所以我们就成了冰雪雕像！
 
-All we are now capable of is to tell you our story ..."
+我们所能做的就是把我们的遭遇告诉你们……
 [blockend:05_baldur]
 
 [blockstart:06_freya] 
-FRIGG 
+弗丽嘉
 
-"Our world was once mighty and untarnished, but now Odin has lost his mind and we are trapped in the ice!" the ice statue told us. We immediately recognised Frigg, Odin's wife and the goddess of love, women, family and homes.
+“我们的世界曾经繁荣昌盛，但后来没落了，现在欧丁发了疯让我们被冰雪困住！”冰雪雕像对我们说道。我们立即认出了她是弗丽嘉，欧丁的妻子，掌管爱、妇女、家庭和家族的女神。
 
-"Loki, whom you call Ykol - the god of lies and falsehood - wrought disaster on us and so many humans! 
-Ask the others, they will explain everything. 
+“洛基，就是你们的Yko1——谎言和谬误之神——给我们和这么多的平民制造了巨大的灾难！
+询问其他人，他们会为你解释所有的事情。
 
-They will send you warriors of the gods. You will never reach the way to the Halls of Asgard without them!"
+他们会派出神的武士给你们。没有他们的帮助，你们根本无法到达仙宫的殿堂！
 
-Speak to the gods in the ice and collect the warriors! 
+和冰雪之神交谈，召集武士！
 [blockend:06_freya]
 
 [blockstart:07_tor] 
-These gates concealed many secrets ... 
+这些门里隐藏着许多秘密……
 
-There could hardly be any doubt that countless ghost warriors would be waiting for us behind these walls! We had to ready ourselves for a fierce battle!  
+毫无疑问地，在这些墙的背后不知道有多少鬼武士在等待着我们！我们必须做好最艰苦战斗的准备！
 [blockend:07_tor]
 
 [blockstart:08] 
-We had spoken to all the ice statues. The way into the Halls of Asgard was open to us now. We could not expect to receive any more support from the gods in the ice ...
+我们已和所有的冰雪雕像交谈。通向仙宫殿堂的道路已经为我们敞开。我们不能再期望继续接受来自冰雪之神的帮助……
 [blockend:08] 
 
 [blockstart:09_halle] 
-THE HALL OF THE GODS 
+天国的殿堂
 
-You cannot enter this hall until we have uncovered the gods' secrets and destroyed Loki's ghost warriors.  
+你不能进入殿堂，除非我们揭开天国的秘密，并且消灭洛基的鬼影武士。
 [blockend:09_halle]
 
 [blockstart:10_loki] 
-LOKI
+洛基
 
-"You unworthy creatures, you are so easily deceived! Now I wield the power over the gods' world, because Odin is blinded by your dear Cyra and her love amulet! 
+“你们这些一文不值的东西，你们太容易受骗了！现在我要挥兵直捣天界，因为欧丁被你们亲爱的Cyra和爱的护身符遮住了双眼！
 
-Hahahahaha!" 
+哈哈哈哈哈！”
 
 
-Fight Loki and his last warriors and take the amulet from Cyra to break Odin's spell!
+与洛基和他的武士战斗，从Cyra那里取回护身符，解除欧丁的咒语！
 [blockend:10_loki]
 
 [blockstart:11] 
-ICE WARRIORS
+冰雪武士
 
-The goddess in the ice provided us with 5 valiant ice warriors. If we found the other statues, we would gain further warriors to accompany us on our way to the Halls of Asgard ...
+冰雪中的女神提供我们5个英勇的冰雪武士作为援助。如果我们找到其他雕像，我们就能得到更多的武士和我们一同上路，寻找仙宫的入口……
 [blockend:11]
 
 [blockstart:12] 
 
-We had spoken to the gods in the ice about their story and ours, and all the ghost warriors had been defeated. The path into the last hall was now open!
+我们和冰雪中的天神交谈，讲述了他们和我们的遭遇，所有的幽灵武士都被打败。通向天国的最后大门终于敞开！
 [blockend:12]
 
 
@@ -171,26 +171,26 @@ We had spoken to the gods in the ice about their story and ours, and all the gho
 
 [blockstart:100]
 <font:$local$\fonts\fonthead16bld.fnt>
-MISSION FAILED!
+任务失败！
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
-Heroism or carelessness? When Bjarni died the gods were crying ... without this hero, the outcome of this mission will remain hidden to you!
+英雄主义还是疏忽大意？当布加尼死的时候，苍天也在哭泣……没有了这位英雄，你无法得到最后的胜利！
 [blockend:100]
 
 [blockstart:300]
 <font:$local$\fonts\fonthead16bld.fnt>
-MISSION FAILED!
+任务失败！
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
-A short moment of negligence, that's all it takes to lose your life! Your friend and hero Hatchie died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you! 
+一瞬间的疏忽足以夺走你的生命！你的朋友和英雄哈奇由于你的疏忽丧失了生命！没有了他，你无法得到最后的胜利！
 [blockend:300]
 
 [blockstart:400]
 <font:$local$\fonts\fonthead16bld.fnt>
-MISSION FAILED!
+任务失败！
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
-A short moment of negligence, that's all it takes to lose your life! Your friend and hero Sigurd died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you!
+一瞬间的疏忽足以夺走你的生命！你的朋友和英雄西格德就是由于你的疏忽而丧命！没有这位英雄，你无法得到最后的胜利！
 [blockend:400]
 
 

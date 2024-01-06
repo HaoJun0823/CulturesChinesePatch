@@ -1,223 +1,223 @@
 [blockstart:header] 
 
-HEL'S REALM
+海尔的领界
 [blockend:header]
 
 [blockstart:00_start] 
-An unreal place ... 
-A dark, stony labyrinth full of streams of lava opened up right in front of us. Although we could not see anybody, we felt as if someone was watching us. Danger seemed to be lurking everywhere in these winding corridors ... 
+虚幻之境……
+一座灰暗的石头迷宫出现在我们的前方，充满了火山的熔岩河流。尽管我们看不见任何人，但能感觉到有个东西在窥视着我们。看起来在这弯曲的走廊里危机四伏……
 [blockend:00_start]
 
 [blockstart:00_start1] 
-We had to make our way through this dark maze and find Heimdall. He, the god of sun and daylight, watched over the path to the gods across the bridge of Bifrost. Only the sound of his mighty horn could show us the way to Asgard. 
+我们在这阴暗的迷宫里四处摸索，寻找着Heimdall，他是太阳神，看守着彩虹桥，它是通往天国的大道。只有从他巨大的号角发出的声音能为我们开辟通向仙宫之路。
 
-At least, that was what the ancient myths and legends claimed ...
+至少，古老的神话传说里是这么说的……
  
 
-Find Heimdall and cross the bridge of Bifrost.
+寻找Heimdall越过彩虹桥
 [blockend:00_start1]
 
 
 [blockstart:50_endheader] 
 
-MISSION COMPLETED! 
+任务完成！
 [blockend:50_endheader]
 
 [blockstart:50_end] 
-When Heimdall blew his horn, the bridge of Bifrost opened the way to Asgard. However, when we crossed the bridge of Bifrost we felt a slight shiver down our spines. Something was not right ...
+当Heimdall吹响他的牛角，彩虹桥敞开了通向仙宫的路。然而，当我们走过彩虹桥时，我们的脊梁骨感觉到自上而下的微颤。好像有些不对劲……
 [blockend:50_end]
 
 [blockstart:50_end1] 
-Suddenly, an enormous ice storm broke out and froze everything around us. Only with great difficulty were we able to reach a cold, hard and bright white world. How could this happen? What had we done wrong? 
+突然，刮起了巨大的暴风雪，把我们周围的所有东西都冻住了。我们费了很大劲，却来到一个冰冷，坚硬，雪白的世界，这是什么回事？我们做错了什么？
 [blockend:50_end1] 
 
 
 [blockstart:01_player_1_seen] 
-HEIMDALL'S HAVEN
+Heimdall避难所
 
-Deep within Hel's realm we found Heimdall's haven. This place was free of Werewolf, Serpent and Ghost Warriors, and we might even be able to settle here for the moment to produce new food and resources ...
+进到冥府的深处，我们发现了Heimdall避难所。这里可免受狼人、蛇武士、幽灵武士的侵袭，我们还可以暂时在这里安顿下来，补给新的食物和资源……
 [blockend:01_player_1_seen]
 
 [blockstart:02_player_2_seen] 
-GHOST WARRIORS
+幽灵武士
 
-The souls of deceased Vikings seemed to dwell in these shells of warriors. We did not like the idea of fighting against soldiers from our own people, but if we got too close to them, we would have no choice!
+这些武士的躯体里似乎停留着已故Viking人的灵魂。我们不愿意和这些士兵们搏斗，他们曾经是我们的人，但是如果我们靠他们太近，我们就别无选择！
 [blockend:02_player_2_seen]
 
 [blockstart:03_player_3_seen] 
-SERPENT WARRIORS 
+蛇武士
 
-Although we had managed to defeat the serpent plague in the human world, our request to the genie seemed to have no effect whatsoever down here. 
+尽管我们在人类世界抵制了蛇灾，但是到了这里，我们却似乎对这些妖怪束手无策。
 
-Here in Hel's realm, the plague was omnipresent, so we had to face it once again ...
+在冥府，毒蛇泛滥成灾，我们不得不再次面对它……
 [blockend:03_player_3_seen]
 
 [blockstart:04_player_4_seen] 
-WEREWOLF WARRIORS
+狼人武士
 
-We thought we had defeated the wolf plague by reforging the Fenris chain and putting it around the demon wolf's neck, but this heroic deed seemed to have no effect in Hel's realm. 
+我们以为用再造的Fenris铁链已经打败了狼人并把他们的脖子栓住，但是在这死神的王国，曾经的英勇事迹变得不再辉煌。
 
-Here the Werewolf Warriors were omnipresent, so we had to face them once again ...
+这里到处都是狼人武士，我们不得不重新面对他们……
 [blockend:04_player_4_seen]
 
 
 [blockstart:05_heimdall] 
-HEIMDALL
+Heimdall
 
-Deep inside Hel's realm we found Heimdall's stronghold. In front of the bridge stood a hunchbacked, mysterious old man. He introduced himself as Heimdall and stopped us.
+进入冥府的深处，我们发现了Heimdall的据点，在桥的前方站着一个驼背的，神秘的老人。他自称是Heimdall，并拦住了我们。
 
-"Halt, travellers! I have been expecting you," he said. "Don't move another step! Those who want to cross the bridge of Bifrost will have to free the world of all evil creatures or bring me my sword and my armour, so that I can venture forth against these dangers myself. 
-You will also not be allowed to cross until you have brought me my horn! The horn alone can show you the way to Asgard, but only I have the power to blow it, so don't dare to try and use it yourselves! 
+“停下，旅行者们！我早就在此恭候你们的到来，”他说道，“不要再往前走！想要通过彩虹桥的话，要么发誓保护世界免受一切邪恶的生灵侵害，要么把我的剑和盔甲拿来，这样我可以自己应对危险。”
+你们也不能通过这座桥，除非你们能给我带来我的号角！号角本身就可以为你们指出通向仙宫之路，但是只有我才有力气吹响它，所以别妄想自己去尝试！
 
-I keep my horn locked in a chamber in the western mountains."
+我把号角锁在一个西部山脉的密室里。
 
-"So bring me my armour and my sword or defeat all the creatures. But in any case, bring me my mighty horn!"
+“把我的盔甲和宝剑拿来或者打败所有的傀儡。但不管怎样，先把我的号角拿来！
 
-He also offered to let us hire heroes in return for a tribute. It could be worth our while ... 
+他还提议我们用一个部落作为交换去雇佣英雄。这应该是值得的……
 [blockend:05_heimdall]
 
 [blockstart:06_heimdall_tribut] 
-In front of the bridge, Heimdall gave us 3 heroes as mercenaries and offered us even more reinforcements. 
+在桥的前方，唯利是图的Heimdall给我们三个英雄并为我们提供了更多的增援。
 
-But what was that? These heroes looked like us!
-Heimdall must have incredible magic powers in order to create such Ghost Warriors!
+但是怎么？这些英雄看起来酷似我们！
+Heimdall一定有难以置信的魔力来造出这些幽灵武士！
 
-Pay Heimdall the required tribute for additional heroes if your Vikings need them.
+如果你们Viking需要这些武士，把Heimdall索要的部落给他以交换额外的英雄。
 [blockend:06_heimdall_tribut]
 
 
 [blockstart:07_br點ke] 
-HEIMDALL
+Heimdall
 
-Don't move another step! Those who want to cross the bridge of Bifrost will have to free the world of all evil creatures or bring me my sword and my armour. Otherwise you will not be allowed to go across. I see you have already found my horn."
+别再往前走！想要通过彩虹桥的话，要么发誓保护世界免受一切邪恶的生灵侵害，要么把我的剑和盔甲拿来。否则我不会允许你们过桥。我知道你们已经找到了我的号角。
 
-"So bring me my armour and my axe or defeat all the creatures!"
+“选择拿来我的盔甲和巨斧或是打败所有这些东西！
 [blockend:07_br點ke]
 
 [blockstart:08_horn] 
-HEIMDALL'S HORN
+Heimdall的号角
 
-You have picked up Heimdall's horn! 
+你拾起了Heimdall的号角！
 [blockend:08_horn]
 
 [blockstart:09_tribut] 
-"You have fought well and brought me the requested arms, but are you as wise as you are brave? Your last task is to bring me my horn that will show you the way to Asgard. Only I have the power to blow it, so don't dare to use it yourselves! 
+“你干得不错，也拿来了我所需要的武装，但是你具有和勇敢相媲美的聪明才智吗？你的最后一个任务是拿来我的号角，它可以为你们指出通向仙宫的道路。只有我才能吹响它，不要妄想你们自己能够办到！
 
-I keep my horn locked in a chamber in the mountains." 
+我把号角锁在山里的密室。”
 
-Solve the riddle to open the door, and bring me my horn! 
+解决这个难题就可以打开门，然后把我的号角拿来！
 [blockend:09_tribut]
 
 [blockstart:10_tribut] 
-HEIMDALL
+Heimdall
 
-"You have fought well and proved that you are worthy of crossing the bridge! Now go, but don't look back," Heimdall said. Then he began to blow his horn. 
+“你们干得漂亮，证明了你们有资格通过彩虹桥！去吧，但是不要向后看，” Heimdall说道。然后他就吹响了他的号角。
 
-Although everything seemed to be running smoothly, I had a strange feeling in my stomach and a shiver was running down my spine. I felt we were in terrible danger. But as we could not actually detect anything unusual, we bravely set foot on the bridge of Bifrost. 
+尽管所有的一切都进展顺利，但是我感觉到胃里有些反常，刺骨的寒冷从我的脊骨里传过。我觉得我们正身处可怕的危险之中。但我们又不能真正的觉察到有什么不对劲，我们勇敢的踏上了彩虹桥。
 
 
-But suddenly it turned cold. ICY cold ...
+刹那间变得寒冷，冰霜雪剑的寒冷……
 [blockend:10_tribut]
 
 [blockstart:11_ykol] 
 YKOL
 
-"Ha, ha, ha ...!"
-With a malicious laugh Ykol disappeared, leaving the three of us behind. 
-What was the matter with Ykol? Why was he behaving in such a strange way? What was he up to? Did he know something about this place that he had not told us? If so, why had he kept his knowledge secret?
+“哈，哈，哈……！
+随着一阵恶毒的笑声，Yko1消失了，只剩下我们后面三个人。
+Yko1怎么了？他怎么这样举止失常？他想要干什么？难道他知道关于这个地方的事情而不告诉我们？如果是这样，他为什么要守口如瓶？
 
-Or had he been fooling us all the time? Had he made his own secret, deceitful plot and only used us as a means to carry it out? I couldn't forget the malicious, evil sound of his laughter. I had the strangest feeling something was about to happen ...
+还是他一直都在欺瞒我们？难道他在酝酿什么阴谋，而我们只是被他利用的工具？我忘不了他那恶毒、邪恶的笑声。我有一种强烈的预感，觉得会发生什么事情……
 [blockend:11_ykol]
 
 
 [blockstart:13_gate1no] 
-When we activated the switch, we heard a metallic clank. However, this switch did not seem to be able to open a gate alone! 
-There must be another one somewhere that would operate the lock TOGETHER with this switch here! 
+当我们打开开关，听到了叮当的金属碰撞声。但似乎这个开关无法单独把门打开！
+一定还有另外一个开关和它一起控制这道门！
 
-Should we leave one of our men behind to guard the switch?
+我们应该留下其中一个人守护这个开关吗？
 [blockend:13_gate1no]
 
 [blockstart:14_gate1] 
-When we activated the switch, we heard a loud metallic clank. Together with another one, this switch must have opened a large gate somewhere nearby!
+当我们合上开关，听到了巨大的金属碰撞声。它和另一个开关一起打开了这附近的一扇门！
 [blockend:14_gate1]
 
 [blockstart:15_gate2] 
-When we activated the switch, we heard a loud metallic clank. This switch must have opened a large gate somewhere nearby!
+当我们合上开关，听到了巨大的金属碰撞声。这个开关一定打开了这附近的一扇门！
 [blockend:15_gate2]
 
 [blockstart:16_gate3] 
-When we activated the switch, we heard a loud metallic clank. This switch must have opened a large gate somewhere nearby!
+当我们合上开关，听到了巨大的金属碰撞声。这个开关一定打开了这附近的一扇门！
 [blockend:16_gate3]
 
 
 [blockstart:17_horn] 
-HEIMDALL'S HORN
+Heimdall的号角
 
-We found a horn. Could this be Heimdall's horn? The one he could use to open the way to Asgard? We would surely find out. However, it was clear that we could only pick up the horn on Heimdall's orders!
+我们找到一个号角。这是Heimdall的号角吗？就是用它来打开通向仙宫的大门？我们会知道的。显然我们现在，只有按照Heimdall的命令把它捡起来！
 [blockend:17_horn]
 
 [blockstart:18_r黶tung] 
-HEIMDALL'S ARMOUR
+Heimdall的盔甲
 
-We found armour with the following inscription: "Heimdall's skin to drive out all evil." 
+我们找到了一副盔甲，上面写着：“驱走一切邪恶的Heimdall之甲”
 
-The future would show whether Heimdall was able to use it!
+将来就会知道Heimdall是否能使用它！
 [blockend:18_r黶tung]
 
 [blockstart:19_sword] 
-HEIMDALL'S AXE
+Heimdall的斧头
 
-We found an axe with the following inscription: "Heimdall's blade to drive out all evil." 
-The future would show whether Heimdall was able to use it!
+我们找到一柄斧头，上面刻着：“驱走邪恶的Heimdall之刃”
+将来就会知道Heimdall是否能使用它！
 [blockend:19_sword]
 
 [blockstart:20] 
-We had completed our task and were now ready to return to Heimdall. He would blow his mighty horn for us to open the way to Asgard. 
+我们完成了任务，正准备回去找Heimdall。他将会我们吹响号角，打开仙宫的门。
 [blockend:20]
 
 [blockstart:21] 
-HEIMDALL'S ARMOUR
+Heimdall的盔甲
 
-You have picked up Heimdall's armour! 
+你捡起了Heimdall之甲!
 [blockend:21]
 
 [blockstart:22] 
-HEIMDALL'S AXE
+Heimdall的斧头
 
-You have picked up Heimdall's axe! 
+你捡起了Heimdall之斧！
 [blockend:22]
 
 
 
 [blockstart:100]
 <font:$local$\fonts\fonthead16bld.fnt>
-MISSION FAILED!
+任务失败！
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
-Heroism or carelessness? When Bjarni died the gods were crying ... without this hero, the outcome of this mission will remain hidden to you!
+英雄主义还是疏忽大意？当布加尼死的时候，苍天也在哭泣……没有了这位英雄，你无法得到最后的胜利！
 [blockend:100]
 
 [blockstart:300]
 <font:$local$\fonts\fonthead16bld.fnt>
-MISSION FAILED!
+任务失败！
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
-A short moment of negligence, that's all it takes to lose your life! Your friend and hero Hatchie died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you!  
+一瞬间的疏忽足以夺走你的生命！你的朋友和英雄哈奇由于你的疏忽丧失了生命！没有了他，你无法得到最后的胜利！
 [blockend:300]
 
 [blockstart:400]
 <font:$local$\fonts\fonthead16bld.fnt>
-MISSION FAILED!
+任务失败！
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
-A short moment of negligence, that's all it takes to lose your life! Your friend and hero Sigurd died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you! 
+一瞬间的疏忽足以夺走你的生命！你的朋友和英雄西格德就是由于你的疏忽而丧命！没有这位英雄，你无法得到最后的胜利！
 [blockend:400]
 
 [blockstart:500]
 <font:$local$\fonts\fonthead16bld.fnt>
-MISSION FAILED!
+任务失败！
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
-A short moment of negligence, that's all it takes to lose your life! Ykol died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you!
+一瞬间的疏忽足以夺走你的生命！Ykol由于你的疏忽失去了生命，没有了他，你无法得到最后的胜利！
 [blockend:500]
 

@@ -1,130 +1,130 @@
 [blockstart:header]
 
-FENRIR'S HORDES 
+芬里厄的部落
 [blockend:header]
 
 [blockstart:00_start] 
-The land that lay before us was fertile and wooded - an ideal place for hunting and stocking up our supplies, which were almost depleted by now. After all, we wanted to be well-prepared before going to war against the Fenris Wolf and his hordes ...
+在我们面前展开的这片土地十分肥沃，有着茂密的森林—是个狩猎和积累储备的好地方，而我们的储备已经消耗殆尽。最重要的是，我们想在与芬里斯狼和他的游牧部落开始战争前好好准备一下……
 [blockend:00_start]
 
 [blockstart:00_start1] 
-Build up your village with the help of the magic chests and equip your soldiers with potions and amulets.
+在魔匣的帮助下建立你的村庄，用药片和护身符装备你的士兵。
 [blockend:00_start1]
 
 [blockstart:50_endheader] 
 
-MISSION COMPLETED! 
+任务完成！
 [blockend:50_endheader]
 
 [blockstart:50_end] 
-But what had happened?
+但是发生了什么事？
 
-"WHY CYRA?" I screamed, and realised that my legs were giving way beneath me ...
+“为什么，希拉？”我尖叫，同时意识到我的腿在身下软了下来……
 
 [blockend:50_end]
 
 [blockstart:50_end1] 
-For a long time I did not understand what had happened. Cyra was the only one who could put the chain on the Fenris Wolf. But in so doing, she was dragged to Valhalla with him! 
+有很长时间我不明白发生了什么。希拉是唯一能把镣铐套在芬里斯狼身上的人，但当她试图绑住芬里斯狼时，被拖到了瓦尔哈拉殿堂！
 
-An infinite sadness descended on my life ... 
+在我身体里充满了无穷的悲伤……
 [blockend:50_end1] 
 
 [blockstart:01_player_1_seen_franken] 
-In the west we came across friendly Franks. They had been largely spared by the wolf plague and offered us favourable trade agreements. 
+在西边我们遇见友好的弗兰克斯人。他们被狼群伤害的很严重，向我们提供了有利的贸易协定。
 
-In return for a small tribute, we might even be able to hire some mercenaries for the mission which lay before us ...
+我们送了少许礼物作为回报后，还能得到一些雇佣兵来完成我们接下来的任务……
 [blockend:01_player_1_seen_franken]
 
 [blockstart:02_tribut_franken] 
-The Franks provided 5 of their bravest longsword fighters as mercenaries beyond the swamps and offered us more reinforcements in return for a higher tribute. 
+弗兰克斯人在沼泽地外给我们找了5个最勇敢的长剑手作雇佣兵，并提供更多的增援以回报我们赠送的贵重的礼物。
 
-Pay the Franks the required tribute for additional mercenaries if your Vikings need them.
+如果你的维京人需要更多雇佣兵就给弗兰克斯人报酬，这是必须的。
 [blockend:02_tribut_franken]
 
 
 [blockstart:03_player_2_seen_byzantine] 
-Our scouts came across a Byzantine village in the east. The locals regarded us with suspicion, but they were not hostile.
+我们的侦察兵在东边遇到一个拜占庭人的村庄。当地人对我们持怀疑态度，但并无敌意。
 
-In return for a small tribute, we might be able to trade with them and hire mercenaries ...
+也许我们可以给他们一些礼物来进行交易并得到雇佣兵……
 [blockend:03_player_2_seen_byzantine]
 
 [blockstart:04_tribut_byzantine] 
-Once we had proved our good intentions by paying a tribute, they offered us their friendship and support for our mission. The Byzantines provided 5 of their bravest longbow archers as mercenaries beyond the swamps and offered us more reinforcements. 
+当我们通过送礼物表明我们的善意后，他们开始对我们表示友好，并帮助我们完成任务。拜占庭人在沼泽地旁留下了五个最勇敢的弓箭手作为雇佣兵，并提供我们更多增援。
 
-Pay the Byzantines the required tribute for additional mercenaries if your Vikings need them.
+如果你的维京人需要更多的雇佣军需要送给拜占庭人礼物。
 [blockend:04_tribut_byzantine]
 
 [blockstart:05_tribut2_byzantine] 
-When we had paid the Byzantine village the tribute, they immediately offered us additional mercenaries beyond the swamps.
+当我们把礼物送给拜占庭人的村庄后，他们立刻在沼泽地旁外给我们找到了雇佣兵。
 
-They said we could return any time to hire new mercenaries, and that it would be a pleasure for them to do business with us! 
+他们承诺我们可以随时回来找新的雇佣兵，他们很愿意与我们交易！
 
-Well, that was hardly surprising ...
+看，这一点也不奇怪……
 [blockend:05_tribut2_byzantine] 
 
 
 [blockstart:06_warnung] 
-Our men fought bravely all the way to this place, but they could not reach the Fenris Wolf. A magic aura surrounded him ...
+我们的人奋力拼杀，但始终不能接近芬里斯狼。有一圈魔环围绕着他……
 
-Would anyone from our group be able to make it through to him?
+我们的队伍中有人能靠近他么？
 [blockend:06_warnung]
 
 
 [blockstart:07_cyrafenris] 
-Cyra had fought her way through to Fenrir! Would SHE be able to chain him?
+希拉已经找到一条路靠近芬里厄！她能用镣铐锁住他么？
 [blockend:07_cyrafenris]
 
 [blockstart:08_tribut_franken] 
-The Franks provided 5 of their bravest longsword fighters as mercenaries beyond the swamps and offered us more reinforcements for the same tribute.
+弗兰克斯人在沼泽地外给我们找了5个最勇敢的长剑手作雇佣兵，并提供更多的增援以回报我们赠送的同样的礼物。
 
-Pay the Franks the required tribute for additional mercenaries if your Vikings need them.
+如果你的维京人需要更多雇佣兵就给弗兰克斯人报酬，这是必须的。
 [blockend:08_tribut_franken]
 
 [blockstart:09] 
-FENRIR'S HORDES
+芬里厄的部落
 
-There were countless dangerous wolves in this region. When we came across them for the first time, they joined in packs, bared their teeth and attacked us!
+在这块区域有无数危险的狼。我们第一次遇到它们时，它们成群结队，露出阴森的牙齿攻击我们！
 [blockend:09]
 
 
 
 [blockstart:100]
 <font:$local$\fonts\fonthead16bld.fnt>
-MISSION FAILED!
+任务失败！
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
-Heroism or carelessness? When Bjarni died the gods were crying ... without this hero, the outcome of this mission will remain hidden to you!
+英雄主义还是疏忽大意？当布加尼死的时候，苍天也在哭泣……没有了这位英雄，你无法得到最后的胜利！
 [blockend:100]
 
 [blockstart:200]
 <font:$local$\fonts\fonthead16bld.fnt>
-MISSION FAILED!
+任务失败！
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
-A short moment of negligence, that's all it takes to lose your life! Your heroine Cyra died due to your negligence! Without this heroine, the outcome of this mission will remain hidden to you!
+一瞬间的疏忽足以夺走你的生命，你的女英雄希拉由于你的疏忽失去了生命，没有她，你无法得到最后的胜利！
 [blockend:200]
 
 [blockstart:300]
 <font:$local$\fonts\fonthead16bld.fnt>
-MISSION FAILED!
+任务失败！
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
-A short moment of negligence, that's all it takes to lose your life! Your friend and hero Hatchie died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you! 
+一瞬间的疏忽足以夺走你的生命！你的朋友和英雄哈奇由于你的疏忽丧失了生命！没有了他，你无法得到最后的胜利！
 [blockend:300]
 
 [blockstart:400]
 <font:$local$\fonts\fonthead16bld.fnt>
-MISSION FAILED!
+任务失败！
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
-A short moment of negligence, that's all it takes to lose your life! Your friend and hero Sigurd died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you!
+一瞬间的疏忽足以夺走你的生命！你的朋友和英雄西格德就是由于你的疏忽而丧命！没有这位英雄，你无法得到最后的胜利！
 [blockend:400]
 
 [blockstart:500]
 <font:$local$\fonts\fonthead16bld.fnt>
-MISSION FAILED!
+任务失败！
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
-A short moment of negligence, that's all it takes to lose your life! Ykol died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you!
+一瞬间的疏忽足以夺走你的生命！Ykol由于你的疏忽失去了生命，没有了他，你无法得到最后的胜利！
 [blockend:500]
 

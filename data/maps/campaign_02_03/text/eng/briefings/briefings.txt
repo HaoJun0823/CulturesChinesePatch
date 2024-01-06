@@ -1,171 +1,171 @@
 [blockstart:header]
 
-OLD FRIENDS
+老朋友
 [blockend:header]
 
 [blockstart:00_start] 
-The wooded European coast appeared in front of us, the land of mighty kings and many renowned heroes - such as our old friend Sigurd. His fortress loomed further north, a few days' travel away.
+森林繁茂的欧洲海岸出现在我们面前，这是势力强大的国王和很多著名英雄（例如我们的老朋友西格德）的国土。他的堡垒在北方隐约显现，离这里有几天的路程。
 [blockend:00_start]
 
 [blockstart:00_start1] 
-There were inviting green pastures between dense forests and fertile fields as far as the eye could see. Here we had to find a suitable place for a camp, because before we visited Sigurd in his castle, we wanted to look out for an adequate present.  
+目之所及，在繁茂的森林和肥沃的田地之间有一片片令人心动的绿色牧场。我们必须在这里找个合适的地方扎营，因为在去西格德的城堡拜会他之前，我们想物色一份适当的礼物。
 
-Scout the area, provide food for your Vikings and find a present you can give your host Sigurd. 
+侦察这块地区，给你的维京人提供粮食并找到一份礼物能拿去送给东道主西格德.。
 [blockend:00_start1]
 
 
 [blockstart:50_endheader] 
 
-MISSION COMPLETED! 
+任务完成！
 [blockend:50_endheader]
 
 [blockstart:50_end] 
-At last we had reached Sigurd's fortress and fought back the wolves. Sigurd was delighted to see us, and organised a great party to celebrate. That evening was the first time that we were united again after our dreadful fight against the Midgard serpent (see "Cultures 2 - The Gates of Asgard"). 
+最后我们到达西格德的城堡并打退了恶狼。西格德看到我们后大喜，举办了盛大的晚会来庆祝。这一晚是我们在与毒蛇（请看“文化2—仙宫之门”）进行艰苦战斗后的第一次相聚。
 [blockend:50_end]
 
 [blockstart:50_end1] 
-Sigurd told us about the threat of the wolves and that they had been terrorising the surrounding lands for weeks now. When he spoke the following words a murmur went through the lines of the Vikings: 
+西格德给我们讲述恶狼所造成的威胁，他们已经为周围环境担惊受怕了数周。当他讲述下面这些话时，在维京人当中产生了一阵骚动：
 
-"There are rumours that the dreadful Fenris Wolf himself - the most dangerous of all wolfish demons - has returned, that he has freed himself from his magic chains and brought a wolf plague on this land ..." 
+“有谣言说可怕的芬里斯狼—在所有残忍的恶魔中它是最危险的—它回来了，它已经把自己从魔镣铐中解脱出来，并把狼群带到了这块土地造成灾害……”
 [blockend:50_end1]
 
 
 [blockstart:01_Sigurd]
-SIGURD
+西格德
 
-As soon as we had sent our present to Sigurd, we received his message: 
-"My fortress has been besieged by wild packs of wolves for weeks now! They are so hungry that they even attack small villages. I would really like to welcome you all here, but I fear the road is far too dangerous, my friends!" 
+我们刚刚向西格德送出礼物，就收到了他的回信：
+“我的城堡已经被疯狂的狼群包围数周！他们如此饥饿，以至于去攻击小村庄。我真心的欢迎你们来这里，但我担心道路太危险，我的朋友！”
 
-Find a way to lure the wolves away or to minimise their numbers so you can reach Sigurd with all your heroes!
+找到一种方法把狼引开，或者减少它们的数量，这样你就能和你的英雄们见到西格德！
 [blockend:01_Sigurd]
 
 
 [blockstart:02_w鰈fe] 
-When a wild pack of wolves attacked us for the first time, we noticed that the wolves were especially aggressive in this area and that there were huge numbers of them.
+当疯狂的狼群第一次攻击我们时，我们注意到这里的狼特别好斗而且数量惊人。
  
-Later we realised that the wild packs were besieging all the roads to Sigurd's fortress. 
+后来我们意识到这些野蛮的狼群正在包围所有通向西格德城堡的路口。
 [blockend:02_w鰈fe]
 
 
 [blockstart:03_J鋑er1] 
-HUNTER
+猎人
 
-"Have you heard about the packs of wolves as well, or have you seen them?" the huntsman called. 
-"There is a feeding place in a valley in the western massif. If you put enough food there, you might be able to lure the wolves into a trap!" he suggested.
+“你听说了狼群的事么，或者你已经见到它们？”猎人喊道。
+“在西边山丘的一条山谷里有一块饲料场。如果你在那里放足够的食物，也许你能引诱狼群进入陷阱！”他建议说。
 [blockend:03_J鋑er1] 
 
 [blockstart:04_J鋑er2] 
-HUNTER
+猎人
 
-"Oh, these wild beasts! You can hardly risk to take a step outside!" the brave hunter said. 
-"If you put enough food in these feeding places, the wolves might be attracted by the smell. The hidden pits in the ground might do the rest! I could never do all this on my own, though!" 
+“喔，这些疯狂的野兽！你不能冒险出去！”勇敢的猎人说。
+“如果你在那块饲料场放足够的食物，狼群可能会被气味吸引。在地面隐藏的陷阱就可以完成下面的事了！虽然我不能自己完成所有的事！”
 
-Help the hunter to fill the feeding places with food!
+帮助猎人将食物填满饲料场！
 [blockend:04_J鋑er2]
 
 
 [blockstart:05_player_2_seen_byzantine] 
-When we came across the Byzantine village, we received a warm reception. 
+当我们来到拜占庭人的村庄，受到了热情的接待。
 
-They told us we would be welcomed there any time, offered us advantageous trade agreements and suggested tributes.
+他们说随时欢迎我们来这里，并提供我们优惠的贸易条件，暗示以后会送给我们礼物。
 [blockend:05_player_2_seen_byzantine]
 
 [blockstart:06_player_3_burg] 
-One of our scouts went ahead to Sigurd's fortress. When he stood in front of Sigurd's castle with empty hands, Cyra took me aside and said: "Bjarni, we should not go in without sending Sigurd a present! That would be very impolite. Let's bake some cake for him." 
-And, since our women are nearly always right, we decided to do what she said ...
+我们的一个侦察员到前面西格德的堡垒。当他空手站在堡垒前时，希拉把我拉到一边说：“布加尼，我们不应该不准备送西格德礼物就进去！这显得我们很没礼貌。让我们给他烤制些蛋糕。”
+因为我们的女人几乎总是正确的，所以我们决定照她说的做……
 
-Bake a nice cake for Sigurd and send it to him as a tribute.
+为西格德烤一块蛋糕并作为礼物送给他。
 [blockend:06_player_3_burg] 
 
 [blockstart:07_player_4_seen_franks] 
-THE PORT
+港口
 
-There was a small Frankish port on an inviting coastline to the west. We thought we might be able to win these simple people as trading partners in exchange for a small tribute.
+在迷人的海岸线上有个小小的法兰克人的港口朝向西方。我们认为可以通过送点礼物使这些单纯的人们变成我们的贸易伙伴。
 [blockend:07_player_4_seen_franks]
 
 [blockstart:8_handel_player_4] 
-When we had brought the small tribute to the port, they said we would be welcomed among them any time, and offered us promising trade agreements. 
+当我们把少许礼物送到港口，这里的人说随时欢迎我们加入他们，并许诺与我们进行贸易。
 [blockend:8_handel_player_4]
 
 
 [blockstart:9_lost] 
-MISSION FAILED!
+任务失败！
 
-Oh dear! An entire tribe has been annihilated! Your Vikings were not able to successfully complete this mission ...     
+我的天！整个部落都牺牲了！你的维京人不能成功完成这项任务！
 [blockend:9_lost]
 
 [blockstart:10_w鰈fe_send] 
-THE TRAP
+陷阱
 
-When there was enough food in the feeding place, we heard an eerie howling and screaming from all directions ...
+当那块饲料场放满食物时，我们听到从四面八方传来一阵可怕的嚎叫……
 
-The wolves of the surrounding area went to the feeding place in packs. When they started eating greedily, the trap closed on them! 
-The wolves were trapped in the pits and the way to Sigurd's castle was free. The hunters' plan had worked!     
+周围地区的狼成群结队向这里聚集。当它们开始贪婪的大嚼，就离陷阱越来越进了！
+狼群被困在陷阱中，通向西格德的城堡的道路畅通了。猎人的计划发挥了作用！
 [blockend:10_w鰈fe_send]
 
 [blockstart:11_s鰈dner] 
-The friendly Byzantines supplied us with mercenaries, who waited for us at the feeding place. Their bravest spearmen with their iron spears and short sword fighters came with us! 
-They offered to send us additional reinforcements if we should need their help. 
+友好的拜占庭人给我们提供了雇佣军，他们在那块饲料场等着我们。拜占庭人中最勇敢的长枪手带着铁枪与佩戴短剑的勇士都跟随了我们!
+如果我们需要他们的帮助，他们可以提供另外的增援。
 
-Pay the Byzantines the required tribute for additional mercenaries if your Vikings need them.
+如果你的维京人需要更多的雇佣军需要送给拜占庭人礼物。
 [blockend:11_s鰈dner]
 
 [blockstart:12_hero_siggi] 
-SIGURD
+西格德
 
-"It is wonderful to see you! I see you have found a new companion as well!" Sigurd said. "You know, my friends - this courtly life is getting somewhat boring. I will join you and fight with you!"
-We were overjoyed to hear this from our old comrade-in-arms! At last we were all reunited. It was just like old times ...
+“看到你真是太好了！我发现你已经找到一个新的同伴!” 西格德说，“你知道，我的朋友—这种尊贵的生活正变得有些让人烦。我会与你一起进行战斗！
+从我们的老战友那里听说这个消息真是让我们狂喜！终于我们还是在一起了。现在就象以前一样……”
 
-Sigurd continued: "As you will have noticed, the wolf plague is causing unrest throughout the land. My people hardly dare to leave the walls of this fortress, and I only have a few men at my command who will go out and fight the wolves with me. Won't you help me drive the wolves from this land? Together, I have no doubt we will succeed!"
-What a question - as if we'd deny our friend such a request ...
+西格德继续说：“正如你将要注意到的，狼群引起的灾害正在引起整个国家的不安。我的子民几乎不敢离开这座城堡，我手底下也只有几个人愿意出去跟着我和狼群战斗。你能帮我把这些狼从这块土地上赶走么?我们一起努力，我对我们的胜利毫无怀疑！”
+如果我们拒绝了朋友这样的请求—将会出现什么问题……
 
 
-Help Sigurd to drive away the wolves!
+帮助西格德赶走这些狼！
 [blockend:12_hero_siggi]
 
 [blockstart:13] 
-When our Vikings destroyed the port, we robbed ourselves of the valuable goods that we would have been offered to trade ...
+当我们的维京人毁掉港口，我们夺回了原来准备用来交易的贵重财物……
 [blockend:13]
 
 [blockstart:14] 
-The destruction of the Byzantine fortress had brought us Vikings no advantage whatsoever ... Why had we even started this fight against the Byzantines?
+拜占庭人城堡的被破坏无论如何没有带给我们维京人任何好处……为什么我们要对拜占庭人也发起战争呢？
 [blockend:14]
 
 [blockstart:100]
 <font:$local$\fonts\fonthead16bld.fnt>
-MISSION FAILED!
+任务失败！
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
-Heroism or carelessness? When Bjarni died the gods were crying ... without this hero, the outcome of this mission will remain hidden to you!
+英雄主义还是疏忽大意？当布加尼死的时候，苍天也在哭泣……没有了这位英雄，你无法得到最后的胜利！
 [blockend:100]
 
 [blockstart:200]
 <font:$local$\fonts\fonthead16bld.fnt>
-MISSION FAILED!
+任务失败！
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
-A short moment of negligence, that's all it takes to lose your life! Your heroine Cyra died due to your negligence! Without this heroine, the outcome of this mission will remain hidden to you! 
+一瞬间的疏忽足以夺走你的生命，你的女英雄希拉由于你的疏忽失去了生命，没有她，你无法得到最后的胜利！
 [blockend:200]
 
 [blockstart:300]
 <font:$local$\fonts\fonthead16bld.fnt>
-MISSION FAILED!
+任务失败！
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
-A short moment of negligence, that's all it takes to lose your life! Your friend and hero Hatchie died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you! 
+一瞬间的疏忽足以夺走你的生命！你的朋友和英雄哈奇由于你的疏忽丧失了生命！没有了他，你无法得到最后的胜利！
 [blockend:300]
 
 [blockstart:400]
 <font:$local$\fonts\fonthead16bld.fnt>
-MISSION FAILED!
+任务失败！
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
-A short moment of negligence, that's all it takes to lose your life! Your friend and hero Sigurd died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you!
+一瞬间的疏忽足以夺走你的生命！你的朋友和英雄西格德就是由于你的疏忽而丧命！没有这位英雄，你无法得到最后的胜利！
 [blockend:400]
 
 [blockstart:500]
 <font:$local$\fonts\fonthead16bld.fnt>
-MISSION FAILED!
+任务失败！
 <font:$local$\fonts\font12.fnt>
-A short moment of negligence, that's all it takes to lose your life! Ykol died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you!
+一瞬间的疏忽足以夺走你的生命！Ykol由于你的疏忽失去了生命，没有了他，你无法得到最后的胜利！
 [blockend:500]

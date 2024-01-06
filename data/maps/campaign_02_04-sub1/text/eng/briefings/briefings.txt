@@ -1,110 +1,110 @@
 [blockstart:header]
 
-THE SWORDS OF THE KINGS
+国王的剑
 [blockend:header]
 
 [blockstart:00_start] 
-A deep mysterious crypt opened in front of us ... It was hard to imagine that there were so many famous kings buried in this place ... 
+一个即深又神秘的地窖在我们面前打开．．．很难想象地窖里埋葬了那么多著名的国王．．．
 [blockend:00_start]
 
 [blockstart:00_start1] 
-The Frankish tyrant had been unable to stop us, but we encountered his dangerous grave robbers everywhere. We had to be careful and clever, because they greatly outnumbered us! 
+暴君Frankish无法阻止我们，但是我们到处都可以遇到他那危险的盗墓者。我们必须小心，保持机警，因为他们的数量远远的超过我们！
 
-The gates had ingenious locking mechanisms. Wooden gates could only be opened with switches, metal gates were guarded by wild animals or were triggered by invisible mechanisms which had often been set in the ground. If we were not careful, we might easily walk into a trap!  
+门锁有着独特的机制。只有开关才能够打开木门，铁门是由野兽看守的，或是由一个可见装置触发的，可见装置常被安置在地上。如果我们不小心，我们就很容易的掉进陷阱！
 
-Find the three swords of the ancient kings!
+找到三把古代国王佩戴的剑！
 [blockend:00_start1]
 
 
 [blockstart:50_endheader] 
 
-MISSION COMPLETED! 
+任务完成！
 [blockend:50_endheader]
 
 [blockstart:50_end] 
-Our mission was completed, we had found the three swords of the ancient kings. They were the first component we needed for Fenrir's chain. 
+我们的任务完成了，我们已经找到了三把古代国王佩戴的剑。它们是我们要组成的Fenrir's 链的第一个组成部分。
 [blockend:50_end]
 
 [blockstart:50_end1] 
-To find out what was the next magic component, we had to go back to the old abbey. Further exciting adventures still lay in store for us on our mission ...
+为了找到下一个有魔力的部分，我们不得不返回老修道院。在我们的任务中，还有更刺激的冒险正在等着我们．．．
 [blockend:50_end1]
 
 [blockstart:01_player_1_seen_franks] 
-GRAVE ROBBERS
+盗墓者
 
-We did not have to wait long for the grave robbers and soldiers of the Frankish tyrant ... When we entered the catacombs, they attacked us at once. We had to think quickly and develop smart tactics, or we would soon be defeated by them!
+我们不用等得太久，就可以见到暴君Frankish的盗墓者和他的士兵．．．我们一进入地下墓穴，就立刻受到了他们的攻击。我们必须快速思考，制定巧妙的对策，否则我们很快就会被他们击败！
 [blockend:01_player_1_seen_franks]
 
 [blockstart:02_player_2_seen_viking] 
-IMPRISONED VIKINGS
+被监禁的VIKINGS
 
-These poor Vikings had been held as prisoners by the Frankish barbarians for a long time. They offered to help us if we freed them from their prison. 
+这些可怜的Vikings被Frankish的野蛮人抓进监狱已经很久了。他们答应如果我们把他们解救出来，他们就帮助我们。
 [blockend:02_player_2_seen_viking]
 
 [blockstart:03_viking] 
-The liberated Vikings shouted for joy and celebrated their freedom. They wanted to help us on our mission.
+被释放的Vikings高兴的欢呼庆祝他们获得自由。他们想在我们的任务中帮助我们。
 [blockend:03_viking] 
 
 
 [blockstart:04_sword] 
-In one of the bays we found an ancient sword. Its decorations and engravings pointed to the fact that it had belonged to a very influential king of old. But there was no magic in it, so we couldn't make any use of it at all.
+在一个海湾里，我们发现了一把古老的剑。它的装饰和雕刻都表明一个事实就是它曾经属于一位古老而又很有影响力的国王。但是它没有魔力，所以它对我们来说根本就没用。
 [blockend:04_sword]
 
 [blockstart:05_switch1] 
-OPEN THE GATES! Switch 1
+打开这扇门！开关１
 
-When we activated the switch, two gates opened near us. We had to leave one of our men on the switch so that the gates remained open.
+当我们搬动开关的时候，两扇门在我们旁边打开了。我们必须让一个人留在开关这里，这样门才能始终是开着的。
 [blockend:05_switch1]
 
 [blockstart:06_switch2] 
-OPEN THE GATES! Switch 2
+打开这扇门！开关２
 
-When we activated the switch, five gates opened near us. We had to leave one of our men on the switch so that the gates remained open.
+我们搬动开关，５扇门在我们旁边打开了。我们必须让一个人留在开关这里，这样门才能始终是开着的。
 [blockend:06_switch2]
 
 [blockstart:07] 
-In one of the bays we found an ancient sword. Its decorations and engravings pointed to the fact that it had belonged to a very influential king, but this king was still alive! 
+在一个海湾里，我们发现了一把古老的剑。它的装饰和雕刻都表明一个事实就是它曾经属于一位很有影响力的国王，而他现在还活着！
 
-What a shame! We would not be able to use the sword for our purposes!
+真可恶！我们不能让这把剑为我们所用！
 [blockend:07]
 
 
 [blockstart:100]
 <font:$local$\fonts\fonthead16bld.fnt>
-MISSION FAILED!
+任务失败！
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
-Heroism or carelessness? When Bjarni died the gods were crying ... without this hero, the outcome of this mission will remain hidden to you!
+英雄主义还是疏忽大意？当布加尼死的时候，苍天也在哭泣……没有了这位英雄，你无法得到最后的胜利！
 [blockend:100]
 
 [blockstart:200]
 <font:$local$\fonts\fonthead16bld.fnt>
-MISSION FAILED!
+任务失败！
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
-A short moment of negligence, that's all it takes to lose your life! Your heroine Cyra died due to your negligence! Without this heroine, the outcome of this mission will remain hidden to you! 
+一瞬间的疏忽足以夺走你的生命，你的女英雄希拉由于你的疏忽失去了生命，没有她，你无法得到最后的胜利！
 [blockend:200]
 
 [blockstart:300]
 <font:$local$\fonts\fonthead16bld.fnt>
-MISSION FAILED!
+任务失败！
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
-A short moment of negligence, that's all it takes to lose your life! Your friend and hero Hatchie died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you! 
+一瞬间的疏忽足以夺走你的生命！你的朋友和英雄哈奇由于你的疏忽丧失了生命！没有了他，你无法得到最后的胜利！
 [blockend:300]
 
 [blockstart:400]
 <font:$local$\fonts\fonthead16bld.fnt>
-MISSION FAILED!
+任务失败！
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
-A short moment of negligence, that's all it takes to lose your life! Your friend and hero Sigurd died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you!
+一瞬间的疏忽足以夺走你的生命！你的朋友和英雄西格德就是由于你的疏忽而丧命！没有这位英雄，你无法得到最后的胜利！
 [blockend:400]
 
 [blockstart:500]
 <font:$local$\fonts\fonthead16bld.fnt>
-MISSION FAILED!
+任务失败！
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
-A short moment of negligence, that's all it takes to lose your life! Ykol died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you!
+一瞬间的疏忽足以夺走你的生命！Ykol由于你的疏忽失去了生命，没有了他，你无法得到最后的胜利！
 [blockend:500]

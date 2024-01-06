@@ -1,106 +1,106 @@
 [blockstart:header] 
 
-NORTHLAND
+北国
 [blockend:header]
 
 [blockstart:00_start] 
-We were deeply grieved about the loss of Cyra! Her lifeless body seemed not to have changed at all since her spirit had been carried away with Fenrir. 
-Something unnatural surrounded her, and we were unable to return her body to the soil ... 
+我们沉浸在失去Cyra的悲痛中！自从她的灵魂被芬里厄带走后，她无生命的躯体似乎还没有一点改变。
+某种诡异的东西纠缠着她，我们无法将她的躯体下葬。
 [blockend:00_start]
 
 [blockstart:00_start1] 
-Ykol, who was well versed in mythology, said that Cyra's spirit had been taken and now lingered in Asgard, the world of the gods. But he also claimed that there might be a way to bring her back. 
+对神话颇有研究的Ykol说Cyra的灵魂被带走了，现在正在天国——神的世界里徘徊。然后他又说也许有办法能让她回来。
 
-Only very few people have ever survived a journey to Asgard. He said that the only way to Asgard was through the ever-green World Tree Yggdrasil at the Well of Urd. This tree carries the world, its branches spread from heaven to earth, they connect the divine realm of Asgard with the human world of Midgard, both of which are again connected to the underground kingdoms of Hel and Niflheim.
+只有极少数人能从仙宫重返人间。Yko1说通向仙宫的唯一办法是攀上常青的世界之树Yggdrasil，它位于Urd的井边。它的枝叶从地面向云霄延伸到天国，它连通了仙宫的神界和普通人居住的凡世，同时也通向地下的冥府和死人国。
 
-Travel to the World Tree Yggdrasil. But first look for clues in your surroundings!
+行进至世界之树Yggdrasil，但是先在你的周围寻找一下线索！
 [blockend:00_start1]
 
 
 [blockstart:50_endheader] 
 
-MISSION COMPLETED! 
+任务完成！
 [blockend:50_endheader]
 
 [blockstart:50_end] 
-The entrance to the World Tree Yggdrasil was surrounded by knotty roots. A dark, terrifying maw opened into the depths. There we would first have to cross the kingdom of Hel, the goddess of death, before reaching the gods in Asgard. 
+通往世界之树的入口被盘根错节的树木环绕遮盖。到达仙界之前，首先我们必须穿过由死亡女神掌控的冥府。
 [blockend:50_end]
 
 [blockstart:50_end1] 
-The deeper we went, the warmer and darker it became, and soon we had forgotten the icy climate of Northland ...
+越往深处走，里面就变得越暗越温暖，我们很快就忘记了北欧的霜雪天气。
 [blockend:50_end1] 
 
 
 [blockstart:01_player_1_seen_neutral] 
-VILLAGE
+山谷
 
-We came across a Viking village. The locals regarded us with suspicion, but they were not hostile. Among them were guards of the World Tree who called themselves the Yggdrasil Order. 
-These Vikings also owned resources that were very scarce in these barren parts.
+我们穿过了一个Viking的村庄。村民们用怀疑的眼神看着我们，但他们并没有敌意。
+这些Viking拥有在这片荒地很稀有的资源。
 
-In return for a tribute, we might be able to trade with them and get some information about the World Tree ...
+作为礼物馈赠的回报，我们能够和他们进行贸易，还可以从他们这里打探有关世界之树的消息。
 [blockend:01_player_1_seen_neutral]
 
 [blockstart:02_tribut1] 
-VILLAGE
+山谷
 
-After we had paid them the tribute, the village offered us numerous trade agreements and gave us a useful hint on how to access the World Tree.
+我们赠送礼物给居民之后，他们和我们达成了许多贸易协定，并提供我们一条很有价值的线索，就是怎样到达世界之树。
  
-"The guards of the tree, the Yggdrasil Order, will only grant men of pure heart passage to the entrance of the Underworld. In the past, men built a holy temple to prove their purity and thus gain access to the Underworld. But then the temple was destroyed, and the guards grew more suspicious than ever ..."
+“树的卫兵，Yggdrasil护卫队，只允许心灵纯洁的人通过这个入口。以前，人们曾经建造了一座庙宇来证明自己的虔诚，然后获得了通往地下世界的许可。但是现在庙宇被毁，卫兵也变得比以前更有戒心，防卫森严。
 
-Build a new temple so the guards will recognise your good intentions. 
+建立一座庙宇让卫兵认可你并无恶意。
 [blockend:02_tribut1]
 
 
 [blockstart:03_player_2_seen_orden] 
-THE YGGDRASIL ORDER
+Yggdrasil护卫队
 
-"We only grant passage to the World Tree Yggdrasil to those who are pure of heart. Far too often has this entrance to the Underworld been abused for evil!" they said. "If you dare to approach the entrance without our approval, you will die!"
+“我们只允许心地善良的人穿过通向世界之树的道路。这条通往地下世界的路常常被邪恶的人滥用。”他们说道，“如果你敢不经过我们的许可就擅自接近它，你就等着受死吧！”
 
-"Prove that your soul is pure by erecting a sacred place! Remain there in humility for some time, and our brothers will come to get you. Passage to the Underworld shall then be granted to you!"
+“建造一座神圣的建筑！心怀谦卑地呆在那里，我们的弟兄们将会来找你。你将会获得通向地下世界的许可证！
 
-Build a new temple. 
+建立新的庙宇。
 [blockend:03_player_2_seen_orden]
 
 [blockstart:04_orden_temple] 
-THE YGGDRASIL ORDER
+Yggdrasil护卫队
 
-"We only grant passage to the World Tree Yggdrasil to those who are pure of heart. Far too often has this entrance to the Underworld been abused for evil!" they said.
+“我们只允许心地善良的人穿过通向世界之树的道路。这条通往地下世界的路常常被邪恶的人滥用。”他们说道。
 
-"But, as our wise eyes see, you have already taken the effort to build a holy temple! You may pass through the gates. 
+“但是，就我们睿智的眼光看到的，你们已经付出努力建造了一座神的庙宇！你们获许通过这个大门。”
 
-We grant you, Bjarni, permission to pass through the gates with your friends Hatchie and Sigurd!"
+我们许可你，Bjarni，你可以和你的朋友Hatchie、Sigurd一起通过这座大门！
 [blockend:04_orden_temple]
 
 [blockstart:05_Ykol] 
-What happened next left us speechless ...
+接下来所发生的事情让我们目瞪口呆……
 
-Ykol simply ignored the instructions of the Order and stormed past the stern guards, who seemed to take no notice of him ... 
-He shouted: "Follow me, my friends!" We never saw him again ... 
+Yko1不顾那道命令的指示，鲁莽的闯过了威严的卫兵，他们似乎没有注意到他。
+他喊道：“跟我来，朋友们！”我们就再也看不见他了……
 
-Would he find a way to the world of the gods unscathed? The guards had not granted him passage to the World Tree! 
+难道他发现了平安通向天国的路径？卫兵还没有许可他走近世界之树！
 [blockend:05_Ykol]
 
 [blockstart:06_temple] 
-THE TEMPLE HAS BEEN BUILT! 
+庙宇已经建成！
 
-A magnificent temple rose to the sky and turned this place into sacred ground. We were certain that the Yggdrasil Order would now let us pass to the World Tree ...
+一座宏伟的神殿指向天空，这块土地变得神圣起来。我们确信现在Yggdrasil的护卫队能让我们通向世界之树了。
 [blockend:06_temple]
 
 [blockstart:07_heldentot] 
-THE YGGDRASIL ORDER
+Yggdrasil护卫队
 
-"Now you will die! This is your punishment for not heeding our warning!"
+“现在你死定了！这就是你藐视我们警告的下场！”
 
-As soon as these words were spoken, the heroes and leaders of your Vikings fell victim to the terrible curse of the Order and died a horrible death.
+话音刚落，你们Viking的英雄领袖成为了戒令的牺牲品，惨烈的死去。
 [blockend:07_heldentot]
 
 [blockstart:08] 
 
-...
+……
 
-More than once I watched Cyra's spirit walk the white realms of Northland. She appeared barely tangible, and disappeared again without a trace. 
+不止一次我看到了Cyra的灵魂在北欧领土内游荡。她刚一现身，紧接着就又消失得无影无踪。
 
-Sometimes it almost seemed as though she wanted to warn us of a menace ...
+有时这看起来像是她想要警告我们存在着某种威胁。
 [blockend: 08]
 
 
@@ -109,33 +109,33 @@ Sometimes it almost seemed as though she wanted to warn us of a menace ...
 
 [blockstart:100]
 <font:$local$\fonts\fonthead16bld.fnt>
-MISSION FAILED!
+任务失败！
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
-Heroism or carelessness? When Bjarni died the gods were crying ... without this hero, the outcome of this mission will remain hidden to you!
+英雄主义还是疏忽大意？当布加尼死的时候，苍天也在哭泣……没有了这位英雄，你无法得到最后的胜利！
 [blockend:100]
 
 [blockstart:300]
 <font:$local$\fonts\fonthead16bld.fnt>
-MISSION FAILED!
+任务失败！
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
-A short moment of negligence, that's all it takes to lose your life! Your friend and hero Hatchie died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you! 
+一瞬间的疏忽足以夺走你的生命！你的朋友和英雄哈奇由于你的疏忽丧失了生命！没有了他，你无法得到最后的胜利！
 [blockend:300]
 
 [blockstart:400]
 <font:$local$\fonts\fonthead16bld.fnt>
-MISSION FAILED!
+任务失败！
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
-A short moment of negligence, that's all it takes to lose your life! Your friend and hero Sigurd died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you!
+一瞬间的疏忽足以夺走你的生命！你的朋友和英雄西格德就是由于你的疏忽而丧命！没有这位英雄，你无法得到最后的胜利！
 [blockend:400]
 
 [blockstart:500]
 <font:$local$\fonts\fonthead16bld.fnt>
-MISSION FAILED!
+任务失败！
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
-A short moment of negligence, that's all it takes to lose your life! Ykol died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you!
+一瞬间的疏忽足以夺走你的生命！Ykol由于你的疏忽失去了生命，没有了他，你无法得到最后的胜利！
 [blockend:500]
 

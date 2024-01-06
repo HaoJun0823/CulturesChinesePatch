@@ -1,103 +1,103 @@
 [blockstart:header]
 
-THE ISLAND OF THE SILENT
+沉寂的孤岛
 
 [blockend:header]
 
 [blockstart:00_start]
-When the fog cleared, the shore of a small island appeared before us. 
+当雾慢慢退去，一个小岛的海岸出现在我们面前。
 [blockend:00_start]
 
 [blockstart:00_start1] 
-This was a place created for other beings, its peace and harmony were strange to us humans, but it was charming ...
+这是一个为其生物创造的地方，它宁静，和谐，对于我们这些人来说是那么陌生，但它又是那么地吸引人．．．
 
-Find a landing place! 
+寻找一个登陆地点！
 [blockend:00_start1]
 
 
 [blockstart:50_endheader] 
 
-MISSION COMPLETED! 
+任务完成！
 [blockend:50_endheader]
 
 [blockstart:50_end] 
-We had solved the riddles. The being gave us a horn which contained all the magic powers of the unicorns.   
+我们猜出了谜语。这的生物送给我们一个角，这个角充满了独角兽全部的魔力。
 [blockend:50_end]
 
 [blockstart:50_end1] 
-Now we had found the second magic component, and we could return to the abbey. More exciting adventures still awaited us on our mission ...
+现在我们已经找到了第二个有魔力的部分，我们要返回修道院。在这次任务中，还有更刺激的冒险等待着我们．．．在岛的海岸上有好多可以登陆的地方。我们选择了一个西面的小海湾登陆。
 [blockend:50_end1]
 
 
 [blockstart:01_landed] 
-There were good landing places on the shores of the island. We chose a small bay in the west to disembark. It was very quiet and peaceful, a silent magic rested here ...
+小岛上非常安静，祥和，这有着沉寂的魔力。
 
-Moor the ship and let your people explore the area!
+停泊好船，让你的人民去开拓这片领域！
 [blockend:01_landed]
 
 [blockstart:02_unicorn] 
 
-UNICORN
+独角兽
 
-In a clearing we met a bright and shining creature. It was as beautiful as something out of a fairytale, dazzling to our eyes. In its quiet and friendly language the unicorn told us that we were welcome, and that it would give us a magic horn of the unicorns if we solved the riddle surrounding this place. 
-It was like a dream - we understood every word without knowing the language ... 
+我们遇到了一个闪闪发亮的动物。它就像是从神话里走出来的东西那么漂亮，让我们眼花缭乱。独角兽用它那平和而友好的语言告诉我们，我们是受欢迎的，并且还告诉我们如果我们可以猜出四周的谜语，它就会给我们一个独角兽那充满魔力的角。
+那就像一场梦——我们虽然不懂他们的语言但是我们却可以理解每一个词语。
 
-Answer the oracle!
+遵守预言！
 [blockend:02_unicorn]
 
 
 [blockstart:03_besetzt] 
-You have to leave the switches, otherwise the unicorn will remain silent!
+一定要离开开关，否则，独角兽会一直保持沉默！
 [blockend:03_besetzt] 
 
 [blockstart:04_erkl鋜ung1]
-The unicorn said: "To answer my riddle, just step on one of the three switches. Remember the following symbols! If you don't solve the riddle, you must visit the island again!"
+独角兽说“告诉我谜底的时候，只需踩在三个开关中的一个上面就可以了。记住下面的标记！如果没猜出谜语，你就必须再次访问这个小岛！
 
-"This is switch A."
+“这是开关Ａ
 [blockend:04_erkl鋜ung1]
 
 [blockstart:05_erkl鋜ung2]
 
-"This is switch B."
+这是开关Ｂ
 [blockend:05_erkl鋜ung2]
 
 [blockstart:06_erkl鋜ung3]
 
-"This is switch C." 
+这是开关Ｃ“
 
-There are three possible answers to each of my riddles. But only one of them is correct. Answer me by pressing the right switch! Are you ready for the riddle?" 
+我的每个谜语都有三个可选的答案。但是只有一个是对的。回答的时候要按下正确的开关！准备好了吗？“
 [blockend:06_erkl鋜ung3]
 
 [blockstart:7_falsch] 
-NOPE!
+不！
 
-Wrong answer!
+回答错误！
 [blockend:7_falsch]
 
 [blockstart:8_frage1] 
-RIDDLE 1 
+谜语１
 
-"What is the tool of the thunder god Thor?" 
+“雷神Thor所用的工具是什么？”
 
-A) Hammer 
-B) Pliers 
-C) Sickle
+A)锤子
+B)钳子
+C)六颗星
 [blockend:8_frage1]
 
 [blockstart:9_frage2] 
-RIDDLE 2
+谜语２
 
-"What did Old Mother Hubbard want to get out of the cupboard?" 
+“老妈妈Hubbard想从碗橱里拿什么出来？”
 
-A) Bone
-B) Bun
-C) Sausage
+A)骨头
+B)小圆面包
+C)香肠
 [blockend:9_frage2]
 
 [blockstart:10_frage3] 
-RIDDLE 3
+谜语３
 
-"Who is Bjarni's father?" 
+“Bjarni的父亲是谁？”
 
 A) Snoori Sturlarson
 B) Erick Gunnarson
@@ -106,7 +106,7 @@ C) Leif Erickson
 
 [blockstart:11_right] 
 
-CORRECT!!
+正确！！
 [blockend:11_right]
 
 
@@ -114,40 +114,40 @@ CORRECT!!
 
 [blockstart:100]
 <font:$local$\fonts\fonthead16bld.fnt>
-MISSION FAILED!
+任务失败！
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
-Heroism or carelessness? When Bjarni died the gods were crying ... without this hero, the outcome of this mission will remain hidden to you!
+英雄主义还是疏忽大意？当布加尼死的时候，苍天也在哭泣……没有了这位英雄，你无法得到最后的胜利！
 [blockend:100]
 
 [blockstart:200]
 <font:$local$\fonts\fonthead16bld.fnt>
-MISSION FAILED!
+任务失败！
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
-A short moment of negligence, that's all it takes to lose your life! Your heroine Cyra died due to your negligence! Without this heroine, the outcome of this mission will remain hidden to you! 
+一瞬间的疏忽足以夺走你的生命，你的女英雄希拉由于你的疏忽失去了生命，没有她，你无法得到最后的胜利！
 [blockend:200]
 
 [blockstart:300]
 <font:$local$\fonts\fonthead16bld.fnt>
-MISSION FAILED!
+任务失败！
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
-A short moment of negligence, that's all it takes to lose your life! Your friend and hero Hatchie died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you! 
+一瞬间的疏忽足以夺走你的生命！你的朋友和英雄哈奇由于你的疏忽丧失了生命！没有了他，你无法得到最后的胜利！
 [blockend:300]
 
 [blockstart:400]
 <font:$local$\fonts\fonthead16bld.fnt>
-MISSION FAILED!
+任务失败！
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
-A short moment of negligence, that's all it takes to lose your life! Your friend and hero Sigurd died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you!
+一瞬间的疏忽足以夺走你的生命！你的朋友和英雄西格德就是由于你的疏忽而丧命！没有这位英雄，你无法得到最后的胜利！
 [blockend:400]
 
 [blockstart:500]
 <font:$local$\fonts\fonthead16bld.fnt>
-MISSION FAILED!
+任务失败！
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
-A short moment of negligence, that's all it takes to lose your life! Ykol died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you!
+一瞬间的疏忽足以夺走你的生命！Ykol由于你的疏忽失去了生命，没有了他，你无法得到最后的胜利！
 [blockend:500]

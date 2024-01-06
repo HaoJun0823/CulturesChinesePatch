@@ -1,89 +1,89 @@
 [blockstart:header] 
 
-THE ICE WORLD
+冰雪世界
 [blockend:header]
 
 [blockstart:00_start] 
-When Heimdall blew his horn, the bridge of Bifrost opened the way to Asgard ... 
+Heimdall一吹起号角，Bifrost就向Asgard前进了．．．
 
-Suddenly, an enormous ice storm broke out and froze everything around us. Within a split second, everything had turned a cold, hard and bright white, blinding our eyes and making our limbs ache. 
+突然，一场巨大的暴风雪来临了，我们周围的所有东西都被冻住了。就在一瞬间，所有东西变成又冷又硬，亮白色，晃着我们的眼睛，使我们四肢疼痛。
 [blockend:00_start]
 
 [blockstart:00_start1] 
-And suddenly Ykol reappeared! Somehow he must have reached the entrance before us ... But where had he been?
-He said he had more important things to do in his absence, but that he was back now. Oh well.
+突然Ykol又出现了！不知为何，他是在我们前面到达入口的．．．但是他以前在那呢？
+他说他缺席是因为他有更重要的事情去做，但是现在他回来了。哦，太好了。
 
-Despite all my doubts and the faint distrust that still lingered, in the end we were glad that nothing had happened to him in this dark, dangerous kingdom. We were also happy that we had found the entrance to the world of the gods. 
+虽然我怀有疑虑，还有些不相信，但是最后我们还是很高兴在这个黑暗的危险的国家里他能够安然无恙。我们很开心， 因为我们找到了通往神界的入口
 
-But, by the Asen Gods - this was NOT what we had imagined Asgard to be like! Everything was covered in ice, it was cold and inhospitable, and the whole world seemed to be dead and numb. THIS was supposed to be the realm of the gods? THIS was their home? THIS was supposed to be paradise?
+但是Asen Gods——并不是我们想象的那个样子！所有的东西都被冰覆盖着，是那么寒冷而不友好，整个世界死气沉沉。这应该是神的世界吗？这就是他们的家？这就是天堂？
 
-Full of doubt we entered another labyrinth ...
-And soon we discovered that this rough ice world was full of hidden dangers. 
+我们充满疑虑的走进另一个迷宫．．．
+很快我们就发现这个坚硬的冰的世界充满了隐藏的危险。
 
-Reach the gate to the plains of Asgard with your heroes!
+和你的英雄们来到Asgard平原的门口！
 [blockend:00_start1]
 
 
 [blockstart:50_endheader] 
 
-MISSION COMPLETED! 
+任务完成！
 [blockend:50_endheader]
 
 [blockstart:50_end] 
-At the end of the huge labyrinth stood a mighty portal, nearly untouched by the ice. It sparkled in all colours imaginable, and when we walked through it a wonderful plain stretched before us, a place whose existence we had begun to doubt. Awestruck, we fell to our knees ...
+在这个巨大迷宫的尽头是一个有巨大力量的入口，几乎没有一点冰。它闪着可以想象到的所有颜色的光，当我们穿过入口，一个神奇的平原在我们面前延伸开来，这让我们开始怀疑平原是否真的存在。我们肃然起敬的跪下来．．．
 [blockend:50_end]
 
 [blockstart:50_end1] 
-A majestic staircase wound around a rise. THIS had to be the realm of the gods! And we were only a few hundred stairs away from it ...
+宏伟的楼梯盘旋上升。这一定就是神的国度！ 我们离它只有几百级台阶了．．．
 [blockend:50_end1]
 
 
 [blockstart:01_player_1_seen] 
-GHOST WARRIORS 
+幽灵武士
 
-The souls of deceased Vikings seemed to dwell in these shells of warriors. We did not like the idea of fighting against soldiers from our own people, but if we got too close to them, we would have no choice!
+这些武士的躯体里似乎停留着已故Viking人的灵魂。我们不愿意和这些士兵们搏斗，他们曾经是我们的人，但是如果我们靠他们太近，我们就别无选择！
 [blockend:01_player_1_seen]
 
 [blockstart:02] 
-SHIP FOUND!
+找到船了！
 
-In this unreal world, this ship would render us good service. If there was no other way to get any further, we would at least be able to continue by water.
+在这个不真实的世界里，这艘船可以给我们很大的帮助。如果没有别的可以前进的路了我们至少还能坐船继续前进。
 [blockend:02]
 
 [blockstart:03] 
-GATE OPEN! Switch 1
+门开了！开关１
 
-When we activated the switch, a gate opened near us. We had to leave one of our men on the switch so that the gate remained open. 
+当我们扭动开关的时候，一扇门在我们旁边打开了。我们必须在开关这里留下一个人， 这样才能让门一直都开着
 [blockend:03]
 
 [blockstart:04]
-GATE OPEN! Switch 2
+门开了！开关２
 
-When we activated the switch, a gate opened near us. We had to leave one of our men on the switch so that the gate remained open. 
+当我们扭动开关的时候，一扇门在我们旁边打开了。我们必须在开关这里留下一个人， 这样才能让门一直都开着
 [blockend:04]
 
 [blockstart:05]
-GATE OPEN! Switch 3
+门开了！开关３
 
-When we activated the switch, a gate opened near us. We had to leave one of our men on the switch so that the gate remained open. 
+当我们扭动开关的时候，一扇门在我们旁边打开了。我们必须在开关这里留下一个人， 这样才能让门一直都开着
 [blockend:05]
 
 [blockstart:06]
-GATE OPEN! Switch 4
+门开了！开关４
 
-When we activated the switch, a gate opened near us. We had to leave one of our men on the switch so that the gate remained open. 
+当我们扭动开关的时候，一扇门在我们旁边打开了。我们必须在开关这里留下一个人， 这样才能让门一直都开着
 [blockend:06]
 
 [blockstart:07]
-GATE OPEN! Switch 5
+门开了！开关５
 
-When we activated the switch, a gate opened near us. We had to leave one of our men on the switch so that the gate remained open. 
+当我们扭动开关的时候，一扇门在我们旁边打开了。我们必须在开关这里留下一个人， 这样才能让门一直都开着
 [blockend:07]
 
 [blockstart:08]
-GATE OPEN! Switch 6
+门开了！开关６
 
-When we activated the switch, a gate opened near us. We had to leave one of our men on the switch so that the gate remained open. 
+当我们扭动开关的时候，一扇门在我们旁边打开了。我们必须在开关这里留下一个人， 这样才能让门一直都开着
 [blockend:08]
 
 
@@ -93,40 +93,40 @@ When we activated the switch, a gate opened near us. We had to leave one of our 
 
 [blockstart:100]
 <font:$local$\fonts\fonthead16bld.fnt>
-MISSION FAILED!
+任务失败！
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
-Heroism or carelessness? When Bjarni died the gods were crying ... without this hero, the outcome of this mission will remain hidden to you!
+英雄主义还是疏忽大意？当布加尼死的时候，苍天也在哭泣……没有了这位英雄，你无法得到最后的胜利！
 [blockend:100]
 
 [blockstart:200]
 <font:$local$\fonts\fonthead16bld.fnt>
-MISSION FAILED!
+任务失败！
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
-A short moment of negligence, that's all it takes to lose your life! Your heroine Cyra died due to your negligence! Without this heroine, the outcome of this mission will remain hidden to you! 
+一瞬间的疏忽足以夺走你的生命，你的女英雄希拉由于你的疏忽失去了生命，没有她，你无法得到最后的胜利！
 [blockend:200]
 
 [blockstart:300]
 <font:$local$\fonts\fonthead16bld.fnt>
-MISSION FAILED!
+任务失败！
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
-A short moment of negligence, that's all it takes to lose your life! Your friend and hero Hatchie died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you! 
+一瞬间的疏忽足以夺走你的生命！你的朋友和英雄哈奇由于你的疏忽丧失了生命！没有了他，你无法得到最后的胜利！
 [blockend:300]
 
 [blockstart:400]
 <font:$local$\fonts\fonthead16bld.fnt>
-MISSION FAILED!
+任务失败！
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
-A short moment of negligence, that's all it takes to lose your life! Your friend and hero Sigurd died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you!
+一瞬间的疏忽足以夺走你的生命！你的朋友和英雄西格德就是由于你的疏忽而丧命！没有这位英雄，你无法得到最后的胜利！
 [blockend:400]
 
 [blockstart:500]
 <font:$local$\fonts\fonthead16bld.fnt>
-MISSION FAILED!
+任务失败！
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
-A short moment of negligence, that's all it takes to lose your life! Ykol died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you!
+一瞬间的疏忽足以夺走你的生命！Ykol由于你的疏忽失去了生命，没有了他，你无法得到最后的胜利！
 [blockend:500]

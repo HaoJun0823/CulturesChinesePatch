@@ -1,157 +1,157 @@
 [blockstart:header] 
 
-THE GREAT FAMINE
+大饥荒
 [blockend:header]
 
 [blockstart:00_start] 
-The village Ykol originally led us to had been empty for a long time. But after we had driven back the serpent plague, Saracen nomads from the surrounding area gathered there to revive the village. We went our separate ways at a narrow passage, because we had not yet discovered the entrance to our next target - the legendary catacombs ... 
+Ykol最初带我们去的村庄已经空了很久。但在我们赶走蛇妖后，阿拉伯的游牧部落从周围聚集到这里，重建村庄。我们在一条狭窄的通道上分头寻找，因为我们还没有发现路径去下一个目标----传说中的地下洞穴……
 [blockend:00_start]
 
 [blockstart:00_start1] 
-Ykol dedicated his time to further research and investigations, promising to report his progress soon. In the meantime, we received a call for help from friends of Hatchie's, who were running out of food for their people. 
-The serpent plague was no longer a regional problem. Due to the plague, a dreadful famine was spreading in the area. Our supplies were insufficient to be able to give much of them away. We knew we would have to find a suitable settling place before we could support the village. So our villagers set out ...
+Ykol专心于进一步考察研究，允诺将很快汇报他的成果。同时，我们收到从哈奇的朋友那里来的求告，他们的人民已经没有粮食了。
+毒蛇带来的灾害不再是地域性的问题。由于这场灾害，可怕的饥荒正在这片地区蔓延。我们的储备不足以抵挡饥荒。我们知道在帮助遭受饥荒的村庄前我们必须找到一块合适的居住地。因此我们的村民出发了……
 
-Move along the valley and establish your own village there. But before you do, open the chests and equip your soldiers with the potions!
+沿着山谷行进并在山谷里建立你自己的村庄。但做这些之前，打开柜子给你的士兵每人一份装备！
 [blockend:00_start1]
 
 
 
 [blockstart:50_endheader] 
 
-MISSION COMPLETED! 
+任务完成！
 [blockend:50_endheader]
 
 [blockstart:50_end] 
-With the help of the genie from the bottle, we had managed to defeat the serpent plague and the famine, and soon we left the mysterious catacombs of Shumsali ... 
+在瓶里出来的妖怪的帮助下，我们打败了蛇妖和饥荒，很快我们离开了舒姆萨里的神秘地下洞穴……
 [blockend:50_end]
 
 [blockstart:50_end1] 
-The troubling events of the past, which to our way of thinking could only have been caused by dark magic, could also only be undone with magic. It was shocking to realise that all our human strength and our valour would not suffice ... 
+过去的灾难只可能是被邪恶的巫术操纵，可能也必须在巫术的作用下消除。意识到仅靠我们人类的力量和勇气是不够的，这让人震惊。
 
-Ykol suggested I should give my beloved Cyra "Odin's Heart" as a token of my affection. Who could have been more worthy of wearing an amulet of the gods?  
+Ykol建议我应该给予我心爱的希拉“欧丁神之心”作为我爱情的象征。谁还更值得佩戴上帝的护身符？
 [blockend:50_end1]
 
 
 
 [blockstart:01_informant_seen] 
-THE OLD MAN
+老人
 
-"Oh, there are travellers among you who don't know their way around this barren territory. Move along this valley and you will find a large and fertile valley. You can set up your camp there ..."
+“啊，在你们这些旅行者中不知道这块贫瘠土地周围的道路。沿着这条山谷走，你们会发现一条又大又肥沃的山谷。你们可以在那里扎营…”
 
-"And your scouts should not forget to erect signposts!"
+“你们的侦察员不要忘了竖起路标！”
 [blockend:01_informant_seen]
 
 
 [blockstart:02_Tal_erreicht] 
-THE VALLEY
+山谷
 
-A large, fertile valley lay right before our eyes. Here we could build up a camp and start gathering provisions for the village. The goods in our handcarts and ox carts were a good start ...
+一条又大又肥沃的山谷就在我们眼前。我们可以在这里扎营，开始收集需要的物资。手推车和牛车上的货物提供了很好的初期准备…
 
-Build up your village. Use the goods out of your handcarts and ox carts for this purpose!
+建立你的村庄。为了这个目标利用你手推车和牛车上的货物！
 [blockend:02_Tal_erreicht]
 
 [blockstart:03_fl點htlinge] 
-REFUGEES
+难民
 
-Refugees approached us looking nearly starved, their faces sunken ... Because of the serpent creatures, they had suffered hunger for too long, therefore they had left their village. 
-Their path had led them through many dangers! But their eyes were full of hope when we picked them up and offered them fast help. 
+遇到我们的难民看起来都快被饿死了，他们面颊凹陷…由于毒蛇带来的灾害，他们已经饿了很久，所以他们离开了自己的村庄。
+他们的道路上曾经出现过很多危险！但当我们收留他们并提供食物后，他们的眼中又充满了希望。
 
-Bring the required food to the village in the south-west! 
+给西南部的村庄带去他们需要的食物！
 [blockend:03_fl點htlinge]
 
 
 [blockstart:04_Angriffswelle] 
-With a deafening hiss the weird serpent beings attacked us in this area as well. Would we be able to withstand this attack? 
+随着一阵可怕的嘶嘶声，毒蛇又来攻击我们。我们能够抵抗住这次攻击么？
 [blockend:04_Angriffswelle]
 
 [blockstart:07] 
 [blockend:07] 
 
 [blockstart:08_player_3_seen_byzantine] 
-On the other side of the maze lay outposts belonging to a fort of hostile Byzantines. These were intent on defending their territory, and there was nothing in the world that could make them friendly towards us. 
+在迷宫旁边有一些岗哨，属于充满敌意的拜占庭人所建堡垒。设立岗哨的目的是保卫他们的领地，世界上没有什么可以让他们对我们变得友好。
 [blockend:08_player_3_seen_byzantine]
 
 [blockstart:09_player_4_seen_sarazene] 
-When we found the village Hatchie had told us about, we were received very courteously. These poor people had suffered hunger for too long. Now we wanted to be at their side.
+当我们发现哈奇曾经告诉过我们的村庄时，我们受到了热情款待。这些穷困的人们已经饿了很久。现在我们想帮助他们。
 
-Help the village to survive the famine by giving them water and cake as a tribute.
+给这些村民水和蛋糕作为礼物，帮助他们度过饥荒。
 [blockend:09_player_4_seen_sarazene]
 
 [blockstart:10_handel_player_4] 
-When we gave the food to the villagers, they were very happy and extremely grateful.
+当我们给村民食物时，他们非常高兴、感激。
 
-They said we would be welcomed among them any time, and offered us promising trade agreements. 
+他们说随时欢迎我们，并愿意和我们进行贸易。
 [blockend:10_handel_player_4]
 
 [blockstart:11_informant] 
-THE OLD MAN
+老人
 
-"Look out! The Saracens beyond this ravine are so hungry that they will not even let their own people pass in peace!" he said. "Maybe you can appease them by paying one or several tributes ..."
+“小心！在峡谷另一边的阿拉伯人非常饥饿，他们甚至不会让自己人平安过去！”他说，“也许你们可以给他们一样或几样礼物进行安抚……”
 
-Pay the Saracens 20 food as a tribute to put them in a neutral mood and an additional 10 mead to trade with them. You have to pay them a visit first so they can offer you the tribute!
+作为礼物给阿拉伯人20份食物，使他们态度中立，另外用10瓶蜂蜜酒与他们进行贸易。你必须首先拜会他们，这样他们才会给你礼物!
 [blockend:11_informant]
 
 [blockstart:12_player_2_seen_sarazene] 
-These Saracens were starving! It was no wonder they were reacting so aggressively to any travellers and additional mouths. We knew we should avoid them if we didn't want to feel their arrows!
+这些阿拉伯人已经快饿死了！他们会进攻任何旅行者和外来人一点也不奇怪。如果我们不想被他们的弓箭射到就要避开他们！
 
-Maybe we would be able to appease them with a food tribute?
+也许我们可以用食物做礼物来与他们交好？
 [blockend:12_player_2_seen_sarazene]
 
 [blockstart:13_tribut1] 
-When we brought the Saracens the tribute, they laid down the weapons that had been aimed at us. 
+当送给阿拉伯人礼物以后，他们放下原先对准我们的武器。
 
-But they warned us that, should we intend any evil or touch their food provisions, they would change their neutral attitude back to a hostile one. Maybe we should pay them additional tribute as a sign of our good intent?
+但他们警告说，如果我们有任何恶意或接近他们的食物储备，他们就会改变中立而与我们敌对。也许我们应该再送些礼物以示善意？
 [blockend:13_tribut1]
 
 [blockstart:14_tribut2] 
-When we brought the Saracens the tribute, they soon became more friendly towards us. 
+当我们送给阿拉伯人礼物以后，他们对我们的态度很快变得友好很多。
 
-They still didn't quite trust us, but they did make us some rather unusual trade offers.
+他们仍然不十分相信我们，但他们跟我们做了很多不寻常的交易。
 [blockend:14_tribut2]
 
 
 [blockstart:15_Ykol] 
 YKOL
 
-"My friends, you have indeed saved one of the villages from starvation, but there are three new problems already. The serpent plague has also only been temporarily banned - these beasts will return!"
+“我的朋友，你们已经真正的从饥饿中拯救了一个村子，但产生了三个新问题。毒蛇带来的灾害也只是可以暂时避过—这些动物会再回来！”
 
-He told us about his research in old Arabian libraries and said that he had found a reference to the catacombs of Shumsali, which lay beyond the northern mountain. 
-"A very powerful genie dwells there," Ykol said. 
-We could take the western route, where we would have to defend ourselves against countless enemies, or we could try the eastern way, where less dangers awaited. 
+他告诉我们他在阿拉伯古老的藏书库里的研究，说他已经发现关于舒姆萨里的地下洞穴的提示，它在北部山脉的那一边。
+“一个很强大的妖怪住在那里，” Ykol说。
+我们可以走西边的路，在那里我们必须抵抗无数的敌人保护自己，或者走东边的路，那里等待我们的危险会比较少。
 
-It was entirely up to us to choose the way ...
+选择哪条路完全由我们决定……
 
-Ykol agreed to guide us if the Saracens in the north-east had a neutral or friendly attitude towards us ...
+Ykol同意如果东北边的阿拉伯人对我们的态度中立或者比较友好，就给我们做向导……
 [blockend:15_Ykol]
 
 
 [blockstart:16_dungeon_erreicht] 
-THE VAULTS
+拱顶
 
-At last we had reached the portal to the catacombs of Shumsali. All our hopes now rested on Ykol's investigations, which had brought us here. Inside the catacombs he wanted to tell us why a mighty genie would have to help us complete our task ...
-So far we had been able to overcome any dangers through bravery, strength and courage ...
+最终我们到达舒姆萨里的地下洞穴门口。现在我们所有的希望都放在Ykol的调查上，是他的调查把我们带到这里。在洞穴外他想告诉我们为什么一个强大的妖怪不得不帮助我们完成任务……
+到现在我们已经能够用勇敢、力量和勇气克服一切困难……
 
-We were very curious ...
+我们很好奇…….
 [blockend:16_dungeon_erreicht]
 
 
 [blockstart:17_lost] 
-MISSION FAILED!
+任务失败！
 
-Oh dear! An entire tribe has fallen victim to the serpent creatures! Your Vikings were unable to stop the plague ...    
+我的天！整个部落都在与毒蛇的斗争中牺牲了！你的维京人不能阻止这场灾难……
 [blockend:17_lost]
 
 [blockstart:18_lost] 
-MISSION FAILED!
+任务失败！
 
-Oh dear! An entire tribe has been annihilated by the famine! Your Vikings were unable to give the tribe the necessary support ...    
+我的天！整个部落都在饥荒中丧生！你的维京人不能给予部落必需的供给……
 [blockend:18_lost]
 
 
 [blockstart:19] 
 YKOL
 
-"Follow me, my friends! The peaceful way to the catacombs lies before us!" 
+“跟我来，我的朋友！通往地下洞穴的安全道路就在我们面前！”
 [blockend:19]
 
 
@@ -159,32 +159,32 @@ YKOL
 
 [blockstart:100]
 <font:$local$\fonts\fonthead16bld.fnt>
-MISSION FAILED!
+任务失败！
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
-Heroism or carelessness? When Bjarni died the gods were crying ... without this hero, the outcome of this mission will remain hidden to you!
+英雄主义还是疏忽大意？当布加尼死的时候，苍天也在哭泣……没有了这位英雄，你无法得到最后的胜利！
 [blockend:100]
 
 [blockstart:200]
 <font:$local$\fonts\fonthead16bld.fnt>
-MISSION FAILED!
+任务失败！
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
-A short moment of negligence, that's all it takes to lose your life! Your heroine Cyra died due to your negligence! Without this heroine, the outcome of this mission will remain hidden to you! 
+一瞬间的疏忽足以夺走你的生命，你的女英雄希拉由于你的疏忽失去了生命，没有她，你无法得到最后的胜利！
 [blockend:200]
 
 [blockstart:300]
 <font:$local$\fonts\fonthead16bld.fnt>
-MISSION FAILED!
+任务失败！
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
-A short moment of negligence, that's all it takes to lose your life! Your friend and hero Hatchie died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you! 
+一瞬间的疏忽足以夺走你的生命！你的朋友和英雄哈奇由于你的疏忽丧失了生命！没有了他，你无法得到最后的胜利！
 [blockend:300]
 
 [blockstart:500]
 <font:$local$\fonts\fonthead16bld.fnt>
-MISSION FAILED!
+任务失败！
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
-A short moment of negligence, that's all it takes to lose your life! Ykol died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you!
+一瞬间的疏忽足以夺走你的生命！Ykol由于你的疏忽失去了生命，没有了他，你无法得到最后的胜利！
 [blockend:500]

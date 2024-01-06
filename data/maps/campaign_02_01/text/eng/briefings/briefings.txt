@@ -1,193 +1,193 @@
 [blockstart:header] 
 
-THE PLAGUE
+灾难
 [blockend:header]
 
 [blockstart:00_start] 
-I am Bjarni, son of Leif. As a young boy I went travelling with my tribe, and we discovered an unknown land in the far west. In this land lived strange redskinned people who became our friends after many dangerous adventures.
+我是布加尼，莱夫的儿子。在我还是个小孩的时候，我跟着部落迁徙，在遥远的西部我们发现了一块不知名的陆地。在这块陆地上住着我们前所未知的红色人种，他们在我们的多次探险后成了我们的朋友。
 
-My last adventure led me through the whole of Europe and to the Orient, trying to discover the secret surrounding a worrying vision. On the way I was joined by three valiant warriors from the lands I passed through. Together we defeated the terrifying Midgard serpent and saved the world. This was my vision and my destiny ...
+我的最近一次探险试图发现周围令人担忧的景象的秘密，于是我穿过了整个欧洲，到达东方。在路上我所经过的国家有三个勇敢的武士加入到我的探险。我们一起与尘世中的邪恶战斗，拯救世界。这是我的任务和命运。
 
-The victory celebrations were tremendous, but then the time came when our paths took us in different directions ...
+庆功典礼是盛大的，但是我们走向不同方向的时刻也来临了……
 [blockend:00_start]
 
 [blockstart:00_start1] 
-Hatchie, the brave Saracen and fearless fighter, returned to his home town in the Orient. 
-Sigurd, the famous hero from the realm of the Franks, longed for the lush green of the meadows and forests of his home country. He joined a caravan to the north. 
+哈奇，这个勇敢的阿拉伯人，无畏的战士，回到了他在东方的家乡。
+西格德，来自弗兰克斯领土的著名英雄，向往家乡青翠茂盛的草地和森林。他加入了去北方的旅队。
 
-And Cyra, the valiant princess from Byzantium ... In spite or maybe because of all the dangers we had faced together, a deep affection developed between us. It was as though the gods had made us for one another ...
+希拉，从拜占庭来的勇敢的公主……不管什么危险我们都一起面对，也许正是因为这些危险，在我们之间产生了深厚的感情。看起来好像是上帝让我们为彼此而存在…
 
-Our paths were not to divide again, therefore we travelled to Byzantium to the court of Cyra's father, who was emperor of this glorious empire. 
-Words cannot describe the glory and wealth of the emperor's palace! We lacked nothing. The best chefs presented meals from all over the world, we drank the best wines of the empire and servants massaged our bodies with fragrant oils and balms.
-We lived like gods, and the days passed peacefully and free of worry.
+我们再也不会分开，所以我们一起去拜占庭，到希拉父亲的宫殿。他是那个显赫帝国的君主。
+宫殿的荣耀和财富是不能用语言来形容的！技艺高超的厨子端上从世界各地采集的食物我们喝着帝国最好的酒，仆人用香油和香膏伺候我们的身体。
+我们过着神仙一般的生活，在安宁和无忧无虑中时光逝去。
 
-But, as often happens, our peace and quiet was again abruptly disturbed much too soon ... 
+但是，好景不长，我们安宁平静的生活很快又被打断…
 
-One day we received an urgent appeal for help from our friend Hatchie. His home country was being troubled by strange serpent creatures, which brought chaos and destruction. He urgently needed help, and since he had hoped to find us here, he sent a messenger.
+有一天我们收到朋友哈奇的紧急呼救。他的家乡被神秘的巨大蛇人所侵扰，陷入混乱，遭到破坏。他急切的需要帮助，他希望在这里找到我们，所以派来了信使。
 
-Although we had to leave our pleasant life behind, Cyra and I didn't hesitate for a moment. We were ready to face any problems and hurried to help our friend ...
+虽然我们迫不得已放弃了幸福的生活，但是我和希拉没有犹豫片刻。我们准备好面对任何困难，匆忙赶去帮助我们的朋友。
 [blockend:00_start1]
 
 
 [blockstart:50_endheader] 
 
-MISSION COMPLETED! 
+任务完成！
 [blockend:50_endheader]
 
 [blockstart:50_end] 
-When we reached the abandoned village and couldn't find any serpent creatures, we knew that we had driven them back, but not finally defeated them. 
-Our new friend Ykol soon left us again to check his research. Other tasks awaited us in the meantime ...
+当我们到达被抛弃的村庄时，找不到任何妖怪，我们知道已经把它们赶跑，但还没有最终战胜他们。
+我们的新朋友Ykol很快离开我们又去进行调查。同时另一项任务还等着我们…
 [blockend:50_end]
 
 
 
 [blockstart:01_nach_30_Sekunden] 
-We had barely gone ashore and started to erect our tents when we received a message from our old friend Hatchie. His news was both sad and shocking: Large parts of Arabia were already infested with serpents. These dark beings had attacked many villages in Hatchie's surroundings, and were already at the gates to Hatchie's village. We had to hurry to build up our economy and military ...
+当我们收到老朋友哈奇的消息时，我们刚刚到达陆地并开始支起帐篷。他的消息令人悲伤而震惊。阿拉伯的大部分地区已被毒蛇侵入。这些阴暗的生命攻击哈奇周围地区的很多村民，并且已经到了哈奇所在村子的路口。我们不得不匆忙建立起我们的经济和军事力量…
 
-Free Hatchie's village from the serpent plague! 
+从毒蛇的折磨中解放哈奇的村庄！
 [blockend:01_nach_30_Sekunden]
 
 
 [blockstart:02_fl點htlinge] 
-The refugees from the village were still under shock. The serpent creatures had forced them to leave their homes. Only the bravest stayed behind - led by our friend Hatchie. The others asked us to put an end to the plague before it spread over the whole of Arabia. 
+村庄的难民仍旧处于惊恐中。毒蛇逼迫他们离开了自己的家。只有最勇敢的人留在后面---由我们的朋友哈奇领导。其他人请求我们在灾难蔓及整个阿拉伯之前结束它。
 [blockend:02_fl點htlinge]
 
 
 [blockstart:03_Angriffswelle_1] 
-With a deafening hiss, the strange serpent creatures attacked us. Would we be able to stand firm against this attack? 
+随着一阵震耳欲聋的嘶嘶声，神秘蛇人向我们攻击。我们能够坚定地抵抗住这次攻击么？
 [blockend:03_Angriffswelle_1]
 
 [blockstart:04_Angriffswelle_2] 
-The attack waves of the serpent creatures never seemed to stop! 
+毒蛇的攻击浪潮似乎从来没有停过！
 
-Hatchie had therefore sent one of his men out to discover the cause of the serpent plague. This was YKOL, who had been supporting our friend Hatchie for some time now. He was from the far north and had intended to travel through the southern part of the world. However, when he heard about the serpent problem, he had stayed to help. We would soon get to know him well ...
+哈奇已经派出一个人去调查这场灾祸的起因。派出的人是YKOL，他已经来帮助哈奇有一段时间。他从遥远的北方来，准备穿过世界的南部。然而，当他听说蛇怪的问题就留下来帮助哈奇。我们会很快了解他。
 [blockend:04_Angriffswelle_2]
 
 [blockstart:05_Angriffswelle_3] 
-The terrible serpent creatures attacked us again. Their attacks grew stronger and stronger. Far away in the north, something terrible was brewing. Would we be able to withstand another wave? 
+可怕的毒蛇又向我们进攻。它们的进攻变得越来越强。在遥远的北方，恐怖的事在酝酿。我们能够抵挡住下一次攻击么？
 [blockend:05_Angriffswelle_3]
 
 
 [blockstart:06_Megangriff1] 
-The serpent creatures attacked us more fiercely than ever before. This time we would not be able to fend them off so easily. There were simply too many of them! 
+这些毒蛇攻击我们比以前更加凶猛。这一次我们不能轻易的击退它们了。因为它们数量太多了！
 [blockend:06_Megangriff1]
 
 [blockstart:07_Megangriff2] 
-Once more an army of serpent creatures assaulted us. They seemed to be everywhere! Would we be able to hold them back this time?
+有一队毒蛇又来攻击我们。它们似乎满山遍野！这一次我们能够阻止它们么？
 [blockend:07_Megangriff2]
 
 
 [blockstart:08_player_2_seen_sarazene] 
-Not far from the coast we met the Saracens. They had been largely spared by the serpent plague and had no hostile feelings towards us. 
+在海岸不远处我们遇见阿拉伯人。他们也已经受到毒蛇很大伤害，对我们没有敌意。
 
-We would be able to trade with them in exchange for a small tribute ...
+我们可以用一点礼物跟他们交易……
 [blockend:08_player_2_seen_sarazene]
 
 [blockstart:09_handel_sarazene] 
-When we brought the Saracens the tribute, they soon became very friendly.
+当我们送给阿拉伯人礼物后，他们很快变得很友好。
 
-They said we would be welcomed among them any time, and offered us promising trade agreements.  
+他们说随时欢迎我们，并愿意和我们进行贸易。
 [blockend:09_handel_sarazene]
 
 [blockstart:10_player_3_seen_byzantine] 
-Our scouts found a Byzantine village whose inhabitants regarded us with mistrust, but weren't hostile. 
+我们的侦察员发现了拜占庭式的村庄，村里的居民对我们不信任，但并不敌对。
 
-In exchange for a small tribute we would be able to trade with them and hire mercenaries ...
+在交换了少许礼物后我们可以与他们进行贸易，并且得到雇佣兵……
 [blockend:10_player_3_seen_byzantine]
 
 [blockstart:11_handel_byzantine] 
-When we had proven our good intent by paying the tribute, they offered us friendship and support on our next mission. The Byzantines left 5 of their bravest longbow archers above the bridge as mercenaries and offered us more reinforcements. 
+当我们通过送礼物表明我们的善意后，他们开始表示友好，并帮助我们完成下一次任务。拜占庭人在桥上留下了五个最勇敢的弓箭手作为雇佣兵，并提供我们更多增援。
 
-Pay the Byzantines the tribute they demand for additional mercenaries if your Vikings require them. 
+如果你的维京人需要更多的雇佣兵就要送给他们礼物。
 [blockend:11_handel_byzantine]
 
 [blockstart:12_player_1_seen_sarazene] 
-When we came to Hatchie's village, we were received most graciously. These poor people had suffered from the serpent plague for too long. Now it was time for us to support them.
+当我们来到哈奇的村庄，得到最热情的款待。这些贫苦的人们已经被毒蛇折磨了很久。现在是我们帮助他们的时候了。
 
-Help the village and take care of Hatchie!
+帮助村民，照顾哈奇！
 [blockend:12_player_1_seen_sarazene]
 
 [blockstart:13_player_4_seen_Miguel] 
-When we passed the bridge, a travelling merchant approached us. He introduced himself as Miguel and gave us the following hint: "In the south there is a massive mountain of gold. Unfortunately, my old bones are too weary and I can't get it myself. But if you bring 20 gold nuggets to my warehouse, I'll give you some good advice!"
+我们过桥后，一个旅行商赶上了我们。他自称米格尔，给了我们下面的线索：“南方有座很大的金山。不幸的是，我的老骨头已经不堪疲劳，所以我不能亲自到那里。但如果你给我的商店２０个金块，我会给你一些好建议。”
 
-Find the gold mountain and deliver 20 gold nuggets to Miguel!
+发现金山，并分给米格尔２０个金块！
 [blockend:13_player_4_seen_Miguel]
 
 [blockstart:14_Miguel_tipps] 
-After we had traded some gold with Miguel, he gave us important hints about how to stem the serpent plague. 
+在我们用２０个金块给米格尔作为交换后，他给了我们如何遏止毒蛇的重要提示。
 
-He advised us to erect defence towers at the crossing points of the parched riverbanks in the north and to occupy them with archers. 
+他建议我们在北边炎热河堤的交叉口建立防卫塔，并让弓箭手占据。
 
-"You will find chests with defence towers and archers. But look out for the wild animals of the desert!" he said ...
+“你会发现有柜子的防卫塔和射手。但要留神沙漠的野生动物！”他说……
 [blockend:14_Miguel_tipps]
 
 
 [blockstart:15_Ykol] 
-Hatchie's friend Ykol, who had been gone for some time now, seemed to appear out of thin air. "My friends! You may have managed to defeat the plague, but they will return!" 
-His investigations throughout Arabia had been successful. He called to us: "Follow me to the abandoned village, I have found clues to the cause of the serpent plague!" 
-Thus we set out, not knowing where our journey would lead us ...
+哈奇的朋友Ykol已经走了有一段时间，似乎是从稀薄的空气中突然走出来。“我亲爱的朋友！可能你已经打败了蛇妖，但它们会再回来！”
+他的遍及整个阿拉伯地区的调查已经顺利完成。他召唤我们：“跟我到那些被遗弃的村庄吧，我已经找到线索查明蛇妖的来历！”
+因此我们出发了，而我们也不知道向导会带我们去何方…
 
-Have your heroes follow Ykol to the abandoned village. 
+让你的英雄跟随Ykol到达被遗弃的村庄。
 [blockend:15_Ykol]
 
 [blockstart:16_s鰈dner] 
-Again the friendly Byzantines supplied us with mercenaries who waited for us above the bridge. Their bravest longbow archers joined us in the fight against the serpents! They even offered us more support if we needed their help. 
+友好的阿拉伯人再一次提供我们雇佣兵，他们在桥上等我们。最勇敢的长弓箭手也加入我们的战斗，一起抗击蛇妖！当我们需要帮助时，阿拉伯人给了我们更多支持。
 
-Pay the Byzantines the tribute for additional mercenaries if your Vikings require them.   
+如果你的维京人需要更多的雇佣兵，就要送给阿拉伯人礼物作为报酬。
 [blockend:16_s鰈dner]
 
 [blockstart:17_lost] 
-MISSION FAILED!
+任务失败！
 
-Oh dear! An entire people has fallen victim to the serpent creatures! Your Vikings were unable to stop the plague ...    
+天啊！在抗击蛇妖的战斗中全军覆没！你的维京人不能制止灾祸的继续发生……
 [blockend:17_lost]
 
 [blockstart:18] 
-This had to be the gold mountain the merchant Miguel had told us about!  
+这里已经到了商人米格尔告诉我们的金山！
 [blockend:18]
 
 [blockstart:19] 
-Ykol had already reached the 'abandoned village' ...
-It was strange that the wild animals didn't seem to harm him ...  
+Ykol已经到达“毁弃之村” …
+奇怪的是沙漠中的野生动物似乎并不想伤害他……
 [blockend:19]
 
 [blockstart:20] 
-Many of our goods were in our handcarts and ox carts and on the ship. 
+在手推车、牛车上和船上有我们的很多货物。
 
-Use the goods from the vehicles if you need them!
+如果需要这些货物就从车上或船上取用！
 [blockend:20]
 
 
 
 [blockstart:100]
 <font:$local$\fonts\fonthead16bld.fnt>
-MISSION FAILED!
+任务失败！
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
-Heroism or carelessness? When Bjarni died the gods were crying ... without this hero, the outcome of this mission will remain hidden to you!
+英雄主义还是疏忽大意？当布加尼死的时候，苍天也在哭泣……没有了这位英雄，你无法得到最后的胜利！
 [blockend:100]
 
 [blockstart:200]
 <font:$local$\fonts\fonthead16bld.fnt>
-MISSION FAILED!
+任务失败！
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
-A short moment of negligence, that's all it takes to lose your life! Your heroine Cyra died due to your negligence! Without this heroine, the outcome of this mission will remain hidden to you!
+一瞬间的疏忽足以夺走你的生命，你的女英雄希拉由于你的疏忽失去了生命，没有她，你无法得到最后的胜利！
 [blockend:200]
 
 [blockstart:300]
 <font:$local$\fonts\fonthead16bld.fnt>
-MISSION FAILED!
+任务失败！
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
-A short moment of negligence, that's all it takes to lose your life! Your friend and hero Hatchie died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you! 
+一瞬间的疏忽足以夺走你的生命！你的朋友和英雄哈奇由于你的疏忽丧失了生命！没有了他，你无法得到最后的胜利！
 [blockend:300]
 
 [blockstart:500]
 <font:$local$\fonts\fonthead16bld.fnt>
-MISSION FAILED!
+任务失败！
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
-A short moment of negligence, that's all it takes to lose your life! Ykol died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you!
+一瞬间的疏忽足以夺走你的生命！Ykol由于你的疏忽失去了生命，没有了他，你无法得到最后的胜利！
 [blockend:500]
 
