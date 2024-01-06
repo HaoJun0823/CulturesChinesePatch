@@ -1,0 +1,343 @@
+[blockstart:header]
+
+FOUR SEASONS
+
+[blockend:header]
+
+[blockstart:begin_00]
+Welcome to the land of the four seasons!
+
+
+This is where players compete for domination over a string of islands. The aim is to protect your own flags, while at the same time capturing those of your opponents.
+
+Every player has five flags to protect. Four of these are always on the player's own island, the last is on an uninhabited neighbouring island.
+
+If you lose all five of these flags, you're out! There is a possibility to ransom your flags by paying tributes - but it's not cheap ...
+
+The last person to still have their flags can proudly call themselves the "Lord (or Lady) of the Land and Climate"!
+
+
+Hint:
+There is quite a lot to discover in this country. You may also meet merchants who have something on offer ...
+
+[blockend:begin_00]
+
+[blockstart:01]
+
+A FLAG HAS BEEN CAPTURED!
+
+Flags can be ransomed by paying tributes! Merchants near the centre of the map will make offers when you find them.
+
+There are different tributes that ransom one or two flags. The tribute for ransoming at least three flags is higher.
+
+
+In other words, if you don't ransom one (or two) flag(s) in time, you will have to pay a much higher tribute when another one is captured!
+[blockend:01]
+
+[blockstart:02]
+
+PLAYER 1'S HQ FLAG HAS BEEN CAPTURED!
+(Player 1 is the player with one star on the flag.)
+
+<usericon:1,389,111>
+[blockend:02]
+
+[blockstart:03]
+
+AN ISLAND FLAG BELONGING TO PLAYER 1 HAS BEEN CAPTURED!
+(Player 1 is the player with one star on the flag.)
+
+<usericon:1,452,114>
+[blockend:03]
+
+[blockstart:04]
+
+AN ISLAND FLAG BELONGING TO PLAYER 1 HAS BEEN CAPTURED!
+(Player 1 is the player with one star on the flag.)
+
+<usericon:1,462,162>
+[blockend:04]
+
+[blockstart:05]
+
+AN ISLAND FLAG BELONGING TO PLAYER 1 HAS BEEN CAPTURED!
+(Player 1 is the player with one star on the flag.)
+
+<usericon:1,333,108>
+[blockend:05]
+
+[blockstart:06]
+
+PLAYER 1'S NEIGHBOUR FLAG HAS BEEN CAPTURED!
+(Player 1 is the player with one star on the flag.)
+
+<usericon:1,279,160>
+[blockend:06]
+
+[blockstart:07]
+
+PLAYER 1 HAS BEEN ELIMINATED!
+(Player 1 is the player with one star on the flag.)
+
+<usericon:1,396,108>
+[blockend:07]
+
+//---------
+
+[blockstart:08]
+
+PLAYER 2'S HQ FLAG HAS BEEN CAPTURED!
+(Player 2 is the player with two stars on the flag.)
+
+<usericon:1,126,358>
+[blockend:08]
+
+[blockstart:09]
+
+AN ISLAND FLAG BELONGING TO PLAYER 2 HAS BEEN CAPTURED!
+(Player 2 is the player with two stars on the flag.)
+
+<usericon:1,168,398>
+[blockend:09]
+
+[blockstart:10]
+
+AN ISLAND FLAG BELONGING TO PLAYER 2 HAS BEEN CAPTURED!
+(Player 2 is the player with two stars on the flag.)
+
+<usericon:1,73,400>
+[blockend:10]
+
+[blockstart:11]
+
+AN ISLAND FLAG BELONGING TO PLAYER 2 HAS BEEN CAPTURED!
+(Player 2 is the player with two stars on the flag.)
+
+<usericon:1,102,302>
+[blockend:11]
+
+[blockstart:12]
+
+PLAYER 2'S NEIGHBOUR FLAG HAS BEEN CAPTURED!
+(Player 2 is the player with two stars on the flag.)
+
+<usericon:1,217,396>
+[blockend:12]
+
+[blockstart:13]
+
+PLAYER 2 HAS BEEN ELIMINATED!
+(Player 2 is the player with two stars on the flag.)
+
+<usericon:1,125,350>
+[blockend:13]
+
+//---------
+
+[blockstart:14]
+
+PLAYER 3'S HQ FLAG HAS BEEN CAPTURED!
+(Player 3 is the player with three stars on the flag.)
+
+<usericon:1,379,292>
+[blockend:14]
+
+[blockstart:15]
+
+AN ISLAND FLAG BELONGING TO PLAYER 3 HAS BEEN CAPTURED!
+(Player 3 is the player with three stars on the flag.)
+
+<usericon:1,378,230>
+[blockend:15]
+
+[blockstart:16]
+
+AN ISLAND FLAG BELONGING TO PLAYER 3 HAS BEEN CAPTURED!
+(Player 3 is the player with three stars on the flag.)
+
+<usericon:1,335,260>
+[blockend:16]
+
+[blockstart:17]
+
+AN ISLAND FLAG BELONGING TO PLAYER 3 HAS BEEN CAPTURED!
+(Player 3 is the player with three stars on the flag.)
+
+<usericon:1,368,346>
+[blockend:17]
+
+[blockstart:18]
+
+PLAYER 3'S NEIGHBOUR FLAG HAS BEEN CAPTURED!
+(Player 3 is the player with three stars on the flag.)
+
+<usericon:1,340,174>
+[blockend:18]
+
+[blockstart:19]
+
+PLAYER 3 HAS BEEN ELIMINATED!
+(Player 3 is the player with three stars on the flag.)
+
+<usericon:1,376,284>
+[blockend:19]
+
+//---------
+
+[blockstart:20]
+
+PLAYER 4'S HQ FLAG HAS BEEN CAPTURED!
+(Player 4 is the player with four stars on the flag.)
+
+<usericon:1,92,218>
+[blockend:20]
+
+[blockstart:21]
+
+AN ISLAND FLAG BELONGING TO PLAYER 4 HAS BEEN CAPTURED!
+(Player 4 is the player with four stars on the flag.)
+
+<usericon:1,126,158>
+[blockend:21]
+
+[blockstart:22]
+
+AN ISLAND FLAG BELONGING TO PLAYER 4 HAS BEEN CAPTURED!
+(Player 4 is the player with four stars on the flag.)
+
+<usericon:1,123,256>
+[blockend:22]
+
+[blockstart:23]
+
+AN ISLAND FLAG BELONGING TO PLAYER 4 HAS BEEN CAPTURED!
+(Player 4 is the player with four stars on the flag.)
+
+<usericon:1,49,196>
+[blockend:23]
+
+[blockstart:24]
+
+PLAYER 4'S NEIGHBOUR FLAG HAS BEEN CAPTURED!
+(Player 4 is the player with four stars on the flag.)
+
+<usericon:1,176,241>
+[blockend:24]
+
+[blockstart:25]
+
+PLAYER 4 HAS BEEN ELIMINATED!
+(Player 4 is the player with four stars on the flag.)
+
+<usericon:1,97,214>
+[blockend:25]
+
+//---------
+
+[blockstart:26]
+
+PLAYER 5'S HQ FLAG HAS BEEN CAPTURED!
+(Player 5 is the player with five stars on the flag.)
+
+<usericon:1,278,390>
+[blockend:26]
+
+[blockstart:27]
+
+AN ISLAND FLAG BELONGING TO PLAYER 5 HAS BEEN CAPTURED!
+(Player 5 is the player with five stars on the flag.)
+
+<usericon:1,226,354>
+[blockend:27]
+
+[blockstart:28]
+
+AN ISLAND FLAG BELONGING TO PLAYER 5 HAS BEEN CAPTURED!
+(Player 5 is the player with five stars on the flag.)
+
+<usericon:1,356,442>
+[blockend:28]
+
+[blockstart:29]
+
+AN ISLAND FLAG BELONGING TO PLAYER 5 HAS BEEN CAPTURED!
+(Player 5 is the player with five stars on the flag.)
+
+<usericon:1,290,454>
+[blockend:29]
+
+[blockstart:30]
+
+PLAYER 5'S NEIGHBOUR FLAG HAS BEEN CAPTURED!
+(Player 5 is the player with five stars on the flag.)
+
+<usericon:1,329,352>
+[blockend:30]
+
+[blockstart:31]
+
+PLAYER 5 HAS BEEN ELIMINATED!
+(Player 5 is the player with five stars on the flag.)
+
+<usericon:1,273,382>
+[blockend:31]
+ 
+//---------
+
+[blockstart:32]
+
+PLAYER 6'S HQ FLAG HAS BEEN CAPTURED!
+(Player 6 is the player without any stars on the flag.)
+
+<usericon:1,221,96>
+[blockend:32]
+
+[blockstart:33]
+
+AN ISLAND FLAG BELONGING TO PLAYER 6 HAS BEEN CAPTURED!
+(Player 6 is the player without any stars on the flag.)
+
+<usericon:1,258,122>
+[blockend:33]
+
+[blockstart:34]
+
+AN ISLAND FLAG BELONGING TO PLAYER 6 HAS BEEN CAPTURED!
+(Player 6 is the player without any stars on the flag.)
+
+<usericon:1,199,136>
+[blockend:34]
+
+[blockstart:35]
+
+AN ISLAND FLAG BELONGING TO PLAYER 6 HAS BEEN CAPTURED!
+(Player 6 is the player without any stars on the flag.)
+
+<usericon:1,180,54>
+[blockend:35]
+
+[blockstart:36]
+
+PLAYER 6'S NEIGHBOUR FLAG HAS BEEN CAPTURED!
+(Player 6 is the player without any stars on the flag.)
+
+<usericon:1,169,180>
+[blockend:36]
+
+[blockstart:37]
+
+PLAYER 6 HAS BEEN ELIMINATED!
+(Player 6 is the player without any stars on the flag.)
+
+<usericon:1,217,90>
+[blockend:37]
+
+[blockstart:38]
+[blockend:38]
+
+[blockstart:39]
+
+WARNING!
+
+The first ship has been built and will weigh anchor soon! All other players get a move on ...
+[blockend:39]

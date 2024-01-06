@@ -1,0 +1,308 @@
+[blockstart:lost]
+
+MISSION FAILED!
+
+[blockend:lost]
+
+[blockstart:won]
+
+MISSION COMPLETED!
+
+[blockend:won]
+
+[blockstart:header]
+
+THE WATER ORACLE
+
+[blockend:header]
+
+[blockstart:begin_00]
+We set up camp in a fertile valley at the verge of the desert. Our baker provided lots of food for us, which enabled us to fulfil one of our wives' wishes: building a school for the little ones ...
+
+Our druid and his family had found a place suited for gaining raw materials for producing the Holy Oil behind the hill to the south-east.
+
+On one of his excursions, one of the sons of the druid came across rich gold deposits in the mountains, which protected the fertile valley from the torrid heat of the desert.
+Learning about this finding, the druid rejoiced - What fantastic potions he would be able to produce with the gold!
+
+This plan had first to be agreed with me, Bjarni, the tribe's chieftain though. Therefore we agreed to meet at his place the next day.
+
+
+HINTS:
+You cannot assign the druid and his sons to other professions - they love their work too much! You can decide which goods they are to produce though ...
+
+
+You should only go to the desert with enough mead or nourishing potions: an unprepared wanderer can quickly become a starved wanderer!
+Water and food - these are the essentials of the desert!
+
+[blockend:begin_00]
+
+[blockstart:01]
+
+The desert robbers were defeated and the camels freed! Our mission was fulfilled. The water caravan could be resurrected!
+
+[blockend:01]
+
+[blockstart:02]
+
+THRIVING LANDS
+
+The rain had returned to the land, and it fell as it had never done before! The oasis of the oasis farmers finally flourished and the palm trees began to grow ...
+
+Now the builders could gather their camels in peace and sent them on their journey again in order to preserve the green ...
+
+We were thanked, and a new friendship among tribes was born ...
+[blockend:02]
+
+[blockstart:03]
+
+When the tribe round Bjarni ceased to exist, all hopes of the oasis farmers to get back their water were lost. Their fate was sealed!
+
+Here ends the story of your Vikings!
+
+[blockend:03]
+
+[blockstart:04]
+
+Bjarni is dead! Who is to get involved in all the adventures now?
+
+[blockend:04]
+
+[blockstart:05]
+
+The last hope of a new oasis died with the elimination of the oasis farmers!
+
+Your Vikings should be ashamed of bringing such evil over mankind!
+
+[blockend:05]
+
+[blockstart:06]
+
+THE OASIS FARMERS
+
+After a long journey through the desert and privation brought on by the sun and the sand, we finally found Oasia, the city of the water caravan!
+
+It was located in the middle of nowhere, and we were appalled by its state! Neither trees nor grass nor wheat were anywhere to be seen. And worst: We could not find as much as a single drop of water!
+
+It was said that it had used to rain from time to time, but the last rain shower must have been long ago ...
+
+Be that as it may ... The chieftain would be expecting us with his soldiers.
+
+We didn't want to lose any time and went to see him.
+
+[blockend:06]
+
+[blockstart:07]
+
+THE DESERT ROBBERS
+
+"Ho Ho! We are the new owners of this land, as we triumphed over desert and water! Get lost, or we'll show you how strong we are!"
+
+
+NOTE:
+You should get away from here as soon as possible as the desert robbers are rather irritable and are serious about their threats!
+[blockend:07]
+
+[blockstart:08]
+
+DRUID
+
+When I reached the druid, he was more than happy to see me.
+
+Even though he liked his eremite existence a lot, he urged me to send further gold miners to his place to keep his supplies coming.
+
+I promised him my support as the whole community could profit from the nourishing potions of the druid.
+
+
+He seemed to be worried by something else though ...
+
+Apparently something had happened to the desert caravan which transported water. It usually came to the pond in the west, but the druid had not seen it for a remarkably long time!
+
+What could have happened to the camel caravan? I as an adventurer could not stop thinking of this question and I decided to visit the tribe of the caravan.
+
+I wanted to start my search at the signpost at the pond; it would show me the right way ...
+[blockend:08]
+
+[blockstart:09]
+
+CHIEFTAIN
+
+Looking the chieftain in the eyes, I could see pain and sorrow.
+
+Once he had dreamt of reclaiming a piece of land to the south of his village. All he needed was water which he found close to my tribe. Everything went well, the project was a success - the desert began to blossom.
+
+But then the water caravan was robbed!
+Evil characters stole the valuable good and took away the camels of burden. 
+
+The surviving people were left in the desert with a message for the tribe: "Whoever comes here again, is deemed to die! All water now belongs to us! Even the oracle had to realise this!"
+
+Since then, nobody had dared to cross the desert ... And the chieftain's dreams were destroyed.
+
+Aghast at such meanness, I wanted to help the chieftain.
+
+I would continue with the water transport by harnessing my ox to the cart! And if anybody should dare to attack it, he would get to know my sword ...
+
+
+HINT:
+You should build a well directly at the watering place and start trading there, as this is the shortest way through the desert!
+
+<usericon:1,83,267>
+
+If you build a warehouse next to the well and have your carriers stock water, a merchant will be able to set up a trading business between the warehouse and the oasis farmers.
+[blockend:09]
+
+
+[blockstart:10]
+
+TEMPORARY SOLUTION
+
+The chieftain was overjoyed because of the delivery as he had not reckoned on this any more! We told him about our fight for water and cattle in the desert. 
+
+The chieftain thanked us a lot for our efforts and our courage, but he was still desperate: "If we only had our transport camels back and the desert robbers would not do us any harm  ..."
+
+We really wanted to help him, but as much as we deliberated on it - we did not come across a solution. Then all of a sudden, the chieftain's face brightened up:
+
+"Of course! THAT'S it! Do you remember - they said: 'Even the oracle had to realise this ...' - They have paralysed the Keepers of the Water! These bandits! That must be the answer, and it would explain the long drought as well! That must be it!" 
+He was very excited while he was speaking. 
+
+"Help us, brave Northerner, and make sure that everything is all right with the oracle. If my suspicion proves right, the roots of all evil can be found there!"
+
+The chieftain presumed that we would find hints on the oracle and the way there at the temple - the only place where palm trees still grew.
+
+Now I had to take a decision: Did I want to fight or succeed peacefully?
+
+
+HINT:
+If you decide in favour of the militant way, you will have to defeat the guards in the desert, the guards of the camel shelter as well as the desert robbers themselves!
+
+This way will not be an easy one ...
+[blockend:10]
+
+[blockstart:11]
+
+RAID
+
+We met the henchmen of the desert robbers and they uttered their threats once more:
+ 
+"All water of this land is ours now! The oracle had to realise this as well! You are to die!"
+
+And this time, it was not an idle threat - they attacked!
+[blockend:11]
+
+
+[blockstart:12]
+
+VICTORY OF THE OX CARAVAN
+
+We had driven back the attackers, but it was just a matter of time until they would return ...
+
+We wanted to reach our destination as quickly as possible.
+
+We would inform the chieftain of the talk about the oracle.
+[blockend:12]
+
+
+[blockstart:13]
+
+TEMPLE
+
+We had entered the temple but we could not find many hints regarding the oracle. In a dark corner of the room, a bluish light glowed from far below! I had to take a closer look at it! 
+
+We found a hatch in the floor, and I let myself down through it with a rope. 
+
+And my amazement grew beyond all limits ...
+
+[blockend:13]
+
+[blockstart:14]
+
+The being had kept its promise - the stones surrounding the island had gone, and we had a mooring place for our ship!
+
+[blockend:14]
+
+[blockstart:15]
+
+The ship was built and loaded with water. Now we could start our voyage to call on the oracle and extinguish the fire around it!
+
+[blockend:15]
+
+[blockstart:16]
+
+GUARD OF THE ORACLE
+
+The guard had already heard of our arrival from the servant of the oracle and greeted me by name:
+
+"Noble Bjarni, extinguish this evil fire, which is ignited by the desert miscreants again and again! It paralyses my powers, and I cannot approach the fire ...
+
+If it is extinguished, I will prove myself grateful!"
+[blockend:16]
+
+[blockstart:17]
+
+GONE ASHORE
+
+While I wanted to call on the guard of the oracle, my people should unload the water from the ship ...
+
+[blockend:17]
+
+[blockstart:18]
+
+BROKEN SPELL
+
+The water had been unloaded to the shore, and the fire-fighting was going on well!
+When the last flame had been extinguished, the oracle seemed to grow, and something was apparently happening ...
+
+[blockend:18]
+
+[blockstart:19]
+
+PUNISHMENT
+
+The guard of the oracle punished the guilty immediately ...
+
+"You mean rogues! Did you think your spell would last forever? Now you will experience the powers of nature! 
+
+Your village will be swallowed up into the ground, and if you want to survive, you have to disappear today! Leave this place and never return here!"
+
+[blockend:19]
+
+[blockstart:20]
+
+THANK YOU!
+
+... and thanked his helpers:
+
+"The desert robbers have left this country! Now peace and quiet will return!
+
+Be thanked, noble desert people! You called for help and tried to defy the drought!
+As a reward we will give you what you lacked for such a long time!
+
+Brave Vikings, be thanked as well. You freed us from the spell of the miscreants!"
+[blockend:20]
+
+[blockstart:21]
+
+The desert robbers were defeated - and an oracle thanked us for its rescue!? Only much later were we to learn that the desert robbers had spellbound the powers of the water oracle in order to control the small water deposits in the desert. They wanted to blackmail everybody with the water ...
+
+Their defeat set the oracle free again and all evil was eliminated!
+
+[blockend:21]
+
+[blockstart:22]
+
+CAMELS
+
+We had found the camels but they were well guarded by a guard post of the desert robbers. The guards started shooting at us at once ... 
+
+They were certainly not joking! If we started a fight, all the other desert robbers would come for the defence of the camels ...
+
+[blockend:22]
+
+[blockstart:23]
+
+THE OASIS FARMER
+
+We met a tribe in the desert which did not oppose us, but paid no interest to our presence either. Apparently, people here were preoccupied with other things ...
+
+HINT: 
+The druid to the south-west of your village is already waiting for you! You should pay him a visit soon ...
+[blockend:23]

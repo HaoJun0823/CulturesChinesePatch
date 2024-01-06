@@ -1,0 +1,39 @@
+[blockstart:header]
+
+LAND OF THE DRAGONS II
+
+[blockend:header]
+
+[blockstart:begin_00]
+The chieftain of a local tribe has asked for help:
+
+"The land of the dragons has been attacked by wolf creatures! I fear they plan to set the dragons free that we fought so hard to drive back into their caves and trap there!
+
+Fight the wolves. Quickly, before they release the dragons!"
+
+
+Every team that joins the wolf hunt starts out with three useful papers. 
+Also, new soldiers will enter the game at the starting position at regular intervals, to make sure you have sufficient reinforcements in case of losses.
+
+You can find vital equipment in the many hidden treasure chests that will appear now and then ...
+
+
+Now go out and hunt, it's time to save the land of the dragons!
+The winner must be the first to defeat 100 opponents!
+
+
+Hint:
+If you capture one of the five immortal holy raincows that live here, you can change the weather as often as you like! If a player manages to capture a raincow from another player, the new owner of the raincow is the weathermaker!
+
+
+Another hint:
+From time to time, switches will appear for you to use ... They disappear again after a few minutes, so hurry up and push one when you see them! 
+
+Some switches activate mechanisms in the same location, others affect your warehouses.
+[blockend:begin_00]
+
+[blockstart:begin_01]
+SWITCH USED
+
+Maybe you should check your warehouses ...
+[blockend:begin_01]

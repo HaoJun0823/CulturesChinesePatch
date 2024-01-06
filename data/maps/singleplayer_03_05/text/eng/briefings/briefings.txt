@@ -1,0 +1,149 @@
+[blockstart:lost]
+
+MISSION FAILED!
+[blockend:lost]
+
+[blockstart:header]
+
+INTIHUATANA
+
+[blockend:header]
+
+[blockstart:00]
+After a long trek full of privation through the desert, the Vikings finally reached this bleak spot. They were obviously hopelessly lost, even though their intended destination had to be nearby - a fertile, green oasis where they could live happily.
+
+At least there were useful treasure chests in this place ... The Vikings decided to recover their strength here before they continued their search for the promised land ...
+[blockend:00]
+
+[blockstart:01]
+
+THE OASIS
+
+At last the oasis appeared before the Vikings.
+It was a green and blossoming spot in the middle of this bleak country.
+
+They decided to stay here and set up camp. However, they had to be quick about producing something to eat, for food was in short supply - and hunger was a bad friend ...
+
+
+NOTE:
+You have a few useful papers among your luggage that should help you along ... 
+Once you have secured the food supply, you can continue playing as you like - there is no victory objective in this mission.
+[blockend:01]
+
+[blockstart:02]
+
+THE DESERT PEOPLE
+
+"What are you doing in our country, strangers? This is Intihuatana, the mooring place of the sun!
+
+Leave now, we do not trust strangers. Have you come to raid our tombs? If so - be warned that we will stop you!"
+
+
+NOTE:
+You will surely be able to convince this tribe of your honesty by paying a small tribute - maybe your tribe and this one will even become friends someday!
+[blockend:02]
+
+[blockstart:03]
+
+PEACE
+
+The Vikings had given the desert people a valuable present, and this convinced them of their honesty! However, some of the desert dwellers still doubted them and prevented the conclusion of a friendly alliance. 
+
+A further tribute was bound to appease them - and eliminate the last obstacles to a trade agreement ...
+[blockend:03]
+
+[blockstart:04]
+
+TRADE OFFER
+
+"We are happy to welcome you as our honoured neighbours! From now on, we will trade with you and offer you good prices!"
+[blockend:04]
+
+[blockstart:05]
+
+CALL FOR HELP
+
+"Help! The final resting place of our greatest king is under attack by grave robbers!
+
+<usericon:1,163,446>
+
+We can't defend this place alone ... Is there no one able and willing to drive the robbers from our holy shrine?"
+[blockend:05]
+
+[blockstart:06]
+
+GRAVE ROBBERS
+
+"The treasures of this place are now ours! 
+
+Be gone, or will we teach you the meaning of fear!"
+[blockend:06]
+
+[blockstart:07]
+
+GRAVE ROBBERS' DEFEAT
+
+The grave robbers had been defeated. The Vikings were celebrated gratefully in Intihuatana ...
+[blockend:07]
+
+[blockstart:08]
+
+MERCHANT
+
+"Welcome to this place of trade and exchange! We are peaceful neighbours, and you may purchase our treasures!"
+[blockend:08]
+
+[blockstart:09]
+
+MERCHANT DIED
+
+Why did your Vikings kill the harmless merchant?
+
+Well, that puts a stop to all trade opportunities!
+[blockend:09]
+
+[blockstart:10]
+
+DESERT PEOPLE DESTROYED
+
+The Vikings have destroyed the desert tribe, though these people were only wary and could almost certainly have been persuaded ... 
+
+But you have decided on the way of war! It is doubtful whether Odin will be pleased ...
+[blockend:10]
+
+[blockstart:11]
+
+The Vikings have left this world! So then must this mission end!
+[blockend:11]
+
+[blockstart:12]
+
+THE TREASURE OF THE INTIHUATANA
+
+The grave robbers have been defeated. Their legacy - the treasure of the Intihuatana - now belongs to the Vikings!
+[blockend:12]
+
+[blockstart:13]
+
+The grave robbers have been defeated. But who may now claim this place of peace?
+[blockend:13]
+
+[blockstart:14]
+
+THE DESERT PEOPLE
+
+"We welcome you to our land, strangers. This is Intihuatana, the mooring place of the sun!
+
+Aren't you the ones who warded off the cowardly attack of the grave robbers? 
+
+We thank you for your deeds and will open our trade posts to you! You and your merchants will always be welcomed here!"
+[blockend:14]
+
+[blockstart:15]
+
+DESERT PEOPLE DESTROYED
+
+The Vikings have eliminated the desert tribe, even though these people had offered them friendship ... 
+
+But you have decided on the way of war! It is doubtful whether Odin will be pleased ...
+[blockend:15]

@@ -1,0 +1,27 @@
+[blockstart:header]
+
+THE BLIZZARD
+
+[blockend:header]
+
+[blockstart:begin_00]
+These are dark times for the Vikings ...
+
+For some time, you and your peace-loving neighbours have been threatened by a large tribe of Vikings who have set themselves up as the sole rulers of these lands.
+
+But all the tribes of the country have now united and are arming themselves against this enemy. They will support each other in battle against their common foe! You can only hope to defeat the enemy's superior forces if you strike together.
+
+To transfer some Vikings to your allies, send them to that tribe's holy flame. Have your people enter the magic fire-circle, and they will follow your allies' orders in future - because they now belong to that tribe!
+
+Hint:
+There are some house permits in your possession. Use them quickly and wisely!
+[blockend:begin_00]
+
+[blockstart:begin_01]
+
+CONGRATULATIONS!
+
+The evildoers have been defeated! After long, hard battles, the land is finally free of fear and tyranny!
+
+Peace has been restored, and the tribes which fought side by side are able to establish excellent relations now!
+[blockend:begin_01]

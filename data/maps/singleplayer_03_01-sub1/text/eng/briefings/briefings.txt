@@ -1,0 +1,30 @@
+[blockstart:header]
+
+SERVANT OF THE ORACLE
+
+[blockend:header]
+
+[blockstart:begin_00]
+The foundation of the temple was cool and humid, although there was no water! This unreal blue light was shining from the ground, and a being that looked like it came from a different world stood in the centre of the room ...
+
+Did the chieftain of the oasis farmers know about this? I stepped in front of the being ...
+[blockend:begin_00]
+
+[blockstart:01]
+
+WATER BEING
+
+"Hail, stately youth!
+For centuries, I have not seen a human here ...
+
+Listen to me! I am the servant of the water oracle and protect my master! Desert robbers have spellbound the power of the oracle by laying a circle of fire round it. Now it is caught, and I cannot help it! My power over the water is limited to these walls, but that is only enough to feed the plants directly above.
+
+If you would help me to free the oracle ... I could get you access to the oracle, past all evil creatures ..."
+
+Naturally we could not refuse this request - also in our own interest. 
+
+"I thank you! Listen: Build a ship and sail over the sea to the oracle. The dangerous cliffs surrounding it can be passed by you!
+
+Take 30 bottles of water on board to extinguish the circle of fire! And when the oracle is liberated due to your help, the evil doers will have to pay a fair price for their sins ..."
+[blockend:01]
+

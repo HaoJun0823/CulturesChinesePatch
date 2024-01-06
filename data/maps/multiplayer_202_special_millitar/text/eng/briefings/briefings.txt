@@ -1,0 +1,54 @@
+[blockstart:header]
+
+LAND OF THE DRAGONS I
+
+[blockend:header]
+
+[blockstart:begin_00]
+The situation is desperate!
+
+The fearsome dragons that dwell in the mountains have left their caves to go hunting in the villages!
+They will be here soon, and they will return regularly. Their attacks will be disastrous for the population! 
+
+We must withstand their attacks and try to trap them back in their caves! 
+
+It is said that there are ancient mechanisms that can do this hidden in the wolves' wood: They will close the heavy iron gates to the four dragons' caves the beasts are coming from. These switches are invisible most of the time, but they materialise every now and then. When this happens, you must quickly use the switches! 
+
+But beware! The wolves hiding in the dense forest won't make matters any easier for you ... 
+
+
+
+Defend yourself against the dragons and find the switches to close the dragons' gates in the wolves' wood! Don't enter the forest unprepared, and don't stray too far from your headquarters until you have prepared your troops for battle!
+
+NOTE:
+There are ample resources here, but the more players join, the less room you will all have. If you need more space, you must capture some land from the wolf creatures ...
+[blockend:begin_00]
+
+[blockstart:01]
+
+GATE CLOSED!
+
+The gate to the cave in the north-west has been closed with a loud boom ...
+[blockend:01]
+
+[blockstart:02]
+
+GATE CLOSED!
+
+The gate to the cave in the north-east has been closed with a loud boom ...
+[blockend:02]
+
+[blockstart:03]
+
+GATE CLOSED!
+
+The gate to the cave in the south-east has been closed with a loud boom ...
+[blockend:03]
+
+[blockstart:04]
+
+GATE CLOSED!
+
+The gate to the cave in the south-west has been closed with a loud boom ...
+[blockend:04]
+

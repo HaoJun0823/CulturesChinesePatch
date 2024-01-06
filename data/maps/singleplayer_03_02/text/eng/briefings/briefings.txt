@@ -1,0 +1,143 @@
+[blockstart:lost]
+
+MISSION FAILED!
+
+[blockend:lost]
+
+[blockstart:won]
+
+MISSION COMPLETED!
+
+[blockend:won]
+
+[blockstart:header]
+
+THE RELIEF ACTION / THE THUNDER MOUNTAIN
+
+[blockend:header]
+
+[blockstart:begin_00]
+One nice day in spring our tribe decided to send a group of scouts deeper into the country in order to search new deposits of raw materials.
+
+When we arrived at the bottom of a volcano, we couldn't believe our eyes! The volcano had spewed out valuable resources everywhere and transported them to the valley. Gold, iron, and rubble were there close to each other - all we had to do was take them and stock them! 
+
+Unfortunately we forgot about the force which could be conceived by such a "mountain of thunder" ...
+
+At first we wanted to build a small settlement with houses for our women and a sufficient food chain. Besides, our miners and extractors had to gain more experience ...
+[blockend:begin_00]
+
+[blockstart:01]
+
+Our hosts had already been waiting for our people, and therefore a huge celebration was held in our honour.
+
+Everybody would be proud of us at home. We had not only found precious raw materials, we had found new friends as well and settled a very advantageous trade agreement!
+[blockend:01]
+
+[blockstart:02]
+
+The group of scouts had disappeared from this world. Nobody had ever heard what had happened to their next of kin. 
+[blockend:02]
+
+[blockstart:03]
+
+We had temporarily secured our food supplies and started mining the raw materials at the bottom of the volcano. 
+
+But our curiosity drove us further away from the village, and therefore we sent out a scout to explore the land ...
+[blockend:03]
+
+[blockstart:04]
+
+We wanted to take back valuable raw materials from our excursion to the chieftain in our home village, and finally it was done: we had gained 100 gold and iron! 
+
+Now we wanted to mint 50 coins to demonstrate the importance and usefulness of our enterprise ...
+[blockend:04]
+
+[blockstart:05]
+
+THE VOLCANO VICTIMS
+
+When our scout came across another tribe at the bottom of the volcano, he had to face a scene of destruction!
+
+The alleged earthquake had actually been a short, very violent volcanic eruption, whose burning lava had eaten through this village ... 
+All that remained of many houses was ashes only, and the inhabitants had barely been able to escape with their lives.
+
+The big herd of cows and sheep this tribe lived off had been drifted apart and ran away when the eruption had started ...
+The inhabitants despairingly asked us to help them drive their cattle back to the village while they wanted to plan a new settlement and lay the foundations for new buildings.
+
+First the lava streams had to cool down a bit ...
+[blockend:05]
+
+[blockstart:06]
+
+After long work it was finally done: The coins for our return were minted! Now we only had to help our neighbours before we could return home ...
+[blockend:06]
+
+[blockstart:07]
+
+Our scout had found 15 oxen and sheep and thereby assembled the herd of our neighbours. We were thanked warmly and told about the further plans.
+
+The village was to be rebuilt exactly the way it had been before the volcanic eruption, but everybody was still strained by the disaster.
+
+We suggested that we could organise the building sites in order to improve our friendship with the tribe - and friends must be helped in bad times. As the lava had meanwhile cooled down a bit, we could start working immediately.
+[blockend:07]
+
+[blockstart:08]
+
+The work had been done, the village had been resurrected in all its glory! Now the party could begin ... 
+We were all invited to celebrate. As we could not all take part, we sent a delegation of ten people to the celebration, which would be held in the headquarters of our new friends.
+[blockend:08]
+
+[blockstart:09]
+
+VILLAGE-WARMING PARTY
+
+Our hosts had already been waiting for our people, and then a great celebration in our honour was held in the evening.
+
+We had found new friends and settled a new trade agreement. Everybody was happy and content, but our mission was not fully completed yet ...
+
+We still had to gain gold and iron for our people. Our neighbours gratefully offered us these goods and coins for a low price - so we could just trade them!
+[blockend:09]
+
+[blockstart:10]
+
+VOLCANIC ERUPTION
+
+What was that? The ground was vibrating and shaking ... That had to be the volcano! It actually erupted ... Fortunately the lava did not flow through our village. Nobody was seriously injured ... 
+
+Only our houses were heavily damaged - we had to repair them quickly before another earthquake occurred!
+[blockend:10]
+
+[blockstart:11]
+
+After long, hard work, we had finally managed it: The coins for our return were minted! A new trade agreement, new friends, and a small treasure - our tribe would be very proud of us when we returned home!
+[blockend:11]
+
+[blockstart:12]
+
+THE VOLCANO VICTIMS
+
+When our scout came across another tribe at the bottom of the volcano, he had to face a scene of destruction!
+
+The alleged earthquake had actually been a short, very violent volcanic eruption, whose burning lava had eaten through this village ... 
+
+All that remained of many houses was ashes only, and the inhabitants had barely been able to escape with their lives.
+
+The big herd of cows and sheep this tribe lived off had been drifted apart and ran away when the eruption had started ...
+[blockend:12]
+
+[blockstart:13]
+
+CALL FOR HELP
+
+We received a message from our neighbours, who were utterly desperate: They asked us to help them drive their cattle back to the village while they wanted to plan a new village and lay the foundations for new buildings.
+
+But first we had to wait until the lava streams had cooled down a bit ...
+[blockend:13]
+
+[blockstart:14]
+
+SHINING COINS
+
+After long work it was finally done: 
+The coins for our return were minted! Now we only wanted to celebrate with our neighbours before returning home ...
+[blockend:14]

@@ -1,0 +1,17 @@
+[blockstart:header]
+
+WINTER IS HERE
+
+[blockend:header]
+
+[blockstart:begin_00]
+It is the beginning of a new age. Four Viking tribes have set up new homes on a wide terrain. There is ample room and enough resources for everyone. 
+The tribes enjoy a peaceful coexistence, and there is really no need for them to fight ... 
+
+There's a lot to do before the cold of winter sets in: You must gather certain resources to produce the following goods:
+80 coins
+25 longswords
+50 big nourishing potions
+
+The first tribe to accumulate all the required goods wins.
+[blockend:begin_00]

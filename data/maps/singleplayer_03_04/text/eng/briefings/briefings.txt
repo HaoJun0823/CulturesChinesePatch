@@ -1,0 +1,525 @@
+[blockstart:won]
+
+MISSION COMPLETED!
+[blockend:won]
+
+[blockstart:lost]
+
+MISSION FAILED!
+[blockend:lost]
+
+[blockstart:header]
+
+BLEAK AWAKENING
+
+[blockend:header]
+
+[blockstart:00] 
+<usericon:1,196,613>
+
+It had been a long dreamless sleep ... 
+The ship lay wrecked at the cliffs ... 
+The weakened men sank towards the sandy ground ...
+Darkness ...
+Night ...
+
+The warriors awakened much later. They felt hungry - and very confused. All their memories had been erased! Terrible things nobody wanted to remember must have happened! 
+There they were, stranded on this dreary isle without any knowledge of who they were or where they came from. 
+
+They prepared to survive. Whatever their fate may be - at least the area had plenty of fish. And some mead had been washed ashore as well.
+
+
+Hope always dies last, so they would wait. Wait for their fate ...
+[blockend:00]
+
+[blockstart:01]
+
+RESCUE
+
+"Thank Odin, I have found my men!" 
+
+<usericon:0,71>
+
+Happily I jumped off the ship and ran towards my men. But at first they did not seem to remember. Could it be that their memories were gone? 
+
+Well, I told them what had happened:
+
+"Yesterday, at the time of the first ray of sunshine, we were attacked by pirates! Even before we realised what was happening, they had kidnapped all the women!
+
+<usericon:1,416,506>
+
+<usericon:1,482,203>
+
+The bandits tried to kill all the men ... We suffered a devastating defeat! You are the only survivors!
+Remember! It's me, Bjarni, your chieftain!" 
+
+...
+[blockend:01]
+
+[blockstart:02]
+
+...
+
+"The gang covered us while they were taking our women. At first we held our own, but when more pirates appeared with dragons, we were put to flight ... 
+
+They followed us, and many brave men lost their lives.
+
+
+The dragons attacked our men ...
+
+<usericon:2,416>
+
+<usericon:2,411>
+
+... but it seemed to me that they only obeyed the pirates reluctantly. They seemed to be prisoners themselves!
+
+However, we have to help ourselves first, and I already have a plan!
+
+There used to be a camp of mercenaries to the south, where they trained their skills. If they are still there and we manage to hire them, we can perhaps recapture our land! And afterwards we'll take care of the women!"
+[blockend:02]
+
+[blockstart:03]
+
+MERCENARY CAMP 1
+
+"Welcome to our training camp! We can offer you our services - if you can afford them ..."
+
+<usericon:1,61,713>
+
+I had been right - the mercenaries would help us for payment. But their price was not low. Therefore we had to build a small camp and produce the requested goods ... 
+
+We had to hurry - the more time we lost, the more the pirates would vandalise our village ...
+[blockend:03]
+
+[blockstart:04]
+
+MERCENARY CAMP 2
+
+"Be welcome! We train our skills here! We can offer you our services - if you can afford them ..."
+
+<usericon:1,34,579>
+
+The mercenaries would help us for payment but their price was not low. 
+In spite of our desperate hurry, we had to produce the requested goods first ... 
+[blockend:04]
+
+[blockstart:05]
+
+INTO THE FRAY!
+
+We had hired all mercenaries. From now on, they would be under my command. With these soldiers, we should manage to repel the pirates from our home island!
+
+<usericon:0,71>
+
+We wanted to spare the dragons for now, though. If I was right and they were only prisoners, they would perhaps help us if we freed them ...
+[blockend:05]
+
+[blockstart:06]
+
+SHIPS?!
+
+Now we did have mercenaries available, but what we still needed was a sufficient number of ships!
+
+We could buy them at the mercenary camps as well, which would save us the long production ...
+[blockend:06]
+
+[blockstart:07]
+
+LIBERATION
+
+We had spared the dragons as they apparently did not want to do us any harm either. They were so thankful for their liberation that they even joined our group! And - the next surprise - the dragons were able to talk! Unbelievable!
+
+Therefore they could tell us everything they knew about our women's fate:
+
+"When we were on our way here, we could see them in a camp. They were as well as one might expect under the circumstances. They were well guarded though ... We heard about three camps - but we could not learn the location of the other ones.
+
+Our home country is suppressed as well!
+
+<usericon:1,195,72>
+
+Please help our people to escape slavery. We lived far up in the north before they built three camps and locked up many of us there. The rest of us were deported to their pirate realm,
+
+<usericon:1,445,333>
+
+just like your women ...
+
+If you help us to free the camps, our people will join your fight!"
+
+
+HINT:
+You have to defeat all guards or get into the respective camp to free the women or the dragons.
+[blockend:07]
+
+[blockstart:08]
+
+VICTORY!
+
+The pirates were defeated, the land was our own again. But all that was left was ruin and ash ...
+
+<usericon:1,226,541>
+
+... and without women, we were left with nothing, our tribe was doomed to extinction ...
+
+
+Then I remembered that long ago an expedition had left northwards in order to explore the area. Women had been part of the expedition as well! 
+
+
+Now we wanted to search this group - they were our last hope.
+[blockend:08]
+
+[blockstart:09]
+
+THE EXPEDITION / A NEW BEGINNING
+
+When we arrived, signposts led us inland. Soon we came across their owners: the members of our expedition!
+
+There were many stories to be told - about the adventures of these settlers and their new Frankish trade partners.
+But we also talked about our hard lot.
+
+We were joyfully offered to stay - this place was our new home!
+
+Now we had to free the dragons and rescue our women! We required a small fleet with well equipped soldiers and sufficient supplies. 
+
+
+This would be a tough mission, but now we had the possibility to make all necessary preparations.
+[blockend:09]
+
+[blockstart:10]
+
+We succeeded and recaptured our land - but it was not worth much without women. 
+
+
+Hopefully we would be welcomed more warmly in the expedition camp now ...
+[blockend:10]
+
+[blockstart:11]
+
+HINTS
+
+We came across a Frankish settlement, whose inhabitants were friendly to us.
+
+When we asked them for the reason of their friendliness, they told us about other Vikings they traded with from time to time. The trade was advantageous for both parties; therefore the people here were content. 
+
+When we told our story, they wanted to help us. 
+We were told that all we had to do in order to find our people was to follow the signposts eastwards ...
+
+
+We thanked the Franks and left immediately ...
+[blockend:11]
+
+[blockstart:12]
+
+TRADE PARTNERS
+
+We found the Frankish village and were welcomed in a friendly way.
+
+The trade offers of our brothers held for us as well. We accepted them gratefully.
+[blockend:12]
+
+[blockstart:13]
+
+THE EXPEDITION / A NEW BEGINNING
+
+Finally we found our expedition!
+
+There were many stories about the adventures of these settlers to be told. But we also talked about our hard lot.
+We were joyfully offered to stay - this place was our new home!
+
+Now we had to free the dragons and rescue our women! We required a small fleet with well equipped soldiers and sufficient supplies. 
+
+
+This would be a tough mission, but now we had the possibility to make all necessary preparations.
+[blockend:13]
+
+[blockstart:14]
+
+We had not recaptured our land yet when we spotted another Viking tribe in the distance.
+
+When we reached the village, I recognised them at once: It was the small expedition which had left our island long ago in order to explore the north. Here was the place where our people had set up their camp ...
+
+They recognised us as well, but they did not want to help us. If we were not willing to recapture the lands of our ancestors, we were not welcome either.
+
+
+We were allowed to stay for a while, but we had to face the truth: Only once we had expelled the pirates from our land would we receive help here ...
+[blockend:14]
+
+[blockstart:15]
+
+When we arrived back at our brothers', they were delighted with our victory. As we had proved our honour now, we would be helped. 
+
+We were admitted and could prepare for our fight.
+
+The task was to free the dragons and rescue our women! We required a small fleet with well equipped soldiers and sufficient supplies. 
+
+This would be a tough mission, but now we had the possibility to make all necessary preparations.
+[blockend:15]
+
+[blockstart:16]
+
+We came across a Frankish settlement, whose inhabitants were friendly to us. In better times, they would trade with us as well ...
+[blockend:16]
+
+[blockstart:17]
+
+SECRET PASSAGE
+
+We had discovered a secret passage with our ship! The pirates must have come this way ...
+[blockend:17]
+
+[blockstart:18]
+
+SECRET PASSAGE
+
+We had discovered a secret passage with our ship! This route would enable us to get to our side fast and fetch supplies.
+
+But if the pirates knew of this passage as well, we would all be in immense danger ...
+[blockend:18]
+
+[blockstart:19]
+
+UNEXPECTED RESCUE
+
+The first women of our tribe had been rescued!
+
+But when we wanted to start searching for the others, they held us back! They said there would be too many pirates in this area, and there were not enough of us ... 
+We were to rebuild our village first and train more soldiers before daring this fight!
+
+
+And so we listened to them ...
+[blockend:19]
+
+[blockstart:20]
+
+THE EXPEDITION
+
+When we arrived, signposts led us inland. Soon we came across their owners: the members of our expedition!
+
+There were many stories to be told - about the adventures of these settlers and their new Frankish trade partners. But we also talked about our hard lot.
+
+
+Optimistically we were offered to stay ...
+[blockend:20]
+
+[blockstart:21]
+
+We had sailed to the centre of the pirates' realm. The first big part of the voyage was over!
+
+<usericon:1,361,415>
+
+Our scouts spotted a bay which might conceal a passage to the other side of the mountains. We wanted to explore this bay ...
+[blockend:21]
+
+[blockstart:22]
+
+LIBERATION
+
+One of the three women's camps was liberated!
+
+Sobbing with happiness, the women fell round our necks. Then they told us that the last women had been sent directly to the pirate camp in the centre of the pirates' realm.
+
+<usericon:1,432,774>
+
+It would be difficult to free them there ...
+[blockend:22]
+
+[blockstart:23]
+
+LIBERATION
+
+One of the three women's camps was liberated!
+
+The best guarded camp was situated far to the south, directly within the pirate city!
+
+<usericon:1,432,764>
+[blockend:23]
+
+[blockstart:24]
+
+A DUBIOUS OFFER
+
+We had liberated the two outer women's camps - now we had to go for the last one. Encouraged by our success, we left for this last camp ...
+
+Suddenly a message of the pirates reached us:
+
+<usericon:1,450,764>
+
+"We acknowledge your strength - and if you want to avoid the further shedding of blood, you can pay a ransom for your women!
+
+We demand 100 gold coins - then we'll set them free and you can come to us to get them peacefully.
+
+The choice is yours - if you fight, we will defeat you!"
+
+
+This offer came as a surprise. It seemed as if the pirates were frightened! I had to decide how to proceed ...
+[blockend:24]
+
+[blockstart:25]
+
+VICTORY!
+
+We had refused the ridiculous offer of the pirates - we would not have them blackmail us!
+
+So our victory meant the utter defeat of the pirates ... The triumph was ours, and now we could return to our village as heroes. 
+
+We would still hear of this day in songs and sagas for many years to come!
+[blockend:25]
+
+[blockstart:26]
+
+After a fierce battle we finally freed our women from this camp! 
+
+
+But there were others who had to be rescued as well ...
+[blockend:26]
+
+[blockstart:27]
+
+VICTORY!
+
+We had paid - and the gates to the women's camp were indeed opened and they were set free!
+
+The pirates would not attack us as long as we did not provoke them ... So we could take our women home!
+
+<usericon:1,432,776>
+
+The long way and the fierce battle had been worthwhile - the pirates really had made their offer because they were afraid of our anger! 
+
+And we had paid because we did not want to fight any more!
+
+We were proud of our cleverness!
+[blockend:27]
+
+[blockstart:28]
+
+VICTORY!
+
+All the women were free - we had gained a glorious victory! Now we could return to our village as heroes - we would still hear about this day in songs and sagas for many years to come!
+[blockend:28]
+
+[blockstart:29]
+
+THE FIRST CAMP
+
+One of the three dragon camps in this land was liberated!
+
+The dragons thanked us for our help and joined our fight.
+
+"We will always be grateful to you and therefore support you! Let us free our other brothers and sisters!"
+[blockend:29]
+
+[blockstart:30]
+
+THE SECOND CAMP
+
+The second of the three dragon camps was liberated!
+
+The dragons thanked us again and joined us! Another dragon camp in this land had to be liberated yet, and therefore we left together.
+[blockend:30]
+
+[blockstart:31]
+
+THE THIRD CAMP
+
+The third of the three dragon camps was liberated!
+Once more, the dragons joined us thankfully - they would prove very helpful in the rescue of our women ...
+
+One of the dragons approached us:
+
+"There is one more camp with dragons left! It's located somewhere deep in the pirates' realm ...
+We can only get there through the north-eastern passage. But first we have to use the two switches which unlock the mechanism of the ancient sea blockade!
+
+<usericon:1,438,77>
+
+They are right behind the gate, but they are well guarded.
+We have to make our way to the switches through the blockade dams ..."
+[blockend:31]
+
+[blockstart:32]
+
+THE LAST DRAGON CAMP
+
+The last enslaved dragons were free!
+
+They would be forever grateful! They would support us until the end of our mission!
+
+<usericon:2,71>
+
+... deep down I wished that our women may be freed as well - but there was still a long way to go ...
+[blockend:32]
+
+[blockstart:33]
+
+FREE PASSAGE
+
+With a loud creaking noise, the heavy blockade gate had opened! The way to the pirate realm was open for our ships ...
+
+<usericon:1,438,77>
+[blockend:33]
+
+[blockstart:34]
+
+The Viking tribe is defeated ...
+All your people died, and the rest of our women will spend the rest of their lives as captives ...
+
+Perhaps you should start again at an earlier point ...
+[blockend:34]
+
+[blockstart:35]
+
+Bjarni died! This story cannot end happily without his help!
+[blockend:35]
+
+[blockstart:36]
+
+The camp our dragons came from was freed by us ... But many of them were still suppressed in their home land further north! Many dragons joined us thankfully.
+[blockend:36]
+
+[blockstart:37]
+
+ENTRANCE TO THE PIRATE REALM
+
+This was the north-eastern passage, which we could use to penetrate the pirates' land. At first we had to use the two switches though which would unlock the ancient mechanism of the sea blockade!
+
+<usericon:1,438,77>
+
+They were right behind the gate, but they were well guarded.
+
+
+We had to make our way to the switches through the blockade dams ..."
+[blockend:37]
+
+[blockstart:38]
+
+THE THIRD CAMP
+
+The third of the three dragon camps was liberated!
+
+Once more, the dragons joined us thankfully - they would prove very helpful in the rescue of our women ...
+
+One of the many dragons approached us:
+
+"There is one more camp with dragons left! It's located somewhere deep in the pirates' realm ...
+[blockend:38]
+
+[blockstart:39]
+
+HINT: CAPTURING SHIPS
+
+Our enemies' ships could serve us well in the future! If we defeated our opponents on the particular island, we could board the ships! 
+
+We only had to take care not to destroy the ships when doing so.
+[blockend:39]
+
+[blockstart:40]
+
+We had arrived on our home island completely unprepared - with so few people, we could hardly survive this fight!
+
+[blockend:40]
+
+
+[blockstart:41]
+
+With the help of the mercenaries, we should be able to drive the pirates from our home island!
+
+We wanted to spare the dragons for now, though. If I was right and they were only prisoners, they would perhaps help us if we freed them ...
+[blockend:41]

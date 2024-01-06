@@ -1,0 +1,15 @@
+[blockstart:header]
+
+HUSTLE AND BUSTLE 2
+
+[blockend:header]
+
+[blockstart:begin_00]
+Try to gain possession of all the cows or sheep of the country. There are 12 animals of each kind!
+
+Your opponents will try to do the same, so beware: Keep an eye on the animals you have captured!
+
+
+NOTE:
+Obviously, the cows of this country cannot be killed!
+[blockend:begin_00]

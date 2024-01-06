@@ -1,0 +1,105 @@
+[blockstart:won]
+
+MISSION COMPLETED!
+[blockend:won]
+
+[blockstart:lost]
+
+MISSION FAILED!
+[blockend:lost]
+
+[blockstart:header]
+
+THE EXPELLED FOREST PEOPLE
+
+[blockend:header]
+
+[blockstart:00]
+On our exploration, we landed at an ocean bay not far from huge mountains. Here we found everything we needed for settling, and we assumed that there were many treasures and resources in the heart of the mountains. 
+
+As soon as we had ensured food supplies, we wanted to leave for the mountain in the east ...
+[blockend:00]
+
+[blockstart:01]
+
+THE LAST PACK
+
+The last wolf pack was destroyed!!!
+
+The threat had been eliminated, and we were thanked for our help.
+In the meantime, the forest people's council of elders had decided that the quiet valley of the mountains would provide more protection against further surprises. They wanted to stay there and make a new start.
+
+The land of the forest with all its resources was given us as a present. We were looking forward to a good neighbourhood and lively trade!
+Now we wanted to start settling our new land.
+
+
+You can now try to build a functioning valley in the forest and trade in the necessary goods, if you want to ...
+[blockend:01]
+
+[blockstart:02]
+
+Your people died! 
+They were doomed without your leadership ...
+[blockend:02]
+
+[blockstart:03]
+
+THE MOUNTAIN VILLAGE
+
+All of a sudden we spotted a small village in an idyllic valley. We wanted to spend the night there and obtain food supplies.
+
+Although we were welcomed in a friendly way, something strange seemed to be happening here. People looked distraught, and the village had apparently been built only recently.
+
+The chieftain explained the situation to us:
+"Not long ago we used to live in the forest and we were hunters. Then suddenly huge wolf packs appeared from everywhere, and our hunters could not get them under control any more as they were too many. 
+When these creatures we call the pack leaders turned up, we had to flee and leave our home village. Now we have ended up here, and we are discussing our future ...
+
+Could you help us and eliminate the threat?" 
+[blockend:03]
+
+[blockstart:04]
+
+We wanted to help those poor people and made a plan. We could overpower the creatures if we had a sufficient number of soldiers, who would have to be very well equipped.
+
+We could also try to separate the wolves from their leaders by luring them away with food ... There was a suitable place on the other side of the bay - and taking the sea route, we could avoid any menace! 
+
+Maybe the wolf leaders would try to escape without their "army" of wolves ... 
+[blockend:04]
+
+[blockstart:05]
+
+We had tracked down one of seven wolf packs together with its leaders. The loudly howling pack had been driven away ...
+[blockend:05]
+
+[blockstart:06]
+
+ENOUGH FOOD
+
+There was enough food in our "feeding ground" to tempt any wolf with the smell ...
+
+
+We had to get away quickly before the wolves smelt the food - and us!
+[blockend:06]
+
+[blockstart:07]
+
+On the way into the mountains, we found a small trade post, where we were even offered coins, as well as gold and iron ...
+
+It was the outpost of a mountain tribe, which we wanted to visit immediately ...
+[blockend:07]
+
+[blockstart:08]
+
+RETREAT
+
+The last wolf leaders had withdrawn!
+
+The threat was eliminated, and we were thanked for our help.
+The forest people's council of elders decided that the quiet valley of the mountains would provide more protection against further surprises. They wanted to stay there and make a new start.
+
+The land of the forest with all its resources was given us as a present. We were looking forward to a good neighbourhood and lively trade!
+Now we wanted to start settling our new land.
+
+You can now try to build a functioning valley in the forest and trade the necessary goods, if you want to ...
+[blockend:08]
+
