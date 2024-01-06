@@ -1,0 +1,143 @@
+[blockstart:header] 
+BONUS ITEMS AND WEAPONS
+[blockend:header]
+
+[blockstart:00] 
+Here the bonus items and weapons will be introduced. 
+-	collecting
+-	using
+-	effects/uses
+-	own production
+-	capturing bonus items
+-	soldiers and heroes 
+
+There are other things, apart from marriage and homes, that will help you equip your Vikings and influence their happiness, productivity and skills - these are the so-called bonus items.
+
+Most bonus items have to be produced and are slowly used up, meaning they need renewing. However, there are some bonus items your Vikings will receive from other nations or find on their journey, mainly in CHESTS ...
+[blockend:00]
+
+[blockstart:01] 
+CHESTS
+
+There are some chests which can be opened by any Viking - male or female - and magic chests which can only be opened by a druid or a hero. 
+Chests usually contain rare and useful items such as potions or amulets. In some cases, they may also contain powerful house permits. There is even a rumour that some chests open to reveal wild beasts and humans inside them ...
+To open a chest, select a Viking and move your mouse over the chest. You will see the tooltip "Open Chest". Confirm by right-clicking. 
+
+Open the three chests to the west, they contain potions for your soldiers! 
+[blockend:01]
+
+
+[blockstart:02] 
+POTIONS
+
+If you don't find any potions in chests, but you still need them, they can be brewed by a druid in an alchemist's hut. To do this, the druid requires not only mushrooms and oil, but also water and herbs. He also needs gold in order to acquire mysterious and rare ingredients. All Vikings - excepting women and heroes - can be equipped with these special supply, healing and battle potions. Small potions can be used twice, large ones can be used 5 times. Then they are used up.
+
+There are NOURISHING POTIONS which satisfy hunger; STAMINA POTIONS which protect your Vikings from fatigue, and HEALING POTIONS which heal injuries. 
+
+Equip your Viking soldiers with the potions by selecting them all - except BJARNI - as a group and pressing the spacebar. Choose the option "CHANGE EQUIPMENT" and give them the potions! You can also tell individual characters how many potions to take of any kind by using the round yellow buttons in the character display. This also opens the equipment register. 
+[blockend:02]
+
+
+[blockstart:03] 
+Great, you have found all the chests with potions!
+
+After equipping your soldiers with the potions, go to the Saracen oasis in the south! You'll find mysterious amulets there!
+[blockend:03]
+
+
+[blockstart:04] 
+AMULETS
+ 
+Amulets cannot be manufactured. You either have to find them or purchase them by trading with other tribes. All male Vikings - except your heroes - can be equipped with amulets. They give the bearer certain characteristics and their power is never diminished. There are various kinds of amulets:
+A nourishing amulet prevents the bearer from starving, an amulet of stamina keeps the bearer awake, an amulet of strength gives the bearer courage and bravery and increases his strength in an attack by 50 percent, an amulet of defence weakens the blow of attacks by wild beasts and enemies, an amulet of precision has a 20 percent chance of increasing the bearer's strength in an attack on animals and enemies, and 
+a wind amulet enables the bearer to move faster. 
+
+Find all six amulets in the Saracens' village and equip your Viking soldiers with the amulets by proceeding in the same way as for the potions.
+[blockend:04]
+
+[blockstart:05] 
+GOOD! You have found all the amulets in the Saracens' village! If you have kept your eyes open in the village, you should have seen some weapons as well. 
+
+ARMOUR AND WEAPONS
+
+On the one hand, weapons and armour can be produced by your Viking tribe; on the other hand, they can also be taken off other warriors in battle - every defeated warrior leaves his weapon, armour and his unused potions and amulets behind. You can use these to equip your own Viking soldiers. 
+
+Try it! A little to the north 5 robbers are on the rampage and might pose a threat to your village as well. Confront them and use their equipment!
+
+
+P.S.: You'll find a description of which weapons are efficient against which armour and which are not in the help and in the weapon efficiency table in the manual. 
+[blockend:05]
+
+
+[blockstart:06] 
+You have successfully confronted the robbers! Now you can search the map for additional chests and equipment ... 
+[blockend:06]
+
+[blockstart:07] 
+ ... but for now we'll return to your civilian population, because you can contribute a lot to their well-being as well:
+
+WOODEN TOOLS
+
+These increase a worker's productivity. He can produce more goods in the same space of time with wooden tools than he could without them. Wooden tools are produced by a carpenter.
+
+Have the carpenter make 5 wooden tools and give them to the population by activating the order "Always give wooden tools to civilians" in the extras window (the button with the chest symbol)!
+[blockend:07]
+
+[blockstart:08]
+IRON TOOLS
+
+Iron tools increase a worker's productivity even more than wooden tools. In other words, his output becomes even greater. Iron tools are produced by a blacksmith.
+
+Have the blacksmith make iron tools and give them to the population using the same procedure as for the wooden tools!
+[blockend:08]
+
+[blockstart:09] 
+FURNITURE
+
+If you have furniture (beds) in your houses, your Vikings will sleep much better. Their need for sleep can then be fulfilled entirely! Furniture is produced by a carpenter and fetched to the house by a woman.
+
+Change the production of the carpenter in your village to furniture and equip your dwellings with it!
+[blockend:09]
+
+
+[blockstart:10] 
+CROCKERY
+
+Crockery enables your Viking women to improve their meals and double their nutritional values!
+Crockery is produced in a pottery.
+
+Change the potter's production to crockery and equip your dwellings with it!
+[blockend:10]
+
+[blockstart:11] 
+SHOES
+
+Every barefoot Viking would give just about anything for a pair of shoes, as these make walking much more pleasant. A Viking wearing shoes can walk much faster and uses up less energy, meaning he won't become hungry and tired so quickly. Shoes are produced in a tailor's workshop.
+
+Have your tailor produce shoes, give them to the population and take five of them to the headquarters!
+[blockend:11]
+
+[blockstart:12]
+OIL (Holy Fire)
+
+Outside each dwelling is a metal dish that a woman can fill with oil and use to light the Holy Fire. Once this blue flame begins to flicker, a man can come to this house to pray. This covers his need for religion! Oil is produced by a druid. 
+
+Have the druid produce 5 oil and take it to the headquarters!
+[blockend:12]
+
+[blockstart:13]
+GREAT!
+
+If you have completed the tutorials in sequence, you have now perfectly mastered them all! 
+
+You can replay them individually to refresh your knowledge of the game's mechanisms any time. 
+[blockend:13]
+
+
+[blockstart:100]
+
+Heroism or carelessness? When Bjarni died the gods were crying ... without this hero, the outcome of this mission would have remained hidden to you and you would have had to start all over again! 
+
+<picture:$local$\graphics\Hero_Dead_F.pcx>
+[blockend:100]
+

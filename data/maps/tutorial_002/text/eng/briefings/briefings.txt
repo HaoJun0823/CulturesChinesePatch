@@ -1,0 +1,132 @@
+[blockstart:header] 
+
+EVERY VIKING IS UNIQUE!
+[blockend:header]
+
+[blockstart:00] 
+Here you will be informed about the individual skills and attributes of a character, such as:
+-	name,
+-	knowledge, 
+-	profession, 
+-	marital status,
+-	social group,
+-	life energy and needs, 
+-	heroes' characteristics ...
+
+ ... because every Viking is unique! But they are all stubborn by nature! ;0)
+[blockend:00] 
+
+[blockstart:01] 
+Take HALLDOR, for example. 
+
+<usericon:2,1>
+
+He is a woodcutter, and he is happy doing his job. He has a wife and a young child waiting for him at home after work.
+
+Every villager is a unique character. They all look different, they have different names, different professional developments and individual skills and needs. And you can influence all these things except for their looks! 
+[blockend:01]
+
+[blockstart:02] 
+This is Gunnhild. She is the happy woman at Halldor's side, and the pair have a little girl called Grimmhild ...
+
+<usericon:1,88,192>
+
+SOCIAL GROUP
+If you move the cursor over Gunnhild, her outline will light up. Everything connected to this character will also flash: the home, partner, work place and children. This way you can see at a glance who belongs to her, where she lives and works and what paths she has to take. Moreover, the name, current profession and experience level of the highlighted character are indicated underneath the mouse pointer if this Viking is currently learning a profession.
+
+You'll see the same effect if you move the cursor over a building as well. All the characters who live or work in that building will flash.
+[blockend:02]
+
+[blockstart:03] 
+This is BJOERN. He is a scout and he is fed up with erecting signposts all day long ... 
+
+<usericon:2,6>
+
+He'd like to have a wife as well, to live in a dwelling and add to the Viking tribe. He doesn't like his name and his profession either, and he'd much rather sit and fish all day. 
+
+Give BJOERN a new identity! 
+
+Start with the NAME. Select Bjoern and click on his name in the character display. A small window will pop up where you can change his name. 
+Give him the profession of a fisherman.
+[blockend:03]
+
+[blockstart:04] 
+The next thing he should do is look out for a bride.
+Further inland master carpenter Kalf is living with his beautiful and intelligent daughter Ragna. 
+
+<usericon:1,87,149>
+
+Marry RAGNA to the Viking who was called BJOERN, assign them the dwelling on the shore and let them have a child.
+
+Note: Marrying is not always that easy. Some Vikings are so focused on their tasks that they won't even notice the approaches of another character, or they may even choose a different partner. If you experience problems with two people who you think should love one another, send them both away from the others and order at least one of them to marry! 
+[blockend:04] 
+
+
+[blockstart:05] 
+GREAT! A little Viking has seen the light of day at last.
+
+<usericon:1,124,181>
+
+Each of your Vikings, even the little newborn child, has a certain amount of LIFE ENERGY. This can be reduced by HUNGER or INJURY. As soon as this disadvantage has been repaired, the character's energy will regenerate little by little - provided the Viking is still alive, of course. None of your Vikings can ever die of old age! 
+[blockend:05]
+
+[blockstart:06] 
+NEEDS
+
+All your Vikings have the same needs as real humans. They have to eat, sleep and talk, and some of them even need religion to be content. If the villagers have such a need, they'll do anything to fulfil it as soon as possible. If they are hungry for example, they'll stop working to look for some food in their surroundings. If they find some, they will go there and eat it. They will only return to their work when they are no longer hungry. 
+You should make sure that your Vikings can satisfy their needs quickly, so they can carry on with their work. 
+
+Your Vikings will tell you what they think is important via the parchments at the top of the screen! Red parchments are important, green ones are slightly less important. By holding CTRL and right-clicking, you can delete all the displayed messages.
+[blockend:06]
+
+
+[blockstart:07] 
+HEROES
+
+Some Vikings differ from your civilian population: They are stronger and faster than ordinary Vikings, they don't get hungry and they don't need to sleep. They don't have a profession either, because their profession is to be a HERO. Their exploration radius corresponds to that of a scout. Heroes mainly live a solitary life and there are not many of them in the world, but one of them will accompany you from the very start of the game. He is BJARNI - the son of a legendary Viking king of the past. 
+
+<usericon:2,7>
+
+Beware! If a hero dies, you have failed your mission!
+
+CHARACTER DISPLAY
+
+If you lose a hero or another Viking, use the character display (F7) or click the button with the helmet and the question mark. There you can search for your characters according to different categories and select them.
+[blockend:07]
+
+
+
+[blockstart:08] 
+WOLVES
+
+As mentioned before, your Vikings can only die of starvation or injuries in battle. Wolves and other wild animals therefore represent a great danger.
+With a hero at your side, they should not be a problem for you though ...
+
+<usericon:1,225,156>
+
+Fight the wolves in the swamp with Bjarni by selecting him and clicking on the animals with the RIGHT MOUSE BUTTON when the tooltip "Bjarni - Attack animal" appears!
+[blockend:08]
+
+
+[blockstart:09] 
+Unfortunately you have not succeeded, because Bjarni fell victim to the wolves. 
+In the real game, your mission would have failed.
+
+We'll give you another chance and revive the hero ...
+[blockend:09]
+
+[blockstart:10] 
+VERY GOOD! 
+
+<usericon:2,7>
+
+You have passed the second tutorial, now you know how to influence the individual features of a character and how to take care of the skills and needs of the little beings.
+
+Let's head for the next tutorial!
+[blockend:10]
+
+[blockstart:11] 
+Three of your Vikings are going about their work in this massif. They are too far apart from one another to talk though, they have no food and they could do with some sleep as well. Your Vikings will basically look after themselves, i.e. they will sleep when they are tired, eat when they are hungry and talk as much as they like! However, if they are not able to fulfil one of their needs, the other needs are affected as well.
+[blockend:11]
+
+

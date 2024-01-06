@@ -1,0 +1,143 @@
+[blockstart:header] 
+THE FOOD CHAIN
+[blockend:header] 
+
+[blockstart:00] 
+This tutorial deals with the basic principles of the game, such as the exploitation of raw materials, the erection of buildings and basic food procurement.
+
+EXTRACTORS are the basic workers for any building. At the beginning they collect clay, wood or stone. With the necessary experience, they can also extract gold, ore and mushrooms. 
+Since you'll definitely need extractors, choose one of your Viking civilians, press the SPACEBAR or RIGHT-CLICK and assign him the profession of a clay-worker. You should make sure that his work area is over a clay pit so he can start working. If your extractor has nothing to do later on in the game, that will be because all the raw materials have been exploited. When this happens, just give him a different job. 
+
+Turn a Viking into a CLAY-WORKER!
+[blockend:00]
+
+[blockstart:01] 
+GOOD!
+
+Now employ a WOODCUTTER and a STONE COLLECTOR.
+
+Hint: Extractors have professions that don't involve specific work places. You can change the raw materials they extract as well as the goods that are produced, provided that the worker is experienced enough and that the respective work place is available.
+
+Give two of your Vikings the job of a woodcutter and a stone collector respectively.
+[blockend:01]
+
+[blockstart:02] 
+To erect buildings, you require builders. To create one of these you must select one of your Viking civilians, press the SPACEBAR or RIGHT-CLICK and turn him into a builder.
+
+Now turn some of your idle men into BUILDERS!
+[blockend:02]
+
+
+[blockstart:03] 
+That's it! Now you have some busy builders. 
+You can only build a farm if the clay-worker has extracted enough clay. 
+
+<usericon:1,250,175>
+
+Click on the building symbol (house with hammer) in the menu bar on the left-hand side of the screen or press "b" on your keyboard, then select the farm from the list. The ground will then darken, except where it is possible to erect a farm. Click with the RIGHT MOUSE BUTTON on any light location of your choice. Your builders will pick a building site to work at on their own, but you can also assign them to particular constructions if necessary.
+
+Have your builders construct a FARM!
+[blockend:03]
+
+
+[blockstart:04] 
+Well done! 
+
+Now make at least one of your Vikings a farmer. Once he is experienced enough, your people can build a mill. 
+Watch how the farmer gains experience.
+
+
+Have one of your people join the farm as a farmer!
+[blockend:04]
+
+
+[blockstart:05] 
+HINT
+
+Your workers have several different natural NEEDS. They need to eat, sleep and they want to talk. Armourers who make armour or weapons need the blessing of the gods, so they must pray on a regular basis. 
+All this keeps your characters from doing their jobs, therefore you should make sure they can satisfy their needs.
+
+If a worker lives in a nice DWELLING, ideally one close to his work place, he can relax much better than if he has to sleep outside.
+If a woman lives in the dwelling with him, she will cook good food for all the inhabitants. This feeds them better than simple fare. She will also entertain all the inhabitants of her home.
+
+Long DISTANCES will exhaust your people. You should make sure that work places that depend on one another are as close together as possible. 
+
+Give your people SHOES so they can walk better and faster. The same applies to roads.
+
+Have your builders construct some dwellings in the meantime, and have your Vikings live in them. Just perform the same actions as you did when building a farm!
+[blockend:05]
+
+
+[blockstart:06] 
+Your farmer has sufficient experience now! 
+
+Your builders can erect a mill! 
+
+<usericon:1,258,185>
+
+Build the mill close to the farm that supplies it with wheat to grind flour.
+
+Build a MILL.
+[blockend:06]
+
+
+[blockstart:07] 
+Your mill proudly stands! 
+
+Your farmer is the only one who has enough experience in working with wheat. 
+
+Turn the farmer into a miller and watch how he gains experience in his new profession.
+ 
+Have somebody else work as a farmer to maintain the wheat production.
+[blockend:07]
+
+
+[blockstart:08] 
+HINT
+
+You can assign CARRIERS or MERCHANTS to some work places while we are waiting for the miller. They can help the craftsman a lot and enable him to concentrate on the production of goods. 
+
+Carriers are particularly useful in warehouses and headquarters.
+[blockend:08]
+
+
+[blockstart:09] 
+Your future baker will need water to bake his bread. 
+
+<usericon:1,231,199>
+
+Build a well close to the place where you will build your bakery later on. There is still room directly in front of the headquarters. It's a nice spot and you can save building space for your really big buildings."
+
+
+Build a WELL.
+[blockend:09]
+
+
+[blockstart:10] 
+Build a bakery close to the mill and the well. 
+
+<usericon:1,244,195>
+
+With the food production from a farm, mill and bakery you can provide food to last a large village for a long time.
+
+
+Build a BAKERY.
+[blockend:10]
+
+
+[blockstart:11] 
+Your bakery has been built and your Vikings are looking forward to good fresh bread. But first somebody needs to work in the bakery. The only person who can do this due to his experience is the miller. 
+
+
+Turn the miller into a baker.
+Have a new miller work in the mill, so its production can continue.
+If the farm is empty now, assign a new farmer there.
+[blockend:11]
+
+[blockstart:12] 
+CONGRATULATIONS! Your people shouldn't have to go hungry in the near future!
+
+You have managed to set up a really well-functioning chain of food production!
+
+Proceed to the next tutorial!
+[blockend:12]

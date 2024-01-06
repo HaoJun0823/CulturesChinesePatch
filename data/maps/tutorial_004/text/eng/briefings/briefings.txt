@@ -1,0 +1,213 @@
+[blockstart:header] 
+TECHNOLOGIES
+
+[blockend:header] 
+
+
+[blockstart:00]
+Here the technology tree will be introduced and you will learn how to upgrade building levels.
+
+The basic food provisions have already been taken care of in this village, therefore we now want to concentrate on the development of other technologies. 
+
+Our extractors Snorri, Hedin and Orm will help us with any building plans. 
+Extractors have professions that don't involve specific work places. You can change the raw materials they extract as well as the goods that are produced, provided that the worker is experienced enough and that the respective work place is available. 
+[blockend:00]
+
+
+[blockstart:01]
+
+FROM A CLAY-WORKER TO A POTTER
+
+Your clay-worker is experienced enough to become a potter. He needs a pottery where he can produce bricks to be used as building materials.
+
+Build a POTTERY close to a clay pit and assign the clay-worker there!
+[blockend:01]
+
+[blockstart:02]
+
+UPGRADE THE POTTERY
+
+The potter has gained enough experience at making bricks for your Vikings, and is now able to produce tiles. 
+
+Tiles are required in order to build houses that have tiled roofs rather than thatched ones, e.g. the cattle farm.
+
+Upgrade the POTTERY! To do so, click on the pottery to open its building display. Click on the button "START UPGRADE". This button will only appear if all the goods required for the upgrade are available.
+[blockend:02] 
+
+[blockstart:03]
+
+UPGRADE THE POTTERY 2
+
+The potter has gained enough experience at making tiles to produce crockery. This requires you to upgrade the pottery once more. 
+
+Upgrade the POTTERY 2! To do so, click on the pottery to open its building display. Click on the button "START UPGRADE". This button will only appear if all the goods required for the upgrade are available.
+[blockend:03] 
+
+
+
+[blockstart:04]
+
+FROM A STONE COLLECTOR TO A STONEMASON
+
+Your stone collector is experienced enough to become a stonemason. He needs a stonemason's workshop in order to turn quarrystone into hewn stone.
+
+Build a STONEMASON'S WORKSHOP close to a stone deposit and assign the stone collector there!
+[blockend:04]
+
+[blockstart:05]
+
+UPGRADE THE STONEMASON'S WORKSHOP
+
+Your stonemason is very experienced and his workshop is almost too small for his goods. 
+
+You should upgrade the stonemason's workshop. To make marble out of quarrystone, your stonemason requires a stonemason's workshop 2. However, upgrading the stonemason's workshop requires the use of bricks which can only be produced in a pottery 1.
+
+Upgrade the STONEMASON'S WORKSHOP! To do so, click on the stonemason's workshop to open its building display. Click on the button "START UPGRADE". This button will only appear if all the goods required for the upgrade are available.
+[blockend:05]
+
+
+[blockstart:06]
+
+FROM A WOODCUTTER TO A CARPENTER
+
+Your woodcutter is experienced enough to become a carpenter. He needs a carpenter's workshop in order to produce wooden tools.
+
+Build a CARPENTER'S WORKSHOP and assign the woodcutter there!
+[blockend:06]
+
+[blockstart:07]
+
+UPGRADE THE CARPENTER'S WORKSHOP
+
+The carpenter has gained enough experience at toolmaking to produce furniture. This requires an upgrade of the carpenter's workshop.
+ 
+Once he has gained enough experience at making furniture, he will even be able to make wooden spears.  
+
+Upgrade the CARPENTER'S WORKSHOP! To do so, click on the carpenter's workshop to open its building display. Click on the button "START UPGRADE". This button will only appear if all the goods required for the upgrade are available. 
+[blockend:07]
+
+[blockstart:08]
+
+UPGRADE THE CARPENTER'S WORKSHOP 2
+
+The carpenter has gained enough experience to produce handcarts. This requires you to upgrade the carpenter's workshop once more.  
+
+Upgrade the CARPENTER'S WORKSHOP 2! To do so, click on the carpenter's workshop to open its building display. Click on the button "START UPGRADE". This button will only appear if all the goods required for the upgrade are available. 
+[blockend:08]
+
+[blockstart:09]
+
+UPGRADE THE CARPENTER'S WORKSHOP 3
+
+The carpenter has gained enough experience to produce merchant ships. This requires you to upgrade the carpenter's workshop once more. In the further course of the game you should bear in mind that this requires the carpenter's workshop to be built close to the shore. 
+
+Upgrade the CARPENTER'S WORKSHOP 3 anyway! To do so, click on the carpenter's workshop to open its building display. Click on the button "START UPGRADE". This button will only appear if all the goods required for the upgrade are available. 
+[blockend:09]
+
+
+[blockstart:10]
+
+FROM AN ORE MINER TO A BLACKSMITH
+
+The ore miner is experienced enough to become a blacksmith. He needs a smithy to produce iron tools and later iron spears and shortswords using iron and wood.
+
+Build a SMITHY and assign the ore miner there!
+[blockend:10]
+
+[blockstart:11]
+UPGRADE THE SMITHY
+
+The blacksmith is experienced enough to produce longswords. This requires you to upgrade the smithy.
+
+He will later be able to learn to produce chain mail and even plate armour.
+
+Upgrade the SMITHY! To do so, click on the smithy to open its building display. Click on the button "START UPGRADE". This button will only appear if all the goods required for the upgrade are available.
+[blockend:11]
+
+
+[blockstart:12]
+
+FROM A HUNTER TO A TAILOR OR STOCK FARMER
+
+The hunter is experienced enough to work as a tailor or stock farmer. 
+
+A tailor needs a tailor's workshop to produce leather shoes. 
+
+
+A stock farmer needs a cattle farm, which should be built close to grazing animals. These can be caught by a scout. 
+Sheep provide wool and meat, while cattle provide meat and leather.
+
+Build a TAILOR'S WORKSHOP and a CATTLE FARM and assign the hunters there!
+Bear in mind that for the cattle farm you'll need roof tiles, which can only be produced in the upgraded pottery. You'll also only be able to build a cattle farm if you own a pottery 2.
+[blockend:12]
+
+[blockstart:13]
+
+UPGRADE THE TAILOR'S WORKSHOP
+
+The tailor has gained enough experience at making shoes to produce leather armour. This requires you to upgrade the tailor's workshop.
+
+As he gains experience, the tailor will be able to make tunics.
+
+Upgrade the TAILOR'S WORKSHOP! To do so, click on the tailor's workshop to open its building display. Click on the button "START UPGRADE". This button will only appear if all the goods required for the upgrade are available.
+[blockend:13]
+
+
+[blockstart:14]
+
+VERY GOOD! 
+
+Your buildings are really well upgraded! 
+You have managed to establish really good production chains, and with them important technologies for your people!
+
+Proceed to the next tutorial!
+[blockend:14]
+
+
+[blockstart:15]
+
+WELL DONE! 
+
+Now you have upgraded your pottery, but the potter doesn't know that he is supposed to produce roof tiles instead of bricks ... 
+To have the potter produce roof tiles, select him and click on the button next to the roof tiles in the WORK tab. He will automatically change the production to the new goods.
+
+Please change the potter's production to roof tiles!
+[blockend:15]
+
+
+[blockstart:16]
+
+WELL DONE! 
+
+Now you have upgraded your stonemason's workshop, but the stonemason doesn't know that he is supposed to produce marble instead of quarrystone ...
+To have the stonemason produce marble, select him and click on the button next to the marble in the WORK tab. He will automatically change the production to the new goods. 
+
+Please change the stonemason's production to marble!
+[blockend:16]
+
+[blockstart:17]
+
+WELL DONE! 
+
+Now you have upgraded your carpenter's workshop, but the carpenter doesn't know that he is supposed to produce furniture instead of wooden tools ...
+To have the carpenter produce furniture, select him and click on the button next to the furniture in the WORK tab. He will automatically change the production to the new goods.
+
+Please change the carpenter's production to furniture!
+[blockend:17]
+
+[blockstart:18]
+
+WELL DONE! 
+
+Now you have upgraded your tailor's workshop, but the tailor doesn't know that he is supposed to produce leather armours instead of shoes ...
+To have the tailor produce leather armour, select him and click on the button next to the leather armour in the WORK tab. He will automatically change the production to the new goods. 
+
+Please change the tailor's production to leather armour!
+[blockend:18]
+
+[blockstart:19]
+
+Cattle farm available!
+
+Now you can build a cattle farm as well, because the potter has produced the required roof tiles!
+[blockend:19]

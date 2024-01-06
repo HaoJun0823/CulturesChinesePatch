@@ -1,0 +1,134 @@
+[blockstart:header] 
+TRADE AND SHIPS
+[blockend:header]
+
+[blockstart:00] 
+Goods can be supplied for trade within your village and outside it as well. Of course, this is the merchant's job. He transports the goods between the production places, warehouses and headquarters. 
+
+Here you will be shown how to trade with other people by land and sea, and how to use the merchant in your own village.
+[blockend:00]
+
+[blockstart:01] 
+THE MERCHANTS
+
+Here are Thorfinn, Lodin and Ari, three experienced merchants. 
+
+When selecting a merchant his character display opens on the TRADE tab, where you can adjust the trade settings.
+
+The first thing you have to do is to assign two TRADE POSTS. To do so, click on the small round button next to "Trade Post" in the character display for every trade post, or click the button with the scales in the merchant's action menu, then click on the respective trade post. As with any worker, you can assign the merchant to a trade post by right-clicking.
+You can trade between any buildings with stores in your own settlement, i.e. also between places of production. 
+
+Assign one merchant to two warehouses.
+[blockend:01]
+
+[blockstart:02] 
+If you don't give the merchant any order, he will transport any goods - in this case honey. 
+If you have assigned two trade posts, you should "EMPLOY MERCHANT". To do so, click on the respective button in the merchant's character display.
+
+If you trade within your nation, a window will appear with both trade posts, and in the middle you will see a list of goods that can be traded. If you don't click on anything, the merchant will try to balance the stores of goods in the warehouses. The arrows next to the list stand for the direction in which the goods are taken as well as letting you choose goods. 
+If you click on one or several arrows, only those goods will be transported whose arrows are active, i.e. lit up. 
+[blockend:02] 
+
+[blockstart:03] 
+CLAYME AND STONY NEED TOOLS 
+(Trading within your own people)
+
+Somewhere far away from your village your potter and stonemason are doing their jobs. Unfortunately, they forgot to take their good iron tools with them, therefore they are not very productive ... 
+
+Select Thorfinn, Lodin or Ari and assign the northern warehouse as trade post 1 and the southern warehouse at the pottery as trade post 2! (If you want to select a different trade post, select the button "Remove Trade Post" and click on the trade post you no longer need to deselect it. Choose another one afterwards.)
+
+Take 5 IRON TOOLS to the warehouse! 
+[blockend:03]
+
+[blockstart:04] 
+HANDCARTS and OX CARTS
+
+Carts are a major advantage for carriers and merchants, because they can carry 10 to 20 goods respectively at the same time. Therefore, they can make a merchant far more effective. To use a cart, a carrier or merchant must be assigned to the vehicle so he can steer it. 
+This can be done using the action button "Assign Vehicle". As soon as you have used this button, the possible vehicles (ship, handcart or ox cart) will light up. Click on one of the carts with the right mouse button to inform the Viking of your choice. 
+
+Hint:
+You can assign a cart to a Viking as a vehicle directly via the tooltip option by right-clicking.
+[blockend:04]
+
+[blockstart:05] 
+GREAT!
+
+Now Clayme and Stony have got their tools, their productivity has been considerably improved.
+
+In the meantime, our merchants can establish new trade relations with a Frankish people ...
+[blockend:05]
+ 
+[blockstart:06] 
+TRADING WITH ANOTHER NATION
+
+To trade with another nation which has a FRIENDLY attitude towards you, you need an effective trade agreement, and the other people must have a WAREHOUSE. Both prerequisites are fulfilled by this tiny Frankish people on the north coast. Your merchants also need to be assigned a CART.
+
+If you trade with another people, you can choose the goods you want your merchant to trade from among one or several of your trading partner's offers. The left-hand side displays the goods the friendly tribe supplies. The right-hand side shows what they expect in exchange. 
+Left-click on the line with the respective offer. Your merchant will then try to trade these goods. 
+If you want to choose another trade post, click on the button "Remove Trade Post" and click on the respective trading partner to deselect him and choose the new trading partner.
+
+Trade 10 furniture with the Franks! You will receive 20 gold pieces in exchange.
+[blockend:06]
+
+[blockstart:07] 
+VERY GOOD!
+
+You have received 20 gold pieces for your furniture from the Franks. Thus you have fulfilled your trade agreement.
+[blockend:07]
+
+[blockstart:08] 
+Let's take a look at the overseas trade. Sometimes you'll need to load ships to take goods to distant countries ... like this friendly Saracen village.
+
+SHIPS are produced in the carpenter's workshop 4. This needs to be built close to the shore so the carpenter can build ships.
+
+To load goods on a ship, a CARRIER needs to be assigned to it. The administration of the ship's store is handled the same as for warehouses: With individual registers grouped by goods. Click on the ship and the respective plus signs of the desired good to set the minimum stock.
+
+Load at least 5 sacks of flour onto the ship and assign a CARRIER with a CART to it. (To do so, first assign the carrier a cart as his vehicle, then select the cart and assign it to the ship.)
+[blockend:08]
+
+[blockstart:09] 
+The goods have now been loaded onto your ship and it is ready to set sail!
+
+Any adult Viking assigned to the ship can steer it - he will automatically become its commander! This is done via the action button "ASSIGN VEHICLE". As soon as you have clicked this button, the possible vehicles will light up. Right-click on a ship to inform the Viking about your choice. 
+(You can assign a ship to a Viking as a vehicle directly via the tooltip option by right-clicking.)
+
+Steer the ship to the Saracens' shore as you would one of your Vikings by using the "GO TO" order. 
+[blockend:09]
+
+[blockstart:10] 
+You have reached the Saracens' shore.
+If you want to go ashore, you will first need to MOOR your ship, because that is the only way your Vikings can embark or disembark, load and unload the ship! 
+
+Select the ship and press the SPACEBAR. The ship's available actions will be indicated. Select "Moor" and right-click on one of the highlighted places on the shore. 
+You can see that a ship is moored because its sails are pulled up.
+
+A ship has its own store, similar to the headquarters and the warehouses, but it is still a means of transport - not a house. Therefore, it is not possible to trade straight from the ship, you need a fixed TRADE POST, i.e. a warehouse.
+
+Your Vikings have already been very busy, they have built a warehouse on the Saracens' shore.
+Unload the goods (by selecting the ship, pressing the spacebar and clicking on the button "Unload All Goods") and trade with the Saracens!
+[blockend:10]
+
+[blockstart:11] 
+FANTASTIC!
+
+You have fulfilled your trade agreement with the Saracens. Now you can consider yourself a great merchant indeed.
+
+Proceed to the next tutorial!
+[blockend:11]
+
+[blockstart:12] 
+
+Check if you have assigned the northern warehouse to the merchant as trade post 1 and another warehouse as trade post 2.
+
+Assign the two warehouses to the merchant!
+[blockend:12]
+
+[blockstart:13] 
+
+Have one merchant take iron tools to Clayme and Stony's warehouse!
+[blockend:13]
+
+[blockstart:14] 
+
+Trade furniture for gold with the Franks. 
+[blockend:14]
