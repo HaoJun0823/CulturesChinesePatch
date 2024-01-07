@@ -1,43 +1,43 @@
 [blockstart:header] 
-THE PHAROS LIGHTHOUSE
+法罗斯灯塔
 [blockend:header]
 
 [blockstart:00_start]
-Shadow and chaos were threatening the world. A dark power was spreading across the lands, turning people into beasts and life into death. A feeling of melancholy and hopelessness was slowly pervading the people. Where there had once been happiness, now there was sadness and depression. All that was left of the once large and mighty kingdoms were the memories ...
+阴影和混乱正在威胁着世界。 一股黑暗的力量在大地上蔓延，将人变成野兽，将生变成死亡。 一种忧郁和绝望的感觉慢慢地弥漫在人们的心头。 曾经有幸福的地方，现在却有悲伤和沮丧。 曾经庞大而强大的王国只剩下记忆......
 
-And so the Council of Nations had gathered in order to find a solution.
+因此，国际委员会聚集在一起寻求解决方案。
 
-When the ambassador reached the Council with news of the ancient legend, the signs of the past were interpreted: The dark power could only be banned by reviving the largest and most glorious works of humanity. Their mysterious powers might be able to avert all evil.
+当大使带着古老传说的消息到达议会时，过去的迹象得到了解释：只有通过复兴人类最伟大、最辉煌的作品才能禁止黑暗力量。 他们的神秘力量也许能够消除一切邪恶。
 
-And thus the Council of Nations decided to resurrect all the Wonders of the Ancient World ... 
+因此，国际委员会决定复活古代世界的所有奇迹......
 
 [blockend:00_start]
 [blockstart:00_start1] 
-But even the last two Wonders of the World that were still preserved, the Pyramids of Giza and the Lighthouse on the island of Pharos off the coast of Alexandria, were threatened. Regular earthquakes shook the Lighthouse, and invading armies of dark warriors and wild beasts threatened the Pyramids. Together the nations would have to act quickly.
+但即使是仍然保存下来的最后两座世界奇迹，吉萨金字塔和亚历山大海岸法罗斯岛上的灯塔，也受到了威胁。 定期发生的地震震动了灯塔，黑暗武士和野兽入侵的军队威胁着金字塔。 各国必须共同迅速采取行动。
 
-While the frontlines at the Pyramids of Giza are defended by the Byzantines, Egyptians and Saracens, it is up to your Viking people to save the Lighthouse of Alexandria from collapsing with the help of the most powerful heroes of the present day.
+虽然吉萨金字塔的前线由拜占庭人、埃及人和撒拉森人保卫，但你们的维京人有责任在当今最强大的英雄的帮助下拯救亚历山大灯塔免遭倒塌。
 [blockend:00_start1]
 
 [blockstart:50_endheader] 
-MISSION COMPLETED! 
+任务完成！
 [blockend:50_endheader]
 [blockstart:50_end] 
-We had made it! The Pharos Lighthouse, probably the tallest building on Earth, was shining again and could be seen by sailors far out at sea. From now on it would guarantee them a safe entry into the harbour. 
+我们成功了！ 可能是地球上最高的建筑——法罗斯灯塔再次闪耀，远在海上的水手们都可以看到。 从现在开始，它将保证他们安全进入港口。
 
 [blockend:50_end]
 [blockstart:50_end1] 
-The people of Alexandria were grateful for our support and planned to organise a large feast in our honour. However, the next task was already waiting: the HANGING GARDENS OF SEMIRAMIS in Babylon were our next port of call ...
+亚历山大人民感谢我们的支持，并计划为我们举办一场盛大的宴会。 然而，下一个任务已经在等待：巴比伦的塞米拉米斯空中花园是我们的下一个停靠港......
 [blockend:50_end1]
 
 
 [blockstart:01] 
-MOORING PLACE FOUND!
+发现停泊处！
 
 <usericon:1,294,174>
 
-We found an ideal mooring place in this little bay. Lush green meadows invited us to set up our dwellings in this spot.
+我们在这个小海湾找到了一个理想的停泊处。 郁郁葱葱的绿色草地邀请我们在这里安家。
 
-Unload the goods and set up a small settlement.
+卸货并设立小型结算点。
 [blockend:01]
 
 
