@@ -1,24 +1,24 @@
 [blockstart:header] 
-THE HOLY FIRE
+圣火
 [blockend:header]
 
 [blockstart:00_start] 
-Deep down in the tunnel the merciless heat of the desert could hardly be felt.
+在隧道深处，几乎感觉不到沙漠无情的炎热。
 
 <usericon:1,38,49>
 
-The mouldy air penetrated our lungs, and from somewhere nearby we heard the echoing blows of the miners' hammers. But where did they keep the Holy Fire?
+发霉的空气钻进了我们的肺部，附近的某个地方我们听到了矿工锤子的回声。 但他们把圣火存放在哪里呢？
 [blockend:00_start]
 [blockstart:00_start1] 
-Find the Holy Fire.
+寻找圣火。
 [blockend:00_start1]
 
 
 [blockstart:50_endheader] 
-MISSION COMPLETED! 
+任务完成！
 [blockend:50_endheader]
 [blockstart:50_end] 
-Finally we had found the fire for the Pharos Lighthouse. The Saracen people had given us a hard time.
+我们终于找到了法罗斯灯塔的火源。 撒拉逊人给我们带来了困难。
 
 <usericon:1,137,14>
 [blockend:50_end]
@@ -28,42 +28,42 @@ Finally we had found the fire for the Pharos Lighthouse. The Saracen people had 
 
 
 [blockstart:01] 
-MOUNTAIN PEOPLE
+山民
 
-"Hey, you! Who allowed you to enter our mines?"
+“喂，你！谁允许你进我们矿洞的？”
 [blockend:01]
 
 
 [blockstart:02] 
-WORKER
+工人
 
-"Don't hurt us! We only do our work and we hardly know what is happening above ground!" 
+“别伤害我们！我们只做我们的工作，我们几乎不知道地上发生了什么！”
 
 <usericon:1,23,62>
 [blockend:02]
 
 [blockstart:03] 
-The entrance to the gate is still blocked!
+大门入口还被堵住！
 
 <usericon:1,121,52>
 
-Find a way to open the gate!
+找到打开大门的方法！
 [blockend:03]
 
 [blockstart:04] 
-Your Vikings may now pass the gate! But beware of the guards of the Holy Fire who are hiding behind the gate!
+你的维京人现在可以通过大门了！ 但要小心隐藏在大门后面的圣火守卫！
 
 <usericon:1,121,52>
 [blockend:04]
 
 [blockstart:05] 
-LIFE ENERGY
+生命能量
 
-A strange magic surrounded this place ... 
+一种奇怪的魔法包围了这个地方……
 
 <usericon:1,96,77>
 
-All our men felt like they had been reborn!
+我们所有的男人都感觉自己获得了重生！
 [blockend:05]
 
 
@@ -72,32 +72,32 @@ All our men felt like they had been reborn!
 
 [blockstart:100]
 <font:$local$\fonts\fonthead16bld.fnt>
-MISSION FAILED!
+任务失败！
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
-Heroism or carelessness? When BJARNI died the gods were crying ... without this hero, the outcome of this mission will remain hidden to you!
+英雄主义还是粗心大意？ 当 BJARNI 去世时，众神都在哭泣……如果没有这位英雄，这个任务的结果将永远对你隐藏！
 [blockend:100]
 
 [blockstart:200]
 <font:$local$\fonts\fonthead16bld.fnt>
-MISSION FAILED!
+任务失败！
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
-A short moment of negligence, that's all it takes to lose your life! Your heroine CYRA died due to your negligence! Without this heroine, the outcome of this mission will remain hidden to you! 
+稍有不慎，就会丧命！ 你的女主角CYRA因你的疏忽而死！ 如果没有这位女主角，这个任务的结果将永远对你来说是未知的！
 [blockend:200]
 
 [blockstart:300]
 <font:$local$\fonts\fonthead16bld.fnt>
-MISSION FAILED!
+任务失败！
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
-A short moment of negligence, that's all it takes to lose your life! Your friend and hero HATCHIE died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you! 
+稍有不慎，就会丧命！ 你的朋友和英雄HATCHIE因你的疏忽而死了！ 如果没有这位英雄，这个任务的结果将永远对你隐藏！
 [blockend:300]
 
 [blockstart:400]
 <font:$local$\fonts\fonthead16bld.fnt>
-MISSION FAILED!
+任务失败！
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
-A short moment of negligence, that's all it takes to lose your life! Your friend and hero SIGURD died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you! 
+稍有不慎，就会丧命！ 你的朋友兼英雄SIGURD因你的疏忽而死！ 如果没有这位英雄，这个任务的结果将永远对你隐藏！
 [blockend:400]
