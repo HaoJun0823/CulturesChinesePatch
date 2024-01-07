@@ -1,0 +1,15 @@
+[blockstart:header]
+
+资源无限
+
+[blockend:header]
+
+[blockstart:begin_00]
+在这里没有和平可言。
+
+维京部落们彼此争斗不休，麻烦不断...
+
+据说这里藏有数不尽的宝藏，值得好好地探索!
+
+工作的时候到了，你的部落需要一个领导者!
+[blockend:begin_00]

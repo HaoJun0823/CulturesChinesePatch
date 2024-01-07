@@ -1,0 +1,27 @@
+
+Ambient Loops für C2 (geloopte Atmosphärentracks)
+=================================================
+
+(alle Wüstenloops können auch für Eis-, Schnee- und Gebirgslandschaften
+ verwendet werden)
+
+Beach1		- Strand mit starker Brandung
+Beach2		- kleiner Strand, keine Brandung
+
+Desert1		- starker Sturm
+Desert2		- starke Böen
+Desert3		- leichte Böen
+
+Forest1		- leichter Wind, viele Vögel in der Entfernung
+Forest2		- dunkler bedrohlicher Sound, Eule in der Entfernung
+
+Meadow1		- leichter Wind, wenige Vögel in der Entfernung
+Meadow2		- Grillenzirpen, kleiner Bach in der Nähe, wenig Wind, Vögel in Entfernung
+
+Water1		- Bachplätschern für kleine Bäche und Ströme
+Water2		- See/Sumpfgeräusche für kleine stehende Gewässer
+Water3		- für grosse Wasserflächen, konstantes Wellenrauschen
+Water4		- Fluss, für mittlere und grosse Flüsse
+
+Volcano		- Vulkankrater
+
