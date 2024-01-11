@@ -7,61 +7,62 @@
 
 [blockstart:100]
 <font:$local$\fonts\fonthead16bld.fnt>
-MISSION FAILED!
+任务失败！
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
-Heroism or carelessness? When BJARNI died the gods were crying ... without this hero, the outcome of this mission will remain hidden to you!
+是英雄主义还是粗心大意？当布加尼死去时，上天在哭泣……没有这位英雄，这次故事的结局将永远不为人知！
 [blockend:100]
 
 [blockstart:200]
 <font:$local$\fonts\fonthead16bld.fnt>
-MISSION FAILED!
+任务失败！
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
-A short moment of negligence, that's all it takes to lose your life! Your heroine CYRA died due to your negligence! Without this heroine, the outcome of this mission will remain hidden to you! 
+是英雄主义还是粗心大意？当西拉死去时，上天在哭泣……没有这位英雄，这次故事的结局将永远不为人知！
 [blockend:200]
 
 [blockstart:300]
 <font:$local$\fonts\fonthead16bld.fnt>
-MISSION FAILED!
+任务失败！
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
-A short moment of negligence, that's all it takes to lose your life! Your friend and hero HATCHIE died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you! 
+是英雄主义还是粗心大意？当哈迪死去时，上天在哭泣……没有这位英雄，这次故事的结局将永远不为人知！
 [blockend:300]
 
 [blockstart:400]
 <font:$local$\fonts\fonthead16bld.fnt>
-MISSION FAILED!
+任务失败！
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
-A short moment of negligence, that's all it takes to lose your life! Your friend and hero SIGURD died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you! 
+是英雄主义还是粗心大意？当西加哥德死去时，上天在哭泣……没有这位英雄，这次故事的结局将永远不为人知！
 [blockend:400]
 
 [blockstart:500]
 <font:$local$\fonts\fonthead16bld.fnt>
-MISSION FAILED!
+任务失败
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
-A short moment of negligence, that's all it takes to lose your life! Your friend and hero NORBERT, the dragon, died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you!
+是英雄主义还是粗心大意？你的龙死了！上天在哭泣……没有这位英雄，这次故事的结局将永远不为人知！
+
 [blockend:500]
 
 [blockstart:600]
 <font:$local$\fonts\fonthead16bld.fnt>
-MISSION FAILED!
+任务失败
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
-A short moment of negligence, that's all it takes to lose your life! MANI, son of Bjarni and Cyra, died due to your negligence! Without him, the outcome of this mission will remain hidden to you!
+是英雄主义还是粗心大意？曼尼去世了，上天在哭泣……没有这位英雄，这次故事的结局将永远不为人知！
+
 [blockend:600]
 
 
 [blockstart:700]
 <font:$local$\fonts\fonthead16bld.fnt>
-MISSION FAILED!
+任务失败
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\People_Dead_F.pcx>
-You attacked your best friends although you had been warned! 
-
-This way you will not be able to complete your mission!
+不要再进攻你的盟友了。
+你失去了他们的信任！
 [blockend:700]
 
 
@@ -69,67 +70,68 @@ This way you will not be able to complete your mission!
 // **************************
 // Startbriefing
 [blockstart:header] 
-THE COLOSSUS OF RHODES
+罗得岛上的巨像
 [blockend:header]
 
 [blockstart:00_start1] 
-We had arrived on a small island near Rhodes to restock our supplies and to recover from our journey. We wanted to cross to Rhodes, as this was the right spot to complete the next Wonder of the World - a statue that was to tower above the roofs of the city. A mighty Colossus! This was what the Council had ordered us to do, and we felt that this was not going to be an easy task ...
+我们来到了靠近罗得岛的一个小岛，为了补给和恢复体力。我们想要穿过去罗得岛，因为那里是建造下一个世界奇迹——一座高耸于城市屋顶之上的雄伟巨像的合适地点。一座强大的巨像！这是议会命令我们完成的任务，我们感到这不会是一项容易的任务……
 
 [blockend:00_start1]
 
 [blockstart:00_start3]
 
-We had hardly left our ship when we heard the sounds of battle, and horns being blown in the distance!
-A war was raging! 
+我们刚离开船只时，就听到远处传来战斗声和号角声！
 
-We could not tell exactly where the noise was coming from over the sea, but we feared that, of all places, our destination Rhodes was at war! Had evil stretched this far already? In this case we had to hurry up and act quickly!
+一场战争正在进行中！
 
-We decided to settle down for the moment and send out some scouts to find out exactly what was happening in Rhodes.
+我们无法确定声音从海上的哪个方向传来，但我们担心我们的目的地，罗得岛卷入了战争！邪恶已经延伸到这么远了吗？如果是这样，我们必须赶快行动起来！
 
+我们决定先在这个岛上安顿下来，派出一些侦察兵去了解罗得岛发生的情况。
 
-Settle down on the island and send scouts to Rhodes.
-Use your papers and the goods from the ship.
+在岛上安顿下来，利用你的文书和船只上的物资。
 [blockend:00_start3]
 
 
 [blockstart:00_start2] 
-THE JOURNEY HOME
+回家之旅
 
-We had hardly arrived and unloaded the ships when our son Mani suddenly collapsed and lay on the beach unconscious! 
-We immediately ran up to him and turned him on his side. What we saw left us speechless! 
+我们刚到达并卸下船只时，我们的儿子曼尼突然倒在沙滩上晕倒了！
+我立即跑上前，翻身让他躺好。但是接下来看到的事情更为让人难过。
 
-His forehead was glowing like fire, he was soaked with sweat, and big red blotches covered his entire body!
-Cyra sobbed with fear and concern, as she seemed to know this disease - years ago, it had claimed numerous victims among the children of Byzantium! 
+他的额头像火一样发光，他浑身汗水淋漓，整个身体布满了大红色斑点！
+西拉因恐惧和担心而哭泣，因为她知道。这种疾病在——多年前，它夺去了拜占庭许多儿童的生命！
 
-Mani needed medical help quickly, but there was nobody among our friends who was skilled in medicine.
-After some discussion, we finally decided to take Mani to his grandfather's court in Byzantium. They had the best physicians of the empire, who would surely be able to help him - at least we hoped so ...
+曼尼现在需要医生！！但我们的朋友中没有人擅长医学。
+经过一番讨论，我们最终决定把曼尼带到他爷爷在拜占庭的宫廷里。他们拥有帝国最好的医生，他们肯定能够帮助他。
 
-With sad hearts we had to leave Hatchie and Sigurd behind with their task, but they both showed understanding for our miserable situation.
+——至少我们希望如此……
 
-We wished them good luck and promised to return as soon as Mani was better.
-Then we set sail towards Byzantium ...
+我们怀着沉重的心情离开了哈迪和西加哥德，让他们继续完成任务，但他们都理解我们悲惨的情况。
+
+我们祝他们好运，并承诺曼尼康复后会尽快回来。
+然后我们启航前往拜占庭……
 [blockend:00_start2]
 
 
 
 // Mission gewonnen
 [blockstart:09_end_header] 
-MISSION COMPLETED! 
+任务完成
 [blockend:09_end_header]
 
 [blockstart:09_end_text1] 
-We made it! With our help, Chares had managed to erect the third Wonder of the World!
+我们完成了！罗德岛的雕像在我们的帮助下迅速的竣工。感谢建筑师的鼎力协助。
 
-There the Colossus of Rhodes stood tall above the entrance to the harbour. Helios would be satisfied, and we had reached our goal as well.
+罗得岛上矗立着高耸入口的科洛索斯巨像。赫利俄斯将会满意，而我们也达到了我们的目标。
 
-Only Chares wasn't too enthusiastic. The construction had financially ruined him! Full of despair and depression, he boarded a ship and set off.
+只有查雷斯并不太热衷。这个建筑项目几乎使他破产！充满绝望和沮丧，他登上一艘船启程离开了。
 
 [blockend:09_end_text1]
 
 [blockstart:09_end_text2] 
-It was time for us to say goodbye now. We left the magnificent city of Rhodes and sailed towards Halicarnassus. 
+现在是时候告别了。我们离开了壮丽的罗得城，驶向卡里亚纳苏斯。
 
-This was our next port of call - THE TOMB OF MAUSOLOS.
+这是我们的下一个停靠港口——毛索洛斯陵墓。
 [blockend:09_end_text2]
 
 
@@ -140,109 +142,109 @@ This was our next port of call - THE TOMB OF MAUSOLOS.
 
 // Oxidos
 [blockstart:10] 
-OXIDOS
+奥克西多斯
 
-This is the island of Oxidos. A small, quiet island. Ideal for a short trip, but who has got time for such things? 
+这是奥克西多斯岛。一个小而宁静的岛屿。适合进行短途旅行，但谁有时间去玩呢？
 ...
 
-Well, there are huge iron and gold deposits on Oxidos. The people of the island make their living by fishing and trading all kinds of ore. 
-They are happy about every business they can do, and are altogether very satisfied. 
+好吧，在奥克西多斯有大量的铁矿和黄金矿床。该岛的居民以捕鱼和贸易各种矿石为生。
+他们对能做生意感到高兴，并且总体上非常满意。
 
-They will surely be glad to do trade with you, too.
+他们肯定也会很愿意与您进行贸易。
 [blockend:10]
 
 [blockstart:11] 
-Is this a way to behave? To attack peaceful people who only think of your good? Should you behave like this when you are not at home?
+这种行为合适吗？袭击对你友好的人民？
 
-Anyhow - the people of Oxidos are more interested in good trade than in dispute. That's why they offer to forget about the trouble and trade with you. 
+不管怎样——奥克西多斯的人更感兴趣的是良好的贸易，而不是争斗。因此，他们提议忘记这件事，与您进行贸易。
 
-However, this offer is not exactly for free ...
+然而，这个提议并不完全是免费的...
 
-
-Pay the requested tribute if you want to make the people of Oxidos happy again.
+如果你想让奥克西多斯的人民再次开心起来，请支付请求的贡品。
 [blockend:11]
 
 
 // Chronos
 [blockstart:20] 
-CHRONOS
+克罗诺斯
 
-You have reached Chronos. Weapon and armour merchants live here, who are well known for their excellent products in the whole Mediterranean area. However, they are so popular that they can charge a price before they start trading.
+你已经到达了克罗诺斯。这里居住着武器和盔甲商人，他们以地中海地区的优质产品而闻名。然而，他们非常受欢迎，所以在开始交易之前他们会索要一定的价格。
 
-
-Pay a tribute if you want to trade.
+支付贡品，如果你想进行贸易。
 [blockend:20]
 
 [blockstart:21] 
-You have paid Chronos the tribute. Now you are allowed to trade.
+你已经向克罗诺斯支付了贡品。现在你被允许进行贸易。
 [blockend:21]
 
 
 // Croesus
 [blockstart:30] 
-CROESUS
+克雷索斯
 
-You have invaded King Croesus' empire! And he doesn't like it when strangers try to lay hands on his gold! 
+你侵入了克罗伊索斯国王的帝国！没有陌生人能碰他的黄金，这是他的逆鳞！我们要小心了。
 
 <usericon:1,47,390>
 
-However, he is prepared to put down his weapons in return for a certain "peace price".
+然而，如果你表现足够的诚意的话。。。。
 
-Pay the tribute in order to establish peace ...
+支付贡品以建立和平...
 [blockend:30]
 
 [blockstart:31] 
-TRUCE
+停火
 
-As promised, Croesus withdraws from the gold deposit. 
+如约，克雷索斯退出了黄金矿脉
 
 <usericon:1,53,466>
 
-He will not attack you any more.
+他不会再对你发动攻击。
 [blockend:31]
 
 
 // Rhodos
 [blockstart:40] 
-RHODES
+罗得岛
 
-The famous seaport of Rhodes, in the north of the island bearing the same name. Travellers referred to Rhodes as one of the most beautiful islands of the Aegean Sea. But we didn't like what WE were seeing at all!
+著名的罗得海港，位于同名岛屿的北部。旅行者们称罗得为爱琴海最美丽的岛屿之一。但我们对自己所看到的忧心忡忡。
 
-There were soldiers everywhere, and they were nervously running around in the streets. Battle noises echoed from the city walls.
+到处都是士兵，他们在街道上紧张地奔跑着。战斗的噪音从城墙回荡。
 
-Rhodes was under siege! The city was at war!
+罗得在被围城！！这座城市正在进行战争！
 
-But as long as the war lasted, it was impossible to carry out our plans - to build the Colossus that would be remembered as a Wonder of the World for centuries to come!
-We had to find a way to end the war. But how were we to do that? After all, we were in no condition to face a whole army ...
+只要战争还在继续，我们将无法实施我们的计划
 
-We decided to check the situation and look for information. Surely, there must be people in town who could help us ...
+——建造一个会被世人铭记的世界奇迹，科洛索斯巨像！
 
+我们必须找到一种结束战争的方法。但我们怎么做呢？毕竟，我们无法面对整个军队...
 
-Search the city for information that might help you.
+我们决定调查情况并寻找信息。肯定有人在城里可以帮助我们...
+
+搜索城市以获取可能帮助你的信息。
+
 [blockend:40]
 
 [blockstart:41] 
-Why do you have a hostile attitude towards the people of Rhodes? They haven't done you any harm!
+你为什么对罗得的人民持敌对态度？他们没有对你做过任何伤害！
 
-Change your attitude, or you will not reach your goal! 
+改变你的态度，否则你将无法达到你的目标！
 [blockend:41]
 
 
 
 // Demetrios
 [blockstart:50] 
-DEMETRIOS
+迪米特里奥斯
 
-King Demetrios with his army. He has been besieging the city of Rhodes for weeks. So far he has not been able to penetrate the firm city walls, but his attacks are getting stronger and stronger.
+国王迪米特里奥斯带领他的军队围攻罗得城已经数周。到目前为止，他还没有成功突破坚固的城墙，但他的攻击越来越强烈。
 
-
-Keep away from his soldiers! They will show you no mercy!
+远离他的士兵！他们的士兵非常的凶残，也不会对我们友好的。
 [blockend:50]
 
 [blockstart:55] 
-NAVAL BLOCKADE
+海上封锁
 
-Demetrios has established a naval blockade. There is no way through! 
+迪米特里奥斯实施了海上封锁！
 
 <usericon:1,409,199>
 
@@ -251,33 +253,34 @@ Demetrios has established a naval blockade. There is no way through!
 
 // Lindos
 [blockstart:60] 
-LINDOS
+林多斯
 
-This is the city of Lindos. Although the people are close friends with Rhodes, they are too weak to provide military support against Demetrios.
+这是林多斯城。虽然人民与罗得城关系密切，但他们太弱小，无法提供对抗迪米特里奥斯的军事支持。
 
-But who knows what role the brave people of this town will play in this conflict ...
+但是谁知道这个城镇勇敢的人民在这场冲突中会扮演什么角色……
+
 [blockend:60]
 
 [blockstart:61] 
-Why do you have a hostile attitude towards the people of Lindos? They haven't done you any harm!
+为什么你对林多斯人民持敌对态度？他们并没有对你造成任何伤害！
 
-Change your attitude, or you won't reach your goal! 
+改变你的态度，否则你将无法达到目标！
 [blockend:61]
 
 
 [blockstart:70] 
-BACKSHISH
+巴克希什
 
-This is where Bakshish the desert merchant usually lives with his wife. But since the beginning of the siege led by Demetrios, he has been hiding somewhere.
+这就是沙漠商人巴克希什通常与他的妻子住在一起的地方。但自从迪米特里奥斯开始围攻以来，他一直躲藏在某个地方。
 
 <usericon:1,118,187>
 
 [blockend:70]
 
 [blockstart:75] 
-BACKSHISH
+巴克希什
 
-This is the camp of Bakshish the famous desert merchant. Since the end of the blockade, he has opened up his stores again and is looking forward to flourishing business.
+这是巴克希什著名的沙漠商人营地。自封锁解除以来，他重新开张，并期待着繁荣的生意。
 
 <usericon:1,118,187>
 
@@ -289,244 +292,243 @@ This is the camp of Bakshish the famous desert merchant. Since the end of the bl
 // **************************
 
 [blockstart:201] 
-DIMITRI 
+迪米特里
 
-"Ahhhh ... a stranger. In this region? Are you a spy maybe?
+“啊哈哈哈……一个陌生人。在这个地区？你是间谍吗？
 
 <usericon:1,231,81>
 
-Listen: For weeks our city has been besieged by King Demetrios and his army! We are still able to hold the city, but the situation is getting worse!
-The attacks are getting stronger and stronger, and our men are exhausted from battle.
+听着：数周来，我们的城市一直被国王迪米特里奥斯和他的军队围攻！我们仍然能够守住城市，但情况越来越糟糕！
+攻击变得越来越强烈，我们的士兵已经筋疲力尽了。
 
-Go to Petros, our mayor! He is leading our troops and has made a plan how to defeat Demetrios!
-You will find him in his house near the Byzantine quarter.
+去找我们的市长彼得罗斯！他领导我们的军队，并制定了打败迪米特里奥斯的计划！
+你会在拜占庭区附近的他家里找到他。
 
 ...
 
-And if you turn out to be a spy, you will be very sorry!"
+如果你被发现是间谍，你会非常后悔来到这个地方的！我们不会对你手下留情！”
 [blockend:201]
 
 [blockstart:210] 
-OXOS
+奥克索斯
 
-"Sometimes I have good offers. Come back again later."
+“有时我会有好的提议。稍后再回来吧。”
 
 <usericon:1,267,118>
 
 [blockend:210]
 
 [blockstart:220] 
-HELENA
+海莲娜
 
-"This is a nice spot, isn't it? There used to be a magnificent warehouse, but when they built the port in the west, it was torn down. It was so nice though ...
+“这是个不错的地方，不是吗？这里曾经有一座宏伟的仓库，但当他们在西边建造港口时，它被拆除了。它很美，虽然......
 
 <usericon:1,276,79>
 
-Well, who knows...maybe someone else will soon build another nice warehouse in this spot ...
+嗯，谁知道......也许很快就会有人在这个地方建造另一个漂亮的仓库......
 
-Don't you want to build one? You look like a hard worker ..."
+你不想建一个吗？你看起来像一位勤劳的工人......”
 [blockend:220]
 
 [blockstart:230] 
-INTRIGANTOS
+阴谋人
 
-"Hey, stranger ...
-Have you heard of the mountain in the south? There are said to be large gold deposits! Even ore can be found there! 
+“嘿，陌生人......你听说过南边的山吗？据说那里有大量的黄金矿藏！甚至还能找到矿石！
 
 <usericon:1,321,103>
 
-However, they say that this mountain belongs to King Croesus and that he doesn't like it at all if people come too close to his treasures!"
+然而，他们说那座山属于克鲁索斯国王，他可不喜欢陌生人碰他的东西！”
 [blockend:230]
 
 [blockstart:240] 
-ALCOLIOS
+艾科里奥斯
 
-"Hey, stranger ... Shhhhhh ... I can offer you the best rotgut in the world! The finest stuff! Fresh from the press house! Good vintage, I can tell you!
+“嘿，陌生人......嘘......我可以给你提供世界上最好的烈酒！最好的东西！新鲜出厂！好年份，我可以告诉你！
 
 <usericon:1,340,107>
 
-There is nothing left at the moment, but if you come back again later, I may be able to help you ...
+现在什么都没有了，但如果你稍后再回来，我可能能帮你......
 
-HEY - and ... Shhhh! Only for good friends like you!"
+嘿——还有......嘘！只有像你这样的好朋友才行！”
 [blockend:240]
 
 [blockstart:241] 
-ALCOLIOS
+艾科里奥斯
 
-"Ahhh - haven't we met? Hehehe ... best stuff, you know ... hoho ...
+“啊哈——我们见过面吗？呵呵呵......最好的东西，你知道的......呵呵......
 
 <usericon:1,340,107>
 
-I got a new delivery. Do you want to try it? At no expense, of course ... hoho
-Those who like it come back again anyway ... hohoho ..."
+我收到了新货。你想试试吗？当然不用花钱......呵呵
+喜欢喝酒的人迟早会回来的......呵呵呵......”
 [blockend:241]
 
 [blockstart:250] 
-ULYSSES
+尤利西斯
 
-"Greetings, strangers!
+“你好，陌生人！
 
-I have been on numerous journeys, I have travelled the world. I could tell you a lot of stories ...
+我去过很多地方，旅行了世界。我可以告诉你很多故事......
 
 <usericon:1,317,141>
 
-But tell me - do you know the islands of Oxidos and Chronos? Beautiful places, ideal for a short trip! Also, on Chronos you will get the best weapons around here!
-And on Oxidos you will find endless deposits of gold and ore. You can also do excellent trade with both islands!
+你知道奥克西多斯和克罗诺斯岛吗？美丽的地方，适合短途旅行！而且在克罗诺斯岛你会得到这里最好的武器！
+在奥克西多斯，你会找到无尽的黄金矿藏和矿石。你还可以与两个岛屿进行出色的贸易！
 
-Travel north and from there continue towards the rising sun. Then you will find the islands!
-May Neptune be with you!"
+向北旅行，然后继续向东方的太阳升起的方向前进。然后你会找到那些岛屿！愿海神涌现于你身旁！”
 [blockend:250]
 
 [blockstart:260] 
-BADENSOS
+巴登索斯
 
-"Oh, stranger!
-I used to live in the south of this country, in the west of the big mountain range. 
+“哦，陌生人！
+我曾经住在这个国家的南部，大山脉的西边。
 
 <usericon:1,245,126>
 
-There were lush meadows, wonderful woods full of deer and endless resources. 
-I moved into the city when I grew old and too weak to cultivate my fields.
+那里有茂盛的草地，美丽的鹿林和无尽的资源。
+当我年老体弱无法耕种田地时，我搬进了城市。
 
-But to be honest - I liked it better in the south!"
+但说实话——我更喜欢南部！”
 [blockend:260]
 
 [blockstart:270] 
-LINDA, WIFE OF PETROS
+彼得罗斯的妻子琳达
 
-"Greetings, strangers.
+“问候，陌生人。
 
-I am Linda, the wife of our mayor Petros. 
+我是琳达，我们市长彼得罗斯的妻子。
 
 <usericon:1,218,126>
 
-For weeks, our city has been besieged by Demetrios and his army. Our situation is getting worse and worse!
+数周来，我们的城市一直被迪米特里奥斯和他的军队围攻。我们的情况变得越来越糟糕！
 
-However, Petros has made a plan for advancing against the besiegers. It is a dangerous plan, though!
+然而，彼得罗斯为前进对抗围攻者制定了一个计划。但这是一个危险的计划！
 
-Unfortunately, Petros is ... how can I put it ... slightly scared of rain. He won't leave the house in this weather, he locks himself up.
-Petros can help you, but he is scared of rain. He is sitting in the house refusing to go outside ...
+不幸的是，彼得罗斯......怎么说呢......有点怕雨。在这种天气下他不会出门，他锁住自己的房子。把自己关禁闭了。
+彼得罗斯可以帮助你，但他害怕雨天。他坐在房子里拒绝出门......
 
-Look out for my sister ... She often visits the temple in the eastern part of town, tending the garden. You will recognise her easily. She is somewhat slimmer than ... hrmpf ... me, but other than that, we are as like as two peas in a pod. 
-She knows how to talk to the gods of the wind and the weather. She is a mighty sorceress. Find her, maybe she can do something about the rain.
+找找我的妹妹......她经常去东部的寺庙，照料花园。你很容易认出她。她比我瘦一些，但除此之外，我们真的很相似。
+她知道如何与风和天气之神交谈。她是一位强大的女巫。找到她，也许她可以对雨做些什么。
 
-And if it stops raining, maybe Petros will come out and talk to you ..."
+如果雨停了，也许彼得罗斯会出来和你谈谈......”
 [blockend:270]
 
 [blockstart:271] 
-LINDA'S SISTER
+琳达的妹妹
 
-We had found Linda's sister. But before we could ask her the favour, she began to speak:
+我们找到了琳达的妹妹。但在我们能够请求她的帮助之前，她开始说话了：
 
 <usericon:1,317,91>
 
-"So, once again I am asked to spirit away the rain ... Is our dear Petros refusing to leave the house again? Hahaha."
+“所以，我又被要求赶走雨......我们亲爱的彼得罗斯又拒绝出门了吗？哈哈哈。真他妈没出息，没出息的东西，窝囊废。”
 
-Oh well - I will help you. Stand back ..."
+好吧——我会帮你们的。退后一步......”
+
 [blockend:271]
 
 [blockstart:272] 
-"Now go to our scared little hero. Go to Petros ... hahaha.
+"现在去找我们可怜的小英雄吧。去找彼得罗斯...哈哈哈。
 
 <usericon:1,317,91>
 
-And give my regards to Linda!"
+也代我向琳达问好！"
 [blockend:272]
 
 [blockstart:273] 
-PETROS
+彼得罗斯
 
-"Greetings, strangers! My wife has already told me about you! You came here to help, right? Excellent!
+"你们好，陌生人！我的妻子已经告诉我关于你们的事情了！你们来这里是为了帮助我们，对吗？太好了！
 
 <usericon:1,218,128>
 
-Well, then listen to my plan:
+那么，请听听我的计划：
 
-A spy is hiding in the enemy camp. His name is Metros. He is a merchant and supplies the enemy troops with various kinds of goods. But in his heart he is a friend of Rhodes and will always put his life at risk for the sake of the city!
+我们有一个间谍藏在敌营中。他叫梅特洛斯，是个商人，为敌军提供各种商品。他是罗德岛的朋友，愿意冒生命危险来保护城市！
 
-Underneath my house, there is a secret underground passage leading to a cave near Metros' camp. 
-It is my plan to use the passage to supply Metros with mead which he can then offer the enemy soldiers and thus distract them for a while! The time this buys us must be used for someone to sneak past the troops and make their way through to Lindos.
+在我的房子下面，有一条秘密地下通道通向梅特洛斯营地附近的一个洞穴。我的计划是利用这条通道给梅特洛斯供应蜂蜜酒，他可以给敌军士兵提供，从而分散他们的注意力一段时间！我们必须利用这段时间，让有人悄悄经过敌军，前往林多斯。
 
-Lindos is a port in the south-east, and its inhabitants have always been good friends of ours. There is an oracle not far from the city. It is this oracle that we have to consult! The oracle will surely be able to tell us how to defeat Demetrios!
+林多斯是东南的一个港口城市，它的居民一直是我们的好朋友。城市附近有一个神谕。我们必须咨询这个神谕！神谕一定能告诉我们如何击败德米特里奥斯！
 
-The plan is simple, it can't go wrong! Metros has already been informed, he is only waiting for the delivery. 
-I would go myself, but you know ... my back! Ah, it hurts like hell! I would hardly make it to the end of the passage!
+这个计划很简单，不会出错！梅特洛斯已经得到通知，他只是在等待货物的运送。我本来想去的，但你知道...我的背！啊，痛死了！我几乎无法走到通道的尽头！
 
-You will do this for us, won't you?!
+你们会为我们做这件事吧？
 
-Bring a handcart full of mead here. I will then let you sneak into the secret passage so you can take it to Metros.
-You might be able to buy a handcart from Oxos at the market.
+给我带来一车装满蜂蜜酒的手推车。然后我会让你们悄悄进入秘密通道，这样你们就可以把它带给梅特洛斯。
+你可以在市场上向奥克索购买一个手推车。
 
-See you later!"
+待会见！"
+
 [blockend:273]
 
 [blockstart:274] 
-OXOS
+奥克索
 
-"I have a great offer for you! A fine handcart! Newly built, very solid! A real masterpiece!
+"我有一个很棒的报价！一个漂亮的手推车！新建的，非常结实！真正的杰作！
 
 <usericon:1,267,118>
 
-You can have it in return for two mead! We can settle it with a tribute payment, all right?!"
+只要两桶蜂蜜酒，你就可以拥有它！
+你直接就用贡品的方式给我就行了，好吗？！"
 [blockend:274]
 
 [blockstart:275] 
-OXOS
+奥克索
 
-"Thank you for the mead! 
+这真是我需要的蜂蜜酒！！
 
 <usericon:1,267,118>
 
-Here you go, take good care of it!"
+给你，好好保管！"
 [blockend:275]
 
 
 [blockstart:280] 
-KING OF THULE
+图勒的国王
 
-"Greetings, friends from home! How are things going in distant Northland? Is there still a lot of snow? 
+"朋友们，你们好！在遥远的北方，一切都还好吗？那里还有很多雪吗？
 
 <usericon:1,199,138>
 
-Although I used to be chief of a huge Viking people, I never really got used to the snow and the cold.
-That's why I moved to the south a few years ago. It is a lot warmer, a good treatment for my old bones, I can tell you, hoho.
+虽然我曾经是一个庞大的维京人民的首领，但我从来没有真正习惯过雪和寒冷。
+几年前，我搬到了南方。这里温暖得多，对我的老骨头来说是个很好的疗养地，嘿嘿。
 
-There is a beautiful city in the south-east! Its name is Lindos, you will have to go and visit one day. They have very good wine! 
-I also know a secret passage through the mountains! It's hard to find, but it offers a magnificent view of the sea. If you look for it, keep a lookout for treasure chests ..."
+东南方有一个美丽的城市！它叫林多斯，你们以后一定要去参观一下。那里有非常好的葡萄酒！
+我还知道一条穿过山脉的秘密通道！很难找到，但从那里可以看到壮丽的海景。如果你们找到了，记得留意宝箱......"
 [blockend:280]
 
 [blockstart:285] 
-PETROS' MESSENGER 
+彼得罗斯的信使
 
-"We have already prepared everything for you! 
+"我们已经为你们准备好一切了！
 
 <usericon:2,62>
 
-May fortune favour you this time!"
+愿你幸运永驻！
 [blockend:285]
 
 [blockstart:290] 
-PETROS
+彼得罗斯
 
-"Ah, I see you are carrying mead with you! Very good ...
+啊！我看到了，你带着蜂蜜酒跟着我走。很好，我们会有好结果的。
 
 <usericon:1,218,128>
 
-Now take the mead to Metros through the underground labyrinth. Take a few of my men to assist you ... you never know ...
+现在把蜂蜜酒带给梅特洛斯，通过地下迷宫。带上一些我的人，以备不时之需...
 
-Good luck! The fate of the people of Rhodes depends on you!
+祝你们好运！罗德岛人民的命运就掌握在你们手中！
 
-As I said, I would go myself, but my back ..."
+就像我说过的，我本来想去的，但是...我的背.有点疼..."
 [blockend:290]
 
 [blockstart:295] 
-ATTACK!
+被攻击了！
 
-Suddenly a ship with soldiers aboard arrived at the coast! 
+突然，一艘装满士兵的船靠近海岸！
 
 <usericon:1,32,228>
 
-Demetrios' troops! They had discovered us and were now intent on securing the coast ...
+是德米特里奥斯的军队！他们发现了我们，拜占庭人打算确保海岸线的控制在他们手中。......"
 [blockend:295]
 
 
@@ -536,396 +538,395 @@ Demetrios' troops! They had discovered us and were now intent on securing the co
 // **************************
 
 [blockstart:310] 
-EXIT
+通道
 
-We had made it! We left the secret passage and stepped into the daylight. Metros the merchant was supposed to meet us here to take the mead from us.
+我们做到了！我们离开了秘密通道，走进了阳光下。商人梅特洛斯应该在这里和我们会面，接收蜂蜜酒。
 
 <usericon:1,207,234>
 
-We waited ...
+我们等待着...
 [blockend:310]
 
 [blockstart:315] 
-METROS
+梅特洛斯
 
-"Hello, strangers! You have ventured far beyond enemy lines!
+"你好，陌生人！你们果然冒险深入敌营！我很敬佩。
 
 <usericon:2,90>
 
-I do business with the soldiers of Demetrios. A lucrative business, you know, hehehe. They buy everything ...
-But still - my heart belongs to Rhodes. You should always separate business from private matters, that's my motto ...
- 
-Well, I can't do anything for you at the moment, but go and find the mayor in Rhodes. His name is Petros. He may be able to help you."
+我和德米特里奥斯的士兵做生意。一笔利润丰厚的生意，你知道，呵呵呵。他们买任何东西.我只不过适量的赚点小钱.....
+但是，我的心属于罗德岛。你们应该把业务与私事分开，这是我的座右铭......
+
+唉，我现在无能为力，但是去找罗德岛的市长彼得罗斯吧。他也许能帮助你们。"
 [blockend:315]
 
 
 [blockstart:320] 
-METROS
+梅特洛斯
 
-We hadn't been waiting long when Metros approached us:
+我们等待的时间不长，梅特洛斯走到我们面前：
 
 <usericon:2,90>
 
-"Ah, there you are. I have been expecting you. You came through the secret passage, didn't you? 
-I love underground passages, you know. My cousin in distant Lutetia is digging many such tunnels below the city. He says it's in order to lessen the traffic load. 
-He's always been hard-working ...
+"啊，你们来了。我已经在等你们了。你们是通过秘密通道过来的，对吗？
 
-Thank you for the mead! I will try to distract the soldiers with a free round ... When they pitch into it, you should set off through their lines as quickly as possible. But wait here until the path is clear ...
+我喜欢地下通道，你知道。我在遥远的巴黎有个堂兄弟，他正在城市下挖掘许多这样的隧道。他说那是为了减轻交通负荷。
+他一直很勤奋......
 
-Oh, and here is the key to the secret passage's teleport chamber. If anyone has to go through there again, it will shorten the way significantly.
+谢谢你们提供的蜂蜜酒！我会试图用一轮免费的招待分散士兵们的注意力......当他们陷入其中时，你们应该尽快穿过他们的阵线。但是在这里等到通道清晰之前先别动...
 
-And take these weapons here. The path to Lindos might be defended! In this case you will have to fight your way through.
-And now go ...
+哦，这是秘密通道传送室的钥匙。如果有人再次通过那里，将会大大缩短路程。
 
-Take good care of yourselves! Hide until the soldiers have passed and then hurry up!
+还有，拿着这些武器。通往林多斯的道路可能会受到保卫！如果是这样，你们就必须战斗。
+现在去吧...
 
-Good luck!"
+好好保重！在士兵们经过后再出来，然后赶紧走！
+
+祝你们好运！"
 [blockend:320]
 
 [blockstart:330] 
-Your messenger is dead!
-
-The trick with the mead will surely work a second time. 
-Send another messenger to Petros with a handcart full of mead. He will again open the entrance to the secret passage ...
+蜂蜜酒的这个把戏肯定会第二次奏效。
+再派一个信使带着一车装满蜂蜜酒去找彼得罗斯。他会再次打开秘密通道的入口...
 [blockend:330]
 
 [blockstart:340] 
-PLATO
+柏拉图
 
-We had found the mayor of Lindos:
+我们找到了林多斯的市长：
 
 <usericon:2,95>
 
-"Greetings, strangers. How did you get through the enemy lines? It wasn't easy, I suppose?
+“你们好，陌生人。你们是怎么穿过敌军的防线的？我想这不是件容易的事吧？
 
-You are looking for the oracle? Well, the temple of the oracle is located on an island in the east. Most of the time it is protected by an impenetrable fog ... And you would also need a ship ...
+你们在找神谕吗？神谕的神庙位于东边的一座小岛上。大部分时间，它都被无法透过的雾气保护着……而且你们还需要一艘船……
 
-Hm ... let me think ... Yes, go to Buerocrates the harbour master. Please give him my regards. Ask him to give you a ship and see whether he can do something about the fog.
+嗯……让我想想……是的，去找港口大师布鲁克拉特斯。请代我问候他，向他请求一艘船，看看他能否对那片雾气做点什么。
 
-My secretary will go with you. He will settle the rest for you. In the meantime you may go and rest, if you want to."
+我的秘书将会和你们一起去。他会替你们处理剩下的事情。在此期间，如果你们想休息，就可以去休息。”
 [blockend:340]
 
 [blockstart:341] 
-PLATO
+柏拉图
 
-"Oh ...
+“哦……
 
 <usericon:2,95>
 
-My valued Secretarios has passed away ... What tragedy!
+我珍贵的秘书去世了……多么悲痛啊！
 
-Well, now one of you Vikings will have to take over his job and carry out the orders."
+现在，你们维京人中的一个人必须接替他的工作，并执行命令。”
 [blockend:341]
 
 
 [blockstart:350] 
-BUEROCRATES
+布鲁克拉特斯
 
-We found the harbour master near the harbour. Stoically, he listened to our story.
+我们在港口附近找到了港口大师。
 
 <usericon:2,96>
 
-"A ship. Hm. Well, anybody could come and claim that! Your words are pointless! 
-First I need an official letter of approval from the mayor!
+“一艘船。嗯。好吧，任何人都可以过来索要！你们的话毫无意义！
+首先我需要市长的正式批准信！
 
-Without such a letter I won't do anything, understood?
+没有这样的信件，我什么都不会做，明白吗？
 
-The sooner you return with the letter, the better. I want to finish work on time! So, hurry up!"
+你们越快回来，对我越好！我想按时完成工作！所以，赶快！”
 [blockend:350]
 
 [blockstart:360] 
-PLATO
+柏拉图
 
-When the mayor heard about Buerocrates' request, he simply shook his head:
+当市长听到布鲁克拉特斯的要求时，他只是摇了摇头：
 
 <usericon:2,95>
 
-"Typical bureaucrat! Well then, wait a minute ..."
+“典型的官僚主义者！那么，等一下……”
 [blockend:360]
 
 [blockstart:370] 
-PLATO
+柏拉图
 
-"Here is the letter of approval. Three copies, two seals.
+“这是批准信。三份副本，两个印章。
 
 <usericon:2,95>
 
-Take it to Buerocrates. And you can tell him from me ... Oh, forget it. 
-After all, he's only doing his job ..."
+把它交给布鲁克拉特斯。你可以代我告诉他……别那么....算了。
+毕竟，他只是在执行他的工作……”
 [blockend:370]
 
 [blockstart:380] 
-BUEROCRATES
+布鲁克拉特斯
 
-"Ah, you did it ... Now give me that.
+“啊，你成功了……现在把它给我。
 
 <usericon:2,96>
+…好…啊…嗯…是的。
 
-... well ... ah ... hm ...yes.
+看起来没问题。
 
-It seems to be in order.
+那么…
+乘坐这艘船向东航行。那里有一个神谕的圣岛。进入神庙，向女神寻求建议！
 
-Well then ...
-Take this ship and set off towards the east. There you will find the holy island with the temple of the oracle. Enter the temple and ask the goddess for advice! 
-
-Ah, and now -
-that's it for today ..."
+啊，现在——
+今天就到这里吧……”
 [blockend:380]
 
 
 [blockstart:390] 
-FOG OF POSEIDON
+波塞冬之雾
 
-Out of nowhere a huge fog wall suddenly appears in front of you. There is no way through.
+突然，在你们面前出现了一个巨大的雾墙。没有办法穿过去。
 
-Now what?
+这会咋办。
 [blockend:390]
 
 
 [blockstart:391] 
-BUEROCRATES
+布鲁克拉特斯
 
-Suddenly Buerocrates spoke up:
+布鲁克拉特斯突然开口了：
 
 <usericon:2,96>
 
-"Ah, I totally forgot ... 
+“啊，我完全忘记了……
 
-The notorious Fog of Poseidon ...
-It is meant to keep nosy tourists away from the island ...
-No ship can get through there. That, however, is a slight problem ...
+臭名昭著的波塞冬之雾……它的作用是让鬼鬼祟祟的像你们这样的人，远离那个小岛……没有一艘船能通过那里。不过，这是一个小问题……
 
-Hm. Hm. Hm ...
+嗯。嗯。嗯……这样，再这样。好了。
 
-I may be able to help you ... a little magic now and then does no harm ..."
+我或许能帮助你们……小魔法始终无害…”
 [blockend:391]
 
 
 [blockstart:401] 
-THE TEMPLE OF THE ORACLE
+神谕的神庙
 
-Finally, we had reached the temple of the oracle.
-Behind the entrance gate a path led down to a mysterious vault ...
+最终，我们来到了神谕的神庙。
+在入口门后，一条通往神秘地下室的路径向下延伸……
 [blockend:401]
 
 [blockstart:410] 
-HELIOS' PUNISHMENT
+太阳神的惩罚
 
-When we left the temple, Helios made us feel his power! 
+当我们离开神庙时，赫利俄斯让我们感受到了她的力量！
 
-An enormous tremor shook the ground, glaring beams scorched Demetrios' army! 
-Dazzled by the blinding light, we turned away, and when we dared to open our eyes after some minutes, Demetrios had disappeared from the face of the Earth with all of his men!
+一次巨大的颤动震动了大地，耀眼的光束烧毁了德米特里奥斯的军队！
+被刺眼的光芒晃了一下眼睛，我们转身离开，当我们几分钟后敢睁开眼睛时，德米特里奥斯和他的所有士兵都消失了！
 
-Helios had kept his word! Rhodes was free!
+赫利俄斯遵守了他的承诺！罗得岛自由了！
 
-Now it was up to us to build the statue in return for his support. 
-Was it coincidence or fate - there was no doubt that this Colossus was the very Wonder of the World that we had set out to build!
+现在，轮到我们来建造雕像以回报他的支持了。
+这个巨像恰恰是我们要建造的世界七大奇迹！
 [blockend:410]
 
 [blockstart:420] 
-PETROS
+佩特洛斯
 
-"We will be forever grateful, friends! 
+“我们将永远感激你们，朋友们！
 
 <usericon:2,95>
 
-It was your courage and bravery that saved our people!
+你的勇气和勇敢拯救了我们的人民！
 
-Even though I am aware of the debt my people now owe you, I do have another favour to ask:
+虽然我知道我们的人民现在欠你的恩情，但我还有一个请求：
 
-We are happy to build the mighty Colossus in honour of Helios, the sun god! But no one in our town has the necessary knowledge to do it.
-In Lindos, however, lives the famous architect Chares! Find him and ask him to take on this honourable task for the people of Rhodes. It won't be to his disadvantage!
+我们很高兴为太阳神赫利俄斯修建伟大的科洛索斯！但我们镇上没有人具备必要的知识来完成这个任务。
+然而，在林多斯住着著名建筑师查雷斯！找到他，请求他为罗得岛人民承担这个光荣的任务。这对他并不会有不利！
 
-We are already much obliged to you!"
+我们已经非常感激你！”
 
-
-Find Chares in Lindos.
+在林多斯找到查雷斯。
 [blockend:420]
 
 [blockstart:421] 
-CITIZEN
+市民
 
-"You are looking for Chares? The famous architect?
+“你在找查雷斯？那位著名的建筑师？
 
 <usericon:2,120>
 
-I haven't seen him for a while ..."
+我好久都没瞧见他了。
 [blockend:421]
 
 [blockstart:422] 
-CITIZEN
+市民
 
-"Chares? 
+"查雷斯? 
 
 <usericon:2,121>
 
-Yes, I know him. I heard that he wanted to go on holiday for a few days."
+我知道他，他这会度假呢。已经好几天了，反正我是没看到他。"
 [blockend:422]
 
 [blockstart:423] 
-CITIZEN
+市民
 
-"Oh yes, Chares is a good friend of mine! 
+我知道他在哪，他是我的好朋友，额。只知道一些。
 
 <usericon:2,122>
 
-He's had so much work lately that he wanted to recover. Take a few days off to get some fresh air, you know?
+他最近工作太忙了，想要休息一下，呼吸新鲜空气，你知道吗？
 
-I think he wanted to go fishing! He knows this secret little place ... But he never told me where it is ..."
+我想他打算去钓鱼！他知道一个秘密的地方……但他从没告诉我具体在哪里……”
 [blockend:423]
 
 [blockstart:424] 
-CITIZEN
+市民
 
-"Chares? Yes, I have seen him. 
+“查雷斯？是的，我见过他。
 
 <usericon:2,123>
 
-He's sitting at the beach to the north, trying to catch some fish. Haha!
-If I know him, he will only pull a lousy mackerel ashore and then tell everybody he caught a HUGE whale. Hehehe.
+他坐在北边的海滩上，试图捕捉一些鱼。哈哈！如果我了解他，他只会拉上一条破鳕鱼，然后告诉每个人他捕到了一条巨大的鲸鱼。呵呵呵。
 
-Oh well, good old Chares ..."
+唉，查雷斯……我都不想拆穿他。”
 [blockend:424]
 
 
 [blockstart:430] 
-CHARES
+查雷斯
 
-So, this is the famous architect Chares! 
+这就是超级有名的查雷斯建筑师。
 
 <usericon:2,98>
 
-We explained our problem, but he didn't seem to be too enthusiastic.
+我们向他说了我们的任务，但他似乎并不太热衷。
 
-"Can't you see that I'm taking some time off! I do so far too rarely, considering all this work! And now you want me to interrupt my well-earned holiday?!
+“你们看不出我正在休假吗！考虑到所有的工作，我休假得太少了！现在你们还想让我打断我来之不易的假期？！
 
-...
+…
 
-You want me to build a Colossus in honour of the god Helios, is that right? 
+你们想让我为太阳神赫利俄斯修建一座科洛索斯，是吗？
 
-...
+…
 
-Well, actually it would be interesting ...
+嗯，事实上这很有趣……
 
-Yes, that might tempt me. But on one condition only:
+是的，这可能会引起我的兴趣。但有一个条件：
 
-You have to assist me! I want to get back to my fishing as soon as possible, so you had better have the necessary building materials delivered to me! 
-Other than that, I am unable to grant your request ...
+你们必须协助我！我现在只想去钓鱼，所以你最好让必要的建筑材料送到我这里！
 
-So, how about it?"
+不然就拉倒！
+
+那么，怎么样？”
 [blockend:430]
 
 [blockstart:440] 
-We thought for a while and finally agreed to Chares' proposal. After all, we had come here to build the Wonder of the World. 
-It was all the better if a famous architect was willing to assist us.
+我们考虑了一会儿，最终同意了查雷斯的提议。毕竟，我们来这里就是为了建造世界奇迹。
+如果一位著名的建筑师愿意协助我们，那就更好了。
 
-After we had promised Chares our support, he immediately travelled to Rhodes to meet with the mayor.
-We, too, set off into the city.
+在我们承诺支持查雷斯之后，他立即前往罗得岛与市长会面。
+我们也进入了城市。
 [blockend:440]
 
 [blockstart:450] 
-NEGOTIATIONS
+谈判
 
-Chares and Petros the mayor of Rhodes negotiated for quite a while. 
+查雷斯和罗得岛市长彼得罗斯进行了相当长时间的谈判。
 
 <usericon:2,98>
 
-They discussed what the monument should look like, how tall it was to be, which material they were to use, where to build it and - Chares' main concern - what they would pay him.
+他们讨论了纪念碑的外观、高度、使用的材料、建造地点，以及查雷斯最关心的——支付给他的报酬。
 
-Finally they agreed to build the Colossus near the harbour and make it 18 meters tall.
+最终，他们同意在港口附近修建科洛索斯，高度为18米。
 
-Its foundations were to be made of the finest marble, and on top would be an iron frame filled with clay and stones in order to make it sturdy.
-In the end, it would be mantled in gold to do justice to the splendour and the grace of the god Helios.
+它的基础将采用最精美的大理石，顶部将是一个填充有黏土和石块的铁框架，以使其稳固。
+最后，它将被包裹在金子上，以体现太阳神赫利俄斯的辉煌和优雅。
 
+这是一项重大的事业，查雷斯需要市政府支付相应的报酬。
+他们同意了查雷斯建造纪念碑的报酬，包括材料和劳动力。
 
-It was a momentous undertaking, and Chares required an adequate wage from the city fathers. 
-They agreed on Chares' wage for building the monument, including the material and workforce.
+当一切都解决好后，他们开始了建设工作。一个位于港口的仓库被拆除，这就是科洛索斯将要建造的地方。
+查雷斯现在转向我们，要求我们将25块大理石交给他。
 
-When everything was settled, they started the construction. A warehouse at the harbour was torn down. This was the place where the Colossus was to be built.
-Chares now turned to us and required a delivery of 25 marble for the foundations.
-
-
-Deliver 25 marble to Chares (as a tribute).
+向查雷斯交付25块大理石（作为贡品）。
 [blockend:450]
 
 [blockstart:455] 
-FOUNDATIONS BUILT
+基地建成
 
-With the marble that we delivered, Chares was able to build the foundations quickly. 
+凭借我们交付的大理石，查雷斯能够迅速建造基础。 
 
 <usericon:1,229,69>
 
-It was magnificent to look at, and we could already guess what a gigantic masterpiece would stand here one day ...
+这是壮观的景象，我们已经可以猜到未来将有一座巨大的杰作屹立于此……
 
-When Chares was finished with the foundations, the mayor called him.
+当查雷斯完成基础时，市长召唤了他。
 [blockend:455]
 
 [blockstart:460] 
-NEGOTIATIONS
+谈判
 
-"Chares, I am delighted!" Petros greeted him. "You are a true master of your art! 
+“查雷斯，我很高兴！”彼得罗斯向他致意。“你是真正的艺术大师！
 
 <usericon:2,98>
 
-No doubt you will succeed in turning this Colossus into the largest piece of art in the whole Mediterranean area! What a genius!"
+毫无疑问，你将成功地将这座科洛索斯变成整个地中海地区最大的艺术品！多么伟大的天才！”
 
-Chares, of course, was flattered by such praise. We, however, found it slightly strange ... Such praise, just because he had built a little foundation?
+当然，查雷斯受到这样的赞扬感到荣幸。然而，我们觉得有点奇怪……仅仅因为他建造了一个小小的地基就能得到这样的赞美吗？
 
-"Chares, oh great master! What if we make your piece of art even more powerful and magnificent? Your name would be known forever. In a hundred years' time, people would still talk about you and your great achievement! 
+“查雷斯，伟大的大师！如果我们使你的艺术品更加强大和壮丽呢？你的名字将被永远记住。一百年后，人们仍然会谈论你和你的伟大成就！
 
-What if we built the Colossus TWICE as big? Not 18 meters, but 36 meters high?
+如果我们将科洛索斯的高度增加一倍呢？不是18米，而是36米？
 
-Of course, we would pay you double the wage ..."
+当然，我们会支付你双倍的报酬……”
+
 [blockend:460]
 
 [blockstart:465] 
-That was all there was to it! Twice the height for a double wage! What seemed to be a fair deal at first glance turned out to be a smart trick by the merchants of Rhodes:
- 
-Chares would not need twice as many, but eight times as many materials! This would, of course, increase his expenses enormously. A calculation that would never work out!
 
-We wanted to warn him, but he had already accepted the mayor's offer. 
+事情就这样了！双倍的高度换取双倍的报酬！乍一看似乎是一个公平的交易，但实际上是罗得岛的商人的一个聪明计策：
 
-It looked like we were in for some fun ...
+查雷斯经过计算，这已经不是二倍的材料了，最终会需要八倍的材料！这无疑会极大地增加他的开支。这种计算根本行不通，他被耍了！！
 
-He now ordered us to get him the calculated material for the statue. He needed gold, clay and quarrystone.
+我们想警告他，但他已经接受了市长的提议。
 
+看来我们将有些...我只希望到时候别太难看……
 
-Deliver 5 gold, 10 clay and 10 quarrystones to Chares (as a tribute).
+他现在命令我们给他带来计算过的雕像材料。他需要黄金、黏土和采石场石料。
+
+向查雷斯交付5块黄金、10块黏土和10块采石场石料（作为贡品）。
+
 [blockend:465]
 
 [blockstart:470] 
-We brought Chares the requested materials and the construction continued. But even though he had used up all of the materials, only the feet of the Colossus had been built ...
 
-Chares, who had precisely calculated the necessary amount of material for the WHOLE statue beforehand, was completely aghast! How could it be that he had made such a miscalculation? It was simply impossible!
+我们给查雷斯带来了所需的材料，建设继续进行。但即使他用光了所有的材料，只建造了科洛索斯的脚……
+
+查雷斯曾经事先精确计算过整个雕像所需的材料数量，现在他完全惊讶不已！他怎么会犯这样的错误？这简直是不可能的！
 
 <usericon:2,98>
 
-This was exactly what we had expected! Chares had been fooled by the people of Rhodes, and he had only just become aware of it. But despite all this, apparently he still wasn't aware of the whole significance of the deceit, because he simply requested the same amount of materials once more. This would be enough according to his calculation.
+这正是我们猜到会发生的事！！
 
-We were sceptical, but sometimes it was better to learn things step by step ...
+查雷斯被罗得岛人算计了，他刚刚意识到这一点。但尽管如此，显然他还没有完全意识到最后会发生什么，因为他只是简单地再次要求同样数量的材料。根据他的计算，这就足够了。
 
+我们持怀疑态度，但有时逐步了解情况可能更好…
 
-Deliver another 5 gold, 10 clay and 10 quarrystones to Chares (as a tribute).
+向查雷斯交付另外5块黄金、10块黏土和10块采石场石料（作为贡品）。
+
 [blockend:470]
 
 
 [blockstart:480] 
-It was starting to be an effort to get all the necessary materials. But in the end we made it and Chares took up work immediately.
 
-The construction was proceeding, and when all the materials were used up, the Colossus was finished ...
+获取所有必要的材料开始变得艰难起来。但最终我们成功了，查雷斯立即开始工作。
 
-... at least up to its belly!
+建设正在进行，当所有材料用完时，科洛索斯就建成了……
+
+……至少到它的腹部为止！
 
 <usericon:2,98>
 
-Chares was raving and furious as he began to realise that the wool had been pulled over his eyes, and that all his profit would be lost. He would even have to pay part of the cost out of his own pocket!
+查雷斯开始狂怒地意识到自己被愚弄了，他的所有利润都将化为乌有。甚至他还得自掏腰包支付部分费用！
 
-He walked up to Petros to negotiate a new price, but in vain. 
-"You gave us your word, oh noble Chares," were the brief words of the mayor, who didn't seem to be moved at all by the fate of the poor architect.
-Chares didn't have a choice but to complete his masterpiece ...
+他走到佩特罗斯面前谈判新的价格，但徒劳无功。
+"你曾给我们承诺，崇高的查雷斯,"市长简洁地说道，对这位可怜的建筑师的命运似乎，哈！他上当了。
+查雷斯别无选择，只能完成他的杰作……
 
+向查雷斯交付另外10块黄金和10块铁矿石（作为贡品）。
 
-Deliver another 10 gold and 10 iron to Chares (as a tribute).
 [blockend:480]
 
 

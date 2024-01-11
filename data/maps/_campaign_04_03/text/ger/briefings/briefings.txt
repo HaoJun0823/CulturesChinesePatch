@@ -1,261 +1,259 @@
 [blockstart:header] 
-DIE GROSSE UMSIEDLUNG
+大迁徙
 [blockend:header]
 
 [blockstart:00_start] 
-Endlich hatten wir das fruchtbare Land, das wir zu besiedeln beabsichtigten, erreicht. Doch das Verschwinden von Mani und Norbert bereitete uns immer noch gro遝 Sorgen. 
+终于我们到达了我们打算定居的肥沃土地。但曼尼和诺伯特的失踪仍然让我们非常担心。
 [blockend:00_start]
 
 [blockstart:00_start1]
-Wir waren unserem Stamm verpflichtet und mussten uns nun um den Aufbau des Dorfes k黰mern, doch beschlossen wir, einen Suchtrupp auszusenden. 
+我们对我们的部落负有责任，现在必须着手建立村庄，但我们决定派出搜寻队。
 
-Errichte dein Dorf und suche nach Mani und Norbert!
+建立你的村庄，并寻找曼尼和诺伯特！
 [blockend:00_start1]
 
 
 [blockstart:50_endheader] 
-MISSION GEWONNEN! 
+任务完成！
 [blockend:50_endheader] 
 
 [blockstart:50_end] 
-Wir hatten Mani und Norbert bei den Napalianern ausfindig gemacht und sie befreien k鰊nen. Nun waren wir wieder alle beisammen. 
+我们已经找到了曼尼和诺伯特，并成功解救了他们。现在我们又齐聚一堂。
 [blockend:50_end]
 
 [blockstart:50_end1]
-Ihnen tat es leid, uns solch gro遝 Sorgen bereitet zu haben, aber die Hauptsache war, sie weilten wieder unter uns. Wir beschlossen gemeinsam dem Verschwinden der Erddrachen auf den Grund zu gehen.
+他们为自己给我们带来如此大的忧虑感到抱歉，但最重要的是，他们又回到了我们身边。我们决定一起去探究地龙的消失。
 [blockend:50_end1]
 
 
 [blockstart:01] 
-WALDPOSTEN 1 - DIE TEMPELW腃HTER
+森林哨所1 - 守护者神殿
 
-"Willkommen!" sprachen die Tempelw鋍hter. 
+“欢迎！”守护者说道。
 
 <usericon:1,201,69>
 
-"Wir sind ein Posten der Waldh黷er. Doch ist unser Tempel weit ab von den anderen und wir werden selten mit Kr鋟tern unf Pilzen beliefert. Reicht ihr uns welche zum Tribut, sei euch unsere Hilfe sicher!" 
+“我们是森林守护者的一部分。但是我们的神殿远离其他地方，我们很少有草药和蘑菇供应。如果你们能提供一些作为贡品，我们会帮助你们！”
 [blockend:01]
 
 [blockstart:02] 
-TRIBUT AN TEMPELW腃HTER BEZAHLT!
+向守护者神殿支付贡品！
 
-"Solch frische Pilze und wohlduftende Kr鋟ter hatten wir selten! Unsere Hilfe ist euch zum gegebenen Zeitpunkt sicher! Ihr k鰊nt euch auf uns verlassen!" 
+“我们很少见到如此新鲜的蘑菇和芬芳的草药！在适当的时候，我们会帮助你们的！你们可以信赖我们！”
 
 <usericon:1,201,69>
 [blockend:02]
 
 
 [blockstart:03] 
-POSTEN 2 - KR腢TERSAMMLER
+哨所2 - 采药人
 
-"Wir w黵den ja gerne unserer Arbeit nachgehen, aber uns fehlt das richtige Werkzeug! Unsere alten Sicheln sind stumpf und der Rost hat sich durch sie gefressen."
+“我们很想继续我们的工作，但我们缺乏合适的工具！我们的镰刀早就变钝了，锈迹斑斑。”
 
 <usericon:1,358,90>
 
-Liefere den Kr鋟tersammlern neues Eisenwerkzeug!
+给采药人提供新的铁制工具！
 [blockend:03]
 
 [blockstart:04] 
-EISENWERKZEUG AN KR腢TERSAMMLER GELIEFERT
+交付铁制工具给采药人
 
-"Ein Werkzeug mit solch gl鋘zenden scharfen Klingen hatten wir noch nie! Unsere Hilfe ist euch zum gegebenen Zeitpunkt sicher! Ihr k鰊nt euch auf uns verlassen!" 
+“我们从未见过如此闪亮锋利的刀刃工具！在适当的时候，我们会帮助你们的！你们可以信赖我们！”
 
 <usericon:1,358,90>
 [blockend:04]
 
 
 [blockstart:05] 
-GEROLS - DIE STEINDRACHEN
+Gerols - 石龙
 
-In dem steinigen Gebirge trafen wir auf alte weise Steindrachen. 
+在多石的山区，我们遇到了古老智慧的石龙。
 
 <usericon:1,312,65>
 [blockend:05]
 
 
 [blockstart:06] 
-WIKINGERDORF
+维京人村庄
 
-Die Wikinger in diesem Landstrich waren 黚eraus freundlich. Sie 黚erliesen uns ihr kleineres Lagerhaus im Norden des Dorfes
+这个地区的维京人非常友好。他们把他们北部的小型仓库让给了我们
 
 <usericon:1,365,345>
 
-und boten uns g黱stige Handelsvertr鋑e an.
+并提供了有利的贸易协议。
 [blockend:06]
 
 [blockstart:07] 
-POSTEN 3 - H腘DLER
+哨所3 - 商人
 
-"Kommt herein und bestaunt meine Waren! Meine Konditionen sind g黱stig!" rief uns der H鋘dler schon von weitem zu.
-
+“进来吧，瞧瞧我的货物！我的东西都很好的！”商人远远地对我们喊道。
 <usericon:1,246,361> 
 
-"Leider bin ich in einer kleinen Handelsflaute, aber wenn ihr mit mir Handel treibt, ist euch meine Hilfe sicher."
+“不幸地，现在市场太差了，但只要你和我做生意，我一定可以帮到你们。”
 [blockend:07]
 
 [blockstart:08] 
-WAREN MIT H腘DLER GEHANDELT
+与商人交易商品
 
-"Mein Gesch鋐t boomt, dank eurer Hilfe! Auch ich werde euch zur gegebener Zeit mit meinem Hausdrachen helfen."
+“因为你们的帮助，我的生意蒸蒸日上！我也会在适当的时候叫认识的龙来帮助你们。”
 
 <usericon:1,246,361> 
 [blockend:08]
 
 [blockstart:09] 
-FEUERDRACHEN
+火龙
 
-"Wir sind nicht gut auf andere Lebewesen zu sprechen. St鋘dig plagt uns Hunger, der uns m黵risch macht. Wir wollen ja niemandem etwas tun, aber der Hunger..."
+“我们对其他生物并不友善。我们总是饥饿，这让我们变得脾气暴躁。我们并不想伤害任何人，但是饥饿……”
 
 <usericon:1,152,345>
 
-Bringe Kuchen zu den Feuerdrachen, vielleicht lindert das ihren Appetit!
+给火龙拿些蛋糕，也许可以减轻他们的食欲！
 [blockend:09]
 
 [blockstart:10] 
-FEUERDRACHEN
- 
-"Ihr seid wahre Meisterb鋍ker! Unsere Unterst黷zung ist euch sicher!"
+火龙
+
+“你们的食物真是太好吃了！让我来帮你们！”火龙们说道。
 sprachen die Feuerdrachen.
 
 <usericon:1,152,345>
 
-F黱f von uns werden von nun an in eurem Dienste stehen! Falls ihr mehr von uns ben鰐igt, zahlt den Tribut!
+我们中的五个人将从现在开始为你们效劳！如果你们需要更多的火龙，就付出相应的贡品！我们特别爱吃你们的食物。
 [blockend:10]
 
 [blockstart:11] 
-POSTEN 4 - WALDSCHULE DER WASSERDRACHEN
+哨所4 - 水龙林学校
 
-"Ach h鋞te wir nur gen黦end Sch黮er! Wir haben hier eine ganz tolle Schule und Professer WAMUGO ist einer der besten Lehrer, den man sich w黱schen kann."
+“啊，要是我们有足够的学生该多好啊！我们这里有一所非常棒的学校，WAMUGO教授是我们心目中最好的老师之一。”
 
 <usericon:1,78,530>
 
-Suche Sch黮er f黵 die Schule von Professor WAMUGO!
+为WAMUGO教授的学校寻找学生！
 [blockend:11]
 
 [blockstart:12] 
-SCH躄ER IN DER WALDDORFSCHULE DER WASSERDRACHEN ANGEKOMMEN
+学生到达水龙林学校
 
 <usericon:1,78,530>
 
-"Endlich habe ich eine ganze Klasse zusammen! Das wird mir Freude bereiten sprach Professor WAMUGO! Unser Dank und Wissen ist mit Euch!"
+“我终于招到了一个完整的班级！这将给我带来乐趣！”WAMUGO教授说道。“我们的感激和知识都归于你们！”
 [blockend:12]
 
 [blockstart:13] 
-POSTEN 5 - SCHULE AM PALMENHAIN
+哨所5 - 棕榈树学校
 
-"Unsere Kinder sind 鋟遝rst wissbegierig, aber leider k鰊nen wir ihnen nicht so viel beibringen. 
+“我们的孩子非常渴望知识，但遗憾的是我们无法教给他们更多。
 
 <usericon:1,376,559>
 
-Gebe es doch eine Schule f黵 die 鋖teren Kinder mit einer kompetenten Lehrkraft, wo die Kinder den Sommer 黚er unterrichtet werden k鰊nten... Man sagt Professor WAMOGU w黵de so eine Schule leiten, wir haben nur gutes dar黚er geh鰎t... "
+如果有一个专门为年长孩子开设的学校，并有一位有能力的老师，夏天期间可以教导孩子们...... 据说WAMOGU教授会领导这样一所学校，真是祖上冒青烟，脸上有光。”
 
 <usericon:1,78,530>
 
-Suche die Schule des Professors WAMOGU auf und bringe die Kinder dorthin.
+前往WAMOGU教授的学校，将孩子们带去那里。
 [blockend:13]
 
 [blockstart:14] 
-DER ALTE MANN
+老人
 
 <usericon:1,98,211>
 
-"Mit den Napalianern ist nicht zu spa遝n! Sobald man sich in ihre Gebiete vorwagt, brasseln ihre Pfeile auf einen ein. Sicherlich haben sie etwas zu verbergen, denn nicht umsonst sch黷zen sie ihren zweiten St黷zpunkt durch diese Giftwolke! Die Waldposten hier in der Umgebung haben aber Drachen, die gegen das Gift immun sind, man br鋟chte nur gen黦end von ihnen."
+“不能小看Napalianers！一旦你踏入他们的领地，他们的箭矢就会朝你飞来。这可太吓人了！毫无疑问，他们肯定有事情要隐瞒，否则他们为什么要用毒雾保护他们的第二哨所呢？但这附近的森林哨所有着对毒雾免疫的龙，我看你们只需要足够多的龙。。。就可以解决很多问题”
 
 <usericon:1,104,219>
 
-"Dieser Drache hier, ist mein Freund. Nehmt ihn mit, er kann euch bei eurer Mission unterst黷zen!"
+“这只龙是我的朋友。带上它，它可以帮助你们完成任务！”
 [blockend:14]
 
 [blockstart:15] 
-ALLE POSTEN DER WALDH躎ER
+访问了所有森林哨所
 
-Nun hatten wir alle Posten der Waldh黷er aufgesucht und ihnen geholfen. Sie waren uns tats鋍hlich von gro遝m Nutzen, denn sie fanden heraus, dass Mani und Norbert von den Napalianern verschleppt worden waren! 
+现在我们已经访问了所有的森林哨所并且都有很好的交流。他们也帮了我们大忙！！！因为从他们那里得知到曼尼和诺伯特被Napalianers劫持了！！天啊！
 
 <usericon:1,440,163>
 
-Deshalb waren sie also so unfreundlich zu uns und wollten uns keinen Eintritt in ihre St黷zpunkte gew鋒ren...
+所以他们对我们如此不友好，并且不想让我们进入他们的哨所......真是老寿星改生死簿，活的不耐烦了。指定不让你们有好果子吃。
 
-Der gr鲞te St黷zpunkt, in dem auch Mani und Norbert festgehalten wurden, war umgeben von einer undurchdringlichen Rauchwolke der Giftdrachen.... 
+最大的哨所，也是曼尼和诺伯特被囚禁的地方，被一片无法穿透的毒烟围绕着....
 
 <usericon:1,372,261>
 [blockend:15]
 
 [blockstart:16] 
-GIFTWOLKE BESEITIGT
+清除毒烟
 
-Doch was war das? Die Hausdrachen jedes einzelnen Waldpostens neutralisierten die Giftwolke um den Hauptst黷zpunkt der Napalianer!
+看看发生了？森林哨所的龙中和毒烟中和了主要哨所周围的毒烟！
 
 <usericon:1,372,261>
 
-Nun war der Weg frei und wir mu遲en selbst entscheiden ob wir den kriegerischen oder einen friedlichen Weg einschlagen sollten. Die Waldh黷er munkelten, man k鰊ne die Gefangenen von der 鰏tlich Richtung aus nahezu ungesehen befreien!
+现在没有阻拦了，我们必须自己决定是选择战斗还是和平的方式。森林哨所传言，好似有条小路可以绕过去，就在东部。
 
 <usericon:1,439,151>
 [blockend:16]
 
 [blockstart:17] 
-DER ALTE MANN
+老人
 
 <usericon:1,505,190>
 
-"Der kleine Pfad nord-westlich von hier f黨rt direkt an zu den Gefangenen, sobald die Giftwolke beseitigt ist, w鋜e es ein Leichtes, ungesehen zu ihnen vorzudringen!"
+“这里西北方向的小道直接通向被囚禁者，一旦毒烟被清除，很容易就可以悄悄地接近他们！”
 [blockend:17]
 
 [blockstart:18] 
-AQUAS - DIE WASSERDRACHEN
+Aquas - 水龙
 
-Wir sind friedliebende Drachen. Nutzt doch unser Schiff hier!
+我们是爱好和平的龙。用我们这条船！
 
 <usericon:1,169,577>
 
-Fahrt ihr in 鰏tliche Richtung, gelangt ihr zu einem Wasserdrachentempel,
-in westlicher Richtung befindet sich hingegen die etwas abseits gelegene Schule von Professor WAMUGO.
+如果你向东行驶，你将到达一个水龙神殿，在西方，则是稍微偏远的WAMUGO教授的学校。
 [blockend:18]
 
 [blockstart:19] 
 NAPALIANER
 
-"Keinen Schritt n鋒er! Wir werden sonst unsere Waffen gebrauchen!"
+“不要再靠近！否则我们要动手了！指定没有你好果子吃！！”
 
 <usericon:1,23,295> 
  
-Ein gar unfreundliches Volk! Noch nie wurden wir auf diese Art empfangen. Es blieb und nichts weiter 黚er, als ihnen nicht zu nahe zu kommen, denn sicherlich w黵den sie ihre Drohung auch in die Tat umsetzen.
+一个充满敌意的民族！我们从未受到过这种待遇。我们还是先别靠近了，这实在是太危险了。
 [blockend:19]
 
 [blockstart:20] 
 NAPALIANER
 
-"Ihr habt es so gewollt! Unsere Waffen werden euch vernichten. Zahlt den Tribut und wir werden unsere Haltung zu euch 黚erdenken, aber nur, wenn ihr sofort unsere St黷zpunkte verlasst!"
+“这就是你们想要的！我看你们是在挑战我的底线！支付贡品，我们将重新考虑对你们的态度，但只有你们立即离开我们的领地才行！”
 
-Zahle den Tribut, um sie wieder neutral zu stimmen!
+支付贡品以使他们恢复中立状态！
 [blockend:20]
 
 [blockstart:21] 
-TRIBUT GELEISTET!
+支付了贡品！
 
-"Nun werden wir unsere Haltung zu euch 黚erdenken, aber wagt euch nicht wieder in unser Terrain!" riefen uns die Napalianer zu und 鋘derten augenblicklich ihren Diplomatiestatus uns gegen黚er.
+“现在我们将重新考虑对你们的态度，但不要再冒险踏入我们的领地！” Napalianers朝我们喊道，并立刻改变了他们对我们的外交状态。
 
 <usericon:1,581,291> 
 [blockend:21]
 
 [blockstart:22] 
-NAPALIANER BESIEGT!
+击败了Napalianers！
 
-Zwar waren die Napalianer geschlagen, doch war nicht auch eine friedliche Einigung m鰃lich gewesen? 
+虽然Napalianers被打败了，但难道不可能达成和平协议吗？这个代价会不会太大了。
 <usericon:1,578,299>
 [blockend:22]
 
 [blockstart:23] 
-TELEPORTER AKTIV
+传送门已激活
 
-Nun waren die Teleporter aktiviert, die die Kinder zu WAMUGO bringen w黵den.
+现在传送门已经激活，可以传送到WAMUGO那里。
 
 <usericon:1,95,545> 
 [blockend:23]
 
 [blockstart:24] 
-EIGENES DORF ERRICHTET!
+建立了自己的村庄！
 
-Mit unserer neuen Kuchenb鋍kerei war der Grundstein f黵 unser funktionierendes Dorf gelegt.
+有了我们的新的面包房，我们的村庄已经奠定了基础。
 [blockend:24]
 
 
@@ -267,34 +265,34 @@ Mit unserer neuen Kuchenb鋍kerei war der Grundstein f黵 unser funktionierendes D
 
 [blockstart:100]
 <font:$local$\fonts\fonthead16bld.fnt>
-MISSION VERLOREN!
+任务失败！
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
-Heldenmut oder Leichtsinn? Als BJARNI starb, weinten die G鰐ter... Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+英雄的勇气或鲁莽？当布加尼去世时，众神哭泣... 没有这位英雄，你将无法看到任务的结局。
 [blockend:100]
 
 [blockstart:200]
 <font:$local$\fonts\fonthead16bld.fnt>
-MISSION VERLOREN!
+任务失败
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
-Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Deine Heldin CYRA erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+英雄的勇气或鲁莽？当西拉去世时，众神哭泣... 没有这位英雄，你将无法看到任务的结局。
 [blockend:200]
 
 [blockstart:500]
 <font:$local$\fonts\fonthead16bld.fnt>
-MISSION VERLOREN!
+任务失败
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
-Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! MANI - Sohn von Bjarni und Cyra erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+英雄的勇气或鲁莽？当曼尼去世时，众神哭泣... 没有这位英雄，你将无法看到任务的结局。
 [blockend:500]
 
 [blockstart:600]
 <font:$local$\fonts\fonthead16bld.fnt>
-MISSION VERLOREN!
+任务失败
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
-Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund und Held der Drache NORBERT erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+英雄的勇气或鲁莽？当诺伯特去世时，众神哭泣... 没有这位英雄，你将无法看到任务的结局。
 [blockend:600]
 
 

@@ -1,223 +1,230 @@
 [blockstart:header] 
-THE ZEUS STATUE OF PHIDIAS IN OLYMPIA
+奥林匹亚的宙斯菲迪亚斯雕像
 [blockend:header]
 
 [blockstart:00_start] 
-Our next task was to build a mighty statue of Zeus. The Council of Nations had found out that this was the next Wonder of the World in which mysterious powers lay dormant that could avert all evil. In the face of constantly growing dangers we could only hope that the Council was right and the Wonders of the World would indeed be able to drive the darkness from the Earth ...
+我们的下一个任务是建造一座巨大的宙斯雕像。同时议会察觉到，世界奇观，有股神秘的力量潜伏着，邪恶。我们和议会都感觉到危险即将来临。
 
-We had to convince the people near Olympia to help us build the Zeus Statue, because without their help the construction would take far too long. 
+危机不断迫近，黑暗势力日益增长。我们只能希望议会是对的，世界奇观确实能够将黑暗从地球上驱散。。。
+我们不得不说服奥林匹亚附近的人们帮助我们建造宙斯雕像，因为如果没有他们的帮助，这座雕像的完工时间将不可估计。
 
-But we faced serious problems ourselves ... A heavy storm had separated our ships upon our arrival. Our women and men must have arrived at a different location on the peninsula.
+但我们自己也遇到了严重的问题。。。我们抵达时，一场暴风雨使我们走散了，船只在风雨中被迫搁浅。我们的人民一定是在另一个地方搁浅了！
 [blockend:00_start]
 [blockstart:00_start1]
-In these gloomy times there was much armed conflict between the tribes. 
-But every fourth summer, a huge festival was held in Olympia. For the duration of the festival, the area around the Kronos Hill in the Holy Grove was peaceful. All participants in the Olympic Games were given safe conduct on their way to Olympia, according to the orders of Zeus ...
+在这灰暗的时代，城市之间也不停的征战。
 
-Assist in the construction of the Zeus Statue!
+但是，每4年的夏季，奥林匹亚都会举办一个盛大的节日。在节日期间，神圣格罗夫的克罗诺斯山周围地区是和平的。根据宙斯的命令，所有参加奥运会的人在前往奥林匹亚的途中都是安全的，城市之间不会互相征战。。。
+
+协助建造宙斯雕像！
 [blockend:00_start1]
 
 
 [blockstart:50_endheader] 
-MISSION COMPLETED! 
+任务完成！
 [blockend:50_endheader]
 [blockstart:50_end] 
-We made it! The enthroned figure of Zeus stood on a limestone plinth and was about seven times as tall as a man!
+我们成功了！宙斯的王位坐姿雕像矗立在石灰岩基座上，整体的高度非常巧妙。大概是一个成年男性的7倍有余。
 
-The mighty centre of this colossal structure was made from cypress and ebony. The naked body parts were artfully modelled and carved in ivory. The soles of the sandals, the ankle-length robe of the god and the flowing hair were made of pure gold!
+这座巨大建筑的巨大中心是由柏树和乌木制成的。裸露的身体部位被巧妙地用象牙建模和雕刻。凉鞋的鞋底，神的及膝长袍和飘逸的头发都是纯金做的！
+
 [blockend:50_end]
 [blockstart:50_end1]
-In his outstretched right hand, Zeus was holding a floating, slim Nike; the left hand held a sceptre made out of various precious metals and crowned by the golden eagle.
- 
-Full of pride and awe, we stood at the foot of the Zeus Statue. Whatever mysterious power this monument might hold - we almost thought that we could feel it! 
+宙斯伸出右手，手里拿着一个漂浮的、纤细的耐克；左手拿着一个由各种贵金属制成的权杖，由金雕加冕。
 
-However, we could not remain here for long. We had been told that the destination of our next task, the GIZA PYRAMIDS, were heavily besieged! Therefore we had to return to the country of the Saracens quickly ...
+我们满怀自豪和敬畏，站在宙斯雕像脚下。无论这座纪念碑可能拥有什么神秘的力量——我们几乎认为我们能感受到它！
+
+然而，我们不能在这里呆太久。我们早已收到消息，吉萨金字塔，被黑暗势力包围了！！因此，我们不得不迅速折回原路，回到萨拉森人的国家。。。
 [blockend:50_end1]
 
 [blockstart:01] 
-THE CITIZENS OF OLYMPIA
+奥林匹克市民
 
-"Oh! Greetings, novices to the Olympic Games! I am glad to offer you our support for the reconstruction of the Zeus Statue. 
-But first prove your sportsmanship! Compete with the runner of Elis in a race! You will find him somewhere in the hinterland of our beautiful city.
+“嘿！你们好，奥运会的新人们！我很高兴向你们提供对宙斯雕像重建的支持。
+但首先要证明你的体育精神！在比赛中与伊利斯进行竞速！你会在我们美丽城市的腹地找到他的。
 
 <usericon:2,7>
 
-He exercises day and night, running around the track."
+他昼夜不停地锻炼，不断跑着，在跑道上永不歇息。"
 
-Find the runner of Elis and compete with him in a race!
+找到伊利斯的选手，与他进行比赛！
 [blockend:01]
 
 [blockstart:02] 
-GUARDS OF THE ZEUS STATUE
+宙斯雕像的守卫
 
-"A mighty temple once stood here and accommodated the Zeus Statue of Phidias in its centre. We are the guards of the building site and watch over the Holy Grove. 
-We people from Olympia will only assist you in building the Zeus Statue if you prove yourselves worthy of our support ..."
+“这里曾经矗立着一座巨大的寺庙，中心有菲迪亚斯的宙斯雕像。我们是建筑工地的守卫，负责守护圣林。”。
+
+只有当你们赢得我们的尊敬时。我们奥林匹亚人才会帮助你们建造宙斯雕像。。。"
 [blockend:02]
 
 
 [blockstart:03] 
-GUARDS OF THE STATUE
+雕像的守卫
 
-"You have truly proved worthy to lead the construction of the Zeus Statue. As you can see, the citizens of Olympia and Elis have already started building it." 
+“事实证明，你确实有能力领导宙斯雕像的建造。正如你所看到的，奥林匹亚和伊利斯的市民已经开始建造它了。”
 
 <usericon:1,83,253>
 
-"Unfortunately, we are running out of resources. We need more gold and marble columns. You can get the marble columns from the Elisians, but nobody here possesses gold apart from the cities in the north-west. 
+“不幸的是，我们的资源正在耗尽。我们需要更多的黄金和大理石柱。你可以从伊利西亚人那里得到大理石柱，但除了西北部的城市，这里没有人拥有黄金。”。
 
-The Corinthians are quite easy to get along with and have told us that they would give us their gold, if we brought them an artefact that the Spartans possessed. Unfortunately, the Spartans are not very friendly towards us. And the citizens of Megara, high up in the north-west, don't want to share their possessions with anybody ..."
+哥林多人很容易相处，他们告诉我们，如果我们给他们带来斯巴达人拥有的文物，他们会给我们他们的金子。不幸的是，斯巴达人对我们不是很友好。而位于西北部高处的梅加拉市民则更甚，他们是铁公鸡，有着极强的领地意识。不会与任何人分享他们的财产。。。"
 
-Deliver 80 gold and 40 marble columns to the building site! The runner of Elis will show you the way!
+将80根金柱和40根大理石柱运送到建筑工地！伊利斯选手会给你指路！
 [blockend:03]
 
 [blockstart:04] 
-OUR VILLAGE
+我们的村庄
 
-This was where the other ships of our people had landed and even established a functioning settlement in the meantime. We could either use this one or build another one near the Zeus Statue building site ...
+我们找到了走失的人民！！因为在船上被迫驶向其他地方进行停泊。没想到他们已经自发的建立起了一个据点，这真是太好了。
 [blockend:04]
 
 [blockstart:05] 
-GOODS DELIVERED
+货物送达
 
-We had brought the required goods to the building site. From now on, the construction of the Zeus Statue would not take long. 
+我们已将所需货物运到工地。从现在起，宙斯雕像的建造指日可待了！
 [blockend:05]
 
 [blockstart:06] 
-THE RUNNER
+马拉松选手
 
-"Ah! You want to enter into a competition with me! But I will only compete against your Frankish hero!"
+“啊！你想和我比赛！但我只会和你的法兰克英雄竞争！”
 
 <usericon:2,7>
 
-Take Sigurd to the runner!
+让西加哥德跟他跑！
 [blockend:06]
 
 [blockstart:07] 
-THE RUNNER
+马拉松选手
 
-"Are you ready for a competition? So be it!"
+你想跟我比比看吗？比就比，现在比赛开始了！！
 
 <usericon:2,7>
 [blockend:07]
 
 [blockstart:08] 
-ELIS
+伊利斯
 
-"We like strangers! Come closer. You want to compete against our runner? If you win, we will support you and supply you with all our marble ... 
+“我们喜欢陌生人！走近一点。你想和我们的马拉松选手比赛吗？如果你赢了，我们会支持你，并为你提供我们所有的大理石……”。。。
 
-A little hint: He runs so fast that you often can't catch up with him. Wait for him on the small wooden bridge ...
+小提示：他跑得太快了，你想追上他很困难他。在小木桥上等他好了。。。
 
 <usericon:1,108,275>
 
-... sooner or later he should run past you ..."
+…他迟早会从你身边跑过。。。"
 [blockend:08]
 
 [blockstart:09] 
-ELIS
+伊利斯
 
-"So, you managed to defeat the runner of Elis? As a reward, we will supply you with marble columns for the construction of the Zeus Statue ... 
+“好吧，你成功击败了伊利斯的选手。作为奖励，我们将为你提供建造宙斯雕像的大理石柱。。。
 
 <usericon:1,87,147>
 
-These merchants could take them to you. Give them safe escort ... Maybe they can even be of use for other trade ..."
+这些商人可以把货物带给你。好好保护他们。。。商人们甚至可以用于其他贸易。。。"
 [blockend:09]
 
 [blockstart:10] 
-CORINTH
+科林斯城市
 
-"There is mistrust everywhere among the cities. If you manage to retrieve our ancient artefact from the Spartans, we will support you in your mission. But the Spartans are not friendly to anybody except the Elisians!"
+“城市之中不乏怀疑的眼光注视着我们。如果你设法从斯巴达人那里取回我们的古代文物，我们会支持你。但斯巴达人对任何人都不友好！！除了伊利斯人！”
 
-Bring the Corinthians the artefact of their faith from the Spartans.
+把斯巴达人的信仰文物带给科林斯人。
 [blockend:10]
 
 [blockstart:11] 
-CORINTH
-ARTEFACT DELIVERED!
+科林斯人
 
-"You made it! I'm sure it wasn't easy to retrieve it from the Spartans, because they aren't friendly to anybody except the Elisians.
-Our people are deeply indebted to you and will therefore donate 60 gold to the construction of the Zeus Statue! It will be taken to the building site immediately ...
+文物交付！
+
+“你成功了！我相信从斯巴达人那里取回它并不容易，因为除了伊利斯人，他们对任何人都不友好。
+
+
+我们的人民对你们深表感激，因此将捐赠60黄金用于建造宙斯雕像！它将立即被带到建筑工地。。。
 
 <usericon:1,76,241>
 
-Furthermore, you will receive the required ivory and the rare precious metals from us."
+除此之外, 您将从我们那里获得所需的象牙和稀有贵金属。”
 [blockend:11]
 
 [blockstart:12] 
-SPARTA
+斯巴达
 
-"We do not like you! We mistrust all strangers! The only ones that we trust are the Elisians from the north-west.
-Go back where you came from!"
+“我们不喜欢你！我们不信任所有的陌生人！我们唯一信任的是来自西北部的伊莉森人。
+离我们远点！"
 
-Leave and come back with the WARRIORS of the Elisians!
+离开，和伊丽森人的战士们一起回来！
 [blockend:12]
 
 [blockstart:13] 
-SPARTA
+斯巴达
 
-"Welcome, Elisians! We have not held a joint celebration for a long time, and we are happy that you are paying us a visit again! Your friends are welcome as well ..."
+“欢迎，伊莉森人！我们已经很久没有举行联合庆祝活动了，我们很高兴你再次访问我们！也欢迎你的朋友……”
 
-Search Sparta for an ARTEFACT for the Corinthians.
+在斯巴达为科林斯人寻找艺术品。
 [blockend:13]
 
 [blockstart:14] 
-SPARTA
+斯巴达
 
-"You have come to retrieve the artefact for the Corinthians? - This is a just a fake! 
+“你是来为科林斯人取文物的？-这只是个赝品！
 
 <usericon:1,236,505>
 
-Due to the constant disturbances and raids, we do not keep it on the surface any more. It is hidden underneath our city - in the SEA OF FLAMES. 
-The entrance is near the barracks. Only heroes must enter this place! If you manage to retrieve it from there, it shall be yours!"
+由于不断的骚乱和袭击，我们放在地面上的只是一个纪念品。真东西隐藏在我们城市的下面——火焰之海。
+入口在营房附近。只有英雄才能进入这个地方！如果你设法从那里取回它，它将是你的！"
 
-Take all of your heroes and an Elisian soldier to the barracks.
+带上你所有的英雄和一名伊莉森士兵去军营。
 [blockend:14]
 
 
 [blockstart:15] 
-MEGARA
+麦加
 
-"The gold is ours! We won't give it to anybody, not even for the construction of the Zeus Statue," the citizens of Megara called out from a distance, before their arrows rained down on us ...
+“金子是我们的！我们不会把它给任何人，甚至不会用来建造宙斯雕像，”梅加拉的市民从远处喊道，然后他们的箭像雨点般落在我们身上。。。
 
-They were not the least bit friendly. There was no way their attitude could be misinterpreted ...
+他们一点也不友好。呵呵，是你们逼我们维京人的。
 [blockend:15]
 
 [blockstart:16] 
-MARBLE DELIVERED
+大理石送达！
 
-"Very good, you have got the marble.
-By the way, I almost forgot to tell you that we also need some more ivory and additional precious metals for the construction. I'm sure the Corinthians or the Spartans will be able to help you ..."
+“很好，你拿到大理石了。
+顺便说一句，我差点忘了告诉你，我们还需要一些象牙和额外的贵金属来建造。我相信科林斯人或斯巴达人会帮助你。。。"
 
-Bring some ivory and the precious metals to the building site.
+把一些象牙和贵金属带到神像工地。
 [blockend:16]
 
 [blockstart:17] 
-THE OLD MAN
+老人
 
-"I came through these magic fields. I met a tribe like yours in the south, on the other side. 
+“我穿过这些神奇的田野。我在南边的另一边遇到了一个像你们这样的部落。
 
 <usericon:1,193,330>
 
-They were very friendly and offered me freshly baked bread."
+他们非常友好，而且给了我不少甜美的面包。真美味呀。
 [blockend:17]
 
 [blockstart:18] 
-THE OLD MAN
+老人
 
-"Oh yes, the runner of Elis can hardly be stopped! 
+“啊，对！那个马拉松选手，我几乎没看到他歇息过。他好像永远不会停下来。”
 
 <usericon:1,134,198>
 
-His wife always waits for him on the small bridge for snacks. That's where you will meet him for sure ..."
+H他的妻子总是在小桥上等着和他一起吃饭。你肯定会在那里见到他。。。"
 [blockend:18]
 
 [blockstart:19] 
-THE OLD MAN
+老人
 
-"This site is ideal for building a warehouse because it is located right between the two trade posts of the Saracen markets. 
+"这个场地非常适合建造仓库，因为它正好位于萨拉森市场的两个贸易站之间。
 
 <usericon:1,355,285>
 
-If I was still young, I would build my warehouse here, too. There is no better place."
+如果我还年轻的话，我也会在这里建仓库。没有比这更好的地方了。"
 
-If you want to, build a warehouse within the marked area.
+如果你想，在标记的区域内建立一个仓库。
 [blockend:19]
 
 
@@ -226,125 +233,128 @@ If you want to, build a warehouse within the marked area.
 [blockend:20]
 
 [blockstart:21] 
-STATUE OF ZEUS EXTENDED!
+宙斯神像有了新进展！
 
 <usericon:1,83,242>
 
-With the precious metals, the citizens of Olympia were able to speed up the construction of the Zeus Statue, but they were still lacking the remaining goods they had already requested.
+有了这些贵金属，奥林匹亚的市民能够加快宙斯雕像的建造速度，但如果缺乏关键性的材料的话。神像还是没法如期完成！！！
+
 [blockend:21]
 
 [blockstart:22] 
-ALL MAIN MISSION OBJECTIVES COMPLETED!
+主线任务完成！
 
 <usericon:1,83,231>
 
-Finally, we had got all the materials, so that the Zeus Statue could be finished.
+终于！我们把所有资源都筹集了。
 
-Take your heroes to the Zeus Statue!
+现在，带你的英雄去宙斯神像那。
+
 [blockend:22]
 
 [blockstart:23] 
-ANTHUSA
+安素莎
 
-"I have heard that there are also red and blue flowers of this kind. 
+“我听说有我这种花儿也有红色和蓝色款的。"
 
 <usericon:2,13>
 
-Unfortunately, only yellow flowers grow in my garden. What wouldn't I give only to have a few red ones! Take these yellow flowers. Maybe you will find someone who likes this variety ..."
+但是很可惜，很可惜。我这里只有黄色的。（转头去拿花）拿着吧！说不定也有人喜欢黄色的呢？"
 [blockend:23]
 
 [blockstart:24] 
-DESTASIA
+迪斯塔莎
 
-"I have heard that there are also yellow and blue flowers of this kind. 
+"我听说这种花儿也有黄色和蓝色款的. 
 
 <usericon:2,14>
 
-Unfortunately, only red flowers grow in my garden. What wouldn't I give only to have a few blue ones! Take these red flowers. Maybe you will find someone who likes this variety ..."
+不幸的是，我的花园里只有红花。如果我能有几个蓝色的，我会开心坏的！你们拿过来我肯定能给你好处。现在，拿着这些红花。也许你会找到一个喜欢这颜色的人。。。"
 [blockend:24]
 
 [blockstart:25] 
-PASARA
+帕萨拉
 
-"I have heard that there are also red and yellow flowers of this kind. 
+"我听说有红色和黄色的，这个款式. 
 
 <usericon:2,15>
 
-Unfortunately, only blue flowers grow in my garden. What wouldn't I give only to have a few yellow ones! Take these blue flowers. Maybe you will find someone who likes this variety ..."
+不幸的是，我的花园里只有蓝花。如果我能有几个蓝色的，我会开心坏的！你们拿过来我肯定能给你好处。现在，拿着这些红花。也许你会找到一个喜欢这颜色的人。。。"
 [blockend:25]
 
 [blockstart:26] 
-ANTHUSA
+安素莎
 
-"Oh! Red flowers! I have always wanted to have some of those! In return, please take the gold in front of my house. Please, you cannot deny my wish."
+“哦！红花！我一直想要一些！作为回报，请把我家门前的金子拿走。求你了，你不能拒绝我，这红花我特别需要。”
 
 <usericon:2,13>
 
-You will receive 10 gold and 5 coins! 
+你得到了10黄金和5金币。
 [blockend:26]
 
 [blockstart:27] 
-DESTASIA
+迪斯塔莎
 
-"Oh! Blue flowers! I have always wanted to have some of those! In return, please take the gold in front of my house. Please, you cannot deny my wish."
+“哦！蓝花！我一直想要一些！作为回报，请把我家门前的金子拿走。求你了，你不能拒绝我，这蓝花我特别需要。”
 
 <usericon:2,14>
 
-You will receive 10 gold and 5 coins!
+你得到了10黄金和5金币。
 [blockend:27]
 
 [blockstart:28] 
-PASARA
+帕萨拉
 
-"Oh! Yellow flowers! I have always wanted to have some of those! In return, please take the gold in front of my house. Please, you cannot deny my wish."
+“哦！黄花！我一直想要一些！作为回报，请把我家门前的金子拿走。求你了，你不能拒绝我，这红花我特别需要。”
 
 <usericon:2,15>
 
-You will receive 10 gold and 5 coins!
+你得到了10黄金和5金币。
 [blockend:28]
 
 [blockstart:29] 
-NOMAD WARRIORS
+游牧战士
 
-"We won't let travellers pass, for the will of Zeus does not count for us!" 
+“我们不会让旅行者通过的，因为宙斯的意志对我们来说不重要！”
 
-Pay a tribute of 15 longswords!
+送15个长剑给他们！
 [blockend:29]
 
 [blockstart:30] 
-TRIBUTE PAID TO NOMAD WARRIORS!
+向游牧勇士致敬！
 
-"We will let you go in peace," the nomad warriors told us as they took our tribute. 
+“我们会让你平静地离开，”游牧战士在接受我们的礼物时告诉我们。
 [blockend:30]
 
 [blockstart:31] 
-MARKET PLACE
+集市
 
-"In return for a tribute, you can get handcarts and ox carts, nourishing amulets and longswords here ...
+“作为贡品的回报，你可以在这里得到手推车、牛车、护身符和长剑。。。
 
-But first build an extra warehouse between our two warehouses!"
+但首先在我们的两个仓库之间多建一个仓库！"
+
 [blockend:31]
 
 [blockstart:32] 
-TRIBUTE PAID TO MERCHANTS OF THE MARKET PLACE! 
+给商人送了礼物之后
 
-"For this tribute you will receive 15 longswords from us. May they be of great use to you."
+“我们返礼了15个长剑，愿他们对你有用。”
 
 <usericon:1,354,272>
 [blockend:32]
 
 [blockstart:33] 
-TRIBUTE PAID TO MERCHANTS OF THE MARKET PLACE! 
+给商人送了礼物之后
 
-"For this tribute you will receive a handcart and an ox cart from us. May they be of great use to you."
+我们返礼了一辆手推车和一辆牛车。愿它们对你大有用处
 
 <usericon:1,350,290>
 [blockend:33]
 
 [blockstart:34] 
-TRIBUTE PAID TO MERCHANTS OF THE MARKET PLACE! 
+给商人送了礼物之后
 
-"For this tribute you will receive 15 nourishing amulets from us. May they be of great use to you."
+我们返礼了15个滋养护身符。愿它们对你大有用处
 
 <usericon:1,354,272>
 [blockend:34]
@@ -352,48 +362,48 @@ TRIBUTE PAID TO MERCHANTS OF THE MARKET PLACE!
 
 [blockstart:100]
 <font:$local$\fonts\fonthead16bld.fnt>
-MISSION FAILED!
+任务失败！
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
-Heroism or carelessness? When BJARNI died the gods were crying ... without this hero, the outcome of this mission will remain hidden to you!
+是英雄主义还是粗心大意？布加尼死去时，上天在哭泣……没有这位英雄，这次故事的结局将永远不为人知！
 [blockend:100]
 
 [blockstart:200]
 <font:$local$\fonts\fonthead16bld.fnt>
-MISSION FAILED!
+任务失败！
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
-A short moment of negligence, that's all it takes to lose your life! Your heroine CYRA died due to your negligence! Without this heroine, the outcome of this mission will remain hidden to you! 
+是英雄主义还是粗心大意？西拉死去时，上天在哭泣……没有这位英雄，这次故事的结局将永远不为人知！
 [blockend:200]
 
 [blockstart:300]
 <font:$local$\fonts\fonthead16bld.fnt>
-MISSION FAILED!
+任务失败！
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
-A short moment of negligence, that's all it takes to lose your life! Your friend and hero HATCHIE died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you! 
+是英雄主义还是粗心大意？哈迪死去时，上天在哭泣……没有这位英雄，这次故事的结局将永远不为人知！
 [blockend:300]
 
 [blockstart:400]
 <font:$local$\fonts\fonthead16bld.fnt>
-MISSION FAILED!
+任务失败！
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
-A short moment of negligence, that's all it takes to lose your life! Your friend and hero SIGURD died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you!
+是英雄主义还是粗心大意？西加哥德死去时，上天在哭泣……没有这位英雄，这次故事的结局将永远不为人知！
 [blockend:400]
 
 [blockstart:500]
 <font:$local$\fonts\fonthead16bld.fnt>
-MISSION FAILED!
+任务失败
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
-A short moment of negligence, that's all it takes to lose your life! Your friend and hero NORBERT, the dragon, died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you!
+是英雄主义还是粗心大意？诺伯特——龙死去时，上天在哭泣……没有这位英雄，这次故事的结局将永远不为人知！
 [blockend:500]
 
 [blockstart:600]
 <font:$local$\fonts\fonthead16bld.fnt>
-MISSION FAILED!
+任务失败！
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
-A short moment of negligence, that's all it takes to lose your life! MANI, son of Bjarni and Cyra, died due to your negligence! Without him, the outcome of this mission will remain hidden to you!
+是英雄主义还是粗心大意？曼尼死去时，上天在哭泣……没有这位英雄，这次故事的结局将永远不为人知！
 [blockend:600]

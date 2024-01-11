@@ -1,23 +1,23 @@
 [blockstart:header] 
-UNDERGROUND HALLS
+地下殿堂
 [blockend:header]
 
 [blockstart:00_start] 
-The shepherds had kept their women hidden in these halls to guard them against the Saracen robbers. The entrance was well protected. We hoped that nobody had followed us ...
+牧羊人把他们的妇女藏在这些大厅里，以保护她们免受萨拉森强盗的侵害。入口受到很好的保护。我们希望没有人跟着我们...
 
 <usericon:1,21,20>
 [blockend:00_start] 
 
 [blockstart:00_start1] 
-Find a way to retrieve the construction plans!
+去找回建筑蓝图计划
 [blockend:00_start1]
 
 [blockstart:50_endheader] 
-MISSION COMPLETED! 
+任务完成！ 
 [blockend:50_endheader]
 [blockstart:50_end] 
-"May you live long! For you alone drove the intruders from our halls. Please accept this construction plan for the Hanging Gardens as a token of our thanks. It has lain hidden in a crevice in the underground halls for centuries, and may now be of great use to you."
-
+"祝你健康永驻！朋友们！
+你把侵入者从我们的大厅赶走了。请接受这份挂花园的建筑计划作为我们对你的感谢的象征。它已经藏在地下大厅的一个裂缝中几个世纪了，现在可能对你非常有用。"
 <usericon:1,50,16>
 [blockend:50_end]
 [blockstart:50_end1] 
@@ -25,22 +25,21 @@ MISSION COMPLETED!
 
 
 [blockstart:01] 
-WOMEN
+妇女
 
-"Are you intruders? 
+"你们是侵入者吗？
 
 <usericon:1,30,48>
 
-Our men brought us to these underground halls for our protection, to spare us the fate that many other women of our people have suffered. 
-They were kidnapped by the robbers in the north-west. Our men were outnumbered and therefore powerless! Do you also belong to these vagabonds? 
-How do we know we can trust you? Can you hear those horrible sounds? Are the dragons in danger?"
+我们的男人把我们带到这些地下大厅来保护我们，以免我们遭受我们族人中许多其他妇女所遭受的命运。他们被西北的强盗绑架了。我们的人数不足，无力反抗！你们也属于这些强盗吗？
+我们怎么知道我们能否相信你们？你听到那些可怕的声音了吗？龙们是否有危险？"
 [blockend:01]
 
 
 [blockstart:02] 
-ROBBERS
+强盗
 
-"Ha! This is where the shepherds keep their women and their goods! I'm glad that we followed you strange people! We heard how you wangled the loot from our brothers! You won't have such an easy time of it with us! Haha!" 
+"哈！这就是牧羊人藏着妇女和货物的地方！我们很高兴跟着你们这些奇怪的人！我们听说你们从我们的兄弟那里抢走了战利品！你们在我们这里可没那么容易！哈哈！"
 [blockend:02]
 
 [blockstart:03] 
@@ -48,57 +47,57 @@ ROBBERS
 [blockend:03]
 
 [blockstart:04] 
-INSIDE THE UNDERGROUND HALLS
+地下大厅内部
 
-"You have made it inside the great underground halls! You say our men sent you? But how do we know whether we can trust you? Oh, it would be so nice to live freely under the sun again," the shepherds' women said.
- 
-... but what was that? Again we heard noises from the southern end of the structure ... 
-Was there maybe a second entrance?
+"你们成功进入了宏伟的地下大厅！你们说我们的男人派你们来的？但我们怎么知道我们能否相信你们？哦，能够再次自由地生活在阳光下将是多么美好啊，"牧羊人的妇女们说。
+
+...但那是什么？我们再次听到了结构的南端传来的声音...
+也许有第二个入口吗？
 [blockend:04]
 
 [blockstart:05] 
-THANK YOU!
+谢谢你！
 
-"You have banned the intruders from our halls. We are deeply grateful for that! You have earned our trust and in return we will trust you with the hidden construction plans of the Hanging Gardens. They are kept in a secret place in the upper halls!
-
+"你们把侵入者赶出了我们的大厅。我们对此深表感激！作为回报，我们将信任你们，把挂花园的隐藏建筑计划交给你们。它们被保存在上层大厅的一个秘密地方！
 <usericon:1,50,16>
 
-We will accompany you back to our men, because you seem to have averted the threat of the ever-invading robbers! What a pity that the robbers have almost wiped out these friendly dragons. But you seem to have found a new friend ...
+托你们的福，我们好像已经避免了不断入侵的强盗威胁，我们将陪同你们回到我们的男人那里！这些友善的龙几乎被强盗们消灭了，真是可惜。但你们似乎找到了一个新朋友...
 
-Follow us to the upper hall!" 
+跟着我们到上层大厅去吧！"
 [blockend:05]
 
 [blockstart:06] 
-DANGER!
+危险！
 
-We had hardly left when we heard horrible sounds! Somebody must be suffering greatly not far from here!
+我们刚刚离开时就听到了可怕的声音！有人一定正在遭受巨大的痛苦，就在附近！
 
 <usericon:1,37,138>
 [blockend:06]
 
 [blockstart:07] 
-THE LITTLE DRAGON
+小龙
 
-We were too late! The robbers had slaughtered the dragons!
+我们来得太晚了！！强盗已经把龙杀光了！
 
 <usericon:1,37,138>
 
-But what was that?
+但这是什么？
 
 <usericon:1,57,157>
 
-A little dragon was sitting in the bushes shivering with fear. This little fellow had had to witness the horrible fate of his parents and was now all alone! We had to take care of him!
+一个小龙蜷缩在灌木丛中，充满恐惧。这个小家伙目睹了他父母可怕的命运，现在孤零零地一个人！我们必须照顾他！
 
-Return to the women together with the dragon and all your heroes as soon as you have defeated the robbers!
+打败强盗后，带着龙和所有英雄一起回到妇女那里！
 [blockend:07]
 
 
 [blockstart:100]
 <font:$local$\fonts\fonthead16bld.fnt>
-MISSION FAILED!
+任务失败
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
-Heroism or carelessness? When BJARNI died the gods were crying ... without this hero, the outcome of this mission will remain hidden to you!
+一时的疏忽，生命瞬间离去！布加尼因你的不注意而逝去！没有这个英雄，你将无法知道故事的结局。
+
 [blockend:100]
 
 [blockstart:200]
@@ -106,7 +105,7 @@ Heroism or carelessness? When BJARNI died the gods were crying ... without this 
 MISSION FAILED!
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
-A short moment of negligence, that's all it takes to lose your life! Your heroine CYRA died due to your negligence! Without this heroine, the outcome of this mission will remain hidden to you! 
+一时的疏忽，生命瞬间离去！西拉你的不注意而逝去！没有这个英雄，你将无法知道故事的结局。
 [blockend:200]
 
 [blockstart:300]
@@ -114,7 +113,7 @@ A short moment of negligence, that's all it takes to lose your life! Your heroin
 MISSION FAILED!
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
-A short moment of negligence, that's all it takes to lose your life! Your friend and hero HATCHIE died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you! 
+一时的疏忽，生命瞬间离去！哈迪因的不注意而逝去！没有这个英雄，你将无法知道故事的结局。
 [blockend:300]
 
 [blockstart:400]
@@ -122,7 +121,7 @@ A short moment of negligence, that's all it takes to lose your life! Your friend
 MISSION FAILED!
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
-A short moment of negligence, that's all it takes to lose your life! Your friend and hero SIGURD died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you! 
+一时的疏忽，生命瞬间离去！西加哥德因你的不注意而逝去！没有这个英雄，你将无法知道故事的结局。
 [blockend:400]
 
 [blockstart:500]
@@ -130,5 +129,5 @@ A short moment of negligence, that's all it takes to lose your life! Your friend
 MISSION FAILED!
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
-A short moment of negligence, that's all it takes to lose your life! Your friend and hero NORBERT, the dragon, died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you!
+一时的疏忽，生命瞬间离去！诺伯特因你的不注意而逝去！没有这个英雄，你将无法知道故事的结局。
 [blockend:500]

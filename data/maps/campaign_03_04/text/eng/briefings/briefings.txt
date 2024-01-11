@@ -7,61 +7,61 @@
 
 [blockstart:100]
 <font:$local$\fonts\fonthead16bld.fnt>
-MISSION FAILED!
+任务失败！
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
-Heroism or carelessness? When BJARNI died the gods were crying ... without this hero, the outcome of this mission will remain hidden to you!
+是英雄主义还是粗心大意？当布加尼死去时，上天在哭泣……没有这位英雄，故事的结局将永远不为人知！
 [blockend:100]
 
 [blockstart:200]
 <font:$local$\fonts\fonthead16bld.fnt>
-MISSION FAILED!
+任务失败！
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
-A short moment of negligence, that's all it takes to lose your life! Your heroine CYRA died due to your negligence! Without this heroine, the outcome of this mission will remain hidden to you! 
+是英雄主义还是粗心大意？当西拉死去时，上天在哭泣……没有这位英雄，故事的结局将永远不为人知！
 [blockend:200]
 
 [blockstart:300]
 <font:$local$\fonts\fonthead16bld.fnt>
-MISSION FAILED!
+任务失败！
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
-A short moment of negligence, that's all it takes to lose your life! Your friend and hero HATCHIE died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you! 
+是英雄主义还是粗心大意？当哈迪死去时，上天在哭泣……没有这位英雄，故事的结局将永远不为人知！
 [blockend:300]
 
 [blockstart:400]
 <font:$local$\fonts\fonthead16bld.fnt>
-MISSION FAILED!
+任务失败！
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
-A short moment of negligence, that's all it takes to lose your life! Your friend and hero SIGURD died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you! 
+是英雄主义还是粗心大意？当西加哥德死去时，上天在哭泣……没有这位英雄，故事的结局将永远不为人知！
 [blockend:400]
 
 [blockstart:500]
 <font:$local$\fonts\fonthead16bld.fnt>
-MISSION FAILED!
+任务失败！
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
-A short moment of negligence, that's all it takes to lose your life! Your friend and hero NORBERT, the dragon, died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you!
+是英雄主义还是粗心大意？你的朋友，诺伯特，那条龙在战斗中身亡了！！上天在哭泣……没有这位英雄，故事的结局将永远不为人知！
 [blockend:500]
 
 [blockstart:600]
 <font:$local$\fonts\fonthead16bld.fnt>
-MISSION FAILED!
+任务失败！
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
-A short moment of negligence, that's all it takes to lose your life! MANI, son of Bjarni and Cyra, died due to your negligence! Without him, the outcome of this mission will remain hidden to you!
+是英雄主义还是粗心大意？你的朋友，诺伯特，那条龙在战斗中身亡了！！上天在哭泣……没有这位英雄，故事的结局将永远不为人知！
 [blockend:600]
 
 
 [blockstart:700]
 <font:$local$\fonts\fonthead16bld.fnt>
-MISSION FAILED!
+任务失败！
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\People_Dead_F.pcx>
-You attacked your best friends although you had been warned! 
+为什么要攻击你的伙伴！你失去了伙伴的信任！！
 
-This way you will not be able to complete your mission!
+没有他们的协助，我们不可能完成这个紧迫的任务！
 [blockend:700]
 
 
@@ -69,48 +69,49 @@ This way you will not be able to complete your mission!
 // **************************
 // Startbriefing
 [blockstart:header] 
-THE MAUSOLEUM
+陵墓
 [blockend:header]
 
 [blockstart:00_start1] 
-After the successful construction of the Colossus, Sigurd and Hatchie had set off to Halicarnassus with the rest of the company. In ancient times there used to be a mighty building somewhere near this port that served as a tomb to a famous king.
+我们在完成神像的建设过后。西加哥德和哈迪已经先我们一步出发，前往了哈利卡纳苏。
 
-In the course of the centuries, the name of the king had fallen into oblivion, and even the building itself was said to have been destroyed in an earthquake. 
+在很久以前，那里有一座辉煌的建筑。一位著名国王的陵墓，非常的壮丽雄伟。
+
+然后在漫长的几百年后。国王的名字已经被世人所遗忘了，建筑一直保留着下来。但是近期的数次地震，也让陵墓遭受了很大的损失。
 [blockend:00_start1]
 
 
 [blockstart:00_start2] 
-It was our task to resurrect the tomb. With a little bit of luck it should only be a matter of a short time, for according to the Council, the foundations at least still existed.
+重建陵墓是我们的目前最紧急的任务！！如果运气好的话，这应该只是一个短时间的问题，因为安理会认为，数次的地震并没有显著影响到陵墓的地基，只是部分结构损坏罢了。
 
+哈迪和西加哥德率先在城市的北方落脚。他们想先拜访哈利卡纳苏的统治者，并调查该市的情况。有了罗德岛的经历，他们变得更为谨慎了，跟拜占庭人的冲突。很多人失去了珍贵的生命。
 
-Hatchie and Sigurd dropped anchor north of the city. First they wanted to pay a visit to the ruler of Halicarnassus and investigate the situation in the city. After what they had experienced in Rhodes, they had become cautious ...
-
-
-Go to Halicarnassus and pay the monarch a visit.
+前往哈利卡纳苏并拜访君主。
 [blockend:00_start2]
 
 
 
 // Mission gewonnen
 [blockstart:09_end_header] 
-MISSION COMPLETED! 
+任务完成！
 [blockend:09_end_header]
 
 [blockstart:09_end_text1] 
-You made it! 
+干得漂亮！！
 
-With Queen Artemisia's help, we had managed to complete the Mausoleum despite pirates and earthquakes!
- 
-We could now only hope that this Wonder of the World would be spared from any catastrophes until we had completed our great mission.
+在阿特米西亚女王的帮助下，尽管有海盗和地震，我们还是成功地将陵墓修复！！
+
+我们现在只能希望，在我们完成我们的伟大使命之前，这个世界奇观能免受任何灾难。让世界重回美好！
+
 [blockend:09_end_text1]
 
 [blockstart:09_end_text2] 
-Our journey would now take us to Ephesus, where we wanted to see whether the Temple of Artemis was still undamaged and intact. 
 
-This was what the Council of Nations had told us. We were hoping that we wouldn't receive a nasty surprise, because evil and darkness were coming closer and closer. 
+我们的旅程现在将带我们去以弗所，在那里我们想看看阿尔忒弥斯神庙是否完好无损。
 
+这是国际理事会告诉我们的。我们希望旅途能一路平安，虽然黑暗和邪恶在日益增长。但是，祝我们好运！！
 
-We had no time to lose ... 
+毕竟，我们已经没有别的选择了.....
 [blockend:09_end_text2]
 
 
@@ -119,57 +120,58 @@ We had no time to lose ...
 // Event-Texte
 // **************************
 
-// V鰈ker entdeckt
+// Völker entdeckt
 // **************************
 // Halikarnassos
 [blockstart:10] 
-HALICARNASSUS
+哈利卡纳苏斯
 
-This is Halicarnassus, the capital of the Carian region. The city is located around a natural harbour that is protected by an offshore island. 
+这是哈利卡纳苏斯，加勒比海地区的首都。这座城市位于一个受近海岛屿保护的天然港口周围。
 
-The ruler of the Carian region was King Mausolos. We had to see him to find out whether we would face any troubles during the reconstruction of the Mausoleum of the ancient king. 
+卡里亚地区的统治者是毛索洛斯国王。我们必须去拜访他，了解这片地区的状况，看看在重建古代国王陵墓的过程中我们是否会遇到任何麻烦。
 
-At the same time, we wanted to look out for remains of the ancient tomb. After all, they had to be somewhere ...
+同时，我们想寻找古墓的遗迹。毕竟，他们肯定就在这儿的某个地方。。。
+
 [blockend:10]
 
 
 // Osirer
 [blockstart:11] 
-TRIBE OF THE OSIRIANS
+奥西亚人部落
 
 <usericon:1,83,83>
+一个曾经来自遥远埃及的部落在哈利卡纳苏城附近定居下来。他们以埃及冥界之神的名字称自己为奥西里亚人，身为神的后裔，他们很排斥外来人士。
 
-A tribe that once came from distant Egypt had settled down near the city of Halicarnassus. They called themselves Osirians after the Egyptian god of the underworld.
+他们守护着近山区发现的资源。不让外人涉足任何一步。
 
-Enviously and energetically they defended the resources that they found in the mountains near their village.
+如果我们想跟哈利卡纳苏斯地区的人有进一步合作，我们就必须赶走奥西里亚人，或者想办法和他们交朋友。取得三方共赢的局面。
 
-If we wanted to lay hands on them, we would have to drive away the Osirians or find a way to make friends with them.
-
-
-Drive the Osirians away or pay the requested tribute, so that they will give up their hostile attitude towards your tribe.
+赶走奥西里人或支付要求的贡品，这样他们就会放弃对你部落的敌对态度。
 [blockend:11]
 
 
 // Al Rhababa 
 [blockstart:12] 
-AL RHABABA
+拉纳巴拉 部落
 
-The people of Al Rhababa lived on an island to the west of Halicarnassus. They were pirates who made their living through robbery and raids.
+拉纳巴拉 的人民生活在哈利卡纳苏以西的一个岛屿上。他们是通过抢劫和袭击谋生的海盗。
 
-They were men of war and could quickly cover large distances with their ships! Nobody was safe from their raids. We, too, feared to become the victims of their greed for gold ...
+他们是天生的战士，他们用船控制着周边的领土，他们掌控着海域！！没有人能免受他们的袭击。
 
+我们必须谨慎的与他们接触，避免成为他们索求黄金的对象。。。
 
-Prepare yourself against raids by the pirates. Maybe you can buy peace and thus prevent them from robbing you.
+做好防范海盗袭击的准备。也许你可以买到和平，但是。。短暂的和平带来不了任何的平安。
+
 [blockend:12]
 
 
 [blockstart:13] 
-EL ARAB
+阿拉巴 部落
 
-At the foot of the mountains lived a small tribe called El Arab. They regarded the mountains as their possessions and attacked anyone who tried to settle there.
+山脚下住着一个叫阿拉巴的小部落。他们把山当作自己的领地，攻击任何试图在那里定居的人。
 
+也许你可以通过向他们赠予贡品，来打破他们的敌对态度。。。
 
-Maybe you can manage to break their hostile attitude by paying them a tribute ...
 [blockend:13]
 
 
@@ -177,56 +179,65 @@ Maybe you can manage to break their hostile attitude by paying them a tribute ..
 // Tribute
 // **************************
 [blockstart:14] 
-AL RHABABA
+拉纳巴拉 部落
 
-After we had paid the pirates of Al Rhababa a rather high tribute, their greed for gold was satisfied for the time being. 
+在我们向拉纳巴拉的海盗支付了相当高的贡品后，他们对黄金的贪婪暂时得到了满足。
+
+
 
 <usericon:1,64,348>
 
-They stopped their raids and let us live in peace.
+他们停止了袭击，让我们和平生活。但是下一次是什么时候？
+
 [blockend:14]
 
 
 [blockstart:15] 
-TRIBE OF THE OSIRIANS
+赠予奥西亚人部落贡品
 
 <usericon:1,83,83>
 
-After we had paid the Osirians the requested tribute, they stopped their hostile actions. Now we had access to the precious resources that we had discovered in their mountains.
+在我们向奥西里人献上充满诚意的贡品之后，他们停止了对我们的敌视行为。现在，我们被允许在他们的山区进行采矿。
 
 
-Now try to make friends with the Osirians! It could be worth it!
+现在试着和奥西里亚人交朋友！这可能是值得的！
 [blockend:15]
 
 
 [blockstart:16] 
-EL ARAB
+阿拉巴 部落
 
 <usericon:1,279,244>
 
 After we had paid the people of El Arab their requested tribute, they put down their weapons and granted us free access to their mountains. 
 
 There we found precious resources that might be of use to us in our hard task.
+
+在我们给阿拉巴部落的人献上诚意的贡品之后。他们，不再敌视我们，并且允许我们通行他们的群山。
+
+在那里，我们发现了珍贵的资源，这真是我们当前任务能用到的！！太好了。
+
 [blockend:16]
 
 [blockstart:17] 
-TRIBE OF THE OSIRIANS
+奥西亚人部落
 
-If you are looking for conflict, you shall have it!
+呵呵，如果你是来找麻烦的，你这会算是来对地方了！
 
 <usericon:1,83,83>
 
-The Osirians, who surely could have helped you in many ways, will now be against you until the end of time!
+奥西亚人，肯定是可以在很多地方协助你的。现在我们会对付你，绝对不会给你好果子吃，不信你就看着吧！
 [blockend:17]
 
 [blockstart:18] 
-TRIBE OF THE OSIRIANS
+奥西亚人部落
 
-By paying the requested tribute we managed to make friends with the Osirians! 
+通过给奥西亚人献上诚意的贡品之后，我们成功的与奥西亚人成为了朋友。也许他们能在某些方面协助我们呢？
 
 <usericon:1,83,83>
 
-Who knows what good may yet come of this ...
+谁知道这会带来什么好处。。。
+
 [blockend:18]
 
 
@@ -235,26 +246,23 @@ Who knows what good may yet come of this ...
 // **************************
 
 [blockstart:20] 
-FRIENDS ARRIVE
+友人来了！
 
-It was a big surprise when the ship carrying myself, Cyra, our son Mani, his dragon Norbert and some soldiers from Cyra's father's bodyguard dropped anchor at the beach!
+当看到西拉，布加尼以及他的孩子和那条龙来到我们这儿！真是让人感觉心安，现在我们对这次的任务更有信心了！！布加尼带来了更多的人，现在停泊在我们的海岸线附近，来协助我们了！！
 
 <usericon:1,173,34>
 
-Mani had recovered from his severe illness that had forced us to leave our friends. 
+曼尼的重病迫使我们离开了朋友。
 
-When we had arrived at the court of Cyra's father, the Emperor of Byzantium, after our departure from Rhodes, he did everything in his power to get the best physicians of the empire. So, Mani enjoyed the best medical care one could imagine. 
+我们离开罗兹后，当我们到达赛拉的父亲拜占庭皇帝的宫廷时，他尽其所能为我们找到了帝国最好的医生。因此，马尼享受了人们所能想象到的最好的医疗服务。
+多亏了这种精心的护理，他很快就康复了。尽管如此，我们还是一直呆在球场上，直到他完全康复。
 
-Thanks to this excellent care and nursing he had soon recovered. Still, we had remained at the court until he was completely well again. 
+然后我们准备好了我们的船，再次启程前往罗德斯。但当我们从远处看到港口入口处的巨像时，我们知道我们的朋友们取得了成功，并一直直接驶向哈利卡纳苏。
+我们来了！
 
-Then we had prepared our ship and set off again for Rhodes. But when we saw the Colossus in the harbour entrance from a distance, we knew that our friends had been successful and kept sailing directly towards Halicarnassus. 
+我们很容易一起完成下一个世界奇迹！
 
-And here we were!
-
-Together it would be easy for us to complete the next Wonder of the World!
-
-
-If only we were not mistaken ...
+如果我们没有错就好了。。。
 [blockend:20]
 
 [blockstart:25] 
@@ -500,7 +508,7 @@ VERY strange, if you ask me ..."
 
 
 // **************************
-// Kistenh鋘dler
+// Kistenhändler
 // **************************
 [blockstart:150] 
 LETROS THE CHEST MERCHANT
@@ -626,7 +634,7 @@ Have fun!"
 // Bau des Mausoleums
 // **************************
 
-// K鰊ig Mausolos allgemein
+// König Mausolos allgemein
 [blockstart:210] 
 KING MAUSOLOS
 
@@ -742,7 +750,7 @@ Take the necessary goods to the marked spot at the foot of the hill.
 [blockend:240]
 
 
-// V鰈ker tot
+// Völker tot
 // **************************
 
 [blockstart:310] 

@@ -1,11 +1,11 @@
 [blockstart:header] 
-DIE DUNKLE H諬LE
+黑暗洞穴
 [blockend:header]
 
 [blockstart:00_start] 
-Zappenduster war es hier unten in der H鰄le. Ohne Fackeln konnten wir hier wenig ausrichten, auch wenn wir in der Ferne ein leichtes Gl黨en sahen. 
+在洞穴里，一片漆黑。我们没有火把，无法在这里做任何事情，尽管我们远处看到了微弱的光亮。
 [blockend:00_start]
 [blockstart:00_start1]
-Wir mu遲en einen Feuerdrachen um Hilfe bitten, um uns bei den Erkundungen der H鰄le zu unterst黷zen! 
+我们必须请求一只火焰龙帮助我们，在探索洞穴时提供支持！
 [blockend:00_start1]
 

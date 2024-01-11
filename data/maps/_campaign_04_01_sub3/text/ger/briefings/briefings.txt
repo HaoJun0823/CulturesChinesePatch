@@ -1,34 +1,36 @@
 [blockstart:header] 
-DIE HEILIGE HALLE DER STEINDRACHEN
+Ê¯ÁúµÄÊ¥µî
 [blockend:header]
 
 [blockstart:00_start] 
-Bis hierher hatten es Norbert und Mani geschafft. 
-Die heilige Halle der Steindrachen lag vor ihnen. 
+
+ÂüÄá ºÍ Åµ²®ÌØ Ò»ÆğÀ´µ½Ê¥µî£¡
+ÏÖÔÚÉñÊ¥µÄÊ¯ÁúÊ¥µî¾ÍÔÚËûÃÇÃæÇ°¡£
 
 [blockend:00_start]
 [blockstart:00_start1] 
-Würde der weise Grauholm etwas über Norberts Herkunft wissen? 
-Bald nun sollten sie eine Antwort auf diese Frage erhalten...
+
+ÖÇÕß¸ñÂŞÄ· ÊÇ·ñÖªµÀÅµ²®ÌØµÄÀ´ÀúÄØ£¿
+ºÜ¿ìËûÃÇ½«»áµÃµ½Õâ¸öÎÊÌâµÄ´ğ°¸...
+
 [blockend:00_start1]
 
 
 [blockstart:50_endheader] 
-MISSION GEWONNEN! 
+ÈÎÎñÊ¤Àû£¡
 [blockend:50_endheader]
 [blockstart:50_end] 
-GRAUHOLM
+¸ñÂŞÄ·
 
-"Nun habt ihr auch diese beiden zusammengebracht. Ich will euch zum Dank erzählen, was ich von Eurer Herkunft weiß:
-Norbert, mein junger Erdrache
-Die Erdrachen waren ein friedliches Volk, das niemals anderen Geschöpfen Leid zufügte. 
+"ÏÖÔÚÄãÃÇÒ²½«ÕâÁ½¸öÈË¾Û¼¯ÔÚÒ»Æğ¡£ÎªÁË¸ĞĞ»ÄãÃÇ£¬ÎÒ½«¸æËßÄãÃÇÎÒËùÖªµÀµÄ¹ØÓÚÄãÃÇµÄÀ´Àú£º
+Åµ²®ÌØ£¬ÎÒµÄÄêÇáÍÁÁú
+ÍÁÁúÊÇÒ»¸öºÍÆ½µÄÖÖ×å£¬´Ó²»¶ÔÆäËûÉúÎïÔì³ÉÉËº¦¡£"
 
 <usericon:1,121,29>
 
-Leider wurde ihre Gutmütigkeit oftmals ausgenutzt und sie waren ein beliebtes Jagdziel der TORUMANNEN. Nur wenige haben abgeschieden von der restlichen Welt überlebt. 
-Wenn es noch Erdrachen gibt, dann im Dschungel. 
-
-Zieht also nach Süden!"
+È»¶ø£¬ËûÃÇµÄÉÆÁ¼¾­³£±»ÀÄÓÃ£¬³ÉÎªÍĞÂüÄáµÄÁÔÉ±Ä¿±ê¡£Ö»ÓĞÉÙÊıÈËÔÚÓëÊÀ¸ô¾øµÄµØ·½ĞÒ´æÏÂÀ´¡£
+Èç¹û»¹ÓĞÍÁÁúµÄ»°£¬ÄÇÃ´ËüÃÇÒ»¶¨¾ÍÔÚ´ÔÁÖÖĞ¡£
+ËùÒÔÏòÄÏÒÆ¶¯°É£¬ÄÇÀï»òĞíÄÜÓĞĞÂ·¢ÏÖ£¡£¡
 [blockend:50_end]
 [blockstart:50_end1] 
 
@@ -36,84 +38,81 @@ Zieht also nach Süden!"
 
 
 [blockstart:01] 
-DIE WACHDRACHEN UM GRAUHOLM                        
+¸ñÂŞÄ· ÖÜÎ§µÄÊØÎÀÁúÃÇ                       
 
 <usericon:2,9>
 
-"GRAUHOLM erwartet euch bereits! Folgt uns zu ihm!"
+"¸ñÂŞÄ· ÔÚµÈÄã£¡¸ú×ÅÎÒÃÇ×ß£¬ÎÒÃÇ»á´øÄãÈ¥ÕÒËû¡£"
 [blockend:01]
 
 
 [blockstart:02] 
-GRAUHOLM
+¸ñÂŞÄ·
 
-"Wahrlich, ihr habt es geschafft den Twist zwischen den einzelnen Völkern beizulegen!
+"µÄÈ·£¬ÄãÒÑ¾­Éè·¨½â¾öÁËÁúÓëÆäËûÈËÖ®¼äµÄÃ¬¶Ü£¡ÕâºÜºÃ¡£"
 
 <usericon:2,1>
 
-Ein einziger ist noch übriggeblieben, doch ich bezweifele, dass diese zwei sich aus Untoleranz, Angst oder Neid streiten....
-Rothild und Blaustrump, zwei Vertreter der Feuer- und Wasserdrachen, machen sich das Leben hier wirklich schwer...
+Ö»ÓĞÒ»¸öÁúÁôÁËÏÂÀ´£¬µ«ÎÒ»³ÒÉÕâÁ½¸öÈË²»»áÒòÎª²»¿íÈİ¡¢¿Ö¾å»ò¼µ¶Ê¶øÕù³³...
+ÂŞµÏ¶ûºÍ²¼À¼Ë¹Äá£¬»ğÁúºÍË®ÁúµÄ´ú±í£¬ÔÚÕâÀï¹ıµÃÕæµÄºÜ¼èÄÑ...
 
-Rothild ist in den Hallen im Westen und Blaustrump in denen im Osten. Findet und bringt sie zu mir und ich werde euch von eurer Herkunft berichten!
+ÂŞµÏ¶ûÔÚÎ÷±ßµÄ´óÌüÀï£¬²¼À¼Ë¹ÄáÔÚ¶«±ßµÄ´óÌüÀï¡£ÕÒµ½ËûÃÇ²¢°ÑËûÃÇ´øµ½ÎÒÕâÀï£¬ÎÒ»á¸æËßÄãÃÇ¹ØÓÚÄãÃÇµÄÀ´Àú£¡
+
 [blockend:02]
 
 [blockstart:03] 
-BLUMEN!
+»¨¶ä£¡
 
-Mani und Norbert mussten bei der Versöhnung der beiden einen Trick anwenden...
-Die Drachen waren sehr dickköpfig. Dann hatten sie eine Idee! 
+ÂüÄáºÍÅµ²®ÌØÔÚµ÷½âÕâÁ½¸öÈËÖ®¼ä²»µÃ²»Ê¹ÓÃÁËÒ»¸öĞ¡¼¼ÇÉ...
+ÕâĞ©Áú·Ç³£¹ÌÖ´¡£È»ºóËûÃÇÓĞÁËÒ»¸öÖ÷Òâ£¡ÓÃÏÊ»¨£¡À´´«´ïÉÆÒâ¡£
 
 <usericon:1,10,116>
 
-Vielleicht ein paar Blumen und ein paar geflunkelte nette Worte? 
-So pflückten Mani und Norbert ein paar blaue Blumen und gingen zu Rothild...
+Ò²ĞíÒ»Ğ©»¨¶äºÍÒ»Ğ©ĞéÇé¼ÙÒâµÄÓÑÉÆÑÔ´Ç£¿ËùÒÔÂüÄáºÍÅµ²®ÌØ²ÉÕªÁËÒ»Ğ©À¶É«µÄ»¨¶ä£¬È»ºóÈ¥ÕÒÂŞµÏ¶û...
+
 [blockend:03]
 
 [blockstart:04] 
-ROTHILD
+ÂŞµÏ¶û
 
-"Ich werde nicht mitkommen und diesen eingebildeten Wasserdrachen dort treffen!... tze"
-sprach Rothild und kehrte uns den Rücken zu.
+"ÎÒ²»»á¸úÄãÃÇÒ»ÆğÈ¥¼ûÄÇ¸ö×Ô¸ºµÄË®Áú£¡... ßóßóÍáÍáµÄ"
+ÂŞµÏ¶ûËµ×Å×ª¹ıÉí±³¶Ô×ÅÎÒÃÇ¡£
 
 <usericon:2,2>
 [blockend:04]
 
 
 [blockstart:05] 
-ROTHILD
+ÂŞµÏ¶û
 
-"Blaue Blumen, die sind aber wunderschön!
-Wie? Diese Blumen kommen von Blaustrump? 
+¡°ÕâĞ©À¶É«µÄ»¨ÕæÃÀ°¡£¡ÔõÃ´£¿ÕâĞ©»¨ÊÇ´Ó Blumen kommenÄÇÀïÀ´µÄ£¿¡±
 
 <usericon:2,2>
 
-Für einen Wasserdrachen hat er ja einen guten Geschmack. Vielleicht hatte ich mich ja in ihm getäuscht?
-
-Gut, ich werde Euch begleiten."
+¡°¶ÔÓÚÒ»¸öË®ÁúÀ´Ëµ£¬ËûµÄÆ·Î¶»¹Õæ²»´í¡£Ò²ĞíÎÒÎó½âÁËËû£¿ºÃ°É£¬ÎÒ»á¸úÄãÃÇÒ»ÆğÈ¥µÄ¡£¡±
 [blockend:05]
 
 [blockstart:06] 
-BLAUSTRUMP
+²¼À¼Ë¹Äá
 
-"Diese Rothild denkt sie wär etwas Besonderes! Nein ich werde nicht mitkommen und sie dort eventuell treffen."
-sprach Blaustrump und kehrte uns den Rücken zu.
+¡°Õâ¸öÂŞµÏ¶û denktÈÏÎªËıºÜÌØ±ğ£¡²»£¬ÎÒ²»»áºÍËıÒ»ÆğÈ¥¼ûÃæ¡£¡± Blumen kommenËµ×Å£¬±³¶Ô×ÅÎÒÃÇÀë¿ªÁË¡£
 
 <usericon:2,3>
 [blockend:06]
 
 
 [blockstart:07] 
-BLAUSTRUMP
+²¼À¼Ë¹Äá
 
-"Wie, sie mag mich? Ist das wirklich wahr? Na wenn das so ist, werd ich euch natürlich begleiten. Insgeheim hab ich sie ja schon immer ganz süß gefunden."
+¡°ËıÏ²»¶ÎÒ£¿ÕâÊÇÕæµÄÂğ£¿ÄÇºÃ°É£¬ÎÒµ±È»»áºÍÄãÃÇÒ»ÆğÈ¥µÄ¡£ÆäÊµÎÒÒ»Ö±¾õµÃËıºÜ¿É°®¡£¡±
 
 <usericon:2,3>
 [blockend:07]
 
 [blockstart:08] 
-ROTHILD UND BLAUSTRUMP
+ÂŞµÏ¶û UND ²¼À¼Ë¹Äá
 
-Als die beiden dickköpfigen Drachen sich nun so mit anderen Augen sahen, verlief alles wie von selbst. Sie hatten trotz ihrer unterschiedlichen Abstammung zueinander gefunden." 
+µ±ÕâÁ½¸ö¹ÌÖ´µÄÁúÒÔ²»Í¬µÄÑÛ¹â¿´´ı±Ë´ËÊ±£¬Ò»ÇĞ¶¼Ë³Àí³ÉÕÂÁË¡£¾¡¹ÜËüÃÇÓĞ×Å²»Í¬µÄÑªÍ³£¬µ«ËüÃÇ»¹ÊÇÕÒµ½ÁË±Ë´Ë¡£ËüÃÇ»¥Ïà¶¼±§ÓĞ¼«´óµÄºÃ¸Ğ¡£¡±
 
 <usericon:2,2>
 [blockend:08]
@@ -127,7 +126,7 @@ Als die beiden dickköpfigen Drachen sich nun so mit anderen Augen sahen, verlief
 MISSION VERLOREN!
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
-Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund und Held der Drache NORBERT erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+Ò»Ê±µÄÊèºö£¬ÉúÃüË²¼äÀëÈ¥£¡ÄãµÄÅóÓÑºÍÓ¢ĞÛ¡ª¡ªÁúÅµ²®ÌØ¾ÍÊÇÒòÎªÄãµÄ²»×¢Òâ¶øÊÅÈ¥£¡Ã»ÓĞÕâ¸öÓ¢ĞÛ£¬Äã½«ÎŞ·¨ÖªµÀÈÎÎñµÄ½á¾Ö¡£
 [blockend:500]
 
 [blockstart:600]
@@ -135,5 +134,5 @@ Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund un
 MISSION VERLOREN!
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
-Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! MANI - Sohn von Bjarni und Cyra erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+Ò»Ê±µÄÊèºö£¬ÉúÃüË²¼äÀëÈ¥£¡ÂüÄá¡ª¡ª²¼¼ÓÄáºÍÎ÷À­µÄ¶ù×ÓÒ²ÒòÎªÄãµÄ²»×¢Òâ¶øÊÅÈ¥£¡Ã»ÓĞÕâ¸öÓ¢ĞÛ£¬Äã½«ÎŞ·¨ÖªµÀÈÎÎñµÄ½á¾Ö¡£
 [blockend:600]

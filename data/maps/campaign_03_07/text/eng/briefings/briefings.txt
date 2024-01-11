@@ -1,114 +1,116 @@
 [blockstart:header] 
-THE PYRAMIDS OF GIZA
+吉萨金字塔
 [blockend:header]
 
 [blockstart:00_start] 
-The infinite beauty of the Giza Plateau opened up before us. The Pyramids of Giza were built in the days of the Fourth Dynasty by the kings Cheops, Chepren and Mycerinus. We had great respect for their age.
+吉萨高原的无限美景展现在我们面前。吉萨金字塔是在第四王朝时期由国王切普、契普和米切里努斯建造的。这是一个非常令人尊敬的过往，他们的艺术让人过目不忘。
 
-The Pyramids that could be climbed from all sides were now to be painted white again and smoothed out on the outside, so that they would shine like crystals in the sunlight or shimmer mysteriously under the stars and the glaring moon at night. This should reactivate the mysterious powers that rested in each of the Wonders of the World.
+现在，金字塔将被重新涂成白色，外表平滑光洁，这样它们就会像水晶一样在阳光下闪闪发光，或者在夜晚的星星和耀眼的月亮下神秘地闪烁。这将是重新激活每一个世界奇观中，不可或缺的神秘力量！！
+
 [blockend:00_start]
 [blockstart:00_start1] 
-For years the construction of the Pyramids continued during the three months of the inundation of the Nile. We, too, had to use this time to cover the Pyramids. 
+多年来，在尼罗河泛滥的三个月里，金字塔的建设一直在继续，没有间断过。我们必须保护好金字塔
 
-However, we were not safe from enemy attacks ...
+同时，我们也并不安全，敌人随时都可能进攻我们
 
-Extend the Pyramids and help defend them!
+帮助建设金字塔并保卫它们！
 [blockend:00_start1]
 
 
 [blockstart:50_endheader] 
-MISSION COMPLETED! 
+任务完成！ 
 [blockend:50_endheader]
 [blockstart:50_end] 
-We had managed to paint the Pyramids and ward off the dark menace from this Wonder of the World with our own army! 
+我们已经设法粉刷了金字塔，并用我们自己的军队抵御了来自这个世界奇迹的黑暗威胁！
 
-In the face of our superior united forces, the serpent creatures took flight!
- 
-Now the Pyramids were shining again like crystals during the daytime and mysteriously under the stars in the glaring moonlight at night ...
+面对我们强大的联合部队，蛇怪们逃走了！
+
+现在，金字塔在白天再次像水晶一样闪闪发光，在夜晚耀眼的月光下，星空下闪闪发光，预示着神秘的力量伴随我们。。。
 [blockend:50_end]
 [blockstart:50_end1] 
-At the time when all Wonders of the World still existed on Earth, a mighty island had risen from the sea, crowned with a mighty obelisk. 
+当世界上所有的奇迹重现于世的时候，一个巨大的岛屿从海底升起，岛上有一座巨大的方尖碑。
 
-This was the last Wonder of the World that could bind the powers of all Wonders ...
+这是世界上最后一个可以集合所有奇观力量的方尖塔。。。
 
-The wise men from the Council of Nations, however, were helpless because the obelisk should have developed its power a while ago. So, our next destination was fixed: We set off for the EIGHTH WONDER OF THE WORLD!
+然而，议会的智者们却束手无策，因为方尖碑应该现在就展现出它强大的力量。因此，我们的下一个目的地已经确定：我们出发前往世界第八奇迹！
 [blockend:50_end1]
 
 [blockstart:01] 
-THE CITIZENS OF GIZA
+吉萨市民
 
 <usericon:1,254,387>
 
-"The sadness and melancholy of the dark menace has struck our city before. We are not scared of it and are prepared to send our soldiers to war with you! 
+“黑暗威胁的悲伤和苦难以前袭击过我们的城市。这不算什么！我们的意志坚强，现在让我们一起并肩作战吧！！”！
 
-Give us some mead as a tribute for travel rations, and our troops will march with you towards the east and north-east!"
+给我们一些蜂蜜酒作为旅行口粮的贡品，我们的部队将与你一起向东部和东北部进军！"
 
-If you want to, pay the tribute for the Egyptian mercenaries.
+如果你愿意，送礼以雇佣埃及军队。
 [blockend:01]
 
 [blockstart:02] 
-THE PYRAMIDS OF GIZA
+吉萨金字塔
 
 <usericon:1,113,309>
 
-"The dark menace is spreading everywhere. There is hardly a tribe in this country that has not suffered melancholy and sadness! To top it all, our scouts have sighted dark troops approaching from the east and north-east. 
-We have to stop them! Please, you have to help us protect the Pyramids and finish their construction!"
+“黑暗的威胁正在到处蔓延。在这个国家，几乎没有一个据点不受黑暗的侵蚀！最重要的是，我们的侦察兵看到黑暗的军队从东部和东北部逼近。
 
-Fortify the Pyramids with your own troops during the next attack! Place 25 soldiers at the Pyramids!
+我们必须阻止他们！求求你了，黑暗即将来临，没有人能独善其身。你必须帮助我们保护金字塔并完成它们的建造！"
+在下一次进攻中用你自己的部队保卫金字塔！在金字塔上放置25名士兵！
 
-If necessary, build several warehouses around the building site and deliver 50 stones, 70 gold and 40 marble columns! 
+如有必要，在建筑工地周围建造几个仓库，并运送50块石头、70根黄金和40根大理石柱！
 [blockend:02]
 
 
 [blockstart:03] 
-THE DARK MENACE
+黑暗的威胁
 
 <usericon:1,152,337>
 
-Not far from our landing spot we heard cries and the sounds of jangling metal.
-Did this mean that the Pyramids were in serious danger?
+在离着陆点不远的地方，我们听到了哭声和刺耳的金属声。
+这是否意味着金字塔处于严重的危险之中？
 [blockend:03]
 
 [blockstart:04] 
-GOODS DELIVERED
+交付了建筑材料
 
-We had delivered the required goods to the building site. This should help speed up the painting of the Pyramids. 
+我们已经把所需的货物送到了工地。这将有助于加快金字塔的建设速度。
 
 <usericon:1,113,309>
 [blockend:04]
 
 [blockstart:05] 
-ALL MAIN MISSION OBJECTIVES ACHIEVED!
 
-We had managed to paint the Pyramids and ward off the dark menace from the Wonder of the World with our army! In the face of our superior forces, the serpent creatures took flight! 
+所有主要任务目标都实现了！
+
+我们设法粉刷了金字塔，并用我们的军队抵御了来自世界奇迹的黑暗威胁！面对我们的优势力量，蛇怪生物逃走了！
 
 <usericon:2,1 >
 
-Take your heroes to the Pyramids!
+带你的英雄去金字塔看看状况！
 [blockend:05]
 
 [blockstart:06] 
-THE DARK MENACE
+黑暗势力
 
 <usericon:2,12>
 
-The army of terror invaded this piece of land once more. Could our troops ward them off again?
+死亡大军再次入侵这片土地。我们的部队能再次挡住他们吗？
 [blockend:06]
 
 [blockstart:07] 
-THE DARK MENACE
+黑暗势力
 
 <usericon:2,1 >
 
-You have not placed 25 soldiers at the Pyramids yet! Can you ward off the attacks by the dark army?
+死亡大军再次入侵这片土地。我们的部队能再次挡住他们吗？
 [blockend:07]
 
 [blockstart:08] 
-THE DARK MENACE
+黑暗势力
 
 <usericon:1,152,337>
 
-The army of terror invaded this piece of land once more. Would our troops be able to ward them off again?
+死亡大军再次入侵这片土地。我们的部队能再次挡住他们吗？
 [blockend:08]
 
 [blockstart:09] 
@@ -116,198 +118,202 @@ BEDOUINS
 
 <usericon:1,369,364>
 
-"Our poor brothers," the Bedouins wailed. "They hardly have enough to survive on and are constantly being attacked by these dark beasts. We don't have enough weapons to line up a new army, even though there are enough volunteers in our tribe ...
+“我们可怜的兄弟，”贝都因人哀嚎道。“他们几乎没有足够的食物生存，而且不断受到这些黑暗野兽的攻击。尽管我们部落有足够的志愿者，但我们没有足够的武器来组建一支新的军队……”。。。
 
-Hand over some weapons as a tribute, and we will go to war with you." 
+送一些武器给他们，他们会与我们并肩作战。"
 [blockend:09]
 
 [blockstart:10] 
-BEDOUINS
-
+贝都因人
 <usericon:1,369,364>
 
-"Our men are ready to fight," the Bedouins said. "They are braver than all other warriors in this country and will fight on your side!"
+“我们的人已经做好了战斗的准备，”贝都因人说。“他们比这个国家的所有战士都勇敢，会与你们并肩作战！”
 
-In return for more weapons, even more warriors wanted to go to war with us.
+给更多的武器，他们会派更多的人加入战斗。。
 [blockend:10]
 
 [blockstart:11] 
-TRIBE OF MERCHANTS
+商人
 
-"This trading centre is the only good one in this area. Nowhere else will you find such a great product range. But first you will have to prove your friendship! Look for Miguel, the merchant. He will tell you the conditions for our trade."
+“这个贸易中心是这个地区唯一仅存的。其他地方也找不到像我们一样号的东西了。但首先你必须证明你的友谊！寻找商人米格。他会告诉你我们贸易的条件。”
 
 <usericon:1,341,263>
 
-Look for Miguel, the merchant!
+找到商人米格
 [blockend:11]
 
 [blockstart:12] 
-MERCHANT
+商人
 
-"We have numerous treasures on offer. But before you can benefit from them, you have to give me a small donation to show your good will."
+“我们有很多珍宝可供选择。但在你从中受益之前，你必须给我一笔小额捐款，以表示你的善意。”
  
 <usericon:1,315,271>
 
-Hand Miguel the requested tribute!
+给他所要的东西
 [blockend:12]
 
 [blockstart:13] 
-TRIBUTE GIVEN TO THE MERCHANT!
+商人收到了礼物
 
 <usericon:1,315,273>
 
-"You have shown your good intentions. As a token of my good will I therefore would like to give you these two ox carts full of marble. 
-You can use them for your mission, can't you? Well, you scratched my back - now I'll scratch yours. 
+“你已经表明了你的善意。为了表示我的善意，我想把这两辆装满大理石的牛车送给你。
 
-I may have fibbed a bit about my favourable offers, but you are welcome to have a look around my warehouses!"
+你可以把它们用于你的任务，不是吗？好吧，你帮了我，我帮了你。这很公平。
+
+我的报价不一定优惠，但是一定是好东西。欢迎你参观我的仓库！"
 [blockend:13]
 
 [blockstart:14] 
-BYZANTINES
+拜占庭人
 
 <usericon:1,38,69>
 
-"We support the construction works at the Pyramids and have even sent our soldiers for protection. There is not a lot more that we can do. After all, our beloved wives don't want to stay at home all by themselves ...
-Even though I must say that, in return for your fine crockery, some women would certainly let their men go to war ... Hahaha."
+“我们支持金字塔的建设，甚至派我们的士兵去保护。但很多时候，我们无能为力。毕竟，我们士兵深爱的妻子不想一个人呆在家里。。。
 
-Give the Byzantines crockery as a tribute to hire mercenaries! 
+尽管我必须说，你们维京人精湛的陶瓷品，有些女人肯定会让她们的男人去打仗。。。哈哈哈。"
+
+用陶器作为雇佣拜占庭人的雇佣金！
 [blockend:14]
 
 [blockstart:15] 
-TRIBUTE PAID TO THE BYZANTINES!
+拜占庭人收到了礼物
 
 <usericon:1,116,318>
 
-We had hardly given the Byzantine women some crockery when they sent their well-armoured husbands to war! They were given so many rations by their wives that they didn't need any additional food for months! We were glad about this ...
+我们刚给拜占庭妇女一些陶器，她们就把全副武装的丈夫送上了战场！
+他们的妻子给了士兵众多的口粮，以至于他们几个月都不需要任何额外的食物！。。。这真是让我意外。
 [blockend:15]
 
 [blockstart:16] 
-SARACENS
+萨拉森人
 
 <usericon:1,95,460>
 
-"There used to be huge gold deposits in this area, and our village flourished. But now these deposits are slowly running low, and soon we'll have to leave ..."
+“这个地区曾经有巨大的黄金矿脉，我们的村庄也很繁荣。但现在这些金矿床正在慢慢减少，很快我们就不得不离开……”
+
 [blockend:16]
 
 [blockstart:17] 
-THE OLD MAN
+老人
 
 <usericon:1,221,177>
 
-"The land along the Nile is fertile and rich in resources. Only gold is very rare on this side of the river. High up in the north, on the other side, there are plenty of gold mountains. 
+“尼罗河沿岸的土地肥沃，资源丰富。只有黄金在河的这一边非常罕见。在北边的另一边，有很多金山。
 
-But the dark armies attack anyone who dares to enter the region that has been covered by the shadows."
+但是黑暗的军队攻击任何敢于进入被阴影覆盖的地区的人。"
 [blockend:17]
 
 [blockstart:18] 
-THE OLD MAN
+老人
 
 <usericon:1,57,348>
 
-"Watch out if you cross these magic fields! On the other side, the dark army is not far away. They also know about the teleporter!"
+“如果你穿过这些魔法传送环，请小心！在另一边，黑暗军队就在不远处。他们也知道如何使用怪异的魔法！”
+
 [blockend:18]
 
 [blockstart:19] 
-SARACENS
+萨拉森人
 
-"There used to be huge gold deposits in this area, and our village flourished. But now these deposits are slowly running low, and soon we'll have to leave ...
+“这个地区曾经有巨大的黄金矿脉，我们的村庄也很繁荣。但现在这些金矿床正在慢慢减少，很快我们就不得不离开……”
 
 <usericon:1,95,460>
 
-What? You have found a gold deposit in the north?! We will go there, mine it and then we can share it ..."
+什么你在北方发现了金矿？！我们会去那里，挖掘它，采掘到的也可以分享给你们。"
 [blockend:19]
 
 [blockstart:20] 
-SARACENS
+萨拉森人
 
 <usericon:1,386,20>
 
-"Greetings, friends! As agreed, we have set up our camp here in the north to mine gold for you and for ourselves. 
+"你好, 朋友!按照约定，我们在北方扎营，为你们和我们自己开采黄金。
 
-One of the warehouses is now yours!"
+其中一个仓库现在是你的了！"
 [blockend:20]
 
 [blockstart:21] 
-BEDOUINS
+贝都因人
 
 <usericon:1,456,181>
 
-"We live in fear and terror because we are constantly threatened by these dark warriors. Can you help us? Pay our brothers a visit, they will surely send some help!"
+“我们一直在担惊受怕，因为我们经常受到这些黑暗战士的侵袭。你能帮助我们吗？拜访我们的兄弟部落，他们一定会提供一些帮助！”
 
-Look for the other Bedouin oases if you want to help the Saracens.
+如果你想帮助萨拉森人，就去找其他贝都因人的绿洲。
 [blockend:21]
 
 [blockstart:22] 
-PYRAMID DESTROYED
+金字塔被毁
 
 <usericon:1,113,309>
 
-Oh dear, one of the Pyramids has been destroyed and cannot be rebuilt! The mission has failed!
+哦，天哪，其中一座金字塔已经被毁，无法重建！任务失败了！
 [blockend:22]
 
 [blockstart:23] 
-GIZA HAS BEEN DESTROYED
+金字塔被彻底破坏了
 
 <usericon:1,254,387>
 
-Giza has fallen! Without the hard-working people of this city, the mission has failed!
+吉萨人屈服于黑暗势力！没有这座城市辛勤工作的人民，我们不可能将金字塔完工。
 [blockend:23]
 
 [blockstart:24] 
-BYZANTINE SOLDIERS
+拜占庭士兵
 
 <usericon:1,96,287>
 
-These Byzantine soldiers belonged to a city in the north. Surely, we would find even more support for the defence of the Pyramids there!
+这些拜占庭士兵属于北方的一座城市。当然，我们会在那里为保卫金字塔找到更多的帮助！
 [blockend:24]
 
 [blockstart:25] 
-GOLD DEPOSITS!
+发现黄金
 
 <usericon:1,392,43>
 
-This area accommodated unbelievably large gold deposits. Now it would be easy to gather the required gold for the construction of the Pyramids! 
+这个地区蕴藏着难以置信的巨大金矿。现在，金字塔缺乏黄金的事情再也不是什么难以解决的事了。
 
-A Saracen village deep in the south-west would surely help us mine the gold. The people there were experienced miners ...
+西南深处的一个萨拉森村庄肯定会帮助我们开采黄金。那里的人都是经验丰富的矿工。。。
 [blockend:25]
 
 [blockstart:26] 
-PHARAONIC WARRIORS
+法老战士
 
 <usericon:1,224,366>
 
-"Our warriors are ready for war," the Egyptians said. "They are braver than all other warriors in this country and will fight on your side!"
+埃及人说：“我们的战士已经做好了战争的准备。”。“他们比这个国家的所有其他战士都勇敢，会与你们并肩作战！”
 
-In return for more mead, even more warriors wanted to go to war with us.
+给我们更多的蜂蜜酒吧！我们埃及人不惧怕黑暗。
 [blockend:26]
 
 
 [blockstart:27] 
-MAGICIAN
+法师
 
 <usericon:1,480,573>
 
-"Yes, we have heard about the attacks by the dark people. We are working on a potion that will put them in a deep coma. We only need plenty of herbs to make it!
+“是的，我们听说过黑暗势力的袭击。我们正在研制一种能使他们陷入深度昏迷的药剂。我们只需要大量的草药就可以制造它！”！
 
-Give us herbs as a tribute, and we will mix the potion for you."
+给我们草药作为礼物，我们会为你调配药水。"
 [blockend:27]
 
 [blockstart:28] 
-MAGICIAN
+法师
 
 <usericon:1,480,573>
 
-"Thank you so much for the herbs. The potion has been mixed and distributed in the vicinity of the Pyramids. It is harmless to you, but the dark creatures will be harmed. 
+“非常感谢你的草药。这种药剂已经混合并分布在金字塔附近。它对你无害，但对黑暗生物有很大的影响。”。
 
-But watch out! It will only last for a certain time until it evaporates! If you want to renew it, you have to deliver a new supply of herbs!"
+但是要小心！它只会持续一段时间！！你必须提供新的草药供应！来延长效果"
 [blockend:28]
 
 [blockstart:100]
 <font:$local$\fonts\fonthead16bld.fnt>
-MISSION FAILED!
+任务完成
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
-Heroism or carelessness? When BJARNI died the gods were crying ... without this hero, the outcome of this mission will remain hidden to you!
+是英雄主义还是粗心大意？布加尼死去时，上天在哭泣……没有这位英雄，这次故事的结局将永远不为人知！
 [blockend:100]
 
 [blockstart:200]
@@ -315,7 +321,7 @@ Heroism or carelessness? When BJARNI died the gods were crying ... without this 
 MISSION FAILED!
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
-A short moment of negligence, that's all it takes to lose your life! Your heroine CYRA died due to your negligence! Without this heroine, the outcome of this mission will remain hidden to you! 
+是英雄主义还是粗心大意？西拉死去时，上天在哭泣……没有这位英雄，这次故事的结局将永远不为人知！
 [blockend:200]
 
 [blockstart:300]
@@ -323,7 +329,7 @@ A short moment of negligence, that's all it takes to lose your life! Your heroin
 MISSION FAILED!
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
-A short moment of negligence, that's all it takes to lose your life! Your friend and hero HATCHIE died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you! 
+是英雄主义还是粗心大意？哈迪死去时，上天在哭泣……没有这位英雄，这次故事的结局将永远不为人知！
 [blockend:300]
 
 [blockstart:400]
@@ -331,7 +337,7 @@ A short moment of negligence, that's all it takes to lose your life! Your friend
 MISSION FAILED!
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
-A short moment of negligence, that's all it takes to lose your life! Your friend and hero SIGURD died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you!
+是英雄主义还是粗心大意？西加哥德死去时，上天在哭泣……没有这位英雄，这次故事的结局将永远不为人知！
 [blockend:400]
 
 [blockstart:500]
@@ -339,7 +345,7 @@ A short moment of negligence, that's all it takes to lose your life! Your friend
 MISSION FAILED!
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
-A short moment of negligence, that's all it takes to lose your life! Your friend and hero NORBERT, the dragon, died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you!
+是英雄主义还是粗心大意？诺伯特死去时，上天在哭泣……没有这位英雄，这次故事的结局将永远不为人知！
 [blockend:500]
 
 [blockstart:600]
@@ -347,5 +353,5 @@ A short moment of negligence, that's all it takes to lose your life! Your friend
 MISSION FAILED!
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
-A short moment of negligence, that's all it takes to lose your life! MANI, son of Bjarni and Cyra, died due to your negligence! Without him, the outcome of this mission will remain hidden to you!
+是英雄主义还是粗心大意？曼尼死去时，上天在哭泣……没有这位英雄，这次故事的结局将永远不为人知！
 [blockend:600]

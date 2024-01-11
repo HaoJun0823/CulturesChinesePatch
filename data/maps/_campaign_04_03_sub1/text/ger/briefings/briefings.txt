@@ -1,30 +1,30 @@
 [blockstart:header] 
-UNTER DEM MEER
+在海底
 [blockend:header]
 
 [blockstart:00_start] 
-Augenblicklich fanden wir uns in einer seltsam fremden Umgebung wieder. 
+我们立刻发现自己置身于一个奇怪而陌生的环境中。
 [blockend:00_start]
 [blockstart:00_start1]
-Zweifellos befanden wir uns in einem der vielen Wassertempel der AQUAS! 
+毫无疑问，我们身处AQUAS的众多水神庙之一。
 [blockend:00_start1]
 
 
 [blockstart:50_endheader] 
-MISSION GEWONNEN! 
+任务成功！
 [blockend:50_endheader]
 [blockstart:50_end] 
-Ein Rucken und Rumoren durchzog das kleine Inselreich. Doch tats鋍hlich sollten sich durch diesen Schalter die Telepoter an der Oberfl鋍he in Bewegung gesetzt haben!
+岛上传来了一阵颤动和喧嚣声。但事实上，通过这个开关，地表上的传送门应该已经开始运转了！
 
 <usericon:1,36,37>
 
-...einen zum Hineintreten
+...一个用来进入
 
 <usericon:1,59,37>
 
-... der andere wirbelt uns dann wieder hinaus!
+...另一个用来将我们带回来！
 
-Bedenke: Der Teleporter funktioniert nur in eine Richtung! Willst du die Insel der Walddorfschule wieder verlassen, ben鰐igst du ein Schiff.
+请记住：传送门只能单向运行！如果你想离开这个森林学校的岛屿，你需要一艘船。
 [blockend:50_end]
 [blockstart:50_end1] 
 
@@ -32,38 +32,38 @@ Bedenke: Der Teleporter funktioniert nur in eine Richtung! Willst du die Insel d
 
 
 [blockstart:01] 
-WASSERDRACHEN
+水龙
 
-"Willkommen in unserem Wassertempel. Erdlinge haben wir hier eher selten zu Besuch, aber f黨lt euch, wie zu Hause"
+“欢迎来到我们的水神庙。地球人很少来访，但请随意，就像在家一样。”
 
 <usericon:1,44,107>
 
-Zweifellos verstanden die Aquas etwas von Gastfreundschaft!
+毫无疑问，Aquas对待客人是非常热情的！
 [blockend:01]
 
 
 [blockstart:02] 
-SCHIFFE
+船只
 
 <usericon:1,55,108>
 
-Wahrscheinlich ben鰐igten wir auch ein Schiff, um zum Schalter f黵 die Teleporter zu gelangen...
+我们可能需要一艘船才能到达传送门的开关位置...
 [blockend:02]
 
 [blockstart:03] 
-AQUARUM UND DER SCHALTER
+AQUARUM和开关
 
-"Ich bin m黡e vom Stehen auf diesem Schalter, aber er ist lebensnotwendig f黵 uns hier unter dem Meer, denn er betreibt die Turbine f黵 den Wasserlauf." 
+“我站在这个开关上站得有点累了，但对我们在海底的生活来说，它是必不可少的，因为它驱动了水流的涡轮。”
 
 <usericon:2,3>
 
-"Wenn ihr mich f黵 eine Weile abl鰏t, leihe ich euch mein Schiff."
+“如果你们能替我守一阵子，我可以借给你们我的船。”
 [blockend:03]
 
 [blockstart:04] 
-AQUARUM UND DER SCHALTER
+AQUARUM和开关
 
-"Gut, mein Schiff geh鰎t euch, solange jemand von euch auf dem Schalter steht." 
+“好吧，我的船就是你们的了，只要你们中有人站在开关上。”
 
 <usericon:2,3>
 [blockend:04]
@@ -71,7 +71,7 @@ AQUARUM UND DER SCHALTER
 [blockstart:05] 
 AQUARUM
 
-"Wenn niemand von euch auf dem Schalter steht, geh鰎t das Schiff wieder mir!"
+“如果没有人站在开关上，船又会回到我手中！”
 
 <usericon:1,88,123>
 [blockend:05]
@@ -79,16 +79,16 @@ AQUARUM
 
 [blockstart:100]
 <font:$local$\fonts\fonthead16bld.fnt>
-MISSION VERLOREN!
+任务失败！
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
-Heldenmut oder Leichtsinn? Als BJARNI starb, weinten die G鰐ter... Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+英勇还是轻率？当布加尼死去时，神明们都哭了起来...没有这位英雄，你将无法看到故事的结局。
 [blockend:100]
 
 [blockstart:200]
 <font:$local$\fonts\fonthead16bld.fnt>
-MISSION VERLOREN!
+任务失败！
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
-Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Deine Heldin CYRA erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+稍纵即逝的糊涂一刻，生活就会有所变化！因为你的疏忽，你的英雄西拉就此逝去！没有这位英雄，你将无法看到故事的结局。
 [blockend:200]

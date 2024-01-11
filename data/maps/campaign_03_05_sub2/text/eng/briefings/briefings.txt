@@ -1,85 +1,85 @@
 [blockstart:header] 
-THE LOST SWAMPS
+失落沼泽中
 [blockend:header]
 
 [blockstart:00_start] 
-We had no idea yet how to find a solution to fight the rising swamps. 
+真不知道该怎么解决这个沼泽的问题，来到这个地方。才发现深深的无力感。
 
 <usericon:1,208,156>
 
-The people of Ephesus told us of "wise men" who were said to live somewhere hidden in the swamp. 
+以弗所的人民告诉我们“智者”，据说他们住在沼泽地里的某个地方。
 
-Maybe they could show us a way, that's what we hoped for ...
+也许我们能找到路。。如果有的话。。。
 [blockend:00_start]
 [blockstart:00_start1] 
-Pay the wise men a visit!
+去找智者
 [blockend:00_start1]
 
 
 [blockstart:50_endheader] 
-MISSION COMPLETED! 
+任务完成
 [blockend:50_endheader]
 [blockstart:50_end] 
-When we crossed the bridge, we saw the wise men approaching us. They spoke to us in soft, dull voices:
+当我们过桥时，我们看到智者向我们走来。他们轻声细语地对我们说：
 [blockend:50_end]
 [blockstart:50_end1] 
 WISE MEN
 
-"Brave heroes! You have found the way to us wise men! This courage and ambition must be rewarded.
+“勇敢的英雄们！你们找到了通往智者的道路！这种勇气和雄心必须得到回报。
 
 <usericon:1,120,15>
 
-We know your problem and will suppress the rising of the swamps for a certain time. This will give you enough time to finish your construction, if you work hard ...
+我们知道你们遇到的困难。现在，我们将用魔法抑制沼泽的上升，但这只是一时的。如果你努力工作，这些时间也足够来完成你的神庙的建设了。。。
 
-Your hero Hatchie, however, is to stay with us for a while because we wise men would like to learn everything about the exotic culture of his homeland."
+然而，你的英雄哈奇将与我们一起呆一段时间，因为我们这些智者想了解他祖国的异国文化。"
 [blockend:50_end1]
 
 
 [blockstart:01] 
-SWAMP TRIBE
+沼泽部落
 
-"You have come to look for the wise men? This is a privilege for our people, but you are likely not to pass the trial of the swamp holes," the women of the swamp tribe said. 
+沼泽部落的妇女们说：“你是来寻找智者的吗？我们可以直接的见到他们。。但是，你们是陌生人。。也许会经过一系列考验才行。。但你很可能无法通过沼泽洞的谜题。。”。 
 
 <usericon:1,409,47>
 
-"But we wish you good luck anyway! Keep your eyes open and explore the environment when you pass through the next hole!"
+不管怎么样，祝你们好运。也许你们能找到路呢？多看看吧。
 [blockend:01]
 
 
 [blockstart:02] 
-SWAMP HOLE
+沼泽
 
-There were swamp holes in this area. According to our reports, one could easily get lost in them as they led the people to completely different places. But we had to use them to our advantage ...
+这个地区有沼泽通道。。。听说，人们如果盲目的在沼泽中穿行的话，会迷失在更远的地方。因为人会被转移到完全不同的地方。但我们又不得不去。。。。使用这个。
+
 [blockend:02]
 
 [blockstart:03] 
-BACK TO THE BEGINNING
+回到了原地！
 
-When we stepped through this hole, we were back at the beginning of our mission. This could hardly be the right way!
+当我们穿过这个洞时，我们又回到了任务的开始。。。。
 [blockend:03]
 
 [blockstart:04] 
-ATTENTION!
+注意！
 
-Without a doubt we had to cross this swamp hole, but we had a strange feeling while doing so. What might be waiting for us on the other side?
+我们不得不穿过这个沼泽洞，但在这样做的时候，我们有一种奇怪的感觉。在另一边等着我们的可能是什么？
 [blockend:04]
 
 [blockstart:05] 
-LIFE ENERGY
+生命能量
 
-A strange magic surrounded this place ... 
-
+一个奇怪的魔法包围了这个地方。。。
 <usericon:1,268,116>
 
-All of our men felt like they had been reborn!
+我们的伤病被完全的治愈了。
 [blockend:05]
 
 [blockstart:06] 
-HATCHIE
+哈迪
 
-"There you are again! What kept you so long? 
+"终于?你怎么花这么久的时间” 
 
-There is a way in, but no way out!" 
+有路可进，但没有路可出！"
 
 <usericon:2,3 >
 [blockend:06]
@@ -87,10 +87,10 @@ There is a way in, but no way out!"
 
 [blockstart:100]
 <font:$local$\fonts\fonthead16bld.fnt>
-MISSION FAILED!
+任务失败！
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
-Heroism or carelessness? When BJARNI died the gods were crying ... without this hero, the outcome of this mission will remain hidden to you!
+是英雄主义还是粗心大意？布加尼死去时，上天在哭泣……没有这位英雄，这次故事的结局将永远不为人知！
 [blockend:100]
 
 [blockstart:200]
@@ -98,7 +98,7 @@ Heroism or carelessness? When BJARNI died the gods were crying ... without this 
 MISSION FAILED!
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
-A short moment of negligence, that's all it takes to lose your life! Your heroine CYRA died due to your negligence! Without this heroine, the outcome of this mission will remain hidden to you! 
+是英雄主义还是粗心大意？西拉死去时，上天在哭泣……没有这位英雄，这次故事的结局将永远不为人知！
 [blockend:200]
 
 [blockstart:300]
@@ -106,7 +106,7 @@ A short moment of negligence, that's all it takes to lose your life! Your heroin
 MISSION FAILED!
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
-A short moment of negligence, that's all it takes to lose your life! Your friend and hero HATCHIE died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you! 
+是英雄主义还是粗心大意？哈迪死去时，上天在哭泣……没有这位英雄，这次故事的结局将永远不为人知！
 [blockend:300]
 
 [blockstart:400]
@@ -114,7 +114,7 @@ A short moment of negligence, that's all it takes to lose your life! Your friend
 MISSION FAILED!
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
-A short moment of negligence, that's all it takes to lose your life! Your friend and hero SIGURD died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you!
+是英雄主义还是粗心大意？西加哥德死去时，上天在哭泣……没有这位英雄，这次故事的结局将永远不为人知！
 [blockend:400]
 
 [blockstart:500]
@@ -122,7 +122,7 @@ A short moment of negligence, that's all it takes to lose your life! Your friend
 MISSION FAILED!
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
-A short moment of negligence, that's all it takes to lose your life! Your friend and hero NORBERT, the dragon, died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you!
+是英雄主义还是粗心大意？诺伯特死去时，上天在哭泣……没有这位英雄，这次故事的结局将永远不为人知！
 [blockend:500]
 
 [blockstart:600]
@@ -130,5 +130,5 @@ A short moment of negligence, that's all it takes to lose your life! Your friend
 MISSION FAILED!
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
-A short moment of negligence, that's all it takes to lose your life! MANI, son of Bjarni and Cyra, died due to your negligence! Without him, the outcome of this mission will remain hidden to you!
+是英雄主义还是粗心大意？曼尼死去时，上天在哭泣……没有这位英雄，这次故事的结局将永远不为人知！
 [blockend:600]

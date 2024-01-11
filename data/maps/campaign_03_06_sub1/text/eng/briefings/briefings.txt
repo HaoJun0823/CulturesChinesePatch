@@ -1,46 +1,46 @@
 [blockstart:header] 
-THE COMPETITION
+比赛
 [blockend:header]
 
 [blockstart:00_start] 
-The runner of Elis was in good shape and it wasn't going to be easy for Sigurd to beat him in the competition! 
+伊利斯选手状态很好，西加哥德要在比赛中击败他并不容易！
 
 <usericon:1,22,119>
 
-But still - he had to try because if he won the race, the citizens of Olympia and Elis would give us their support ...
+但尽管如此，他还是要努力，因为如果他赢得比赛，奥林匹亚和埃利斯的市民会支持我们。。。
 [blockend:00_start] 
 
 [blockstart:00_start1] 
-Defeat the runner in the competition!
+在比赛中跑赢伊利斯
 [blockend:00_start1]
 
 [blockstart:50_endheader] 
-MISSION COMPLETED! 
+任务完成！
 [blockend:50_endheader]
 [blockstart:50_end] 
-Congratulations! Nobody had believed Sigurd capable of winning! 
+祝贺你！你赢得了比赛，现在他们都会协助我们建设宙斯神像了！！
 
 <usericon:2,4>
 
-But his sportsmanship and ambition were so strong that he was able to defeat the runner of Elis!
+西加哥德的体育精神和雄心是如此强大，以至于他能够击败伊利斯。虽然事后这位法拉克英雄累了个半死。
 [blockend:50_end]
 [blockstart:50_end1] 
 [blockend:50_end1]
 
 [blockstart:01] 
 <font:$local$\fonts\fonthead16bld.fnt>
-MISSION FAILED!
+任务失败！
 <font:$local$\fonts\font12.fnt>
-The runner has died! This is not what we call fair play!
+伊利斯死了，说好的公平竞争呢？
 [blockend:01]
 
 [blockstart:02]
 <font:$local$\fonts\fonthead16bld.fnt>
 MISSION FAILED!
 <font:$local$\fonts\font12.fnt>
-What a tragedy! The runner was clearly faster than your friend and hero Sigurd.
+真可惜，他跑的是真的快啊。
 
 <usericon:2,7>
 
-Try again!
+再来一次！
 [blockend:02]

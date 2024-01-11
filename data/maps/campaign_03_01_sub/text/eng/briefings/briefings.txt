@@ -3,22 +3,22 @@
 [blockend:header]
 
 [blockstart:00_start] 
-在隧道深处，几乎感觉不到沙漠无情的炎热。
+在地洞的深处，地上的沙漠的无情炎热完全被隔绝开来。。
 
 <usericon:1,38,49>
 
-发霉的空气钻进了我们的肺部，附近的某个地方我们听到了矿工锤子的回声。 但他们把圣火存放在哪里呢？
+发霉的空气渗透进我们的肺中，附近可以听到矿工锤子敲击的回声。但他们把圣火藏在哪里呢？
 [blockend:00_start]
 [blockstart:00_start1] 
-寻找圣火。
+Find the Holy Fire.
 [blockend:00_start1]
 
 
 [blockstart:50_endheader] 
-任务完成！
+寻找圣火。
 [blockend:50_endheader]
 [blockstart:50_end] 
-我们终于找到了法罗斯灯塔的火源。 撒拉逊人给我们带来了困难。
+法罗斯灯塔，灯塔将再次照亮航行的船只！！
 
 <usericon:1,137,14>
 [blockend:50_end]
@@ -30,74 +30,72 @@
 [blockstart:01] 
 山民
 
-“喂，你！谁允许你进我们矿洞的？”
+“喂，你！谁允许你进入我们的矿井？”
 [blockend:01]
 
 
 [blockstart:02] 
 工人
 
-“别伤害我们！我们只做我们的工作，我们几乎不知道地上发生了什么！”
+“别伤害我们！我们只是做我们的工作，几乎不知道地上发生了什么！”
 
 <usericon:1,23,62>
 [blockend:02]
 
 [blockstart:03] 
-大门入口还被堵住！
+大门的入口还被堵住了！
 
 <usericon:1,121,52>
 
-找到打开大门的方法！
+去找找开门的方法。
 [blockend:03]
 
 [blockstart:04] 
-你的维京人现在可以通过大门了！ 但要小心隐藏在大门后面的圣火守卫！
+你的维京人现在可以通过大门了！但要小心隐藏在大门后面的圣火卫士！
 
 <usericon:1,121,52>
 [blockend:04]
 
 [blockstart:05] 
-生命能量
 
-一种奇怪的魔法包围了这个地方……
+生命温泉
+
+这个地方被奇怪的魔法所包围……
 
 <usericon:1,96,77>
 
-我们所有的男人都感觉自己获得了重生！
+我们所有的人都感觉像是重生了一样！充满活力！
 [blockend:05]
-
-
-
 
 
 [blockstart:100]
 <font:$local$\fonts\fonthead16bld.fnt>
-任务失败！
+任务失败
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
-英雄主义还是粗心大意？ 当 BJARNI 去世时，众神都在哭泣……如果没有这位英雄，这个任务的结果将永远对你隐藏！
+英勇或者粗心大意？当 布加尼 死去时，诸神在哭泣……没有了这位英雄，这次任务的结果将对你来说永远是个谜！
 [blockend:100]
 
 [blockstart:200]
 <font:$local$\fonts\fonthead16bld.fnt>
-任务失败！
+MISSION FAILED!
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
-稍有不慎，就会丧命！ 你的女主角CYRA因你的疏忽而死！ 如果没有这位女主角，这个任务的结果将永远对你来说是未知的！
+英勇或者粗心大意？西拉 死去时，诸神在哭泣……没有了这位英雄，这次任务的结果将对你来说永远是个谜！
 [blockend:200]
 
 [blockstart:300]
 <font:$local$\fonts\fonthead16bld.fnt>
-任务失败！
+MISSION FAILED!
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
-稍有不慎，就会丧命！ 你的朋友和英雄HATCHIE因你的疏忽而死了！ 如果没有这位英雄，这个任务的结果将永远对你隐藏！
+英勇或者粗心大意？当 哈迪 死去时，诸神在哭泣……没有了这位英雄，这次任务的结果将对你来说永远是个谜！
 [blockend:300]
 
 [blockstart:400]
 <font:$local$\fonts\fonthead16bld.fnt>
-任务失败！
+MISSION FAILED!
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
-稍有不慎，就会丧命！ 你的朋友兼英雄SIGURD因你的疏忽而死！ 如果没有这位英雄，这个任务的结果将永远对你隐藏！
+英勇或者粗心大意？当 西加哥德 死去时，诸神在哭泣……没有了这位英雄，这次任务的结果将对你来说永远是个谜！
 [blockend:400]

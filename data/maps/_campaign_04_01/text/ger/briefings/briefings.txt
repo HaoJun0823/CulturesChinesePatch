@@ -1,331 +1,320 @@
 [blockstart:header] 
-ABENTEUER IM DRACHENLAND
+Áú¹úÀúÏÕ¼Ç
 [blockend:header]
 
 [blockstart:00_start] 
-Das Land lag brach und seine kargen Rohstoffe konnten unser Überleben nicht sichern. So beschlossen wir, an einen anderen Ort unser Dorf neu zu errichten. Der Weg durch ein ausgetrocknetes Flussbett sollte uns zu unserer neuen Siedlungsstätte führen.
+Õâ¿éÍÁµØÒÑ¾­±»ÎÒÃÇ¿ª¿Ñ¹ı¶ÈÁË£¬Ï¡È±µÄ×ÊÔ´ÎŞ·¨±£Ö¤ÎÒÃÇµÄÉú´æ¡£ËùÒÔÎÒÃÇ¾ö¶¨ÔÚÁíÒ»¸öµØ·½ÖØ½¨ÎÒÃÇµÄ´å×¯¡£´©¹ı¸ÉºÔºÓ´²µÄÂ·¾¶£¬ÄÇÀïÓ¦¸Ã»áÓĞ¸üºÃµÄ¶¨¾ÓµØµã¡£
 [blockend:00_start]
 
 [blockstart:00_start1]
-Noch ahnten wir nichts von den Vorhaben unserer Stammesjüngsten... 
-Mani - Sohn des Häuptlings Bjarnis und Cyras
-und Norbert - der Drache 
-hatten andere Pläne... 
+ÎÒÃÇ»¹²»ÖªµÀÎÒÃÇ²¿ÂäµÄÄêÇáÈËµÄ¼Æ»®......
+ÂüÄá - Çõ³¤BjarnisºÍCyrasµÄ¶ù×Ó
+ºÍÅµ²®ÌØ - Áú
+ËûÃÇËÆºõÓĞÆäËû¼Æ»®...
 [blockend:00_start1]
 
 
 [blockstart:50_endheader] 
-MISSION GEWONNEN! 
+ÈÎÎñÊ¤Àû£¡
 [blockend:50_endheader] 
 
 [blockstart:50_end] 
-Mani und Norbert haben die Drachen und Menschen der hiesigen Region befriedet. Von den weisen Steindrachen erfuhren sie mehr über Norberts Herkunft und wussten nun, wo sie seine Artverwandten zu suchen hatten...Sie mussten nach Süden!
-Zwar hatten Mani und Norbert weder Verwandte von Norbert gefunden, noch waren sie zu ihren Eltern sicher zurückgekehrt, doch waren sie ein großes Stück auf ihrer Suche vorangekommen. 
+ÂüÄáºÍÅµ²®ÌØ³É¹¦Æ½Ï¢ÁËµ±µØµØÇøµÄÁúºÍÈËÀàÖ®¼äµÄ³åÍ»¡£Í¨¹ıÓëÖÇ»ÛµÄÊ¯Áú½»Á÷£¬ËûÃÇµÃÖªÁË¸ü¶à¹ØÓÚÅµ²®ÌØ³öÉúµØµÄĞÅÏ¢£¬²¢ÖªµÀÁËËûÃÇÓ¦¸ÃÈ¥Ñ°ÕÒËûµÄÍ¬Àà......ËûÃÇ±ØĞëÍùÄÏ×ß£¡
 
-Doch was war das? Plötzlich wurden sie überrumpelt, in große Käfige gesperrt und verschleppt!
+ËäÈ»ÂüÄáºÍÅµ²®ÌØ¼ÈÃ»ÓĞÕÒµ½Åµ²®ÌØµÄÇ×Êô£¬ÂüÄáÒ²Ã»ÓĞ°²È«µØ»Øµ½ËûÃÇµÄ¸¸Ä¸Éí±ß£¬µ«ËûÃÇÔÚÑ°ÕÒÖĞÈ¡µÃÁËÖØÒª½øÕ¹¡£
+
+·¢ÉúÁËÊ²Ã´£¿Í»È»¼ä£¬ËûÃÇ±»Í»Ï®£¬±»¹Ø½øÁË´óÁı×ÓÀï²¢±»½Ù³ÖÁË£¡
 [blockend:50_end]
 
 [blockstart:50_end1]
-Sie hatten Heimweh, große Angst und bereuten ihr waghalsiges Abenteuer. Ob sie hier jemals wieder heil rauskommen würden?
+ËûÃÇºÜÏëÄî×Ô¼ºµÄ¼ÒÈË£¬ºÜºó»Ú×Ô¼ºÂ³Ã§µÄÃ°ÏÕ¡£¸Ğµ½·Ç³£Í´¿à¡£ËûÃÇ²»ÖªµÀÊÇ·ñÄÜ¹»°²È«µØÌÓÀëÕâÀï¡£
 [blockend:50_end1]
 
 
 [blockstart:01] 
-DIE AUSREISSER
+ÌÓÀë¼ÒÔ°
 
-Norbert der Drache war traurig. Oftmals lag er des Nachts wach, denn als einziger Drache unter den Menschen vermisste er seinesgleichen. 
-Mit Mani unseren Sohn und seinem besten Freund aus dem Menschenvolk, beschloss er, sich auf die Suche nach Artverwandten Norberts zu begeben. 
+Åµ²®ÌØ ¡ª¡ª Ó¢ĞÛ£¬¸Ğµ½±¯ÉË¡£ËüÒ¹Íí¾­³£Ê§Ãß£¬ÒòÎª×÷ÎªÒ»¸öÔÚÈËÀàÖĞµÄÁú£¬Ëü¸Ğµ½·Ç³£µÄ¹Â¶À£¬Ëû·Ç³£ÏëÄî×Ô¼ºµÄÍ¬Àà¡£
+Õâ»áÓëÎÒÃÇµÄ¶ù×ÓÂüÄá£¬ËüÔÚÈËÀà²¿ÂäÖĞ×îºÃµÄÅóÓÑÒ»Æğ£¬Ëû¾ö¶¨Ñ°ÕÒÅµ²®ÌØµÄÇ×Êô¡£
 
 <usericon:2,5>
+Òò´Ë£¬Á½ÈË¶À×Ô³ö·¢£¬ÔÚÎÒÃÇ²»ÖªÇéµÄÇé¿öÏÂ½øÈëÁËÒ»¸ö¹ãÀ«¶øÎ´ÖªµÄÊÀ½ç¡£¡£¡£
 
-Und so machten sich die beiden ganz alleine und ohne unsere Wissen auf den Weg in die weite ungewisse Welt...
-
-Finde die einheimischen Drachen. 
+ÕÒµ½µ±µØµÄÁú¡£
 [blockend:01]
 
 [blockstart:02] 
-DER ALTE MANN
+ÀÏÈËËµ
 
-"Oh diese Wölfe! Sie lassen mich nicht zu der alten Ruine. Dabei bräuchte ich dringend den Inhalt der großen Kiste. Aber Kinder kann ich ja kaum damit beauftragen...
+"ÕâĞ©ÀÇ£¬°¡£¬ÆøËÀÎÒÁË£¡£¡£¡ËüÃÇ²»ÈÃÎÒ½øÈëÄÇ×ù¹ÅÀÏµÄ·ÏĞæ¡£¿ÉÎÒÓÖ¼±ĞèÀïÃæµÄ´óÏä×ÓÀïµÄÎïÆ·¡£µ«ÎÒÓÖ²»ÄÜÈÃÄêÇáÈËÃÇÈ¥×öÕâ¼şÊÂ.."
 
 <usericon:1,95,189>
 
-... dabei könnten meine Informationen nützlich für euch sein. Aber ich muss erst weiter nachdenken, wie ich die Wölfe vertreiben könnte...
-Wie kann ich alter gebrechlicher Mann sie nur in die Falle locken? Sind sie erst einmal in der oberen Burgruine, wären sie zahm wie Schafe!"
+...ËäÈ»ÎÒµÄÇé±¨¿ÉÄÜÄÜ¹»¶ÔÄãÃÇÓĞËù°ïÖú¡£µ«ÎÒµÃÏÈË¼¿¼Ò»ÏÂ£¬ÈçºÎ°ÑÕâĞ©ÀÇÓÕÆ­µ½ÉÏÃæµÄ³Ç±¤ÒÅ¼£Àï¡£Ò»µ©ËüÃÇ½øÈëÁË³Ç±¤£¬¾Í»áÏñÑòÒ»ÑùÎÂË³Ìı»°£¡
 
-Locke mindestens drei Wölfe in die obere Burgruine, wenn du die Informationen des alten Mannes hören willst.
+Èç¹ûÄãÏëÌıÈ¡ÎÒÌá¹©µÄÇé±¨£¬¾ÍµÃ°ÑÖÁÉÙÈıÖ»ÀÇÓÕÆ­µ½ÉÏÃæµÄ³Ç±¤ÒÅ¼£Àï¡£"
 [blockend:02]
 
 
 [blockstart:03] 
-DER ALTE MANN
+ÀÏÈËËµ
 
-"Ihr habt es geschafft! Diese wilden Bestien sind nun keine Bedrohung mehr. So hört nun meine Hinweise:" 
+"ÄãÃÇ³É¹¦ÁË£¡ÕâĞ©Ò°ÊŞ²»ÔÙÊÇÍşĞ²ÁË¡£ÏÖÔÚÌıÎÒ¸øÄãÃÇµÄÏßË÷£º
 
 <usericon:1,103,211>
 
-"Viele Drachen gibt es in dieser Gegend, aber zu welcher Art euer Freund gehört, vermag ich nicht zu sagen.
+"Õâ¸öµØÇøÓĞºÜ¶àÁú£¬µ«ÎÒ²»ÄÜÈ·¶¨ÄãÃÇµÄÅóÓÑÊôÓÚÄÄÒ»ÖÖ¡£
 
-Da gibt es die GEROLS - die alten weisen STEINDRACHEN.
+ÓĞÒ»Ãû½Ğ¸ñÂŞÄ·µÄÁú£¬ËüÃÇÊÇ¹ÅÀÏ¶øÖÇ»ÛµÄÊ¯Áú¡£"
 
 <usericon:1,258,255> 
 
-Sie sind sehr gutmütig und gehören zu dem wohl ältesten Volk. Wenn euch jemand bei eurer Suche weiterhelfen kann, dann sind es wohl diese. Aber sie geben ihr Wissen sicher nur frei, wenn ihr ihnen einen gemeinnützigen Gefallen erfüllt." 
+ËüÃÇ·Ç³£ÉÆÁ¼£¬²¢ÊôÓÚ×î¹ÅÀÏµÄÖÖ×åÖ®Ò»¡£Èç¹ûÓĞÈËÄÜ°ïÖúÄãÃÇµÄËÑË÷£¬ÄÇ¿Ï¶¨ÊÇËüÃÇÁË¡£µ«ÊÇËüÃÇÖ»»áÔÚÄãÃÇÎªËüÃÇ×öÒ»¸ö´ÈÉÆµÄºÃÊÂºó²Å»á·ÖÏíÖªÊ¶¡£
 
-Die Feuerdrachen im Osten gelten zwar als sehr gefährlich, sie sind aber überaus lieb, wenn sie ihren Hunger gestillt haben. 
+¶«·½µÄ»ğÁú±»ÈÏÎª·Ç³£Î£ÏÕ£¬µ«ÊÇÒ»µ©ËüÃÇ³Ô±¥ÁË£¬ËüÃÇ»á·Ç³£ÓÑÉÆ¡£
 
 <usericon:1,467,270> 
 
-Was niemand weiß: sie lieben Backwaren!
+Ã»ÈËÖªµÀµÄÊÇ£¬ËûÃÇÏ²»¶ºæ±ºÊ³Æ·£¡
 
-Dann gibt es die AQUAS - die schwimmenden Wasserdrachen im Südosten.
+È»ºó»¹ÓĞ°¢ÍĞË¹ - ¶«ÄÏ²¿µÄË®Áú¡£
 
 <usericon:1,570,597> 
 
-Sie sind sehr friedliebend und ernähren sich ausschließlich von Fisch und Algen. 
+ËüÃÇ·Ç³£ºÍÆ½£¬²¢ÇÒÖ»ÒÔÓãÀàºÍº£ÔåÎªÊ³¡£
 
-Überhaupt gibt es keine Drachen, die den Menschen etwas antun würden, aber es herrschen viele Vorurteile!"
+Êµ¼ÊÉÏ£¬²¢Ã»ÓĞÄÄÖÖÁú»á¶ÔÈËÀàÔì³ÉÉËº¦£¬Ö»ÊÇÎÒÃÇµÄÏÂÒâÊ¶ÒÔÎªËûÃÇºÜÎ£ÏÕ£¡£¡
 [blockend:03]
 
 [blockstart:04] 
-GEROLS - DIE STEINDRACHEN
 
-In dem steinigen Gebirge trafen Mani und Norbert auf alte weise Steindrachen. 
+ÔÚÆéá«µÄÉ½ÂöÖĞ£¬ÂüÄáºÍÅµ²®ÌØÓöµ½ÁË¹ÅÀÏ¶øÖÇ»ÛµÄÊ¯Áú¡£
 
 <usericon:1,259,260>
 
-Sicherlich könnten wir euch helfen! GRAUHOLM, der weiseste aller Steindrachen, wird euch aber erst empfangen, wenn ihr seinem Wunsch nachkommt, die Drachen der Gegend zu befrieden.
+ÎÒÃÇ¿Ï¶¨¿ÉÒÔ°ïÖúÄã£¡µ«ÊÇ£¬Ö»ÓĞµ±ÄãÂú×ãÁË¸ñÂŞÄ·µÄÒªÇó²¢Æ½Ï¢ÁË¸ÃµØÇøµÄÁúÊ±£¬Ëû²Å»á½Ó´ıÄã¡£
 
-Finde alle Drachen UND Menschen in diesem Terrain und sorge dafür, dass sie einander verstehen.
+ÕÒµ½Õâ¸öµØÇøµÄËùÓĞÁúºÍÈËÀà£¬²¢È·±£ËûÃÇ±Ë´ËÀí½â¡£
 
-Ein Wikingerdorf südlich von hier, wird euch vielleicht dabei unterstützen.
+ÕâÀïÄÏ·½ÓĞÒ»¸öÎ¬¾©´å×¯£¬ËûÃÇÒ²Ğí¿ÉÒÔÖ§Ô®Äã¡£
+
 [blockend:04]
 
 
 [blockstart:05] 
-STEINDRACHEN
+Ê¯Áú
 
-Wollt ihr zu unseren geheiligten Hallen zu GRAUHOLM, den weisesten aller Steindrachen, müßt ihr alle Drachen UND Menschen dieser Region befrieden.
+Èç¹ûÄãÃÇÏëÒª½øÈëÎÒÃÇÉñÊ¥µÄ´óÌü£¬Óë×îÖÇ»ÛµÄ¸ñÂŞÄ·¼ûÃæ£¬ÄãÃÇ±ØĞëÆ½Ï¢Õâ¸öµØÇøµÄËùÓĞÁúºÍÈËÀàÖ®¼äµÄÆ«¼û¡£
 
 <usericon:1,261,241>
 [blockend:05]
 
 
 [blockstart:06] 
-WIKINGERDORF
+Î¬¾©´å×¯
 
-"Ein Kind und ein Drache... Ihr seit ein gar komisches Gespann! 
+¡°Ò»¸öº¢×ÓºÍÒ»Ö»Áú...ÄãÃÇÊÇÒ»¶ÔºÜÆæ¹ÖµÄ×éºÏ£¡¡±
 
 <usericon:2,5>
 
-Es herrschen viele Vorurteile gegenüber Drachen, aber unser Dorf ist äußerst tolerant.
-Woher kommt ihr? Vielleicht könnt ihr uns helfen, eine Kuchenbäckerei und eine Viehzucht aufzubauen? "
+ºÜ¶àÈË¶ÔÁú´æÔÚÆ«¼û£¬µ«ÎÒÃÇ´å×¯·Ç³£°üÈİ¡£ÄãÃÇÊÇ´ÓÄÄÀïÀ´µÄ£¿Ò²ĞíÄãÃÇ¿ÉÒÔ°ïÖúÎÒÃÇ½¨Á¢Ò»¸öµ°¸âµêºÍÉüĞóÑøÖ³³¡£¿
 
-Baue eine funktionierende Kuchenbäckerei und eine Viehzucht auf!
+½¨Á¢Ãæ°ü·¿Éú²úµ°¸âºÍÑøÅ£³¡£¡
 [blockend:06]
 
 [blockstart:07] 
-VIEHZUCHT ERRICHTET!
+ÑøÅ£³¡ÒÑ¾­½¨³É£¡
 
-"Endlich können wir unser Vieh selbst züchten und können die Waldtiere in Frieden leben lassen. Unser Dank ist ewig mit euch." sprach des Volk. 
+¡°ÎÒÃÇÖÕÓÚ¿ÉÒÔ×Ô¼ºÑøÖ³ÉüĞó£¬ÈÃÉ­ÁÖÀïµÄÒ°Éú¶¯ÎïÄÜ¹»°²ĞÄÉú»î¡£ÎÒÃÇÓÀÔ¶¸ĞĞ»ÄãÃÇ¡£¡± ´åÃñËµµÀ¡£
 
 <usericon:1,238,421>
 
-Und unser Dorf wuchs um einige neue Dorfbewohner, denn dank der Viehzüchterei wurden viel mehr Leute satt!
+ÓÉÓÚÑøÅ£³¡£¬ÎÒÃÇµÄ´å×¯Ôö¼ÓÁËÒ»Ğ©ĞÂµÄ¾ÓÃñ£¬ÒòÎª¸ü¶àµÄÈËµÃµ½ÁË³ä×ãµÄÊ³Îï£¡
 [blockend:07]
 
 
 [blockstart:08] 
-FUNKTIONIERENDE KUCHENBÄCKEREI ERRICHTET!
+µ°¸âµêÒÑ¾­½¨³É²¢¿ªÊ¼ÔËÓª£¡
 
-"Damit wird unser Volk endlich die Feuerdrachen besänftigen können!" sprach das Volk des Dorfes. 
+¡°ÕâÑùÎÒÃÇµÄÈËÃñÖÕÓÚ¿ÉÒÔ°²¸§»ğÁúÁË£¡¡± ´åÃñÃÇËµµÀ¡£
 
 <usericon:1,238,373>
 
-"Geleitet ihr, junger Mani, mit eurem Freund dem Drachen doch die Eskorte mit den Kuchen zu den Feuerdrachen. Vielleicht erfahrt ihr ja von ihnen mehr über eure Herkunft..."
+¡°ÄêÇáµÄÂüÄá£¬ÄãºÍÄãµÄÁúÅóÓÑ½«Òıµ¼»¤ËÍ¶Ó½«µ°¸âËÍµ½»ğÁúÄÇÀï¡£Ò²ĞíÄãÃÇ¿ÉÒÔ´ÓËûÃÇÄÇÀïÁË½â¸ü¶à¹ØÓÚÄãÃÇÀ´ÀúµÄĞÅÏ¢¡­¡±
 
-Geleite die Eskorte zu den Feuerdrachen und entlade dort die Waren in deren Steinkreis!  
+ÇëÒıÁì»¤ËÍ¶ÓÇ°Íù»ğÁú´¦£¬½«»õÎïĞ¶ÏÂ·ÅÔÚËûÃÇµÄÊ¯È¦ÖĞ£¡
+
 [blockend:08]
 
 [blockstart:09] 
-FEUERDACHEN
-
-"Wir sind nicht gut auf andere Lebewesen zu sprechen. Ständig plagt uns Hunger, der uns mürrisch macht. Wir wollen ja niemanden etwas tun, aber der Hunger..."
+»ğÁú
+¡°ÎÒÃÇ¶ÔÆäËûÉúÎïÃ»ÓĞºÃ¸Ğ¡£ÓÉÓÚ³¤ÆÚ¼¢¶ö£¬ÎÒÃÇ¾­³£±äµÃºÜ²»¸ßĞË¡£ÎÒÃÇ²¢²»ÏëÉËº¦ÈÎºÎÈË£¬µ«ÊÇ¼¢¶öÈÃÎÒÃÇºÜÄÑ¿ØÖÆ×Ô¼ºµÄÇéĞ÷¡­¡­¡±
 
 <usericon:1,467,270>
 
-und die Napalianer östlich von hier machen uns das Leben schwer. Sie stehlen unsere wenige Nahrung bei Nacht und zerstören das Land.
+ºÍÎÒÃÇ¶«·½µÄÄÇĞ©ÄÉÅÁÀûÑÇÈËÈÃÎÒÃÇµÄÉú»î±äµÃ¼èÄÑ¡£ËûÃÇÔÚÒ¹¼äÍµ×ßÎÒÃÇ½öÓĞµÄÊ³Îï£¬²¢ÆÆ»µÎÒÃÇµÄÍÁµØ¡£
 
-Bringe Kuchen zu den Feuerdrachen, vielleicht lindert das ihren Appetit!
+°Ñµ°¸â´ø¸ø»ğÁú£¬Ò²ĞíÕâÄÜ¼õÇáËûÃÇµÄÊ³Óû£¡
 
-Gehe zu den Napalianern und versuche zu schlichten!
+È¥ÕÒÄÉÅÁÀûÑÇÈË£¬³¢ÊÔµ÷½â£¡
 [blockend:09]
 
 [blockstart:10] 
-FEUERDRACHEN
- 
-"Ihr seid wahre Meisterbäcker! Unsere Unterstützung ist euch sicher!"
-sprachen die Feuerdrachen.
+¡°ÄãÃÇÊÇÕæÕıµÄºæ±º´óÊ¦£¡ÎÒÃÇ»áÈ«Á¦Ö§³ÖÄãÃÇ£¡¡±»ğÁúÃÇËµµÀ¡£
 
 <usericon:1,467,270>
 
-Fünf von uns werden von nun an in eurem Dienste stehen! Falls ihr mehr von uns benötigt, zahlt den Tribut!
+¡°´ÓÏÖÔÚ¿ªÊ¼£¬ÎÒÃÇÖĞµÄÎå¸öÈË½«ÎªÄãÃÇ·şÎñ£¡Èç¹ûÄãÃÇĞèÒª¸ü¶àµÄÈË£¬¾Í¶à¸øÎÒÃÇµ°¸â°É£¡ ¡ª¡ª Ã³Ò×½çÃæ Ôö¼Ó¿ÉÑ¡Ïî¡±
 [blockend:10]
 
 [blockstart:11] 
-MÄDCHEN, DAS ANGST VOR DRACHEN HAT
+Å®º¢º¦ÅÂÁú¡£
 
 <usericon:2,8>
 
-"Mein großer Bruder erzählte mir, die Feuerdrachen würden am liebsten Mädchen verspeisen, die ein bestimmtes Alter erreicht haben. Deshalb bin ich von zu Hause weggelaufen. 
-Ich habe solche Angst!"
+¡°ÎÒµÄ¸ç¸ç¸æËßÎÒ£¬»ğÁú×îÏ²»¶³ÔÄÇĞ©µ½ÁËÄêÁäµÄÅ®º¢¡£ËùÒÔÎÒ´Ó¼ÒÀïÌÓÁË³öÀ´¡£ÎÒ·Ç³£º¦ÅÂ£¡¡±
 [blockend:11]
 
 [blockstart:12] 
 LAUSBUB
 
-"Ich hab meiner Schwester erzählt, die Feuerdrachen würden am liebsten Mädchen verspeisen, die ein bestimmtes Alter erreicht haben. Nun ist sie von zu Hause weggerannt! Das ist alles meine Schuld! Ich muss sie finden, denn sie wird nur mir glauben..." 
+¡°ÎÒ¸æËßÎÒ½ã½ã£¬Å®º¢³¤´óÁË»á±»»ğÁú³Ôµô£¡£¡ÏÖÔÚËıÀë¼Ò³ö×ßÁË£¡Õâ¶¼ÊÇÎÒµÄ´í£¡ÎÒ±ØĞëÕÒµ½Ëı£¬ÒòÎªËıÏàĞÅÎÒ¡­¡±
 
 <usericon:2,9>
 
-Könnt ihr mir helfen, sie zu finden?
+ÄãÄÜ°ïÎÒÕÒµ½ËıÂğ£¿
 [blockend:12]
 
 [blockstart:13] 
-MÄDCHEN, das nun keine Angst mehr hat 
+Å®º¢²»ÔÙº¦ÅÂÁË¡£
 
 <usericon:2,8>
 
-"Das war nicht sehr nett von meinem Bruder, mir solche Lügengeschichten zu erzählen, um mir damit Angst einzuflössen. Aber nun weiß ich ja, das es nicht wahr ist und brauche keine Angst mehr vor Feuerdrachen zu haben."  
+¡°ÎÒ¸ç¸çÎªÁËÏÅ»£ÎÒ¶ø¶ÔÎÒÈö»Ñ£¬ÊµÔÚÊÇÌ«»µÁË£¡£¡µ«ÏÖÔÚÎÒÖªµÀÕâ²»ÊÇÕæµÄ£¬ÎÒÒ²²»ÔÙº¦ÅÂ»ğÁúÁË¡£¡±
 [blockend:13]
 
 [blockstart:14] 
-DIE BEWOHNER DES DORFES
+´åÀïµÄ¾ÓÃñ
 
-Zwar kann unser Schreiner den Bootsbau erlernen, aber er bräuchte eine Schreinerei am südlichen Gewässer um das Boot dort zu Wasser zu lassen, wo der Abstand zum Grund groß genug ist um zu den Wasserdrachen zu segeln. Es gibt im Süden einen Fährmann, der den Weg zur Insel kennt und der euch übersetzen kann. Ihn solltet ihr finden." 
+ËäÈ»ÎÒÃÇµÄÄ¾½³¿ÉÒÔÑ§Ï°Ôì´¬¼¼Êõ£¬µ«ËûĞèÒªÒ»¸öÎ»ÓÚÄÏ²¿Ë®ÓòµÄÄ¾¹¤×÷·»£¬ÒÔ±ãÔÚÄÇÀï½«´¬·ÅÈëË®ÖĞ£¬ÒÔÈ·±£ÀëµØÃæµÄ¾àÀë×ã¹»´ó£¬¿ÉÒÔº½ĞĞÖÁË®ÁúËùÔÚµÄµØ·½¡£ÄÏ²¿ÓĞÒ»¸ö¶É´¬Ô±£¬ËûÊìÏ¤Í¨ÍùµºÓìµÄÂ·¾¶£¬²¢¿ÉÒÔÎªÄãÃÇÌá¹©¹ıºÓ·şÎñ¡£ÄãÃÇÓ¦¸Ã¿ÉÒÔÕÒµ½Ëû¡£
 
 <usericon:2,10>
 
-Finde den Fährmann, der Mani und Norbert zur Insel der Wasserdrachen übersetzt.
+ÕÒµ½ÄÇÎ»½«ÂüÄáºÍÅµ²®ÌØ´øµ½Ë®ÁúµºµÄ´¬·ò¡£
 [blockend:14]
 
 [blockstart:15] 
-FÄHRMANN
-
-"Lange habe ich in diesen Landstrich keine Fremden mehr gesehen! Tretet näher!" rief uns der Fährmann zu. 
+¡°ÎÒÒÑ¾­ºÜ¾ÃÃ»ÓĞÔÚÕâÆ¬ÍÁµØÉÏ¼ûµ½Ä°ÉúÈËÁË£¡Çë¿¿½üÒ»Ğ©£¡¡±´¬·ò¶ÔÎÒÃÇº°µÀ¡£
 
 <usericon:2,10>
 
-"Ich weiß den weg zu den Aquas - den Wasserdrachen und mein Boot ist funktionstüchtig. Aber ein kleiner Obolus muss da schon drin sein!"
+¡°ÎÒÖªµÀÍ¨ÍùË®Áú£¨°¢ÍĞË¹£©µÄÂ·£¬ÎÒµÄ´¬Ò²ÄÜÕı³£ÔËĞĞ¡£µ«ÊÇÄãÃÇĞèÒªÖ§¸¶Ò»Ğ©Ğ¡·Ñ£¡¡±
 
-Zahle den Tribut an den Fährmann!
+Ïò´¬·ò½ÉÄÉ¹ıºÓ·Ñ°É£¡
 [blockend:15]
 
 [blockstart:16] 
-FÄHRMANN
-
-"Nun bin ich gerne bereit, euch zur Insel überzusetzen. Niemand kennt sich auf diesem Gewässer so gut aus wie ich! 
+´¬·ò
+¡°ÏÖÔÚÎÒºÜÀÖÒâ´øÄãÃÇÈ¥ÄÇ¸öµºÓì¡£Ã»ÓĞÈË±ÈÎÒ¸üÊìÏ¤ÕâÆ¬Ë®ÓòÁË£¡¡±
 
 <usericon:2,10>
 
-Ihr habt eine weise Entscheidung getroffen!" 
+"ÄãÃÇ×ö³öÁËÒ»¸öÃ÷ÖÇµÄ¾ö¶¨£¡"
 [blockend:16]
 
 [blockstart:17] 
-In der Mitte des unscheinbaren Sees war ein mächtiger Strudel! Wir vermochten nicht zu sagen, wo der Fährmann uns hin brachte, denn wir verloren in den nebligen Gefilden jegliche Orientierung... 
+ÔÚÄÇ²»ÆğÑÛµÄºşÖĞÓĞÒ»¸öÇ¿´óµÄäöÎĞ£¡ÎÒÃÇ²»ÖªµÀ¶É´¬°ÑÎÒÃÇ´øµ½ÄÄÀï£¬ÒòÎªÎÒÃÇÔÚÎíÃÉÃÉµÄÌïÒ°ÀïÃÔÊ§ÁË·½Ïò¡£¡£¡£ 
 [blockend:17]
 
 [blockstart:18] 
-AQUAS - DIE WASSERDRACHEN
+Ë®¹Ö
 
 <usericon:1,571,600>
 
-Wir sind friedliebende Drachen. Tretet ein, wenn ihr Freund seit und besucht den mächtigen Aquarius! 
+ÎÒÃÇÊÇ°®ºÃºÍÆ½µÄÁú¡£Èç¹ûÄãÊÇÅóÓÑ£¬¾ÍÈ¥°İ·ÃÇ¿´óµÄAquarius! °É£¡
 [blockend:18]
 
 [blockstart:19] 
-DIE HEILIGEN HALLEN DER STEINDRACHEN
+¾ŞÁúµÄÉñÊ¥µîÌÃ
 
-Nun durften Mani und Norbert die Hallen der Steindrachen beteten, um vor GRAUHOLM zu treten, den ältesten und weisesten der Steindrachen. 
-
+ºóÀ´ÂüÄáºÍÅµ²®ÌØÈ¥ÁËÊ¯ÁúµÄµîÌÃ£¬Òı³öÁË¹«ÕıµÄÊ¯Áú£¡
 <usericon:1,261,241>
 
-Sicherlich konnte er ihnen weiterhelfen und ihre Suche in die richtige Richtung leiten.
+Ëû¿Ï¶¨ÄÜ°ïÉÏÄãµÄÃ¦Ö¸ÒıÄãÔÚÕıÈ·µÄ·½ÏòÉÏµÄËÑÑ°
 [blockend:19]
 
 [blockstart:20] 
 NAPALIANER
 
-"Unser Dorf ist verseucht! Wenn ihr nicht angesteckt werden wollt so bleibt lieber fern! Wir werden sonst unsere Waffen gebrauchen!"
+¡°ÎÒÃÇµÄ´å×Ó±»ÎÛÈ¾ÁË!Èç¹ûÄãÃÇ²»Ïë±»´«È¾£¬×îºÃÀëÎÒÃÇÔ¶Ò»µã£¡£¡ÎÒÃÇ²»ÏëÉËº¦Äã£¡£¡
 
 <usericon:1,581,291> 
  
-So unfreundlich wurden wir noch nie empfangen. Ob die Krankheit auch ihren Geist befiel?
+ÎÒÃÇ´ÓÎ´ÊÜµ½Èç´Ë²»ÓÑÉÆµÄ½Ó´ı¡£ÄãÈÏÎªÕâÖÖ²¡Ó°ÏìÁËËıµÄË¼ÏëÂğ£¿
 
-Reiche den Napalianern 25 große Heiltränke zum Tribut.
+¸øÄÉÅÁÀû°²ÈË25¸ö´óµÄÖÎÁÆÒ©¼Á×÷Îª¹±Æ·¡£
 [blockend:20]
 
 [blockstart:21] 
-NAPALIANER BESIEGT!
-
-Zwar waren die Napalianer geschlagen und die Feuerdrachen von ihrer Bedrohung befreit, doch war nicht auch eine friedliche Einigung möglich gewesen. Schließlich waren sie krank und wollten nur Hilfe, wenn auch auf eigentümliche Weise... 
+ÄÉÅÁÀû°²»ñÊ¤£¡
+¾¡¹ÜÄÉÅÁÀû°²ÈË±»»÷°Ü£¬»ğÁú¶Ó°ÚÍÑÁËËûÃÇµÄÍşĞ²£¬µ«ºÍÆ½½â¾öÊÇ²»¿ÉÄÜµÄ¡£±Ï¾¹£¬ËûÃÇÉú²¡ÁË£¬Ö»ÏëµÃµ½°ïÖú£¬¾¡¹Ü·½Ê½ºÜÌØÊâ¡£¡£¡£
 
 <usericon:1,578,299>
 [blockend:21]
 
 [blockstart:22] 
-VÖLKER BEFRIEDET!
+Æ«¼û¶¼½â³ıÁË£¡£¡
 
-Über diese Nachricht würden sich die Steindrachen freuen! Nun würden die Steindrachen Mani und Norbert Einlass gewähren müssen. Alle Drachen dieser Region waren mit den Menschen und untereinander befreundet.
+Ê¯Áú»áºÜ¸ßĞËÌıµ½Õâ¸öÏûÏ¢µÄ£¡ÏÖÔÚ£¬Ê¯Áú»áÔÊĞíÂüÄá ºÍÅµ²®ÌØ³©ÓÎÕû¸öµØÓò¡£Õâ¸öµØÇøµÄËùÓĞÁú¶¼»áÊÇÈËÀàµÄºÃ»ï°é£¡£¡
  
 <usericon:2,6>
  
-Gehe mit Mani und Norbert zu den HEILIGEN HALLEN DER STEINDRACHEN!
+´øÂüÄáºÍÅµ²®ÌØÈ¥ÉñÊ¥´óÌü£¡
 [blockend:22]
 
 [blockstart:23] 
-VORPOSTEN
+Ç°ÑØÉÚËù
 
 <usericon:1,496,224>
 
-Dieser Vorposten war gespenstisch! All die Menschen die hier einmal lebten mussten ihn aus irgend einen Grund verlassen haben...
+ÕâµØ·½ºÃ¹îÒìËùÓĞÔø¾­×¡ÔÚÕâÀïµÄÈËÒ»¶¨ÊÇÎªÁËÊ²Ã´Ô­ÒòÀë¿ªÁËËû¡£
 [blockend:23]
 
 [blockstart:24] 
-HEILTRÄNKE GELIEFERT!
+¹±Æ·ÒÑËÍ´ï£¡
 
-"Danke, das ihr uns mit euren Heiltränken gerettet habt!" riefen uns die Napalianer zu
-und änderten augenblicklich ihren Diplomatiestatus uns gegenüber.
+ÄÉÅÁÀû°²ÈËº°µÀ£º¡°Ğ»Ğ»ÄãÓÃÄãµÄÖÎÁÆÒ©¼Á¾ÈÁËÎÒÃÇ£¡¡±
+ËûÃÇÁ¢¼´¸Ä±äÁË¶ÔÎÒÃÇµÄÍâ½»Ì¬¶È¡£
 
 <usericon:1,581,291> 
 [blockend:24]
 
 
 [blockstart:25] 
-HÄNDLER
+ÉÌÈË
 
-"Mein Bruder und ich, wir haben uns hier vor einiger Zeit niedergelassen. Früher bin ich mit meinen Schiff noch die Meere entlanggesegelt. Heute sind diese Gewässer nicht mehr tief genug und mein Schiff würde auf Grund laufen."
+"ÎÒ¸ç¸çºÍÎÒÔø¾­ÔÚÕâÀï×¡¹ı"ÎÒÒÔÇ°¾­³£³Ë´¬ÔÚº£ÉÏº½ĞĞ¡£¿ÉÊÇ½ñÌì£¬ÕâÆ¬º£ÓòÒÑ¾­²»¹»Éî£¬ÎÒµÄ´¬¿ìÒª¸éÇ³ÁË¡£¡±
 
 <usericon:1,360,452> 
 
-"Deshalb habe ich mich hier niedergelassen und biete meine Waren zum Verkauf an. Schaut doch mal, ob ihr nicht etwas gebrauchen könnt!
-Meine Konditionen sind günstig!"
+¡°Õâ¾ÍÊÇÎªÊ²Ã´ÎÒÔÚÕâÀï¶¨¾Ó²¢³öÊÛÎÒµÄÉÌÆ·¡£¿´¿´ÄãÄÜ²»ÄÜÓÃÉÏÊ²Ã´£¡¡±£¡
+ÎÒµÄ¶«Î÷¶¼ºÜºÃ£¡"
 [blockend:25]
 
 [blockstart:100]
 <font:$local$\fonts\fonthead16bld.fnt>
-MISSION VERLOREN!
+ÈÎÎñÊ§°Ü£¡
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
-Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! MANI - Sohn von Bjarni und Cyra erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+Ò»Ê±µÄÊèºö£¬ÉúÃüË²¼äÀëÈ¥£¡ÂüÄá¡ª¡ª²¼¼ÓÄáºÍÎ÷À­µÄ¶ù×ÓÒ²ÒòÎªÄãµÄ²»×¢Òâ¶øÊÅÈ¥£¡Ã»ÓĞÕâ¸öÓ¢ĞÛ£¬Äã½«ÎŞ·¨ÖªµÀ¹ÊÊÂµÄ½á¾Ö¡£
 [blockend:100]
 
 [blockstart:200]
 <font:$local$\fonts\fonthead16bld.fnt>
-MISSION VERLOREN!
+ÈÎÎñÊ§°Ü£¡
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
-Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund und Held der Drache NORBERT erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+Ò»Ê±µÄÊèºö£¬ÉúÃüË²¼äÀëÈ¥£¡ÄãµÄÅóÓÑºÍÓ¢ĞÛ¡ª¡ªÁúÅµ²®ÌØ¾ÍÊÇÒòÎªÄãµÄ²»×¢Òâ¶øÊÅÈ¥£¡Ã»ÓĞÕâ¸öÓ¢ĞÛ£¬Äã½«ÎŞ·¨ÖªµÀ¹ÊÊÂµÄ½á¾Ö¡£
 [blockend:200]
 
 

@@ -7,34 +7,35 @@
 
 [blockstart:100]
 <font:$local$\fonts\fonthead16bld.fnt>
-MISSION FAILED!
+任务失败
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
-Heroism or carelessness? When BJARNI died the gods were crying ... without this hero, the outcome of this mission will remain hidden to you!
+你的布加尼死了，保护好他！
 [blockend:100]
 
 [blockstart:200]
 <font:$local$\fonts\fonthead16bld.fnt>
-MISSION FAILED!
+任务失败！
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
-A short moment of negligence, that's all it takes to lose your life! Your heroine CYRA died due to your negligence! Without this heroine, the outcome of this mission will remain hidden to you! 
+西拉死了！！保护好她，你要小心一点。
 [blockend:200]
 
 [blockstart:300]
 <font:$local$\fonts\fonthead16bld.fnt>
-MISSION FAILED!
+任务失败
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
-A short moment of negligence, that's all it takes to lose your life! Your friend and hero HATCHIE died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you! 
+哈迪死了。保护好他
 [blockend:300]
 
 [blockstart:400]
 <font:$local$\fonts\fonthead16bld.fnt>
-MISSION FAILED!
+任务失败''
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
-A short moment of negligence, that's all it takes to lose your life! Your friend and hero SIGURD died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you! 
+是英雄主义还是粗心大意？西加哥德死去时，上天在哭泣……没有这位英雄，这次故事的结局将永远不为人知！
+
 [blockend:400]
 
 [blockstart:500]
@@ -56,26 +57,26 @@ THE SECRET PASSAGE
 [blockend:header]
 
 [blockstart:00_start] 
-Take the cart full of mead to the exit, it should remain undamaged. The soldiers will escort you and protect you against potential enemies in the tunnels.
+把装满蜂蜜酒的推车带到出口，保证它是完好无损的。同时，市长给了你一些士兵。士兵们会护送你，保护你免受隧道中潜在敌人的攻击。
 
 <usericon:1,91,129>
 
-And remember: The cart has to be FULL when you reach the exit! 
-Do not touch the mead! It is not meant for you!
+记住：当你到达出口时，推车必须是满的！
+不要碰蜂蜜酒！这不是给你的！
+祝你好运！！
 
-Good luck!
 [blockend:00_start]
 
 
 // Mission gewonnen
 [blockstart:09_end_header] 
-WELL DONE! 
+干得漂亮！
 [blockend:09_end_header]
 
 [blockstart:09_end_text1] 
-You have managed to take the cart with 10 bottles of mead through the underground passage undamaged! Well done.
+你成功地带着装有10瓶蜂蜜酒的手推车完好无损地穿过地下通道！做得好。
 
-Wait outside for Metros.
+梅特洛斯在外面等着你呢。
 [blockend:09_end_text1]
 
 
@@ -83,27 +84,27 @@ Wait outside for Metros.
 
 // Event-Texte
 [blockstart:10] 
-HEALING FOG
+治疗雾
 
-These strange wisps of fog appeared to have healing qualities!
+这些奇怪的雾似乎具有治疗作用！
 
-You only had to remain in the fog for a few seconds, and all your wounds were healed!
+你只需要在雾中呆几秒钟，所有的伤口都愈合了！
 [blockend:10]
 
 
 
-// Karren zerst鰎t
+// Karren zerstört
 [blockstart:110] 
-MISSION FAILED
+任务失败
 
-The cart carrying the mead has been destroyed! Your mission has failed!
+手推车毁了，蜂蜜酒全洒了。白浪费力气了。
 [blockend:110]
 
 [blockstart:120] 
-REINFORCEMENTS
+增援部队
 
-Petros is sending you some reinforcements. 
-This is the only kind of help he can offer you ...
+彼得罗斯正在向你派遣增援部队。
+这是他能给你的唯一帮助。。。
 [blockend:120]
 
 

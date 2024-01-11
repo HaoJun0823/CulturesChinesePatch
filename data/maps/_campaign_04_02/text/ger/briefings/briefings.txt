@@ -1,128 +1,128 @@
 [blockstart:header] 
-DER DUNKELWALD
+ºÚ°µÉ­ÁÖ
 [blockend:header]
 
 [blockstart:00_start] 
-Tageland irrte unser Stamm durch die unheimlichen Wälder. Wenn wir dachten, wir hätten einen Weg aus ihnen gefunden, befanden wir uns bereits tiefer im Dunkelwald. Unsere Vorräte gingen zur Neige und das Verschwinden von Mani und Norbert bereitete uns große Sorgen.
+ÎÒÃÇµÄ²¿ÂäÔÚÉñÃØµÄÉ­ÁÖÖĞÃÔÊ§ÁË·½Ïò¡£Ã¿µ±ÎÒÃÇ¾õµÃÒÑ¾­ÕÒµ½ÁËÒ»Ìõ³öÂ·£¬È´·¢ÏÖ×Ô¼ºÒÑ¾­ÉîÈëÁËºÚ°µÉ­ÁÖ¡£ÎÒÃÇµÄ´¢±¸Îï×ÊËùÊ£ÎŞ¼¸£¬ÂüÄáºÍÅµ²®ÌØµÄÊ§×ÙÈÃÎÒÃÇ·Ç³£µ£ĞÄ¡£
 [blockend:00_start]
 
 [blockstart:00_start1]
-Es war offensichtlich: wir hatten uns verirrt!
+ÏÔÈ»£¬ÎÒÃÇÃÔÊ§ÔÚÉ­ÁÖÀïÁË£¡
 
-Errichte ein Lager und suche einen Weg aus dem Wald!
+´î½¨Ò»¸öÓªµØ²¢Ñ°ÕÒÀë¿ªÉ­ÁÖµÄµÀÂ·£¡
 [blockend:00_start1]
 
 
 [blockstart:50_endheader] 
-MISSION GEWONNEN! 
+ÈÎÎñ³É¹¦£¡
 [blockend:50_endheader] 
 
 [blockstart:50_end] 
-Die Hüter des Waldes meinten es gut mit uns und endlich sahen wir eine Lichtung! 
+É­ÁÖµÄÊØ»¤Õß¶ÔÎÒÃÇºÜÓÑºÃ£¬ÎÒÃÇÖÕÓÚ¿´µ½ÁËÒ»¸ö¿ÕµØ£¡
 [blockend:50_end]
 
 [blockstart:50_end1]
-Wir hatten einen Weg aus dem Dunkelwald durch die Sümpfe des Vergessens gefunden und würden nun unseren geplanten Siedlungsplatz erreichen können. Wir hatten immer noch keine Spur von Mani und Norbert. Deshalb ließen wir einige Kundschafter hier und einige sendeten wir voraus.
+ÎÒÃÇÍ¨¹ıÒÅÍüÖ®ÕÓÕÒµ½ÁËÒ»Ìõ×ß³öºÚ°µÉ­ÁÖµÄÂ·£¬ÏÖÔÚÎÒÃÇ¿ÉÒÔµ½´ï¼Æ»®ÖĞµÄ¶¨¾ÓµãÁË¡£ÎÒÃÇÈÔÈ»Ã»ÓĞÂüÄáºÍÅµ²®ÌØµÄÏûÏ¢¡£Òò´Ë£¬ÎÒÃÇÔÚÕâÀïÁôÏÂÁËÒ»Ğ©Õì²ì±ø£¬Í¬Ê±ÅÉÇ²ÁËÒ»Ğ©ÈËÇ°È¥Ì½Â·¡£
 [blockend:50_end1]
 
 
 [blockstart:01] 
-GÜNSTIGER LAGERLATZ
+ÀíÏëµÄÓªµØ
 
-GUCKFIX, unser Kundschafter, hatte einen Lagerplatz gefunden, der bestens für uns geeignet war: 
+ÎÒÃÇµÄÕì²ì±øGUCKFIXÕÒµ½ÁËÒ»¸ö·Ç³£ÊÊºÏÎÒÃÇµÄÓªµØ£º
 
 <usericon:2,3>
 
-Die Bäume standen hier nicht allzu dicht beieinander und somit war genügend Bauplatz vorhanden. Auch gab es alle Rohstoffe in der unmittelbaren Umgebung.
+ÕâÀïµÄÊ÷Ä¾²¢²»ÊÇºÜÃÜ¼¯£¬Òò´ËÓĞ×ã¹»µÄ¿ÕµØ¿ÉÒÔ½¨Ôì¡£ÖÜÎ§Ò²ÓĞËùÓĞËùĞèµÄ×ÊÔ´¡£
 [blockend:01]
 
 [blockstart:02] 
-EINGANG ZUR ZAPPENDUSTEREN HÖHLE
+½øÈëºÚ°µ¶´Ñ¨
 
 <usericon:1,256,67>
 
-Diese Höhle sollte man nur mit Helden betreten! Wer weiß, was sich in ihr verbirgt?
+Ö»ÓĞÓÂÕß²ÅÓ¦¸Ã½øÈëÕâ¸ö¶´Ñ¨£¡Ë­ÖªµÀÀïÃæÒş²Ø×ÅÊ²Ã´£¿
 [blockend:02]
 
 [blockstart:03] 
-WALDHÜTERIN WEIDENTREU
+ÊØ»¤ÕßWeidentreu
 
-Unter den Trauerweiden stießen wir auf eine Waldhüterin.
+ÎÒÃÇÔÚÁøÊ÷ÏÂÓöµ½ÁËÒ»¸öÊØ»¤Õß¡£
 
 <usericon:2,5>
 
-"Oh, ihr habt euch verirrt? Das passiert vielen, die den Wald nicht kennen. Ich werde euch helfen, wenn ihr mir etwas von eurem frischen Bienenhonig überlasst."
+¡°Å¶£¬ÄãÃÇÃÔÂ·ÁËÂğ£¿¶ÔÓÚÄÇĞ©²»ÊìÏ¤ÕâÆ¬É­ÁÖµÄÈËÀ´Ëµ£¬ÕâÊÇ³£ÓĞµÄÊÂÇé¡£Èç¹ûÄãÃÇ¸øÎÒÒ»Ğ©ĞÂÏÊµÄ·äÃÛ£¬ÎÒÔ¸Òâ°ïÖúÄãÃÇ¡£¡±
 
-Liefere Weidentreu Honig (per Tribut)!
+¸øWeidentreuÌá¹©·äÃÛ£¨×÷Îª¹±Æ·£©£¡
 [blockend:03]
 
 
 [blockstart:04] 
-HONIG AN WEIDENTREU GELIEFERT
+ÒÑ½»¸¶·äÃÛ¸øWeidentreu
 
-"Meine Hilfe ist euch sicher. Ich bin bereit und zur Stelle, wenn die beiden anderen Waldhüter es auch sind!"  
+¡°ÎÒ»á°ïÖúÄãÃÇµÄ¡£Ö»ÒªÁíÍâÁ½Î»ÊØ»¤ÕßÒ²×¼±¸ºÃÁË£¡¡±
 
 <usericon:2,5>
 [blockend:04]
 
 
 [blockstart:05] 
-WALDHÜTER BORKENZAHN
+ÊØ»¤ÕßBorkenzahn
 
-"Willkommen!" sprach WALDHÜTER BORKENZAHN. 
+¡°»¶Ó­£¡¡±ÊØ»¤ÕßBorkenzahnËµµÀ¡£
 
 <usericon:2,4>
 
-"Wir Waldhüter könnten euch natürlich aus dem Wald führen, aber ich hätte da vorher eine Bitte:
+¡°ÎÒÃÇÊØ»¤Õßµ±È»¿ÉÒÔ´øÁìÄãÃÇÀë¿ªÉ­ÁÖ£¬µ«ÊÇÎÒÓĞÒ»¸öÇëÇó£º
 
-Vor einiger Zeit kamen ein paar Dunkeldrachen in mein Haus und stahlen einen meiner wertvollsten Kristalle aus meiner Kristallsammlung. Nordwestlich von hier, befindet sich eine Höhle. Ich denke der Kristall befindet sich in ihr, doch ist diese Höhle so dunkel, das man keinen Schritt weit blicken kann!"
+Ç°¶ÎÊ±¼ä£¬¼¸Ö»ºÚ°µ¾ŞÁú´³½øÁËÎÒµÄ¼Ò£¬Íµ×ßÁËÎÒµÄÊÕ²ØÖĞ×îÕä¹óµÄË®¾§¡£ÔÚÕâ¸½½üµÄÎ÷±±·½ÓĞÒ»¸ö¶´Ñ¨£¬ÎÒÏëË®¾§¾ÍÔÚÀïÃæ£¬µ«ÊÇÄÇ¸ö¶´Ì«ºÚÁË£¬Á¬Ò»²½¶¼¿´²»¼û£¡¡±
 
-Bring Borkenzahn den Kristall und er wird dir helfen. 
+¸øBorkenzahn´øÈ¥Ë®¾§£¬Ëû»á°ïÖúÄã¡£
 [blockend:05]
 
 [blockstart:06] 
-BORKENZAHN DEN KRISTALL ÜBERREICHT!
+ÒÑ½«Ë®¾§½»¸øBorkenzahn£¡
 
-"Meine Hilfe ist euch sicher. Ich bin bereit und zur Stelle, wenn die beiden anderen Waldhüter es auch sind!" 
+¡°ÎÒ»á°ïÖúÄãÃÇµÄ¡£Ö»ÒªÁíÍâÁ½Î»ÊØ»¤ÕßÒ²×¼±¸ºÃÁË£¡¡±
 
 <usericon:2,4>
 [blockend:06]
 
 [blockstart:07] 
-WALDHÜTERIN RAPSLIESCHEN
+ÊØ»¤ÕßRapslieschen
 
-"Willkommen!" sprach WALDHÜTERIN RAPSLIESCHEN. 
+¡°»¶Ó­£¡¡±ÊØ»¤ÕßRapslieschenËµµÀ¡£
 
 <usericon:2,6>
 
-"Ich würde so gerne spinnen, aber mir fehlt die Wolle!"
+¡°ÎÒºÜÏëÖ¯Ã«Ïß£¬µ«ÊÇÎÒÈ±ÉÙÑòÃ«£¡¡±
 
-Erhandle 20 Waren von Rapslieschen, so dass sie mindestens 20 Säcke Wolle erhält!
+ÓëRapslieschen½»Ò×20¼şÉÌÆ·£¬È·±£Ëı»ñµÃÖÁÉÙ20´üÑòÃ«£¡
 [blockend:07]
 
 [blockstart:08] 
-WAREN MIT RAPSLIESCHEN GEHANDELT
+ÒÑÓëRapslieschen½øĞĞÉÌÆ·½»Ò×£¡
 
-"Meine Hilfe ist euch sicher. Ich bin bereit und zur Stelle, wenn die beiden anderen Waldhüter es auch sind!" 
+¡°ÎÒ»á°ïÖúÄãÃÇµÄ¡£Ö»ÒªÁíÍâÁ½Î»ÊØ»¤ÕßÒ²×¼±¸ºÃÁË£¡¡±
 
 <usericon:2,6>
 [blockend:08]
 
 [blockstart:09] 
-PYRO DER FEUERDACHE
+»ğÑæÁúPyro
 
-Die Tiere des Waldes waren zusammengelaufen von den ohrenbetäubenden Schreien.
-"Einer von uns Feuerdrachen wurde von einem Steinschlag überrascht!" sprachen die Feuerdrachen. Könnt ihr uns vielleicht helfen?
+É­ÁÖÖĞµÄ¶¯ÎïÃÇÒòÎªÌıµ½ÁËÕğ¶úÓûÁûµÄ¼â½ĞÉù¶ø¾Û¼¯ÔÚÒ»Æğ¡£
+¡°ÎÒÃÇµÄÒ»Ö»»ğÑæÁú±»Ò»¿éÊ¯Í·ÔÒµ½ÁË£¡¡±»ğÑæÁúÃÇËµµÀ¡£¡°ÄãÃÇÄÜ°ïÖúÎÒÃÇÂğ£¿¡±
 
 <usericon:2,9>
 
-Befreie Pyro, den Feuerdrachen aus dem Felsen indem du Stein, Erz und Gold um ihn herum abbaust!
+Í¨¹ı²É¼¯ÖÜÎ§µÄÊ¯Í·¡¢¿óÊ¯ºÍ»Æ½ğÀ´½â¾È±»À§ÔÚÑÒÊ¯ÖĞµÄ»ğÑæÁúPyro£¡
 [blockend:09]
 
 [blockstart:10] 
-PYRO BEFREIT
+ÒÑ½â¾È»ğÑæÁúPyro
 
-Dieser Feuerdrache war uns sehr dankbar für seine Rettung und schloss sich unserer Mission an. Tagelang hatte er eingeklemmt in Felsbrocken zugebracht, doch nun war er endlich wieder frei!
+ÕâÖ»»ğÑæÁú¶ÔÎÒÃÇµÄ¾ÈÔ®·Ç³£¸Ğ¼¤£¬²¢¼ÓÈëÁËÎÒÃÇµÄÈÎÎñ¡£Ëû±»À§ÔÚÑÒÊ¯ÖĞÒÑ¾­ºÃ¼¸ÌìÁË£¬ÏÖÔÚËûÖÕÓÚ×ÔÓÉÁË£¡
 
 <usericon:2,9>
 [blockend:10]
@@ -132,53 +132,53 @@ Dieser Feuerdrache war uns sehr dankbar für seine Rettung und schloss sich unser
 [blockend:11]
 
 [blockstart:12] 
-EIGENES LAGER ERRICHTET!
+ÒÑ½¨Á¢×Ô¼ºµÄÓªµØ£¡
 
-Mit unserer neuen Kuchenbäckerei war der Grundstein für unser funktionierendes Wikingerlager gelegt.
+ÓĞÁËÎÒÃÇµÄĞÂºæ±º·»£¬ÎÒÃÇ³É¹¦µì¶¨ÁËÒ»¸öÕı³£ÔË×ªµÄÎ¬¾©ÈËÓªµØµÄ»ù´¡¡£
 [blockend:12]
 
 [blockstart:13] 
-DER ALTE MANN
+ÀÏÈË
 
 <usericon:1,223,72>
 
-"Ihr habt Euch im Wald verirrt? Diese Wälder haben es in sich. Wen sie einmal in ihren Bann ziehen, lassen sie so schnell nicht mehr gehen!
+¡°ÄãÃÇÔÚÉ­ÁÖÖĞÃÔÊ§ÁËÂğ£¿ÕâĞ©É­ÁÖºÜÓĞ÷ÈÁ¦£¬Ò»µ©±»ËüÃÇÎüÒı£¬¾Í²»»áÇáÒ×Àë¿ª£¡
 
-Aber besucht die Waldhüter. Wenn euch jemand aus den Wald führen kann, dann diese Drei."
+µ«ÊÇÈ¥ÕÒÕÒÊØ»¤Õß°É¡£Èç¹ûÓĞÈË¿ÉÒÔ´øÄãÃÇÀë¿ªÉ­ÁÖ£¬ÄÇ¾ÍÊÇÕâÈıÎ»¡£¡±
 [blockend:13]
 
 [blockstart:14] 
-DER ALTE MANN
+ÀÏÈË
 
 <usericon:1,295,314>
 
-"Ein furchtbares Erdbeben brachte die Steine zum Wandern. Seit diesem Vorfall laufen alle Tier des Waldes zu einer Stelle nördlich von hier. Von dort dringen leise Klagelaute unablässlich in den Wald. Es wird doch nicht jemanden etwas passiert sein?"
+¡°Ò»´Î¿ÉÅÂµÄµØÕğÈÃÊ¯Í·¿ªÊ¼ÒÆ¶¯¡£×ÔÄÇÊ±Æğ£¬É­ÁÖÖĞµÄËùÓĞ¶¯Îï¶¼¾Û¼¯ÔÚÕâÀïµÄ±±·½¡£´ÓÄÇÀï´«À´²»¶ÏµÄ°§ÃùÉù¡£ÄÑµÀÓĞÈË³öÊÂÁËÂğ£¿¡±
 [blockend:14]
 
 
 [blockstart:15] 
-ALLE POSTEN DER WALDHÜTER
+ËùÓĞÊØ»¤ÕßµÄÈÎÎñÒÑÍê³É
 
-Nun hatten wir alle Posten der Waldhüter aufgesucht und ihnen geholfen. Sie waren uns tatsächlich von großen Nutzen, denn sie zeigten uns den Weg aus dem Wald hinaus durch die Sümpfe des Vergessens:
+ÏÖÔÚÎÒÃÇÒÑ¾­ÕÒµ½ÁËËùÓĞÊØ»¤Õß²¢°ïÖúÁËËûÃÇ¡£ËûÃÇ¶ÔÎÒÃÇ·Ç³£ÓĞ°ïÖú£¬ÒòÎªËûÃÇ¸øÁËÎÒÃÇÀë¿ªÉ­ÁÖ¡¢´©¹ıÒÅÍüÖ®ÕÓµÄÂ·Ïß£º
 
-Von BORKENZAHN erhielten wir einen schützenden Kristall, 
+Borkenzahn¸øÁËÎÒÃÇÒ»¸ö±£»¤Ë®¾§£¬
 
 <usericon:2,4>
 
-von WEIDENTREU eine Karte 
+Weidentreu¸øÁËÎÒÃÇÒ»ÕÅµØÍ¼¡£
 
 <usericon:2,5>
 
-und RAPSLIESCHEN gab uns die nötigen Wachbleibtränke, um die Sümpfe des Vergessens ohne Rast zu durchqueren. 
+¶øRapslieschen¸øÁËÎÒÃÇ±ØÒªµÄÇåĞÑÒ©Ë®£¬ÒÔ±ãÎÒÃÇÄÜ¹»ºÁ²»Í£ĞªµØ´©Ô½ÒÅÍüÖ®ÕÓ¡£
 
 <usericon:2,6>
 
-Und so machten wir uns auf den Weg...
+ÓÚÊÇÎÒÃÇÌ¤ÉÏÁËÂÃ³Ì...
 [blockend:15]
 
 
 [blockstart:16] 
-ENDE DES WALDES
+É­ÁÖ¾¡Í·
 
 
 [blockend:16]
@@ -207,24 +207,24 @@ ENDE DES WALDES
 
 [blockstart:100]
 <font:$local$\fonts\fonthead16bld.fnt>
-MISSION VERLOREN!
+ÈÎÎñÊ§°Ü£¡
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
-Heldenmut oder Leichtsinn? Als BJARNI starb, weinten die Götter... Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+Ó¢ĞÛµÄÓÂÆø»òÕßÇáÂÊ£¿µ±²¼¼ÓÄáËÀÈ¥Ê±£¬ÖÚÉñÎªÖ®¿ŞÆü... ÄãÓ¦¸Ã¸üÎªĞ¡ĞÄ½÷É÷Ğ©£¡
 [blockend:100]
 
 [blockstart:200]
 <font:$local$\fonts\fonthead16bld.fnt>
-MISSION VERLOREN!
+ÈÎÎñÊ§°Ü
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
-Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Deine Heldin CYRA erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+Ó¢ĞÛµÄÓÂÆø»òÕßÇáÂÊ£¿µ±Î÷À­ËÀÈ¥Ê±£¬ÖÚÉñÎªÖ®¿ŞÆü... ÄãÓ¦¸Ã¸üÎªĞ¡ĞÄ½÷É÷Ğ©£¡
 [blockend:200]
 
 [blockstart:300]
 <font:$local$\fonts\fonthead16bld.fnt>
-MISSION VERLOREN!
+ÈÎÎñÊ§°Ü£¡
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
-Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund  der Drache PYRO durch deine Unachtsamkeit! Ohne ihn wird dir das Ende der Mission verborgen bleiben.
+Ó¢ĞÛµÄÓÂÆø»òÕßÇáÂÊ£¿ËÀÈ¥Ê±£¬ÖÚÉñÎªÖ®¿ŞÆü... ÄãÓ¦¸Ã¸üÎªĞ¡ĞÄ½÷É÷Ğ©£¡
 [blockend:300]

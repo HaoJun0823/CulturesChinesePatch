@@ -1,303 +1,318 @@
 [blockstart:header] 
-THE ARTEMIS TEMPLE IN EPHESUS
+以弗所的阿耳忒弥斯神庙
 [blockend:header]
 
 [blockstart:00_start] 
-The biggest temple of the Ancient World was to be resurrected by the time the Artemis celebration took place here in Ephesus in April! The construction work had already begun. This could prove positive for our mission. This way we didn't have to complete this hard task on our own.
+当我们来到这个地方的时候，已经知道。雄伟壮丽的阿尔忒弥斯神庙在4月份已经开始动工了！！
+
+古代最伟大，最令人瞩目的神庙即将再现人间！！！
+
+建筑工程已经开始了。最近发生的事情当中，这可真的上是一个最好的消息了。这样我们就不用自己完成这项艰巨的任务了！
 
 [blockend:00_start]
 [blockstart:00_start1] 
-The people of Ephesus had almost finished building the Temple, but they had trouble with the rising swamp. Nevertheless, the construction was to be finished as soon as possible, so that we could then help build the Zeus Statue of Phidias in Olympia. 
+以弗所的人民几乎完成了神庙的建造，但他们面临着周围土地，沼泽不断侵蚀周围陆地的情况。
 
-Follow the mighty road towards the north to the construction site of the Artemis Temple, where you will get further instructions.
+但是尽管如此，神庙的建设绝不能被推迟！！我们还有紧急的下一个任务需要去处理，帮助在奥林匹亚建造菲迪亚斯的宙斯雕像。
+
+沿着雄伟的道路向北走到阿尔忒弥斯神庙的施工现场，在那里你会得到进一步的指示。
 [blockend:00_start1]
 
 
 [blockstart:50_endheader] 
-MISSION COMPLETED! 
+任务完成！
 [blockend:50_endheader]
 [blockstart:50_end] 
-There it was! The biggest temple of the Ancient World was shining again in all its glory! This was indeed something we could be proud of! 
+瞧！瞧！仔细看看这世上最宏伟壮丽的神殿建筑吧。多么的气派！！远古时期的庙宇再次闪耀着光芒！这确实是我们引以为豪的事情！
 
-Despite numerous obstacles, we had managed to finish the temple in time for the Artemis celebration in April!
+尽管有很多障碍，我们还是在四月的阿尔忒弥斯庆典上及时完成了这座寺庙！
+
 [blockend:50_end]
 [blockstart:50_end1] 
-Neither the arsonist Herostrates and his disciples, nor the rising of the swamp or the sometimes difficult delivery of the building materials could put us off our mission. 
+无论是烧毁了神庙的纵火犯——海洛斯和他的门徒，还是沼泽问题，亦或是时难以运送的建筑材料，都无法阻止我们执行任务。
 
-But we didn't stay long because we were already looking towards the west.
-This was the place where we had to bring the sixth Wonder of the Ancient World back to life ...
+但是我们没时间在这里欣赏风景了，我们要继续向西出发。
+
+那里有着我们下一个目标，宙斯神像。
 [blockend:50_end1]
 
 [blockstart:01] 
-THE CITIZENS OF EPHESUS
+以佛所的人们
 
-"Greetings! We have been expecting you. The arsonists are causing us a lot of trouble. It is time to put a stop to their game!"
+"你们好啊！! 我们一直在等着你们呢！有个纵火犯给我们带来了很多麻烦。是时候该让他们消停点了！"
 [blockend:01]
 
 [blockstart:02] 
-BUILDING SITE OF THE ARTEMIS TEMPLE
+阿尔忒弥斯神庙建筑工地
 
-"Oh dear, the construction had already been completed to a large extent, it was almost finished," the diligent workers of Ephesus moaned. 
+“害！这建筑已经基本完工了，几乎完工了，就是....”以弗所勤奋的工人抱怨道。
 
 <usericon:1,269,121>
 
-"It will take years to rebuild the Temple again, because we don't have the marble columns!"
+"如果没有大理石的话，大概还需要再建4年吧。毕竟我们真的不知道如何生产大理石柱子。"
 
-If necessary, build several warehouses around the temple site and deliver 127 marble columns! 
+我觉得，我们应该在建筑附近，放几个仓库。并且在那放127根大理石柱子。
 
-But there was also the trouble with the rising swamp:
+但是，不仅如此，附近日益泛滥的沼泽地也是个问题：
 
-"A balcony alone weighs 20 tons and even if the goddess Artemis herself lifts it onto the right spot - the muddy ground will not be able to hold it," the architect said. "We have to prevent the swamp from rising, if we want to resurrect this important monument!"
+这位建筑师说：“光是一个露台就重达20吨，即使女神阿尔忒弥斯，像搭积木一样，直接把大理石柱子放到位置，泥泞的地面也无法承载柱子的重量。”。“如果我们想让这座重要的纪念碑重现在世界上，我们必须解决沼泽地的问题！！”
 
-
-Look for a way to drive back the swamp and fortify the temple site.
+想办法赶回沼泽地，加固神庙附近的下涝情况。
 [blockend:02]
 
 
 [blockstart:03] 
-100 MARBLE COLUMNS
+100根大理石柱
 
-The King of Lydia, Croesus the Younger, donates 100 marble columns to the construction of the Artemis Temple. 
+莉迪亚国王，克里萨斯捐赠了100根大理石柱用于建造阿尔忒弥斯神庙。
+
+克里萨斯（纪元前六世纪之Lydia王，极为富有，在位期间为560—546B．C．）
 [blockend:03]
 
 [blockstart:04] 
-GOODS DELIVERED
+货物到达！
 
-We had brought the necessary goods to the construction site. From then on, the temple construction didn't take long. 
+我们带了必要的物品到建筑地点，从现在开始，神庙的建筑进程加快了！我相信很快就可以看到雄伟的神庙！
 
 <usericon:1,269,121>
 [blockend:04]
 
 [blockstart:05] 
-ALL MAIN MISSION OBJECTIVES COMPLETED!
+所有主线任务目标达成！
 
-We had captured Herostrates the Younger, prevented the rising of the swamp and delivered the necessary building materials. There was nothing to stop the Temple from being finished now!
+我们捕获了“精神小伙”海洛斯，阻止了沼泽的上升，并运送了必要的建筑材料。现在，没有什么能阻止神庙完工！
 
-Take your heroes to the temple site to see whether the Temple has been properly built! 
+带你的英雄们去看看神庙是否建造得当！
 [blockend:05]
 
 [blockstart:06] 
-FORTIFYING THE TEMPLE SITE
+加固寺庙遗址
 
-We had banished the heirs of Herostrates and as if by magic, nature was laid to rest for a while before it made itself felt again by drowning the Temple in the mud ...
+我们驱逐了赫罗斯特拉特人的继承人。好像这里已经被魔法影响了一样，附近的沼泽地停止了不安的上升。我们终于可以让神庙脱离被浸泡的可能！
 
-... the construction of the Temple could finally begin!
+现在，是时候让工人再次动工了！！
+
+……神庙的建造终于可以开始了！
 [blockend:06]
 
 [blockstart:07] 
-THE HEIRS OF HEROSTRATES
+赫罗斯特拉特斯的信徒
 
-Oh dear! The construction of the temple was in danger! A group of arsonists, the HEIRS OF HEROSTRATES, attacked it and started a fire which the building could not withstand!
+天哪！神庙庙的建造处于危险之中！一群纵火犯，赫罗斯特拉特斯的信徒，攻陷了神庙，并引发了一场无法扑灭的大火！
 
 <usericon:1,258,128>
 
-They were led by Herostrates the Younger. His ancestor Herostrates had already burnt down the old Temple in his time, driven by the obsessive ambition to gain fame! His "disciples" now pursued the same goal and were going to attack the site of the temple constantly. 
+他们由年轻的海洛斯领导。他的祖先赫罗斯特拉特斯在他那个时代就已经烧毁了这座古老的神庙庙，因为他痴迷于成名的野心！他的“信徒”现在也在追求同样的目标，并不断地攻击原先神庙的遗址。
 
-The attacks would not stop until Herostrates the Younger was found and put in a dungeon to prevent him from inciting more people.
+我们需要找到海洛斯，并且把海洛斯关进监狱里。才能阻止他的信徒们一直袭击神庙。
 
-Find Herostrates the Younger and put him in a dungeon! 
+找到小赫罗斯特拉斯，海洛斯。把他关进地牢！
 [blockend:07]
 
 [blockstart:08] 
-Only four brave heroes should enter this place if they receive the order! 
+只有神选者，你的四位英雄，并且熟知自己的使命。才能进入这个地方。
 [blockend:08]
 
 
 [blockstart:09] 
-HARBOUR PEOPLE
+港口居民
 
-When we explored the coastline, the inhabitants of a small fishing village approached us. They were neither hostile nor friendly. 
+当我们探索海岸线时，我们逐渐接近一个小渔村。他们既不敌对也不友好。
 
 <usericon:1,146,352>
 
-They had heard about our fine iron tools. Even though they were well-used, they wanted to keep some for themselves! 
+他们听说了我们精美的铁工具。尽管我们的工具是用旧的二手货，但是在他们眼里，仍然是质量上乘的好品！
 
-Give the harbour people a few iron tools as a tribute, and they will show you their trade offers! 
+给港口人民一些铁工具作为贡品，他们会开启与你的贸易！
 [blockend:09]
 
 
 [blockstart:10] 
-TRIBUTE GIVEN TO THE HARBOUR PEOPLE!
+向海港人民致敬！
 
-We had given the harbour people the tools as a tribute, and they immediately changed their attitude towards us. 
+我们把这些工具送给了港口人民，他们立即改变了对我们的态度。
 
 <usericon:1,146,352>
 
-They were so happy that they presented us with some extremely favourable trade offers. 
+他们非常高兴，向我们说了很多赞美的话。并且同意我们跟他贸易。
 [blockend:10]
 
 [blockstart:11] 
-SARACEN CITY
+萨拉森市
 
-When we explored the desert, the inhabitants of a city approached us. They were exceedingly friendly towards us.
+当我们探索沙漠时，逐渐接近一座大城市。他们对我们非常友好。
 
 <usericon:1,398,28>
 
-Unfortunately, these people were deeply grieved, as the daughter of an old and respected man of the city had been missing for a few days. We decided to pay him a visit ... 
+不幸的是，这些人脸上都充满忧郁。
 
-Look for Hermeias! 
+城市里有一位人人乐道，备受敬重老人的女儿失踪了几天。我们决定去看看什么情况。
+
+找到 赫迈斯！
 [blockend:11]
 
 [blockstart:12] 
-HERMEIAS
+赫迈斯
 
-"Oh, my poor daughter! She only wanted to pick some rare plants and must have got lost in the forest to the south-west ... Or something terrible has happened to her ..."
+“哦，我可怜的女儿！她只想摘一些不常见的花儿，一定是在西南部的森林里迷路了……她发生了什么可怕的事情……我不敢再想下去了。”
 
 <usericon:2,9>
 
-"Can't you bring her back? My legs are old and tired. It would take days for me to find her."
+“你能找到她吗？我的腿实在是走不动了。拜托了!!”
 
-Find Hermeias' daughter Amelia!
+找到赫迈斯的女儿阿米莉亚！
+
 [blockend:12]
 
 [blockstart:13] 
-HERMEIAS
+赫迈斯
 
-"Oh, my daughter! You found her! I will speak to the King of Lydia to support you in your mission!"
+"我的女儿！！！ 实在是太好了，你们找到了她。我会替你们在国王面前美言几句，国王会帮助你们重建神庙的。"
 
 <usericon:2,9>
 [blockend:13]
 
 [blockstart:14] 
-AMELIA
+阿米莉亚
 
-"Oh, my father must be very worried about me! Would you be so kind and take me back to him? I don't want to get lost again!"
+“哦，我爸爸一定很担心我！你能带我回他身边吗？我不想再迷路了！这一点都不好，我只想待在爸爸身边。”
 
 <usericon:2,8>
 
-Take Amelia back to her father!
+带阿米莉亚回去。
 [blockend:14]
 
 [blockstart:15] 
-MERCHANT
+商人
 
-When we explored the coast, a tribe of merchants approached us. They were neither hostile nor friendly towards us, and they wanted to do trade with us and give us a present if we paid them a tribute.
-
+当我们探索海岸时，发现了一个商人部落。他们对我们既不敌对也不友好，他们想与我们进行贸易，如果我们送礼给他们，他们会给我们一个机会。
 <usericon:1,184,439>
 
-Give the merchants a few bowls of honey as a tribute, and they will show you their trader offers and give you a present! 
+给这群商人一些蜂蜜和弓作为礼物。作为回报，他们愿意同我们进行贸易。
 [blockend:15]
 
 [blockstart:16] 
-MERCHANTS
+商人
 
-We had given the merchants the tribute, and in return they gave us 30 of their marble columns, which were in high demand ...
+我们给商人送了礼物，作为回报，他们给了我们30根我们急需的大理石柱。。。
 
 <usericon:1,186,443>
 
-... and showed us their favourable trade offers.
+并且我们得到了目前可进行的贸易清单。
 [blockend:16]
 
 [blockstart:17] 
-THE OLD MAN
+老人
 
-"The swamp is insidious, and dangerous animals are on the rampage. But if you want to see the wise men of the swamp, follow the path to the north-east," the old man said. 
+“沼泽迷雾重重，充满着危险。动物正在肆虐。但如果你寻找沼泽中的智者，就沿着小路向东北走，”老人说。
 
 <usericon:1,251,59>
 
-Then he disappeared again in the mist, just as quickly as he had appeared ... 
+然后他又消失在薄雾中，就像他。。。谜一样的出现在我们眼前
 [blockend:17]
 
 [blockstart:18] 
-THE OLD MAN
+老人
 
-"A few days ago, a nice girl was walking by, looking for the forest in the west. I did not see her come back this way ... 
+“几天前，一个漂亮的女孩路过，去往西部的森林。我没有看到她从这里回来。。。
 
 <usericon:1,121,288>
 
-I hope nothing has happened to her," the old man said. 
-Then he disappeared again in the mist, just as quickly as he had appeared ...
+“我希望她没有出事。”老人说。
+
+然后他又消失在薄雾中，就像他。。。谜一样的出现在我们眼前
 [blockend:18]
 
 [blockstart:19] 
-THE OLD MAN
+老人
 
 <usericon:1,243,386>
 
-"A tribe of merchants has settled down further south. For the moment, they have a friendly attitude towards you, and their gifts and trade offers are very generous," the old man said. 
-Then he disappeared again in the mist, just as quickly as he had appeared ...
+老人说：“有一个商人部落已经在更南边定居下来。目前，他们对你的态度很友好，传闻他们很大方，并且很富有”。
+
+然后他又消失在薄雾中，就像他。。。谜一样的出现在我们眼前。
 [blockend:19]
 
 [blockstart:20] 
-THE GENERAL OF EPHESUS
+以弗所的将军
 
-"Greetings, strangers! I can't believe what the heirs of Herostrates are doing to our Temple!" 
+“你们好，陌生人！我简直不敢相信赫罗斯特拉特人的后人们！！！！对我们的神庙做了什么！”
 
 <usericon:2,10>
 
-"I will equip my soldiers to be prepared for an emergency. So far they have been afraid of the arsonists. But with a bit of mead from you, they will surely find enough courage to start a diversion. The entrance to the mountain camp would then be cleared, so that brave heroes like you would then be able to put a stop to Herostrates' game!"
+“我会让我的士兵做好应对紧急情况的准备。到目前为止，他们一直害怕这群强盗。但只要你给他们一点蜂蜜酒，让他们喝个底朝天，他们肯定会有足够的勇气去面对那群混账。我们会清扫他们山区的据点。这样像你这样勇敢的英雄，就可以停止海洛斯这无聊的游戏！！！停止他这没有意义的致敬！！”
 
-If you want to, pay the tribute for the diversionary manoeuvre.
+如果你愿意的话，就先给我们送点酒！
 [blockend:20]
 
 [blockstart:21] 
-TRIBUTE PAID TO GENERAL OF EPHESUS!
+把酒给了以佛所的人
 
 <usericon:2,10>
 
-"Your mead lends my men the courage they need. Nothing can stop us now, and we will start the distraction at once! This way you may be able to cross the bridge from the west to the entrance of the mountain unscathed."
+“你的蜂蜜酒给了我的人所需的勇气。现在没有什么能阻止我们，我们感觉好多了！跟着我，这样你就可以毫发无损地从西面过桥到达山的入口处。”
 
-"If this is not enough to help you, you could pay us another tribute. We will then do everything that is in our power! I give you my word!"
+“如果这还不足以帮助你，你可以再向给我们酒。然后我们会尽我们所能！我向你保证！”
 [blockend:21]
 
 [blockstart:22] 
-PEOPLE FROM EPHESUS FIGHT HEROSTRATES' HEIRS!
+以弗所的人与赫罗斯特拉斯的后人战斗！
 
 <usericon:1,197,104>
 
-The general's army intrepidly faced the arsonists. They could hardly do them any harm!
+将军的军队勇敢地面对着这群纵火犯！！以佛所的军队所向披靡。
 [blockend:22]
 
 [blockstart:23] 
-HATCHIE ON EXPLORATORY MISSION!
+哈迪去探索这个事情了。
 
 <usericon:2,3>
 
-Hatchie decided to further explore the area above the Temple. 
+哈奇决定进一步探索神庙上方的区域。
 [blockend:23]
 
 [blockstart:24] 
-MANI and NORBERT are now old enough to take part in the heroes' adventures!
+曼尼和诺伯特现在已经足够大了，可以参加英雄们的冒险了！
 
 <usericon:2,5>
 [blockend:24]
 
 [blockstart:25] 
-THE HEIRS OF HEROSTRATES
+赫罗斯特拉特斯的继承人
 
-This was the stronghold of Herostrates' heirs. There was said to be a secret entrance to the massif where Herostrates himself was hiding!
+这是赫罗斯特拉特的继承人的据点。据说有一个秘密入口，通往赫罗斯特拉特斯自己藏身的山丘！
 
 <usericon:1,143,43>
 
-Take ALL your heroes to the entrance to the mountains! 
+带你所有的英雄去那个路口，快！
 [blockend:25]
 
 [blockstart:26] 
-GOODS DELIVERED
+交付的货物
 
-We had delivered the requested goods to the building site. But the construction of the Temple could not be started yet. 
+我们已经把要求的货物送到了工地。但是这座神庙的建设还没有开始。这是怎么了?
 
 <usericon:1,269,121>
 
-First, we had to see to TWO other problems: the rising of the swamp and the expulsion of the arsonist army of Herostrates' heirs! 
+首先，我们必须解决另外两个问题：沼泽地的土地问题和驱逐赫罗斯特拉特的强盗们！
 
-The builders of Ephesus took care of the goods, but did not want to proceed with the construction until both dangers were averted ...
+以弗所的工人们会好好照看这群建筑材料，会尽快施工。。但是....在两种危险都都没解决之前，他们不想继续施工。。。
 [blockend:26]
 
 [blockstart:27] 
-TRIBUTE PAID TO GENERAL OF EPHESUS!
+又给了不少酒给将军。
 
 <usericon:2,10>
 
-"Your mead and your money is payment enough for my army. We will fight to a man!" 
+够了！这足够让我的小伙子们替你好好教训那群王八蛋了。
 [blockend:27]
 
 [blockstart:100]
 <font:$local$\fonts\fonthead16bld.fnt>
-MISSION FAILED!
+任务失败
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
-Heroism or carelessness? When BJARNI died the gods were crying ... without this hero, the outcome of this mission will remain hidden to you!
+是英雄主义还是粗心大意？布加尼死去时，上天在哭泣……没有这位英雄，这次故事的结局将永远不为人知！
 [blockend:100]
 
 [blockstart:200]
@@ -305,7 +320,7 @@ Heroism or carelessness? When BJARNI died the gods were crying ... without this 
 MISSION FAILED!
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
-A short moment of negligence, that's all it takes to lose your life! Your heroine CYRA died due to your negligence! Without this heroine, the outcome of this mission will remain hidden to you! 
+是英雄主义还是粗心大意？西拉死去时，上天在哭泣……没有这位英雄，这次故事的结局将永远不为人知！
 [blockend:200]
 
 [blockstart:400]
@@ -313,7 +328,7 @@ A short moment of negligence, that's all it takes to lose your life! Your heroin
 MISSION FAILED!
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
-A short moment of negligence, that's all it takes to lose your life! Your friend and hero SIGURD died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you! 
+是英雄主义还是粗心大意？西加哥德死去时，上天在哭泣……没有这位英雄，这次故事的结局将永远不为人知！
 [blockend:400]
 
 [blockstart:500]
@@ -321,7 +336,7 @@ A short moment of negligence, that's all it takes to lose your life! Your friend
 MISSION FAILED!
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
-A short moment of negligence, that's all it takes to lose your life! Your friend and hero NORBERT, the dragon, died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you!
+是英雄主义还是粗心大意？诺伯特死去时，上天在哭泣……没有这位英雄，这次故事的结局将永远不为人知！
 [blockend:500]
 
 [blockstart:600]
@@ -329,5 +344,5 @@ A short moment of negligence, that's all it takes to lose your life! Your friend
 MISSION FAILED!
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
-A short moment of negligence, that's all it takes to lose your life! MANI, son of Bjarni and Cyra, died due to your negligence! Without him, the outcome of this mission will remain hidden to you!
+是英雄主义还是粗心大意？曼尼死去时，上天在哭泣……没有这位英雄，这次故事的结局将永远不为人知！
 [blockend:600]

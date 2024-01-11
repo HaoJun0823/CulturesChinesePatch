@@ -1,22 +1,22 @@
 [blockstart:header] 
-DIE DUNKLE HÖHLE
+ºÚ°µ¶´Ñ¨
 [blockend:header]
 
 [blockstart:00_start] 
-Es war immer noch zappenduster in der Höhle. So sehr wir uns bemühten, wir gelangten nicht vom Fleck. Ein seltsames Energiefeld umgab die hohen Säulen und ließ uns nicht weiter ins Innere der Höhle. 
+¶´Ñ¨ÖĞÈÔÈ»Ò»Æ¬ÆáºÚ¡£ËäÈ»ÎÒÃÇÅ¬Á¦ÁË£¬µ«ÎŞ·¨Ç°½ø¡£Ò»ÖÖÆæ¹ÖµÄÄÜÁ¿³¡»·ÈÆ×Å¸ßËÊµÄÖù×Ó£¬×èÖ¹ÎÒÃÇ½øÈë¶´Ñ¨µÄÄÚ²¿¡£
 [blockend:00_start]
 [blockstart:00_start1]
-Unseren Hoffnungen stützten sich auf PYRO, den Feuerdrachen. Er würde sicherlich die erloschenen Fackeln wieder entflammen... 
- 
-Entflamme die Fackeln und finde den Weg zum Kristall.
+ÎÒÃÇ¼ÄÏ£ÍûÓÚ»ğÁúPYRO¡£Ëü¿Ï¶¨ÄÜÖØĞÂµãÈ¼Ï¨ÃğµÄ»ğ¾æ...
+
+µãÈ¼»ğ¾æ£¬²¢ÕÒµ½Í¨ÍùË®¾§µÄµÀÂ·¡£
 [blockend:00_start1]
 
 
 [blockstart:50_endheader] 
-MISSION GEWONNEN! 
+ÈÎÎñÍê³É£¡ 
 [blockend:50_endheader]
 [blockstart:50_end] 
-Wir hatten den Krisall im Inneren der Höhle gefunden! Nun mußten wir ihn zum Waldhüter BORKENZAHN bringen.
+ÎÒÃÇÔÚ¶´Ñ¨µÄÄÚ²¿ÕÒµ½ÁËË®¾§£¡ÏÖÔÚÎÒÃÇ±ØĞë°ÑËü´ø¸øÉ­ÁÖÊØ»¤ÕßBORKENZAHN¡£
 
 <usericon:1,49,21>
 
@@ -27,75 +27,75 @@ Wir hatten den Krisall im Inneren der Höhle gefunden! Nun mußten wir ihn zum Wal
 
 
 [blockstart:01] 
-ALLE FACKELN ENTZÜNDET!
+ËùÓĞ»ğ¾æ¶¼ÒÑµãÈ¼£¡
 
-Hier am Eingang der Höhle waren nun alle Fackeln entzündet! Wie von Zauberhand war eine der seltsamen Säulen verschwunden und das Energiefeld gebrochen.
-Wir konnten nun das Innere der Höhle weiter erkunden! Sicherlich gab es hier noch viele Fackeln die es zu entflammen galt.
+ÏÖÔÚ¶´Ñ¨Èë¿Ú´¦µÄËùÓĞ»ğ¾æ¶¼ÒÑµãÈ¼£¡¾ÍÏñÄ§ÊõÒ»Ñù£¬ÆäÖĞÒ»¸ùÆæ¹ÖµÄÖù×ÓÏûÊ§ÁË£¬ÄÜÁ¿³¡Ò²±»´òÆÆÁË¡£
+ÎÒÃÇÏÖÔÚ¿ÉÒÔ¼ÌĞøÌ½Ë÷¶´Ñ¨µÄÄÚ²¿£¡¿Ï¶¨»¹ÓĞĞí¶àĞèÒªµãÈ¼µÄ»ğ¾æ¡£
 [blockend:01]
 
 
 [blockstart:02] 
-ALLE FACKELN ENTZÜNDET!
+ËùÓĞ»ğ¾æ¶¼ÒÑµãÈ¼£¡
 
-Alle Fackeln wurden von unserem Freund Pyro entzündet. Der Weg zum Feuerkristall war nun frei!
+ÎÒÃÇµÄÅóÓÑPyroµãÈ¼ÁËËùÓĞ»ğ¾æ¡£Í¨Íù»ğ¾§µÄµÀÂ·ÏÖÔÚ³©Í¨ÎŞ×è£¡
 [blockend:02]
 
 
 [blockstart:03] 
-DUNKELDRACHEN
+ºÚ°µÁú
 
-Durch die Gitterwände sahen wir schwarze Drachen, sie schienen gefährlich zu sein und bewachten wahrscheinlich den Eingang zum Kristall.
+Í¨¹ıÌúÕ¤ÃÅ£¬ÎÒÃÇ¿´µ½ÁËºÚÉ«µÄÁú£¬ËüÃÇËÆºõºÜÎ£ÏÕ£¬²¢ÇÒ¿ÉÄÜÊØÎÀ×ÅÍ¨ÍùË®¾§µÄÈë¿Ú¡£
 
 <usericon:2,4>
 
-Wir mußten versuchen, sie von dort wegzulocken. Vielleicht konnten wir sie im Regenbogenraum einsperren?
+ÎÒÃÇ±ØĞëÊÔÍ¼Òı¿ªËüÃÇ£¬Ò²ĞíÎÒÃÇ¿ÉÒÔ°ÑËüÃÇÀ§ÔÚ²ÊºçÖ®¼äµÄ·¿¼äÀï£¿
 
 <usericon:1,43,61>
 [blockend:03]
 
 [blockstart:04] 
-DRACHEN BESIEGT!
+»÷°ÜÁËºÚ°µÁú£¡
 
-Wir hatten die farblosen Geschöpfe besiegt, aber war dies wirklich nötig gewesen? Hätten wir sie nicht auch in eine Falle in den Regenbogenraum locken können?
+ÎÒÃÇ´ò°ÜÁËÕâĞ©Ã»ÓĞÑÕÉ«µÄÉúÎï£¬µ«ÕâÕæµÄÓĞ±ØÒªÂğ£¿Ò²ĞíÎÒÃÇ°ÑËüÃÇÒıµ½²ÊºçÖ®¼äµÄÏİÚåÀï»á¸üºÃ¡£
 [blockend:04]
 
 
 [blockstart:05] 
-DRACHEN EINGESPERRT!
+Áú±»À§×¡ÁË£¡
 
 <usericon:2,4>
 
-Wir hatten es geschafft, alle Dunkeldrachen befanden sich im Regenbogenraum!
+ÎÒÃÇ³É¹¦µØ°ÑËùÓĞµÄºÚ°µÁúÀ§ÔÚÁË²ÊºçÖ®¼äµÄ·¿¼äÀï£¡
 [blockend:05]
 
 
 [blockstart:06] 
-VERSCHLOSSENER RAUM
+·â±ÕµÄ·¿¼ä
 
-Das Innere dieses Raumes wird dir verborgen bleiben, solange nicht alle Fackeln entfacht sind!
+Ö»ÓĞµ±ËùÓĞ»ğ¾æ¶¼µãÈ¼Ê±£¬Äã²ÅÄÜ·¢ÏÖÕâ¸ö·¿¼äµÄÄÚ²¿£¡
 [blockend:06]
 
 
 [blockstart:100]
 <font:$local$\fonts\fonthead16bld.fnt>
-MISSION VERLOREN!
+ÈÎÎñÊ§°Ü£¡
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
-Heldenmut oder Leichtsinn? Als BJARNI starb, weinten die Götter... Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+Ó¢ÓÂ»¹ÊÇÂ³Ã§£¿µ±²¼¼ÓÄáËÀÈ¥Ê±£¬ÖÚÉñ¶¼ÎªÖ®¿ŞÆü...Ã»ÓĞÕâ¸öÓ¢ĞÛ£¬Äã½«ÎŞ·¨¿´µ½¹ÊÊÂµÄ½á¾Ö¡£
 [blockend:100]
 
 [blockstart:200]
 <font:$local$\fonts\fonthead16bld.fnt>
-MISSION VERLOREN!
+ÈÎÎñÊ§°Ü!
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
-Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Deine Heldin CYRA erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+ÉÔ×İ¼´ÊÅµÄÊèºö£¬Éú»îÖĞ¾Í»áÓĞÕâÑùµÄÊ±¿Ì£¡ÄãµÄÓ¢ĞÛÎ÷À­ÒòÄãµÄÊèºö¶øÉ¥Ãü£¡Ã»ÓĞÕâ¸öÓ¢ĞÛ£¬Äã½«ÎŞ·¨¿´µ½¹ÊÊÂµÄ½á¾Ö¡£
 [blockend:200]
 
 [blockstart:300]
 <font:$local$\fonts\fonthead16bld.fnt>
-MISSION VERLOREN!
+ÈÎÎñÊ§°Ü!
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
-Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund PYRO erlag durch deine Unachtsamkeit! Ohne ihn wird dir das Ende der Mission verborgen bleiben.
+ÉÔ×İ¼´ÊÅµÄÊèºö£¬Éú»îÖĞ¾Í»áÓĞÕâÑùµÄÊ±¿Ì£¡ÄãµÄÅóÓÑPyroÒòÄãµÄÊèºö¶øÉ¥Ãü£¡Ã»ÓĞËû£¬Äã½«ÎŞ·¨¿´µ½¹ÊÊÂµÄ½á¾Ö¡£
 [blockend:300]

@@ -7,10 +7,10 @@
 
 [blockstart:100]
 <font:$local$\fonts\fonthead16bld.fnt>
-MISSION FAILED!
+任务失败
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
-Heroism or carelessness? When BJARNI died the gods were crying ... without this hero, the outcome of this mission will remain hidden to you!
+布加尼死了
 [blockend:100]
 
 [blockstart:200]
@@ -18,7 +18,7 @@ Heroism or carelessness? When BJARNI died the gods were crying ... without this 
 MISSION FAILED!
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
-A short moment of negligence, that's all it takes to lose your life! Your heroine CYRA died due to your negligence! Without this heroine, the outcome of this mission will remain hidden to you! 
+西拉死了
 [blockend:200]
 
 [blockstart:300]
@@ -26,7 +26,7 @@ A short moment of negligence, that's all it takes to lose your life! Your heroin
 MISSION FAILED!
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
-A short moment of negligence, that's all it takes to lose your life! Your friend and hero HATCHIE died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you! 
+哈迪死了
 [blockend:300]
 
 [blockstart:400]
@@ -34,27 +34,24 @@ A short moment of negligence, that's all it takes to lose your life! Your friend
 MISSION FAILED!
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
-A short moment of negligence, that's all it takes to lose your life! Your friend and hero SIGURD died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you! 
+西加哥德死了 
 [blockend:400]
 
 [blockstart:500]
 <font:$local$\fonts\fonthead16bld.fnt>
-MISSION FAILED!
+任务失败
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\People_Dead_F.pcx>
-You attacked your best friends although you had been warned! 
-
-This way you will not be able to complete your mission!
+你一直在进攻我们的盟友。我们失去了他们的信任。
 [blockend:500]
 
 [blockstart:600]
 <font:$local$\fonts\fonthead16bld.fnt>
-MISSION FAILED!
+任务失败
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
-The guard of the oracle was stronger than you. 
-
-Now you will never know what secret the oracle is hiding!
+奥克拉的守护者比你要强太多了。
+现在你永远不会知道神域背后隐藏着什么！
 [blockend:600]
 
 
@@ -63,19 +60,18 @@ Now you will never know what secret the oracle is hiding!
 
 // Startbriefing
 [blockstart:header] 
-THE ORACLE
+奥克拉
 [blockend:header]
 
 [blockstart:00_start] 
-A path in the temple's vaults led down to the holy site of the oracle. But what we saw there made our blood freeze!
+通往神殿地下室的一条小路通向了神谕的圣地。但在那里我们看到的让我们的血液都冰冻了！
 
-The oracle - it was none other than Circe, daughter of the sun god Helios and the moon goddess Perseis! 
-She was a mighty sorceress, and above all notorious for turning men's heads and changing them into animals!
+神谕 —— 它竟然是太阳神赫利俄斯和月神佩尔塞伊斯的女儿 Circe！
+她是一位强大的女巫，尤其臭名昭著的是将男人变成动物！
 
-What fate awaited us here? Had we been deceived?
+我们在这里等待着什么样的命运？我们被欺骗了吗？
 
-
-Reach the oracle.
+到达神谕。
 [blockend:00_start]
 
 
@@ -87,11 +83,11 @@ Reach the oracle.
 [blockend:09_end_header]
 
 [blockstart:09_end_text1] 
-EXIT
+出去吧。
 
-Well, that had been easier than we had expected.
+这比我们预料的要容易得多。
 
-Curiously we stepped outside to see how the fury of the gods would be revealed ...
+我们好奇地走出去，想看看神的愤怒将如何显露……
 [blockend:09_end_text1]
 
 
@@ -99,31 +95,28 @@ Curiously we stepped outside to see how the fury of the gods would be revealed .
 // Event-Texte
 
 [blockstart:10] 
-CIRCE
 
-When we faced Circe, the goddess turned to us with a mysterious voice:
+当我们面对 Circe 时，女神的声音转向我们：
 
-"Helios, the god of the sun, the protector of Rhodes, speaks through me.
-Listen, stranger. Your trouble is not unknown to me. Demetrios, the miserable blasphemer, will fall with all of his men!
-Those who invoke the fury of the gods will suffer evil!
+"太阳神赫利俄斯，罗得岛的保护神，透过我说话。
+听着，陌生人。你们的困境我并不陌生。可怜的亵渎者 的拜占庭人，将会和他所有的人一同堕落！
+那些唤起神明之怒的人将受到祸害！
 
-As a token of your thanks, build a statue in my honour! It should be mighty and shining to honour my name to the end of time! 
-It is to decorate the city of Rhodes and always remind the people of my support! 
+作为对你们感激之情的象征，建造一座以我为荣的雕像吧！它应该雄伟辉煌，以永恒的方式纪念我的名字！
+它将装点罗得城，并始终提醒人们我对他们的支持！
 
-Now go back up and witness my power!"
+现在，返回上面，目睹我的力量！"
 
-
-Leave the oracle.
+离开神谕。
 [blockend:10] 
 
 
 [blockstart:20] 
-THE GUARD OF THE ORACLE
+奥克拉神殿守护者
 
-We might have known ... 
-Out of the darkness a huge demon appeared in front of us to guard the oracle!
-
-May the gods be kind to us!
+我们怎么可能知道。。。。居然还要面对如此的怪物。
+黑暗中，一个巨大的恶魔出现在我们面前，守护着神谕！
+愿上帝善待我们！
 [blockend:20] 
 
 

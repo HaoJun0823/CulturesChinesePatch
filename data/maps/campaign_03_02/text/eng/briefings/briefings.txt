@@ -1,275 +1,274 @@
 [blockstart:header] 
-THE HANGING GARDENS 
-OF SEMIRAMIS
+巴比伦的空中花园 
 [blockend:header]
 
 [blockstart:00_start] 
-We were settling down along the Euphrates. There it was, the large and mighty city of Babylon. It must have been in this area that King Nebuchadnezzar once had the Hanging Gardens built for his wife, as she loved these wooded mountains. The Gardens were named after the legendary Queen Semiramis of Assyria.
+我们在幼发拉底河河畔安顿下来。那里就是巴比伦这座宏伟壮丽的大城市。尼布甲尼撒王曾在这个地区为他的妻子修建了空中花园，因为她喜欢这片山林。花园以亚述传说中的女王塞米拉米斯来命名。
 
-This was the second Wonder of the Ancient World that had to be resurrected with our help ...
+这是古代世界的第二个奇迹，我们必须再次重建它...
 
 [blockend:00_start]
 [blockstart:00_start1] 
-But we had active support: The Babylonians had already been trying to water the fields and grow rare plants for a few months. But Mother Earth did not offer enough nutrients, and also the plans of the Hanging Gardens seemed to be incomplete ... 
+但是，就算是我们得到了积极的支持：巴比伦人已经努力灌溉田地并种植珍稀植物几个月了。但是大地并未提供足够的养分，而且空中花园的计划似乎有很大的阻碍，反正就是拉胯了..
 
-Find a site to build the legendary Hanging Gardens. You will receive more detailed instructions there. 
+寻找一个适合修建传说中的空中花园的地点。你将在那里得到更详细的指示。
 [blockend:00_start1]
 
 
 [blockstart:50_endheader] 
-MISSION COMPLETED! 
+任务成功！ 
 [blockend:50_endheader]
 [blockstart:50_end] 
-We were full of pride when the first plants began to grow and the trees took root in the artificial terraces.
+当第一株植物开始生长，树木在人工梯田上生根时，我们充满了自豪感。
 
 [blockend:50_end]
 [blockstart:50_end1] 
-The people of Babylon were full of gratitude for our help. The Council of Nations, too, was deeply satisfied. Our next task waited in the land of the Greeks: THE COLOSSUS OF RHODES!
+巴比伦人对我们的帮助充满感激。其他地区的人民也深感满意。我们的下一个任务等待在希腊土地上：罗得岛的巨像！
 [blockend:50_end1]
 
 
 [blockstart:01] 
-SITE OF THE HANGING GARDENS
+空中花园的位置
 
-We had found an ideal site to build the Gardens.
-The people of Babylon and the nomads of the surrounding villages had already been watering this place, but there was still much to be done. 
+我们找到了一个理想的地点来修建花园。
+巴比伦人和周围村庄的游牧民族已经在这个地方灌溉了不少水，改善了地质。但还有很多工作要去做。 
 
 <usericon:1,368,115>
+我们必须挖一些井，并为人工梯田准备建材！
 
-We had to dig some wells and get the building materials for the artificial terraces! 
-
-Build 9 wells near the Gardens to produce water. Additionally, deliver 80 wood, 40 stones, 40 clay and 40 tiles to the Gardens for the artificial mountain terraces! 
+在花园附近建造9口井以供应水。此外，将80块木材、40块石头（和 40粗石）、40块黏土和40块瓦片运送到花园，用于人工山体梯田！artificial mountain terraces! 
 [blockend:01]
 
 
 [blockstart:02] 
-WELL BUILT
+井已建成
 
-We had done our work well and managed to build 9 wells in this area! Now we only had to take the required goods to this building site. 
+我们的工作做得很好，成功在这个区域建造了9口井！现在我们只需要把所需的货物送到建筑工地即可。
 [blockend:02]
 
 [blockstart:03] 
-GOODS DELIVERED!
+货物已送达！
 
-We had delivered the required goods to the building site. But we still had to build the wells in order to supply the Gardens with water ...
+我们已经将所需的货物送到了建筑工地。但我们仍然需要建造井以供应花园的水源...
 [blockend:03]
 
 [blockstart:04] 
-NEW UPGRADE LEVEL OF THE WONDER
+奇观进一步的完善！
 
-We had built the wells and delivered the required goods to the building site. It did not take long until the foundations were laid. 
+我们已经建造了井，并将所需的货物送到了建筑工地。不久之后，马上开始铺设地基！！！。
 
 <usericon:1,357,112>
+巴比伦人用剩下的黏土制成小颗粒，用于种植植物。这些黏土颗粒中的水可以保存数天，真是一个小妙招，真是个天才。他们以亚述女王塞米拉米斯的名字来命名这个发明。由于一些年轻学者的打字错误，这些黏土颗粒后来被称为Seramis （我也不知道这是啥）...
 
-Using the rest of the clay, the Babylonians shaped little granules to dig their plants in. The water in these clay granules was stored for days - a great feature! They named this invention after their Assyrian Queen Semiramis. These clay granules later became known as Seramis due to a typing error made by some young scholar ...
- 
-Now, since the plans for the Hanging Gardens seemed to be incomplete, we could not proceed with our work ... 
+现在，由于空中花园的蓝图缺失，我们无法继续工作...
 
-Find the other part of the construction plan!
+找到建筑计划的另一部分！
 
+此外，巴比伦人种植的植物似乎不愿开花。他们的祖先在养花的时候有独特的技巧，我们一定是漏了什么步骤
 
-Also the plants planted by the Babylonians didn't seem to want to blossom. Their ancestors must have used a secret art of plant growing?!
-
-Find out their secret! Collect cattle!
+找出他们的秘密！收集牲畜！
 [blockend:04]
 
 [blockstart:05] 
-KOBUL
+科布利
 
-When we crossed the arm of the river, the inhabitants of a small village approached us. They were neither friendly nor hostile, but they were willing to trade with us if we paid them a tribute. 
+当我们渡过河流的一条支流时，一个小村庄的居民走向我们。他们既不友善也不敌对，但如果我们付给他们一笔贡品，他们愿意与我们进行交易。
 
 <usericon:1,533,22>
 
-They noticed our good footwear, even though our shoes were rather worn. They wanted to have a few pairs for themselves! 
+他们注意到我们的鞋子很好，虽然我们鞋子已经停陈旧了。但在他们眼里仍然是非常好的产品！
 
-Give the Kobulians a few pairs of shoes, and they will present their trade offers! 
+给科布利人几双鞋子，他们就会提出交易！
 [blockend:05]
 
 [blockstart:06] 
-BABYLON
+巴比伦
 
-These were the gates of the legendary city of Babylon.
-Full of curiosity and uncertainty, we entered the city. 
+这是传说中的巴比伦城门。
+充满好奇和不确定，我们进入了城市。
 
 <usericon:1,320,164>
 
-What would we find there? 
+我们会在那里发现什么呢？
 [blockend:06]
 
 [blockstart:07] 
-SHEPHERDS
+牧羊人
 
-Deep in the south lived a quiet pastoral tribe that suffered a great disaster.
+在南方深处住着一个宁静的牧民部落，他们遭受了一场巨大的灾难。
 
 <usericon:1,321,382>
 
-"Our poor women," they wailed. "They were kidnapped during the night by wild Saracen robbers!" They had already sent out a search party, but in vain! "Help us to get our women back, and we will support your mission! The rest of our women are kept safe in the underground halls, so that they will be spared by those barbarians!"
+“啊！可怜的女人啊。”他们哀号着。“她们在夜间被野蛮的撒拉森强盗绑架了！”我们已经派出了搜寻队，但是一点消息都还没有！“帮助我们找回我们的女人，我们将鼎力相助你们的事情！我们的其他女人安全地隐藏在地下殿堂中，以免受到那些野蛮人的伤害！”
 
-"These three dragons accompanied us out of the underground halls this morning. We live in harmony and help each other out in times of need. They will be glad to assist you." 
+“这三条龙一直跟我们相处着。在需要时互相帮助。他们会很乐意帮助你们。”
 
 <usericon:2,20>
 
-Free the shepherds' women!
+解救牧民部落的妇女！
 [blockend:07]
 
 
 [blockstart:08] 
-ROBBERS
+强盗
 
-"Hey, you! You are not welcome in our camp! Pay us a tribute and we will do you no harm!
+“嘿，你们！你们在我们的营地不受欢迎！给我们付贡品，我们就不会伤害你们！还是你们想见见血?
 
 <usericon:1,103,196>
 
 [blockend:08]
 
 [blockstart:09] 
-NOMADS
+游牧民族
 
-We came across a little oasis in the middle of the desert, untouched by the rest of the world. 
+我们在沙漠中发现了一个小绿洲，与世隔绝。
 
-Things were very peaceful here, the people were friendly and obliging. Nobody knew how urgent our mission was to resurrect the Wonders of the World ... 
+这里非常平静，人们友好而且乐于助人。没有人知道我们复活世界奇观的任务有多紧迫...
 [blockend:09]
 
 [blockstart:10] 
-SHEPHERDS
+牧羊人
 
-"You have brought us back our beloved women!" the shepherds cried joyfully when we returned to the village. "As a reward, you may have all our cows! They will provide milk and dung for rare plants! Maybe they will be of use to you.
- 
-Also, the way to the underground halls is now open to you! That is where we have so far hidden the women who were not kidnapped by the Saracens. When they hear how you helped us, they will surely give you the construction plans!"
+“你们带回了我们心爱的女人！”当我们回到村庄时，牧羊人们欢呼道。“作为酬谢，你们可以拥有我们所有的奶牛！它们会提供牛奶和粪便来滋养珍稀植物！也许对你们有用。
 
-Take your heroes to the underground halls!
+此外，地下大厅的通道现在对你们开放！那是我们迄今为止隐藏那些没有被撒拉森人绑架的女人的地方。当她们听到你们帮助我们的事迹时，她们肯定会给你们建筑计划！”
+
+带领你的英雄们去地下大厅！
 [blockend:10]
 
 [blockstart:11] 
-NEW UPGRADE LEVEL OF THE WONDER
+奇观有了新动静！
 
-With the help of the missing construction plan, it had to be possible to construct a firm framework for the Hanging Gardens. 
+凭借缺失的建筑计划，现在能够为空中花园建造一个牢固的框架。
 
 <usericon:2,5>
 
-We had gained a new little friend in this mission. But as yet we did not know how much help he would be!
+在这个任务中，我们获得了一位新的伙伴。但我们还不知道他会提供多少帮助！
 [blockend:11]
 
 [blockstart:12] 
-NEW UPGRADE LEVEL OF THE WONDER
+奇怪进一步被完善了！
 
-The plants in the Gardens reached into the sky with their thick, bright green leaves! The cow dung provided the plants with the necessary nutrients. 
+花园中的植物含苞待放，枝丫茁壮成长着！牛粪为植物提供了必要的养分。
 
 <usericon:1,357,112>
 [blockend:12]
 
 [blockstart:13] 
-TRIBUTE PAID TO KOBUL!
+给科布利人的贡品！
 
-We had given the shoes to the Kobulians as a tribute. They instantly changed their attitude towards us. They were so happy about the shoes that they made us some extremely favourable trade offers. 
+我们把鞋子作为贡品给了科布利人。他们立刻改变了对我们的态度。他们对这些鞋子感到非常高兴，因此向我们提出了非常有利的交易。
 [blockend:13]
 
 [blockstart:14] 
-TRIBUTE PAID TO ROBBERS!
+给强盗的贡品！
 
-After we had paid the robbers the enormous tribute, they reluctantly let the women of the Saracen shepherds go. They said that the Saracen shepherds were easy victims, so they might attack and plunder them again any time ...
+在我们支付了巨额贡品后，强盗勉强放走了撒拉森牧民的妇女。他们说撒拉森是他们的粮仓，哈哈哈！
+
+所以他们可能随时再次袭击和掠夺他们...
 [blockend:14]
 
 [blockstart:15] 
-ENTRANCE TO THE UNDERGROUND HALLS
+地下大厅的入口
 
-You don't have permission to enter the underground halls. Go and help the pastoral tribe. Then return with your heroes, and you will be allowed to enter!
+你没有权限进入地下大厅。去帮助牧民部落。然后带着你的英雄们回来，你就可以进入！
 
 <usericon:1,39,473>
 [blockend:15]
 
 [blockstart:16] 
-"Maybe some cattle dung would help the plants of the Hanging Gardens to grow," we though when we found the first cow ...
+“也许一些牛粪能够帮助花园中的植物生长，”当我们发现第一头牛时，我们这样想...
 [blockend:16]
 
 [blockstart:17] 
-BUILDER
+建筑师
 
-"We have come to assist in the construction of the Hanging Gardens," the hard-working people above the building site told us. 
+“我们来协助建造空中花园，”建筑工地上辛勤工作的人们告诉我们。
 
 <usericon:1,373,35>
 
-"You are welcome to use the resources from our warehouse."
+“欢迎你们使用我们仓库里的资源。”
 [blockend:17]
 
 [blockstart:18] 
-MAGIC FIELDS
+神奇圆环
 
-A strange magic surrounds the bright fields that are fenced by obelisks as high as five men. One of them will take you to a valley in the desert, the other one will bring you back!
+明亮的田野被高达五个人那么高的方尖碑围住，周围笼罩着一种奇异的魔力。其中一个会带你去沙漠的一片山谷，另一个会带你返回来！
 [blockend:18]
 
 [blockstart:19] 
-50 QUARRYSTONES
+50块粗石
 
 <usericon:1,367,38>
 
-There were 50 quarrystones in this magic chest. They were automatically transferred to our headquarters!
+这个神奇的箱子里有50块粗石。它们已经自动转移到我们的总部！
 [blockend:19]
 
 [blockstart:20] 
-100 COINS
+100枚金币
 
 <usericon:1,289,124>
 
-There were 100 gold coins in this magic chest. They were automatically transferred to our headquarters!
+这个神奇的箱子里有100枚金币。它们已经自动转移到我们的总部！
 [blockend:20]
 
 [blockstart:21] 
-SARACEN WOMEN DEAD!
+撒拉森妇女死了！
 
-Oh dear, the shepherds' wives have died. Without these women, the outcome of the mission will remain hidden to you!
+哦，可怜的牧民妻子们已经去世了。没有这些女人，我们永远无法进入地下殿堂！！
 [blockend:21]
 
 [blockstart:22] 
-ROBBERS DEFEATED!
+强盗被打败了！
 
-We had successfully beaten the robbers! Never again would they harm the pastoral tribe. 
+我们成功地击败了强盗！他们再也不会伤害牧民部落了。现在知道王者之师的厉害了吧！
 [blockend:22]
 
 [blockstart:23] 
-CATAPULTS FOUND
+发现了投石车
 
 <usericon:1,103,74>
 
-Who had left these catapults here? In any case, they would prove very helpful for us!
+这里怎么会有投石车，也许只有奥丁知道了。
 [blockend:23]
 
 [blockstart:24] 
-NEW FRIENDS
+新朋友
 
 <usericon:2,6>
 
-When MANI and NORBERT met for the first time, they immediately knew that they would become the best of friends! 
+命运的相遇，曼尼和诺伯特一见面，就互相预感到他们是世界上最好的伙伴。
 [blockend:24]
 
 [blockstart:25] 
-MANI
+曼尼
 
 <usericon:2,6>
 
-One day MANI wants to be a hero like Cyra and Bjarni. But he is still too little for this mission!
+曼尼总有一天会像布加尼和西拉一样，但起码不是现在这个时刻！他还太小了。
 [blockend:25]
 
 [blockstart:26] 
-COWS CAUGHT! 
+我们找到了足够多的牛！
 
-We managed to catch the cows, but without the construction plans and the completed construction of the Hanging Gardens, they were of no use to us!
+但是如果没有巴比伦空中花园的进一步蓝图，这些牛也起不到任何作用。
 [blockend:26]
 
 [blockstart:100]
 <font:$local$\fonts\fonthead16bld.fnt>
-MISSION FAILED!
+任务失败
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
-Heroism or carelessness? When BJARNI died the gods were crying ... without this hero, the outcome of this mission will remain hidden to you!
+一时的疏忽，生命瞬间离去！布加尼因为你的不注意而逝去！没有这个英雄，你将无法知道故事的结局。
+
 [blockend:100]
 
 [blockstart:200]
 <font:$local$\fonts\fonthead16bld.fnt>
-MISSION FAILED!
+任务失败
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
-A short moment of negligence, that's all it takes to lose your life! Your heroine CYRA died due to your negligence! Without this heroine, the outcome of this mission will remain hidden to you! 
+一时的疏忽，生命瞬间离去！西拉因为你的不注意而逝去！没有这个英雄，你将无法知道故事的结局。
 [blockend:200]
 
 [blockstart:300]
@@ -277,7 +276,7 @@ A short moment of negligence, that's all it takes to lose your life! Your heroin
 MISSION FAILED!
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
-A short moment of negligence, that's all it takes to lose your life! Your friend and hero HATCHIE died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you! 
+一时的疏忽，生命瞬间离去！哈迪因为你的不注意而逝去！没有这个英雄，你将无法知道故事的结局。
 [blockend:300]
 
 [blockstart:400]
@@ -285,7 +284,7 @@ A short moment of negligence, that's all it takes to lose your life! Your friend
 MISSION FAILED!
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
-A short moment of negligence, that's all it takes to lose your life! Your friend and hero SIGURD died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you! 
+一时的疏忽，生命瞬间离去！西加哥德因为你的不注意而逝去！没有这个龙英雄，你将无法知道故事的结局。 
 [blockend:400]
 
 [blockstart:500]
@@ -293,7 +292,7 @@ A short moment of negligence, that's all it takes to lose your life! Your friend
 MISSION FAILED!
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
-A short moment of negligence, that's all it takes to lose your life! Your friend and hero NORBERT, the dragon, died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you!
+一时的疏忽，生命瞬间离去！诺伯特因为你的不注意而逝去！没有这个英雄，你将无法知道故事的结局。
 [blockend:500]
 
 [blockstart:600]
@@ -301,5 +300,5 @@ A short moment of negligence, that's all it takes to lose your life! Your friend
 MISSION FAILED!
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
-A short moment of negligence, that's all it takes to lose your life! MANI, son of Bjarni and Cyra, died due to your negligence! Without him, the outcome of this mission will remain hidden to you!
+一时的疏忽，生命瞬间离去！曼尼因为你的不注意而逝去！没有这个英雄，你将无法知道故事的结局。
 [blockend:600]

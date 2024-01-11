@@ -1,83 +1,83 @@
 [blockstart:header] 
-THE SEA OF FLAMES
+火焰之海
 [blockend:header]
 
 [blockstart:00_start] 
-An inhospitable area opened up underneath the barracks. This was the former basement of the Spartans!
+兵营下面是一片荒凉的区域。这是斯巴达人以前的地下室！
 
 <usericon:1,108,35>
 
-But how this place must have changed! They seemed to have built their city on a volcano.
+但是这个地方到底是发生了啥。怎么会变化如此之大！他们似乎在火山上建造了自己的城市。
 [blockend:00_start] 
 
 [blockstart:00_start1] 
-Reach the artefact. Beware of fire-spewing rockfaces! 
+到达文物。当心喷火的岩石表面！
 [blockend:00_start1]
 
 [blockstart:50_endheader] 
-MISSION COMPLETED! 
+任务完成
 [blockend:50_endheader]
 [blockstart:50_end] 
-We made it! Finally, we were holding the artefact in our hands and could leave the Sea of Flames. 
+我们成功了！最后，我们手里拿着这件艺术品，可以离开火焰之海了。
 
-And we did not want to stay another minute!
+我们不想再呆一分钟！
 [blockend:50_end]
 [blockstart:50_end1] 
 <usericon:1,136,102>
 [blockend:50_end1]
 
 [blockstart:01] 
-BASEMENT GUARD
+地下室警卫
 
-"These warehouses used to be full, but now the rockfaces are cracked and fire is coming out of the gaps. All ways to the warehouses are blocked.
+“这些仓库过去是满的，但现在岩石表面裂开了，火从缝隙里冒出来。通往仓库的所有路都被封锁了。”。
 
 <usericon:1,100,55>
 
-The switches that used to open the gates to the warehouses have all gone rusty except one. But what can a flyweight like me do ..."
+用来打开仓库大门的开关除了一个外都生锈了。别指望我能做什么，实际上我也什么都做不了，这情况谁能做事啊。
 [blockend:01]
 
 [blockstart:02] 
-WARNING!
+小心！
 
-The flames have already claimed a fair number of heroes' lives!
+大火已经夺去了不少英雄的生命！
 [blockend:02]
 
 [blockstart:03] 
-FLAMES PUT OUT!
+火焰熄灭了！
 
-Together we managed to operate the switch, but no door opened! A strong draught flowed through the halls, blowing out the flames for a while.
+我们一起设法操作了开关，但没有门打开！一股强风吹过大厅，把火焰吹灭了一些。
 [blockend:03]
 
 [blockstart:04] 
-SWITCH OPERATED
+开关操作的
 
-Although we had managed to operate the switch, it had no effect.
+尽管我们设法按了开关，但没有效果。
 
 <usericon:1,90,70>
 [blockend:04]
 
 [blockstart:05] 
-SWITCH
+开关
 
-This switch showed no effect. Maybe the power of only one switch wasn't enough ...
+这个开关没有效果。也许仅仅一个开关的，还需要另一个开关一起按吗？
 
 <usericon:1,85,50>
 [blockend:05]
 
 [blockstart:06] 
-SWITCH
+开关
 
-Although we had managed to operate the switch, it had no effect.
+尽管我们设法按了开关，但没有效果。
 
 <usericon:1,111,65>
 [blockend:06]
 
 [blockstart:07]
 <font:$local$\fonts\fonthead16bld.fnt>
-MISSION FAILED!
+任务失败
 <font:$local$\fonts\font12.fnt>
-What a tragedy! The ELISIAN died in the flames.
-The mission had failed.
+真是一场悲剧！死于火海。
+这次任务失败了。
 [blockend:07]
 
 [blockstart:100]
@@ -85,7 +85,7 @@ The mission had failed.
 MISSION FAILED!
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
-Heroism or carelessness? When BJARNI died the gods were crying ... without this hero, the outcome of this mission will remain hidden to you!
+布加尼死了
 [blockend:100]
 
 [blockstart:200]
@@ -93,7 +93,7 @@ Heroism or carelessness? When BJARNI died the gods were crying ... without this 
 MISSION FAILED!
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
-A short moment of negligence, that's all it takes to lose your life! Your heroine CYRA died due to your negligence! Without this heroine, the outcome of this mission will remain hidden to you! 
+西拉死了
 [blockend:200]
 
 [blockstart:400]
@@ -101,7 +101,7 @@ A short moment of negligence, that's all it takes to lose your life! Your heroin
 MISSION FAILED!
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
-A short moment of negligence, that's all it takes to lose your life! Your friend and hero SIGURD died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you!
+西加哥德挂了
 [blockend:400]
 
 [blockstart:500]
@@ -109,7 +109,7 @@ A short moment of negligence, that's all it takes to lose your life! Your friend
 MISSION FAILED!
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
-A short moment of negligence, that's all it takes to lose your life! Your friend and hero NORBERT, the dragon, died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you!
+龙死了
 [blockend:500]
 
 [blockstart:600]
@@ -117,5 +117,5 @@ A short moment of negligence, that's all it takes to lose your life! Your friend
 MISSION FAILED!
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
-A short moment of negligence, that's all it takes to lose your life! MANI, son of Bjarni and Cyra, died due to your negligence! Without him, the outcome of this mission will remain hidden to you!
+曼尼遭难
 [blockend:600]
