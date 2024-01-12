@@ -209,10 +209,6 @@
 
 <usericon:1,279,244>
 
-After we had paid the people of El Arab their requested tribute, they put down their weapons and granted us free access to their mountains. 
-
-There we found precious resources that might be of use to us in our hard task.
-
 在我们给阿拉巴部落的人献上诚意的贡品之后。他们，不再敌视我们，并且允许我们通行他们的群山。
 
 在那里，我们发现了珍贵的资源，这真是我们当前任务能用到的！！太好了。
@@ -266,101 +262,105 @@ There we found precious resources that might be of use to us in our hard task.
 [blockend:20]
 
 [blockstart:25] 
-WHAT ARE YOU UP TO?
+你在预谋做什么呢！
 
-You have shown a hostile attitude towards the people of Halicarnassus!
+不要对我们的朋友抱有敌意！他们是帮我们的。
 
 <usericon:1,218,272>
 
-Do not try to attack your friends! You will end up failing the mission! 
+不要再这样子做了，这只会让失去他们的信任。
 
 
 You've been warned!
 [blockend:25]
 
 [blockstart:30] 
-PRIEST TUT MA' NIX
+牧师 图克马尼
 
-One of the Osirian priests by the name of Tut Ma' Nix offered us his help.
+一位名叫图克马尼的奥西里亚牧师向我们提供了帮助。
 
 <usericon:2,150>
 
-"Friends, I have heard about your great heroic deeds! I have also been told that you are accompanied by a boy who has a dragon! 
+“朋友们，我听说了你们的伟大英雄事迹！还有人告诉我，你们身边有一个男孩，甚至还有他好朋友，那条龙！
 
-I can hardly believe such words! But if the rumour is true, send both of them to me, so I can have a look at them! If I were to witness such a miracle, I would reveal the great secret of the Osirians!"
+我简直不敢相信这样的话！但如果谣言是真的。我真想看看这是不是真的！如果我亲眼目睹这样一个奇迹，我会阐述给你有关奥西里亚人的伟大秘密！"
 
+把曼尼和诺伯特送到图特马尼克斯去。
 
-Send Mani and Norbert to Tut Ma' Nix.
 [blockend:30]
 
 
 
 
 [blockstart:35] 
-PRIEST TUT MA' NIX
+牧师 图克马尼
 
-When Tut Ma' Nix saw Mani and Norbert, his eyes started glowing!
+当图克马尼看到曼尼和诺伯特时，他的眼睛开始发光！我勒个去，我从来没看到这么耿耿有神的视线。
 
 <usericon:2,150>
 
-"Oh, what miracle I am witnessing! A real dragon! Led by an ordinary Northland boy! May Osiris bless you and close the gates to his realm for you for many years to come!
+“哦，我亲眼目睹了多大的奇迹！一条真正的龙！而且跟一个来自北方男孩成为了好朋友！！愿奥西里斯保佑你，在未来的许多年里为你打开通往他的王国的大门！”！
 
-Thank you for revealing this miracle to me! In return you shall know about the secret paths of the Osirians. We rarely use them, but they may be of advantage to you ... I will open them for you ...
+谢谢你把这个奇迹告诉我！作为回报，我告诉你一个奥西里人的秘密道路。我们很少使用它们，但它们肯定是能帮到你的。。。我会为你打开它们。。。
 
-Listen! Through this magic gate you will get to the island of Al Rhababa:
+通过这个魔法之门，你将到达拉纳巴拉岛：
 
-<usericon:1,26,129>
-
-Use this gate to get to our village:
+<usericon:126129>
+使用这个门可以到达我们的村庄：
 
 <usericon:1,215,127>
 
 
-But be careful - the gates will change directions from time to time! So you will be able to return the way you came!"
+但要小心——大门会不时改变方向！有可能你过去了，要很长一段时间才能回去！"
+
 [blockend:35]
 
 
 
 // Al Rhababa Piraten-Angriff
 [blockstart:80] 
-ATTACK!
+被攻击了！
 
-The pirates of Al Rhababa have arrived at the beach!
+我们被袭击了!!被拉纳巴拉的海盗！！！
+
+拿起武器，武装自己！
 
 <usericon:2,201>
 
-Defend yourself!
+保护好维京人！
 [blockend:80]
 
 
 [blockstart:81] 
-ATTACK!
+被攻击了！
 
-The pirates of Al Rhababa have arrived at the beach!
+又一次的侵略！
 
 <usericon:2,205>
 
-Defend yourself! And you had better take precautions against further attacks!
+我们被袭击了!!被拉纳巴拉的海盗！！！
+
+拿起武器，武装自己！
 [blockend:81]
 
 [blockstart:82] 
-ATTACK!
+被攻击了！！！
 
-The pirates of Al Rhababa have arrived at the beach!
+拉纳巴拉的海盗又袭击了我们。
 
 <usericon:2,206>
 
-Defend yourself! And you had better take precautions against further attacks!
+拿起武器，武装自己！
 [blockend:82]
 
 [blockstart:83] 
-ATTACK!
+被袭击了！！！
 
-The pirates of Al Rhababa have arrived at the beach!
+我们持续的被海盗袭击。我们必须要做些什么了！！
 
 <usericon:2,203>
 
-Defend yourself! And you had better take precautions against further attacks!
+拿起武器，武装自己！
 [blockend:83]
 
 
@@ -368,42 +368,45 @@ Defend yourself! And you had better take precautions against further attacks!
 
 // Al Rhababa besiegt
 [blockstart:89] 
-PIRATES DEFEATED!
+海盗被打败了！
 
-Our brave heroes finally managed to defeat the pirates of Al Rhababa!
+我们勇敢的英雄们终于打败了拉纳巴拉的海盗！
 
-The survivors were pleading for leniency and peace. They surrendered and lay their fate in our hands.
+幸存者们恳求宽大处理与和平，他们投降了。现在将由我们决定他们的命运
 
-Retaliation was not what we had in mind. We loved peace, and now that the pirates had given in, we made peace with them. 
+我们热爱和平，现在海盗已经屈服了，也不再成为我们的阻拦。
 
-We were sure that, from now on, they were no threat to us any more.
+我们确信，从现在起，他们不再对我们构成威胁。
+
 [blockend:89]
 
 
 
 // Erdbeben
 [blockstart:90] 
-EARTHQUAKE!
+地震！
 
-A severe earthquake shook the ground!
+一场强烈的地震震动了大地！
 
-It did major damage to a large area around the epicentre in the mountains!
+它对震中周围山区的大片地区造成了重大破坏！
+
 [blockend:90]
 
 [blockstart:95] 
-EARTHQUAKE!
+地震！
 
-A severe earthquake shook Halicarnassus and did major damage to the city!
+一场严重的地震震撼了哈利卡纳苏斯，对这座城市造成了重大破坏！
 
-Queen Artemisia asked us for help:
+阿特米西亚女王向我们求助
 
 <usericon:1,226,266>
 
-"What a tragedy has fallen upon our city! The earthquake has done much harm, many houses have been damaged and are now about to collapse! 
+“我们的城市发生了多么大的悲剧！地震造成了巨大的伤害，许多房屋受损，现在即将倒塌！”！
 
-We will need all the available building materials to rebuild the city. Even those that were meant for the tomb ...
+我们将需要所有可用的建筑材料来重建这座城市。即使是那些为坟墓准备的。。。
 
-Please understand our predicament, noble Bjarni ..."
+请理解我们的困境，尊贵的布加尼。。。"
+
 [blockend:95]
 
 
@@ -414,96 +417,99 @@ Please understand our predicament, noble Bjarni ..."
 
 // Informant am See
 [blockstart:101] 
-LOCAL
+本地人
 
-Near the small lake we were approached by one of the locals.
+在小湖附近，老远就看到一个本地人站在那。
 
 <usericon:1,218,27>
 
-"Ah, stranger! Be careful! Severe earthquakes often shake the ground and do damage to our huts and houses! You will be safe close to the sea, but if you dare to venture inland, it might be dangerous!
+“啊，陌生人！小心！强烈的地震经常震动地面，破坏我们的小屋和房屋！你在海边会很安全，但你最好不要贸然进入内陆，这实在是太危险了！”！
 
-Take these goods. I give them to you. Maybe they will be of use.
+拿走这些货物，它们现在是你的了。也许会有用。
 
-Well, I must go now. I feel unsafe here ..."
+好吧，我现在必须走了。我觉得这里不安全。。。"
 
-
-Having spoken these words, the stranger disappeared. Had we seen a ghost?
+说完这些话，陌生人就不见了。。。他说幽灵吗，怎么一下就消失不见了。
 [blockend:101]
 
 
 [blockstart:110] 
-OLD FISHERMAN
+老渔民
 
 <usericon:1,209,259>
 
-"This is a dangerous area. Yes, indeed ...
+"这地方是真的危险，如同其名一样，我愿称之为恶魔岛。”
 
-How often have the pirates of Al Rhababa landed here and plundered the city! Although we specially built this stronghold on the promontory in the harbour ... 
+拉纳把拉的海盗经常在这里登陆并掠夺这座城市！虽然我们在港口的边边上专门建造了这个据点。。。
 
-But apparently our soldiers are not in a position to fight the pirate ships from there ...
+但很显然，我们的士兵跟这些经验丰富的海盗相比，各方面都欠缺许多。。。
 
-So, you had better keep away from here ... I don't want you to be harmed!"
+所以，你最好离这里远点。。。我不想你也跟我们一样被袭击！"
+
 [blockend:110]
 
 
 [blockstart:111] 
-CITIZEN OF HALICARNASSUS
+哈利卡纳苏斯市民
 
 <usericon:2,101>
 
-"Have you heard of the Osirians? If you follow the beach to the north-west, you will reach their village.
+“你听说过奥西里亚人吗？如果你沿着海滩向西北走，你就会到达他们的村庄。
 
-They have a mighty priest who knows a lot of ancient secrets! They say that he can be very helpful to friends.
-And he is mad about rare and mysterious things!
+他们有一个受人尊敬的牧师，他知道很多古老的秘密！这应该对你很有帮助。
 
-Oh well, maybe you will meet him one day. His name is Tut Ma' Nix ..." 
+他对稀有而神秘的东西很着迷！
+
+哦，好吧，也许有一天你会见到他。他的名字叫图克马尼。。。"
 [blockend:111]
 
 [blockstart:112] 
-CITIZEN OF HALICARNASSUS
+哈利卡纳苏斯市民
 
 <usericon:2,102>
 
-"Have you heard about the pirates? They live on an island off the shore of the city, not far from here! 
-They are dangerous! Their ships are fast and their fortress is strong! They have numerous soldiers and evil weapons ...
+“你听说过海盗吗？他们住在离这里不远的城市岸边的一个岛上！
+他们很危险！他们的船技很好，他们的堡垒很坚固！他们有无数的士兵和邪恶的武器。。。
 
-Oh yes ...
+哦，是的。。。
 
-If only one could get onto the island without being destroyed immediately. But no ship can hold enough soldiers and weapons ..."
+如果有人能在不被立即摧毁的情况下登上这个岛就好了。但没有一艘船能容纳足够的士兵和武器。。。"
 [blockend:112]
 
 [blockstart:113] 
-CITIZEN OF HALICARNASSUS
+哈利卡纳苏斯市民
 
 <usericon:2,103>
 
-"You have heard about the pirates? Yes, they live on the island off the coast. Their fortress can hardly be captured.
+“你听说过海盗吗？是的，他们住在海岸边的岛上。他们的堡垒很难被攻占。
 
-Only a huge army might succeed in defeating them and creating peace! But how could soldiers be taken to the island without being spotted?"
+只有一支庞大的军队才能成功击败他们，创造和平！但是，士兵怎么会被带到岛上而不被发现呢？"
+
 [blockend:113]
 
 [blockstart:114] 
-CITIZEN OF HALICARNASSUS
+哈利卡纳苏斯市民
 
 <usericon:2,104>
 
-"Shhhh ... Do you know what they say in the tavern? The Osirians have secret ways of travelling from one spot to the next in a split second! In no time at all, so to speak. As if by magic!
+“嘘……你知道他们在酒馆里说什么吗？奥西里亚人有在一瞬间从一个地方到另一个地方的秘密神奇方式！老实的讲，这简直跟魔法一样，一下子就可以到啊目的地。”！
 
-They say there is such a path that leads to the pirates' island! But the Osirians would surely only show it to people they trust! 
+他们说有这么一条路通向海盗岛！但是奥西里亚人肯定只会把它展示给他们信任的人！
 
-So I've heard, anyway ..."
+所以我听说，。。。。。剩下的我就不知道了，也许你可以当面问问？"
+
 [blockend:114]
 
 [blockstart:115] 
-CITIZEN OF HALICARNASSUS
+哈利卡纳苏斯公民
 
 <usericon:2,105>
 
-"Tut Ma' Nix? Isn't that the priest of the Osirians? Yes, I have heard the name before. They say that he knows a lot of secrets. Secret ways and magic paths, they say. Personally, I think it's nonsense ...
+“图克马尼？那不是奥西里亚人的牧师吗？是的，我以前听过这个名字。他们说他知道很多秘密。他们说，秘密的方式和魔法之路。就我个人而言，我认为这是胡说八道。。。
 
-He supposedly also likes really strange animals. Unicorns, sphinxes, minotaurs, dragons and such ... 
+据说他也喜欢非常奇怪的动物。独角兽、狮身人面像、牛头怪、龙等等。。。
 
-VERY strange, if you ask me ..."
+很奇怪，如果你问我。。。"
 [blockend:115]
 
 
@@ -511,40 +517,42 @@ VERY strange, if you ask me ..."
 // Kistenhändler
 // **************************
 [blockstart:150] 
-LETROS THE CHEST MERCHANT
+雷特斯 商人
 
-"Greetings, friends. My name is Letros.
+"你好啊，陌生人。我是商人雷特斯。
 
 <usericon:1,206,240>
 
-Together with my two brothers, I do a flourishing trade in chests.
+我和我的两个兄弟一起做着生意兴隆的盲盒生意。
 
-They're brand-new and always of the best quality! However, we never tell anyone what exactly is hidden in a chest. 
-You must trust us, you know ... In return we offer you cheap prices.
+是全新的，质量总是最好的！然而，我们从不告诉任何人箱子里到底藏着什么。
 
-The first chest is for free. A gift for our friends, you know ... So you can test the goods, so to speak."
+你必须相信我们，你知道。。。作为回报，我们给你便宜的价格。
+
+第一个箱子是免费的。送给我们朋友的礼物，你知道。。。可以说，这样你就可以自行判断我说的是不是真的了，各个都是物美价廉的好东西。"
+
 [blockend:150]
 
 
 [blockstart:155] 
-LETROS THE CHEST MERCHANT
+盲盒商人雷特斯
 
-"If you offer me a few goods in return, you will get a new chest from me!"
+“如果你给我几件商品。作为回报，你会从我这里得到一个新箱子！”
 
 <usericon:1,206,240>
 
 
-Pay Letros the requested goods (tribute) to get a new chest.
+给他要的东西来换取一个盲盒。
 [blockend:155]
 
 [blockstart:157] 
-LETROS THE CHEST MERCHANT
+盲盒商人雷特斯
 
-"Thank you very much! I hope you will like what you find in the chest.
+谢谢啦！你看看能开到什么吧。
 
 <usericon:1,206,240>
 
-Have fun!"
+祝你愉快。
 [blockend:157]
 
 
@@ -553,80 +561,87 @@ Have fun!"
 [blockstart:160] 
 AMULOS THE CHEST MERCHANT
 
-"Ah, strangers in town. Greetings to you! I am Amulos.
+"啊，在城市里的陌生人，我已经许久没有见到了。我是商人，阿姆罗。
 
 <usericon:1,245,258>
 
-Together with my two brothers, I do a flourishing trade in chests.
+我和我的两个兄弟一起做着生意兴隆的盲盒生意。
 
-They're brand-new and always of the best quality! However, we never tell anyone what exactly is hidden in a chest. 
-Our customers trust us blindly. And I would like to add that they are right to ... In return we offer them cheap prices.
+是全新的，质量总是最好的！然而，我们从不告诉任何人箱子里到底藏着什么。
 
-The first chest is for free. A gift for our friends, you know ... So you can test the goods. 
-Not that it's necessary ..."
+你必须相信我们，你知道。。。作为回报，我们给你便宜的价格。
+
+第一个箱子是免费的。送给我们朋友的礼物，你知道。。。可以说，这样你就可以自行判断我说的是不是真的了，各个都是物美价廉的好东西。"
+
+里面有什么我是不保证的，但也许正是你需要的呢？
 [blockend:160]
 
 
 [blockstart:165] 
-AMULOS THE CHEST MERCHANT
+阿姆罗，盲盒商人
 
-"If you give me a few goods in return, you will get a new chest from me!"
+“如果你给我几件商品。作为回报，你会从我这里得到一个新箱子！”
 
 <usericon:1,245,258>
 
 
-Pay Amulos the requested goods (tribute) to get a new chest.
+给他几个东西，看看能换到什么
 [blockend:165]
 
 
 [blockstart:167] 
-AMULOS THE CHEST MERCHANT
+阿姆罗，盲盒商人
 
-"Thank you very much! I hope that you will like what you find in the chest.
+"谢谢你！希望你能开到好东西。啊哈哈”
 
 <usericon:1,245,258>
 
-Have fun!"
+祝愉快!"
 [blockend:167]
 
 
 
 // **************************
 [blockstart:170] 
-VINOS THE CHEST MERCHANT
+维诺斯 盲盒商人
 
-"Hey, who is this? You look like an expert in noble drinks and finest spirits! 
+"啊哈！!看看这是谁，陌生人。你看起来就跟我想象中的朋友一模一样。充满着精气神，富有冒险精神。" 
 
 <usericon:1,285,301>
 
-Call me Vinos, like my friends do. I do a flourishing trade with chests in the city. A family tradition, so to speak. My brothers do the same thing.
+叫我维诺斯就行了, 朋友都是这么叫的. 
 
-They're brand-new and always of the best quality! However, we never tell anyone what exactly is hidden in a chest.
-The business is based on mutual trust ... In return we offer cheap prices.
+我从事一项幸运与机会并存的事业，在这个城市. 我的营生算是。。额。整个家族都这样的，我的兄弟也都是这样, 你可以认为我们这个家族就是干这一行的。
 
-The first chest is for free. From one expert to another ... So you can test the goods ..."
+我卖你盲盒。然而，我们从不告诉任何人箱子里到底藏着什么。但是它总是全新的，甚至于最好的。
+
+你必须相信我们，你知道。。。作为回报，我们给你便宜的价格。
+
+第一个箱子是免费的，但是后面的箱子你就要付费咯。毕竟我也要生活，不是吗？."
 [blockend:170]
 
 
 [blockstart:175] 
-VINOS THE CHEST MERCHANT
+维诺斯 盲盒商人
 
-"If you give me some goods in return, you will get a new chest from me!"
+"给我一些礼物吧，作为回报。我会再让你开箱子的。"
 
 <usericon:1,285,301>
 
 
-Pay Vinos the requested goods (tribute) to get a new chest.
+跟他做点生意。
 [blockend:175]
 
 [blockstart:177] 
-VINOS THE CHEST MERCHANT
+维诺斯 盲盒商人
 
-"Thank you very much! I hope you will like what you find in the chest.
+啊哈！谢谢，现在。。
+
+这是你的了（指身后的箱子）。
 
 <usericon:1,285,301>
 
-Have fun!"
+祝你愉快！
 [blockend:177]
 
 
@@ -636,117 +651,120 @@ Have fun!"
 
 // König Mausolos allgemein
 [blockstart:210] 
-KING MAUSOLOS
+毛索罗斯国王
 
-"Ah, strangers in town! What a rare occasion ...
+“啊，城里的陌生人！真是又稀奇，又少见。。。
+
 
 <usericon:1,218,272>
 
-You are looking for the tomb of the old king? Hm. Well, it did once exist, up on the hill over there. 
+你在找老国王的坟墓？嗯，它曾经存在过，在那边的山上。
 
-We have used the stones to build new houses in the city. They served us well.
+我们用这些石头在城里盖了新房子。说实话这石头的质量真不错。
 
-We have created a little park on the spot where it once stood. For the citizens to relax. So you see the old tomb still serves a good cause, even after all this time. 
-
-Well, that's enough now. After all, I am the king and not a tourist guide! Send your leader if there is anything else you would like to talk about! 
-
-Otherwise - please excuse me!"
+我们在它曾经矗立的地方建了一个小公园。让市民可以在那里放松放松心情。所以你看，即使经过这么长时间，这座古老的坟墓算是被我用尽其用了。
 
 
-Take Bjarni to King Mausolos. But - where has he got to?
+你可别责怪我！！我也不想你说什么，已经够了。毕竟，我是国王，不是导游！如果你还有什么想谈的，就派你的领导来！
+
+现在，请离开吧"
+
+
+带布加尼去国王那里，国王想要做什么呢。
 [blockend:210]
 
 
 [blockstart:215] 
-KING MAUSOLOS
+毛索罗斯国王
 
-"Bjarni? THE Bjarni? 
+"布加尼，你就是布加尼？"
 
 <usericon:1,218,272>
 
-Ah, I have heard of you! You have achieved great heroic deeds! You discovered a country in the distant west and defeated the Midgard serpent, right? 
+你很有名气，我听了不少你的传闻。 你干了不少英雄事迹！你在遥远的西部发现了一个国家，打败了Midgard蛇怪，对吧？
 
-Well, that's what people say about you, anyway. 
+不管怎样，这就是人们对你的评价。
 
-If it's true, you must be very rich and well-off. It should be easy for you to fulfil a little wish for me ... 
+如果这是真的，你一定非常富有和富裕。你应该很容易为我实现一个小小的愿望。。。
 
-As a favour, so to speak."
+你。。。这么土豪，肯定不在意这事的。"
 
 
-Prove your friendship to King Mausolos by giving him a generous gift (tribute).
+向毛索洛斯国王赠送一份慷慨的礼物（贡品），以证明你的友谊。
 [blockend:215]
 
 
 [blockstart:220] 
-KING MAUSOLOS
+毛索罗斯国王
 
-"Well, I can see you are very rich and powerful indeed! It's an honour to welcome you to our city! What made you decide to visit my humble empire?"
+“好，好。我看得出来你确实非常富有和强大！很荣幸欢迎你来到我们的城市！是什么让你决定参观我卑微的帝国？”
 
 <usericon:1,218,272>
 
-I briefly explained the reason for our visit to King Mausolos. He was rather surprised - to put it mildly!
+我简要地解释了我们访问毛索罗斯国王的原因。委婉地说，他相当惊讶！
 
-"WHAT? You want to rebuild the ancient tomb? Did I hear you right? 
-That is a huge project indeed! And not without problems, even though, as you say, the welfare of all mankind depends on it.
+“什么？你想重建古墓吗？我没听错吧？”？
 
-You should know that we have built a nice park for our citizens on the spot where the tomb used to be. For rest and relaxation. And this park is my beloved wife's favourite spot!
+这确实是一个巨大的工程！虽然有一些。。。突然。但是，正如你所说，全人类的未来都取决于它。
+
+你应该知道，我们在坟墓所在的地方为我们的公民建造了一个很好的公园。用来休息和放松。这个公园是我爱妻最喜欢的地方！
+
+虽然是在旧址坟墓上面，但是现在那里风景可好了。
 
 <usericon:1,234,293>
 
-She will be so upset if I tear down the park! She would never forgive me! 
+如果我拆了公园，她会很难过的！她永远不会原谅我！
 
-But why don't you talk to her yourself? Then she can't blame me, and maybe you will find better words than I could."
+但你为什么不自己和她谈谈呢？那她就不能怪我了，也许你会找到比我更好的措辞。"
 
+带布加尼去见王后，和她谈谈陵墓的建造事宜。
 
-Take Bjarni to Queen Artemisia to talk to her about the construction of the tomb.
 [blockend:220]
 
 [blockstart:230] 
-QUEEN ARTEMISIA
+王后阿特米西亚
 
-The conversation with the queen proved less difficult than we had expected after our discussion with Mausolos. She showed a complete understanding of the threatening danger and our mission.
+事实证明，在与毛索洛斯讨论后，与女王的对话没有我们预期的那么困难。她非常理解现在我们的使命，与拯救世界相比，个人的感受也不算什么了。
 
 <usericon:1,226,266>
 
-"There is no need to ask whether your mission will have my support! What good is the nicest park to me, if darkness covers the world and mankind falls prey to damnation?
+“没有必要问你的使命是否会得到我的支持！如果黑暗笼罩着世界，人类成为诅咒的牺牲品，那么最好的公园对我来说有什么好处？”
 
-Find the building materials and take them to the entrance of the park! My workers will build a new tomb there! I am already having the park cleared, so that you will have enough space." 
+找到建筑材料，把它们带到公园的入口处！我的工人将在那里建造一座新的陵墓！我已经把公园清理干净了，这样你就有足够的空间了。"
 
-
-Take the necessary goods to the marked spot at the park entrance.
+将物品带到公园入口处的标记地点。
 [blockend:230]
 
 [blockstart:235] 
-QUEEN ARTEMISIA
+王后阿特米西亚
 
 <usericon:1,226,266>
 
-"There are still a few things I need to ask you for ... 
+“还有一些事情我需要问你。。。
 
-Due to the numerous pirate raids, the public treasury is as empty as my husband's brain. The workers, however, are demanding their wages for the construction of the tomb.  
+由于无数次的海盗袭击，公共财政就像我丈夫的大脑一样空虚。然而，工人们要求支付修建陵墓的工资。
 
-Could you please take care of that? Thank you very much!" 
+你能帮代付一下吗？非常感谢你！"
 
-
-Pay the builders (tribute).
+向建设者献礼。
 [blockend:235]
 
 
 [blockstart:240] 
-QUEEN ARTEMISIA
+王后阿特米西亚
 
-We had scraped together all our money to pay the workers. But if this was the only way to save mankind, then so be it.
+我们凑足了所有的钱来支付工人们的工资。但如果这是拯救人类的唯一途径，那就顺其自然吧。
 
 <usericon:1,226,266>
 
-"Thank you very much! You are a generous man indeed, noble Bjarni!
+“非常感谢你！你真是一个慷慨的人，尊贵的布加尼！
 
-Now we can proceed with building the Mausoleum. You do like the name, don't you? I thought I would name it in honour of my husband ... 
+现在我们可以继续建造陵墓了。你确实喜欢这个名字，不是吗？我想我会以我丈夫的名字命名。。。
 
-We need some more material. Take it to the foot of the hill to the marked spot. There is enough space!"
+我们需要更多的材料。把它带到山脚下的标记点。那里才摆的下材料。"
 
+把必要的货物带到山脚下有标记的地方。
 
-Take the necessary goods to the marked spot at the foot of the hill.
 [blockend:240]
 
 
@@ -754,31 +772,30 @@ Take the necessary goods to the marked spot at the foot of the hill.
 // **************************
 
 [blockstart:310] 
-AL RHABABA
+拉纳巴拉部落
 
-The pirates of Al Rhababa had been defeated! 
+拉纳巴拉部落已经被打败了！
 
 <usericon:1,59,325>
 
-In future, people would be able to live here without any fear of raids. 
+人们将能够在这里生活，不用担心遭到袭击。 
+
 [blockend:310]
 
 [blockstart:320] 
-EL ARAB
+海盗被击败了
 
-The people of El Arab had been defeated! 
-
+阿拉伯人民被打败了！
 <usericon:1,284,250>
 
-We now had access to the mountains that were rich in resources. 
+我们现在可以进入资源丰富的山区了。
 [blockend:320]
 
 [blockstart:330] 
-TRIBE OF THE OSIRIANS
+奥西亚人部落
 
-The tribe of the Osirians had been defeated!
-
+奥西里人的部落已经被打败了！
 <usericon:1,83,83>
 
-We now had access to the mountains that were rich in resources. 
+我们现在可以进入资源丰富的山区。
 [blockend:330]

@@ -1,262 +1,282 @@
 [blockstart:header] 
-THE EIGHTH WONDER OF THE WORLD
+世界第八大奇迹
 [blockend:header]
 
 [blockstart:00_start] 
-We landed on the island that held a mighty obelisk in the middle - the Eighth Wonder of the World. We could already see it from a distance. According to the predictions of the Council of Nations, it was supposed to bind the energies of the other Wonders and thus banish the dark powers. 
+终于，我们登上了岛，岛上中间有一座巨大的方尖碑，这就是世界第八大奇迹。
 
-When this didn't happen after the completion of the other seven Wonders, the Council of Nations sent us to this place to get to the bottom of this mystery ...
+我们已经可以从远处看到它了。根据国际委员会的预测，它应该绑定其他奇迹的能量，从而驱逐黑暗势力。
+
+当这在其他七个奇迹完成后没有发生时，国际委员会派我们到这个地方来揭开这个谜团。。。
+
 [blockend:00_start]
 [blockstart:00_start1] 
-Go to the obelisk and find out why the dark forces have not been driven away yet!
+
+去方尖碑，找出为什么黑暗势力还没有被驱散！
+
 [blockend:00_start1]
 
 
 [blockstart:01] 
-THE DIVIDED CITY
+分歧的城市
 
-"When the island rose from the sea we hoped to find a good fertile land that nobody could take from us. But now we have had to divide our city. 
+“当这个岛从海上升起时。相比自己脚下贫瘠的土地，我们在岛上找到了不少资源，这篇岛屿真实肥沃啊。我们找到一块没有人能夺走的肥沃土地。”。
 
-Each of the three areas is administered by its own mayor. They never negotiate with one another, as neither wants to enter either of the other ones' areas! If only someone could get the three pigheads together," wailed the citizens of the divided city.
+但是其他人也是这样想的，现在我们都抱有这样的想法。整个城市分裂成了3个领地。
+
+这三个地区中的每一个都由自己的市长管理。他们从不相互谈判，因为他们都不想进入对方的任何一个地区！如果有人能把三个猪头聚在一起就好了，”城市中的市民无奈的喊道。
 
 <usericon:1,127,180>
 
-Unite the divided city! Pay each of the mayors a visit and take them to the obelisk!
+团结分裂的城市！拜访每一位市长，带他们去方尖碑！
 [blockend:01]
 
 [blockstart:02] 
-OBELISK
+方尖碑
 
-Now that we were seeing it at close range, our jaws dropped! Its height and grace excelled every other Wonder of the World. At the foot of the obelisk, on each side, were pedestals for the artefacts of the other seven Wonders of the World. But these artefacts were missing! 
-Had the people that had settled down here maybe taken them?
+现在我们近距离看到了它，我们的下巴都掉下来了！它的高度和优雅胜过了世界上其他所有的奇迹。在方尖碑的脚下，两侧都是其他七个世界奇观的文物基座。但是这些文物不见了！
+
+他们被谁偷走了啊。
 
 <usericon:1,195,224>
 
-We should find this out ... 
+我们现在动身，看看这里发生了什么。
 [blockend:02]
 
 
 [blockstart:03] 
-SARACENS
+萨拉森人
 
-"The Pharos Lighthouse was built in our country from OUR resources," the Saracens complained. "Deliver us some marble, and maybe we will bring the artefact of the Lighthouse back to its place and guard it, so that nobody else can take it!"
+萨拉森人抱怨道：“法罗斯灯塔是用我们的资源在我们国家建造的。”。
+
+“给我们送一些大理石，我们会把灯塔的文物带回原处并保护它，这样就没有人能拿走它了！”
 
 <usericon:1,314,182>
 
-Bring the Saracens 30 blocks of marble into their city or fight them! 
+把30块大理石带到萨拉森人的城市里，否则就消灭他们！
+
 [blockend:03]
 
 [blockstart:04] 
-GOODS DELIVERED
+货物送到了
 
 <usericon:1,195,221> 
 
-We had delivered the Saracens the required goods. They kept their word and took the artefact of the Pharos Lighthouse back to its rightful position. 
+我们已经向萨拉森人运送了所需的货物。他们信守诺言，将法罗斯灯塔的文物带回了应有的位置。
 [blockend:04]
 
 
 [blockstart:05] 
-ALL ARTEFACTS FOUND!
+所有文物都找到了！
 
-Full of pride we could report that we had found all the artefacts of the Wonders of the World!
+我们可以满怀自豪地报告，我们已经发现了世界奇观的所有文物！
 
 <usericon:1,195,221> 
 
-Now, take ALL of your heroes back to the obelisk!
+现在，把你们所有的英雄带回方尖碑！
 [blockend:05]
 
 [blockstart:06] 
-NORTHERN MAYOR
+北方市长
 
 <usericon:2,7>
 
-"I administer the northern part of town. Are you trying to tell me that I am not doing my job properly?" the mayor snapped at us.
-"I will never meddle in someone else's area! That's out of the question!
+“我管理着城市的北部。你是想告诉我我的工作做得不好吗？”市长厉声斥责我们。
 
+“我决不会干涉别人的事！那是不可能的！”！
 ...
+什么另外两个想在中立地见我吗？在方尖碑？这应该是我的主意，我先想出来的。！"
 
-What? The other two want to meet me on neutral ground? At the obelisk? Sounds like an idea I might have had myself!"
-
-Take the mayor to the obelisk!
+带市长去方尖碑！
 [blockend:06]
 
 [blockstart:07] 
-CENTRAL MAYOR
+核心区市长
 
 <usericon:2,8>
 
-"I administer the central part of town. Are you trying to tell me that I am not doing my job properly?" the mayor snapped at us.
-"I will never meddle in someone else's area! That's out of the question!
+“我管理着城市的核心中部。你是想告诉我我的工作做得不好吗？”市长厉声斥责我们。
 
+“我决不会干涉别人的事！那是不可能的！”！
 ...
+什么另外两个想在中立地见我吗？在方尖碑？这应该是我的主意，我先想出来的。！"
 
-What? The other two want to meet me on neutral ground? At the obelisk? Sounds like an idea I might have had myself!"
+带市长去方尖碑！
 
-Take the mayor to the obelisk!
 [blockend:07]
 
 
 [blockstart:08] 
-SOUTHERN MAYOR
+南部市长
 
 <usericon:2,9>
+“我管理着城市的南部。你是想告诉我我的工作做得不好吗？”市长厉声斥责我们。
 
-"I administer the southern part of town. Are you trying to tell me that I am not doing my job properly?" the mayor snapped at us.
-"I will never meddle in someone else's area! That's out of the question!
-
+“我决不会干涉别人的事！那是不可能的！”！
 ...
+什么另外两个想在中立地见我吗？在方尖碑？这应该是我的主意，我先想出来的。！"
 
-What? The other two want to meet me on neutral ground? At the obelisk? Sounds like an idea I might have had myself!"
+带这猪头市长去方尖碑
 
-Take the mayor to the obelisk!
 [blockend:08]
 
 [blockstart:09] 
-CITY UNITED!
+市长合谈！
 
 <usericon:2,9>
+当三个区的市长们聚在一起时，没过多久他们就和解了。这是因为他们每个人都认为其他人已经迈出了第一步。
 
-When the mayors of the three districts got together, it didn't take long until they were reconciled. This was because each of them thought that the others had taken the first step. 
-In a joyful ceremony, they jointly put the artefacts that were in each of their areas back on their pedestals at the obelisk.
+在一个欢乐的仪式上，他们共同将各自区域的文物放回方尖碑的基座上。
 
-The three mayors stayed there and personally guarded the place!
+三位市长留在那里，亲自守卫着这个地方！
+
 [blockend:09]
 
 [blockstart:10] 
-SWAMP TRIBE
+沼泽部落
 
-"We have the artefact of the Artemis Temple in Ephesus. We once supported you during the rising of the swamps in Ephesus. However, this prevented us from cultivating our herbs. 
+“我们有以弗所阿耳忒弥斯神庙的文物。我们曾在以弗所的沼泽地事件帮助过你们。然而，现在我们没地方种草药了。”。
 
-Now we want you to do us a favour to make up for it," the wise men of the swamp said.
+现在我们希望你帮我们一个忙来，弥补它，”沼泽地的智者说。
 
 <usericon:1,241,475>
 
-Give the swamp tribe 25 herbs as a tribute!
+给沼泽部落25个草药作为贡品！
 
-What joy!
+太省事了！
 
 <usericon:2,3>
 
-Among the wise men of the swamp was Hatchie! It was so good to see him again! In the meantime, the wise men had learned a lot about his culture, so that Hatchie could join us again right on time. Now we were happy to give the wise men of the swamp the small tribute!
+沼泽里的智者中有哈迪！很高兴再次见到他！与此同时，智者们对他的文化了解了很多，所以哈奇可以及时再次加入我们。
+
+现在，我们很高兴向沼泽地的智者们献上小小的贡品！
 [blockend:10]
 
 [blockstart:11] 
-SWAMP TRIBE
+沼泽智者
 
-"So many precious herbs! Your herb gardener knows his job! We will now put the artefact back in its place and guard it!"
+"这么多珍贵的草药！你的人干的真棒，还有什么是你们干不出来 ？！我们现在将把文物放回原位并保护它!"
 
 <usericon:1,241,475>
 
-Only a short time later, several of the women disappeared in a cloud of smoke. We would surely see them again at the obelisk ...
+过了不久，沼泽智者就消失在一片烟雾中。我们肯定会在方尖碑再次见到他们。。。
 [blockend:11]
 
 [blockstart:12] 
-ISLAND PEOPLE
 
-"We have the artefact of the Pyramids of Giza, because they actually belong to our people," the Saracens said. 
-"What? You need the artefact to activate the obelisk? We didn't know that! How could we simply take it? 
-We will bring it back to its rightful place."
+岛国人民
+
+萨拉森人说：“我们有吉萨金字塔的文物，因为它们就是属于我们的人民，那是我们国家的象征。”。
+
+“什么？你需要这个来激活方尖碑？额，我们不知道！不然也不会轻易的拿走了。”
+
+我们将把它带回它应有的位置。"
 
 <usericon:1,107,50>
 
-Our brothers and sisters in the south-east, however, took the artefact of the Zeus Statue. They do not welcome strangers and do not speak your language. 
-You have to take at least one of us with you if you want them to give you the artefact."
+我们在东南部的兄弟姐妹拿走了宙斯雕像。他们不欢迎陌生人，也不会说你的语言。
+
+如果你想让他们把文物给你，你必须至少带上我们中的一个人。"
+
 [blockend:12]
 
 [blockstart:13] 
-ISLAND PEOPLE
+岛国人民
 
 <usericon:1,339,435>
 
-"Brothers! We welcome you," the Saracens of this island said in their own language, which was translated for us. They, too, soon sent their people to take the artefact back to its place.
+“兄弟们！我们欢迎你们，”这个岛上的萨拉森人用他们自己的语言说，虽然我们听不懂，好在有翻译在。他们也很快派人把这件艺术品带回了原来的地方。
+
 [blockend:13]
 
 [blockstart:14] 
-ISLAND PEOPLE
+岛国人民
 
 <usericon:1,339,435>
 
-We did not understand what these island people were shouting at us, but apparently they did not welcome us.
+我们不明白这些岛上的人在对我们大喊大叫说什么，但很显然他们不欢迎我们。
 [blockend:14]
 
 [blockstart:15] 
-THE OLD MAN
+老人
 
 <usericon:1,166,220>
 
-"These disbelieving fools! All the artefacts have been stolen! The first one was taken by the Saracens in the east, the second, third and fourth are in the divided city in the west. The fifth one is in the hands of the swamp tribe that lives on an island in the south, the sixth and the seventh have been taken by the island people. 
+“这些难以置信的傻瓜！所有的文物都被偷了！第一件被东部的萨拉森人拿走了，第二件、第三件和第四件在西部被分裂的城市里。第五件在南部一个岛上的沼泽部落手中，第六件和第七件被岛上的人拿走了。”。
 
-Without these artefacts, the obelisk is worth nothing!"
+如果没有这些文物，方尖碑就毫无价值！"
+
 [blockend:15]
 
 [blockstart:16] 
-THE OLD MAN
+老人
 
 <usericon:1,141,362>
 
-"If you are looking for the swamp tribe: You can only reach them by boat. But watch out, there are dangers lurking on the nearby islands!"
+“如果你在寻找沼泽部落：你只能乘船到达他们。但要小心，附近的岛屿上潜伏着危险！”
 [blockend:16]
 
 [blockstart:17] 
-SARACENS ATTACKED!
+攻击萨拉森人
 
 <usericon:1,314,182>
 
-You have attacked the Saracens. They will never forgive you! 
+你主动攻击了萨拉森人，他们不会放过你的。
 [blockend:17]
 
 [blockstart:18] 
-SARACENS DIED!
+萨拉森人被征服了
 
 <usericon:1,314,182>
 
-You have defeated the Saracens. The artefact is now yours, but was it worth it? 
+萨拉森人被征服了，现在文物是你的了。但是这真的合适吗。。。
 [blockend:18]
 
 [blockstart:100]
 <font:$local$\fonts\fonthead16bld.fnt>
-MISSION FAILED!
+任务失败
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
-Heroism or carelessness? When BJARNI died the gods were crying ... without this hero, the outcome of this mission will remain hidden to you!
+是英雄主义还是粗心大意？当布加尼死去时，上天在哭泣……没有这位英雄，这次故事的结局将永远不为人知！
+
 [blockend:100]
 
 [blockstart:200]
 <font:$local$\fonts\fonthead16bld.fnt>
-MISSION FAILED!
+任务失败
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
-A short moment of negligence, that's all it takes to lose your life! Your heroine CYRA died due to your negligence! Without this heroine, the outcome of this mission will remain hidden to you! 
+是英雄主义还是粗心大意？当西拉死去时，上天在哭泣……没有这位英雄，这次故事的结局将永远不为人知！
 [blockend:200]
 
 [blockstart:300]
 <font:$local$\fonts\fonthead16bld.fnt>
-MISSION FAILED!
+任务失败
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
-A short moment of negligence, that's all it takes to lose your life! Your friend and hero HATCHIE died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you! 
+是英雄主义还是粗心大意？当哈迪死去时，上天在哭泣……没有这位英雄，这次故事的结局将永远不为人知！
 [blockend:300]
 
 [blockstart:400]
 <font:$local$\fonts\fonthead16bld.fnt>
-MISSION FAILED!
+任务失败
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
-A short moment of negligence, that's all it takes to lose your life! Your friend and hero SIGURD died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you!
+是英雄主义还是粗心大意？当西加哥德死去时，上天在哭泣……没有这位英雄，这次故事的结局将永远不为人知！
 [blockend:400]
 
 [blockstart:500]
 <font:$local$\fonts\fonthead16bld.fnt>
-MISSION FAILED!
+任务失败
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
-A short moment of negligence, that's all it takes to lose your life! Your friend and hero NORBERT, the dragon, died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you!
+是英雄主义还是粗心大意？当诺伯特死去时，上天在哭泣……没有这位英雄，这次故事的结局将永远不为人知！
 [blockend:500]
 
 [blockstart:600]
 <font:$local$\fonts\fonthead16bld.fnt>
-MISSION FAILED!
+任务失败
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
-A short moment of negligence, that's all it takes to lose your life! MANI, son of Bjarni and Cyra, died due to your negligence! Without him, the outcome of this mission will remain hidden to you!
+是英雄主义还是粗心大意？当曼尼死去时，上天在哭泣……没有这位英雄，这次故事的结局将永远不为人知！
 [blockend:600]
