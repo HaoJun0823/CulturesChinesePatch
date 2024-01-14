@@ -1,143 +1,138 @@
 [blockstart:lost]
 
-MISSION FAILED!
+任务失败
 
 [blockend:lost]
 
 [blockstart:won]
 
-MISSION COMPLETED!
+任务完成!
 
 [blockend:won]
 
 [blockstart:header]
 
-THE RELIEF ACTION / THE THUNDER MOUNTAIN
+救援行动/雷神山
 
 [blockend:header]
 
 [blockstart:begin_00]
-One nice day in spring our tribe decided to send a group of scouts deeper into the country in order to search new deposits of raw materials.
+一个美好的春日，我们部落决定派遣一支侦察队深入内陆，寻找新的原材料矿床。
 
-When we arrived at the bottom of a volcano, we couldn't believe our eyes! The volcano had spewed out valuable resources everywhere and transported them to the valley. Gold, iron, and rubble were there close to each other - all we had to do was take them and stock them! 
+当我们来到一个火山的底部时，我们简直无法相信自己的眼睛！火山喷发出宝贵的资源，无处不在，并将它们运送到山谷。金子、铁矿和碎石就近在咫尺 - 我们只需要采集和储存它们！
 
-Unfortunately we forgot about the force which could be conceived by such a "mountain of thunder" ...
+不幸的是，我们忘记了这样一座"雷山"所能产生的力量...
 
-At first we wanted to build a small settlement with houses for our women and a sufficient food chain. Besides, our miners and extractors had to gain more experience ...
+起初，我们想要建立一个小型定居点，为我们的妇女建造房屋，并确保足够的食物供应链。此外，我们的矿工和采集者还需要更多的经验...
 [blockend:begin_00]
 
 [blockstart:01]
 
-Our hosts had already been waiting for our people, and therefore a huge celebration was held in our honour.
+我们的主办人已经在等待我们的人民，因此为我们举行了盛大的庆祝活动。
 
-Everybody would be proud of us at home. We had not only found precious raw materials, we had found new friends as well and settled a very advantageous trade agreement!
+每个人都会为我们在家感到骄傲。我们不仅找到了珍贵的原材料，还找到了新朋友，达成了一项非常有利的贸易协议！
 [blockend:01]
 
 [blockstart:02]
 
-The group of scouts had disappeared from this world. Nobody had ever heard what had happened to their next of kin. 
+这群侦察兵已经从这个世界上消失了。没有人听说过他们的近亲发生了什么事。
 [blockend:02]
 
 [blockstart:03]
 
-We had temporarily secured our food supplies and started mining the raw materials at the bottom of the volcano. 
-
-But our curiosity drove us further away from the village, and therefore we sent out a scout to explore the land ...
+我们暂时确保了食物供应，并开始在火山底部开采原材料。
+但我们的好奇心驱使我们离村庄更远，因此我们派出了一名侦察员来探索这片土地。。。
 [blockend:03]
 
 [blockstart:04]
 
-We wanted to take back valuable raw materials from our excursion to the chieftain in our home village, and finally it was done: we had gained 100 gold and iron! 
+我们想将从我们的探险中带回的宝贵原材料交给我们家乡村庄的首领，最终我们做到了：我们获得了100个金币和铁矿！
 
-Now we wanted to mint 50 coins to demonstrate the importance and usefulness of our enterprise ...
+现在我们想要铸造50枚硬币，以展示我们事业的重要性和实用性...
 [blockend:04]
 
 [blockstart:05]
 
-THE VOLCANO VICTIMS
+当我们的侦察队员在火山底部遇到另一个部落时，他面对着一片毁灭的景象！
 
-When our scout came across another tribe at the bottom of the volcano, he had to face a scene of destruction!
+所谓的地震实际上是一次短暂而剧烈的火山喷发，炽热的岩浆融化了这个村庄...许多房屋只剩下了灰烬，居民们勉强能够逃生。
 
-The alleged earthquake had actually been a short, very violent volcanic eruption, whose burning lava had eaten through this village ... 
-All that remained of many houses was ashes only, and the inhabitants had barely been able to escape with their lives.
+这个部落以一大群牛羊为生，但当喷发开始时，牲畜被吹散逃跑了...
+居民绝望地请求我们帮助他们将牲畜赶回村庄，同时他们想要规划新的定居点并奠定新建筑的基础。
 
-The big herd of cows and sheep this tribe lived off had been drifted apart and ran away when the eruption had started ...
-The inhabitants despairingly asked us to help them drive their cattle back to the village while they wanted to plan a new settlement and lay the foundations for new buildings.
-
-First the lava streams had to cool down a bit ...
+首先，岩浆流必须稍微冷却一下...
 [blockend:05]
 
 [blockstart:06]
 
-After long work it was finally done: The coins for our return were minted! Now we only had to help our neighbours before we could return home ...
+经过长时间的努力，我们终于完成了：我们的金币已经铸造好了！现在我们只需要帮助邻居就可以回家了...
 [blockend:06]
 
 [blockstart:07]
 
-Our scout had found 15 oxen and sheep and thereby assembled the herd of our neighbours. We were thanked warmly and told about the further plans.
+我们的侦察队员已经找到了15头牛和羊，成功组成了邻居们的牲畜群。我们受到了热情的感谢，并被告知了他们的进一步计划。
 
-The village was to be rebuilt exactly the way it had been before the volcanic eruption, but everybody was still strained by the disaster.
+村庄将按照火山喷发之前的原样重新建设，但每个人仍然对这场灾难感到紧张。
 
-We suggested that we could organise the building sites in order to improve our friendship with the tribe - and friends must be helped in bad times. As the lava had meanwhile cooled down a bit, we could start working immediately.
+我们建议可以组织建筑工地，以改善与部落的友谊 - 在困难时刻，朋友应该互相帮助。由于岩浆已经稍微冷却下来，我们可以立即开始工作。
 [blockend:07]
 
 [blockstart:08]
 
-The work had been done, the village had been resurrected in all its glory! Now the party could begin ... 
-We were all invited to celebrate. As we could not all take part, we sent a delegation of ten people to the celebration, which would be held in the headquarters of our new friends.
+工作已经完成，村庄再次繁荣了起来！现在派对可以开始了...
+我们都被邀请参加庆祝活动。由于我们不能全部参加，我们派出了十个人的代表团前往庆祝活动，这将在我们新朋友的总部举行。
 [blockend:08]
 
 [blockstart:09]
 
-VILLAGE-WARMING PARTY
+热闹的村庄派对
 
-Our hosts had already been waiting for our people, and then a great celebration in our honour was held in the evening.
+我们的主人已经等待着我们的人，然后在晚上为了我们的荣誉举行了盛大的庆祝活动。
 
-We had found new friends and settled a new trade agreement. Everybody was happy and content, but our mission was not fully completed yet ...
+我们找到了新朋友并达成了新的贸易协议。每个人都很开心和满足，但我们的任务还没有完全完成...
 
-We still had to gain gold and iron for our people. Our neighbours gratefully offered us these goods and coins for a low price - so we could just trade them!
+我们仍然需要为我们的人民获取黄金和铁矿。我们的邻居感激地以低价向我们提供了这些商品和硬币 - 这样我们就可以进行交易！
 [blockend:09]
 
 [blockstart:10]
 
-VOLCANIC ERUPTION
+火山喷发
 
-What was that? The ground was vibrating and shaking ... That had to be the volcano! It actually erupted ... Fortunately the lava did not flow through our village. Nobody was seriously injured ... 
+那是什么？大地在震动和摇晃...那一定是火山！它真的喷发了...幸运的是熔岩没有流经我们的村庄。没有人受到严重伤害...
 
-Only our houses were heavily damaged - we had to repair them quickly before another earthquake occurred!
+只是我们的房屋遭到了严重的破坏 - 我们必须在下一次地震发生之前尽快修复它们！
 [blockend:10]
 
 [blockstart:11]
 
-After long, hard work, we had finally managed it: The coins for our return were minted! A new trade agreement, new friends, and a small treasure - our tribe would be very proud of us when we returned home!
+经过长时间的艰苦工作，我们终于成功了：我们铸造了新的金币！一个新的贸易协议，新的朋友，还有一小笔财富 - 当我们回到家时，我们的部落会为我们感到非常自豪！
 [blockend:11]
 
 [blockstart:12]
 
-THE VOLCANO VICTIMS
+火山灾民
 
-When our scout came across another tribe at the bottom of the volcano, he had to face a scene of destruction!
+当我们的侦察员在火山底部遇到另一个部落时，他面对的是一幕毁灭的景象！
 
-The alleged earthquake had actually been a short, very violent volcanic eruption, whose burning lava had eaten through this village ... 
+所谓的地震实际上是一次短暂而剧烈的火山喷发，炽热的岩浆融化了这个村庄……
 
-All that remained of many houses was ashes only, and the inhabitants had barely been able to escape with their lives.
+许多房屋只剩下了灰烬，居民们勉强能够逃生。
 
-The big herd of cows and sheep this tribe lived off had been drifted apart and ran away when the eruption had started ...
+这个部落以一大群牛和羊畜牧为生，但当喷发开始时，牲畜都吓跑了……
 [blockend:12]
 
 [blockstart:13]
 
-CALL FOR HELP
+呼救求援
 
-We received a message from our neighbours, who were utterly desperate: They asked us to help them drive their cattle back to the village while they wanted to plan a new village and lay the foundations for new buildings.
+我们收到了邻居们发来的绝望信息：他们请求我们帮助他们把牲畜赶回村庄，同时他们想要规划一个新村庄并为新建筑物奠定基础。
 
-But first we had to wait until the lava streams had cooled down a bit ...
+但首先我们必须等待熔岩流稍微冷却一些...
 [blockend:13]
 
 [blockstart:14]
 
-SHINING COINS
+闪闪发光的硬币
 
-After long work it was finally done: 
-The coins for our return were minted! Now we only wanted to celebrate with our neighbours before returning home ...
+经过漫长的工作，终于完成了：我们回家所需的金币已经铸造出来了！现在我们只想和邻居们一起庆祝，然后返回家园...
 [blockend:14]

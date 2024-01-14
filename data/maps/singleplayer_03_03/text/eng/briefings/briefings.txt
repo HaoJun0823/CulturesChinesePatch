@@ -1,105 +1,93 @@
 [blockstart:won]
 
-MISSION COMPLETED!
+任务完成
 [blockend:won]
 
 [blockstart:lost]
 
-MISSION FAILED!
+任务失败
 [blockend:lost]
 
 [blockstart:header]
 
-THE EXPELLED FOREST PEOPLE
+被驱逐的森林人
 
 [blockend:header]
 
 [blockstart:00]
-On our exploration, we landed at an ocean bay not far from huge mountains. Here we found everything we needed for settling, and we assumed that there were many treasures and resources in the heart of the mountains. 
+在我们的探险中，我们停泊在一片离巨大山脉不远的海湾上。在这里，我们找到了我们定居所需的一切，并且我们认为山脉深处有许多宝藏和资源。
 
-As soon as we had ensured food supplies, we wanted to leave for the mountain in the east ...
+一旦我们确保了食物供应，我们就打算前往东边的山脉......
 [blockend:00]
 
 [blockstart:01]
 
-THE LAST PACK
+最后的狼被消灭了！
 
-The last wolf pack was destroyed!!!
+威胁已经被消除，我们得到了感谢。与此同时，森林人的长老会决定，在山谷的宁静之地可以更好地提供保护，以防再次遭遇意外。他们想要留在那里，重新开始。
 
-The threat had been eliminated, and we were thanked for our help.
-In the meantime, the forest people's council of elders had decided that the quiet valley of the mountains would provide more protection against further surprises. They wanted to stay there and make a new start.
+森林的土地和其中的所有资源都被赠予了我们。我们期待着与邻居建立良好的关系，并进行繁忙的贸易！现在，我们想要开始在新土地上定居。
 
-The land of the forest with all its resources was given us as a present. We were looking forward to a good neighbourhood and lively trade!
-Now we wanted to start settling our new land.
-
-
-You can now try to build a functioning valley in the forest and trade in the necessary goods, if you want to ...
+如果你愿意，你现在可以尝试在森林中建立一个运作正常的山谷，并进行必要商品的贸易...
 [blockend:01]
 
 [blockstart:02]
 
-Your people died! 
-They were doomed without your leadership ...
+你的人死了，没有你的领导。他们都想走向灭亡。
 [blockend:02]
 
 [blockstart:03]
 
-THE MOUNTAIN VILLAGE
+突然间，我们发现了一个位于田园般山谷中的小村庄。我们想在那里过夜并获得食物供应。
 
-All of a sudden we spotted a small village in an idyllic valley. We wanted to spend the night there and obtain food supplies.
+虽然我们受到友好的欢迎，但这里似乎发生了一些奇怪的事情。人们看起来心烦意乱，而这个村庄显然是最近才建成的。
 
-Although we were welcomed in a friendly way, something strange seemed to be happening here. People looked distraught, and the village had apparently been built only recently.
+村长向我们解释了情况：
+"不久前，我们曾经住在森林里，是猎人。然后突然间，巨大的狼群从各个方向出现，我们的猎人无法再控制它们，因为它们数量太多了。
+当我们称之为狼群首领的生物出现时，我们不得不逃离并离开我们的家园。现在我们来到了这里，我们正在讨论我们的未来...
 
-The chieftain explained the situation to us:
-"Not long ago we used to live in the forest and we were hunters. Then suddenly huge wolf packs appeared from everywhere, and our hunters could not get them under control any more as they were too many. 
-When these creatures we call the pack leaders turned up, we had to flee and leave our home village. Now we have ended up here, and we are discussing our future ...
+你能帮助我们消除威胁吗？"
 
-Could you help us and eliminate the threat?" 
 [blockend:03]
 
 [blockstart:04]
 
-We wanted to help those poor people and made a plan. We could overpower the creatures if we had a sufficient number of soldiers, who would have to be very well equipped.
+我们想要帮助这些可怜的人并制定了一个计划。如果我们有足够数量的士兵，并且装备非常精良，我们可以打败这些生物。
 
-We could also try to separate the wolves from their leaders by luring them away with food ... There was a suitable place on the other side of the bay - and taking the sea route, we could avoid any menace! 
+我们还可以尝试用食物诱导狼群远离它们的领袖...在海湾的另一侧有一个合适的地方 - 通过海上路线，我们可以避免任何威胁！
 
-Maybe the wolf leaders would try to escape without their "army" of wolves ... 
+也许狼群的领袖会试图在没有它们的"军队"的情况下逃跑...
+ 
 [blockend:04]
 
 [blockstart:05]
 
-We had tracked down one of seven wolf packs together with its leaders. The loudly howling pack had been driven away ...
+我们一起追踪并找到了其中一支有七个狼群的领导者。那支狼群发出着大声的嚎叫声，被驱赶了出去...
 [blockend:05]
 
 [blockstart:06]
 
-ENOUGH FOOD
+足够多的食物
 
-There was enough food in our "feeding ground" to tempt any wolf with the smell ...
+我们的“投喂点”里有足够的食物来吸引哪些狼了。。。
 
-
-We had to get away quickly before the wolves smelt the food - and us!
+我们必须在狼闻到食物的味道之前迅速离开——还有我们！
 [blockend:06]
 
 [blockstart:07]
 
-On the way into the mountains, we found a small trade post, where we were even offered coins, as well as gold and iron ...
+在进山的路上，我们发现了一个小贸易站，在那里我们甚至得到了金币、黄金和铁。。。
 
-It was the outpost of a mountain tribe, which we wanted to visit immediately ...
+这是一个山区部落的前哨基地，我们想立即去拜访。。.
 [blockend:07]
 
 [blockstart:08]
+最后的狼群首领已经撤退了！
 
-RETREAT
+威胁被消除了，我们因为我们的帮助而受到了感谢。森林人的长老会决定，山谷的宁静将为他们提供更好的保护，以防止进一步的意外。他们想要留在那里并重新开始。
 
-The last wolf leaders had withdrawn!
+森林的土地和它的资源都被赠予了我们。我们期待着良好的邻里关系和活跃的贸易！现在我们想要开始在新土地上安居下来。
 
-The threat was eliminated, and we were thanked for our help.
-The forest people's council of elders decided that the quiet valley of the mountains would provide more protection against further surprises. They wanted to stay there and make a new start.
-
-The land of the forest with all its resources was given us as a present. We were looking forward to a good neighbourhood and lively trade!
-Now we wanted to start settling our new land.
-
-You can now try to build a functioning valley in the forest and trade the necessary goods, if you want to ...
+如果你愿意的话，你现在可以尝试在森林中建立一个功能正常的山谷，并进行必要的商品交易...
 [blockend:08]
 

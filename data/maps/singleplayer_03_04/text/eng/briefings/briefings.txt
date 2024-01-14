@@ -1,57 +1,55 @@
 [blockstart:won]
 
-MISSION COMPLETED!
+任务完成！
 [blockend:won]
 
 [blockstart:lost]
 
-MISSION FAILED!
+任务失败！
 [blockend:lost]
 
 [blockstart:header]
 
-BLEAK AWAKENING
+危机临近
 
 [blockend:header]
 
 [blockstart:00] 
 <usericon:1,196,613>
 
-It had been a long dreamless sleep ... 
-The ship lay wrecked at the cliffs ... 
-The weakened men sank towards the sandy ground ...
-Darkness ...
-Night ...
+漫长的无梦沉睡已过去...
+船只搁浅在峭壁上...
+虚弱的人们沉入沙地之中...
+黑暗...
+夜晚...
 
-The warriors awakened much later. They felt hungry - and very confused. All their memories had been erased! Terrible things nobody wanted to remember must have happened! 
-There they were, stranded on this dreary isle without any knowledge of who they were or where they came from. 
+战士们在很久之后苏醒过来。他们感到饥饿，也感到非常困惑。他们所有的记忆都被抹去了！一定发生了可怕的事情，没有人愿意回忆起来！他们被困在这个荒凉的小岛上，不知道自己是谁，也不知道来自何方。
 
-They prepared to survive. Whatever their fate may be - at least the area had plenty of fish. And some mead had been washed ashore as well.
+他们准备生存下去。无论命运如何，至少这个地方有丰富的鱼类资源。还有一些蜂蜜酒也被冲上岸了。
 
-
-Hope always dies last, so they would wait. Wait for their fate ...
+希望总是最后破灭的，所以他们会等待。等待他们的命运...
 [blockend:00]
 
 [blockstart:01]
 
-RESCUE
+救援
 
-"Thank Odin, I have found my men!" 
+"感谢奥丁！我找到了我的人民" 
 
 <usericon:0,71>
 
-Happily I jumped off the ship and ran towards my men. But at first they did not seem to remember. Could it be that their memories were gone? 
+我高兴地跳下船，朝我的人跑去。但一开始他们似乎不记得了。可能是他们的记忆消失了吗？
 
-Well, I told them what had happened:
-
-"Yesterday, at the time of the first ray of sunshine, we were attacked by pirates! Even before we realised what was happening, they had kidnapped all the women!
+好吧，我告诉他们发生了什么：
+“昨天，在第一缕阳光的时候，我们遭到了海盗的袭击！甚至在我们意识到发生了什么之前，他们就绑架了所有的女人！”！
 
 <usericon:1,416,506>
 
 <usericon:1,482,203>
 
-The bandits tried to kill all the men ... We suffered a devastating defeat! You are the only survivors!
-Remember! It's me, Bjarni, your chieftain!" 
+土匪试图杀死所有的人。。。我们惨烈抵抗，死了很多人！现在我们是唯一的幸存者！
+
+回想起是我，我是布加尼，领袖！"
 
 ...
 [blockend:01]
@@ -60,219 +58,197 @@ Remember! It's me, Bjarni, your chieftain!"
 
 ...
 
-"The gang covered us while they were taking our women. At first we held our own, but when more pirates appeared with dragons, we were put to flight ... 
+"当他们带走我们的女人时，那帮人掩护了我们。起初，我们坚守阵地，但当更多的海盗带着龙出现时，我们被赶走了。。。
 
-They followed us, and many brave men lost their lives.
-
-
-The dragons attacked our men ...
+他们跟着我们，许多勇敢的人失去了生命。
+龙袭击了我们的人。。。
 
 <usericon:2,416>
 
 <usericon:2,411>
 
-... but it seemed to me that they only obeyed the pirates reluctantly. They seemed to be prisoners themselves!
-
-However, we have to help ourselves first, and I already have a plan!
-
-There used to be a camp of mercenaries to the south, where they trained their skills. If they are still there and we manage to hire them, we can perhaps recapture our land! And afterwards we'll take care of the women!"
+……但在我看来，他们只是不情愿地服从了海盗。他们也是受害盗的胁迫，是被奴役的！！
+然而，我们必须先帮助自己，我已经有了一个计划！
+南部曾经有一个雇佣军营地，他们在那里训练自己的技能。如果他们还在那里，我们设法雇佣他们，我们也许可以夺回我们的土地！之后我们会照顾这些女人！"
 [blockend:02]
 
 [blockstart:03]
 
-MERCENARY CAMP 1
-
-"Welcome to our training camp! We can offer you our services - if you can afford them ..."
+雇佣军营地1
+“欢迎来到我们的训练营！如果你能负担得起，我们可以为你提供我们的服务……”
 
 <usericon:1,61,713>
 
-I had been right - the mercenaries would help us for payment. But their price was not low. Therefore we had to build a small camp and produce the requested goods ... 
+我说得对——雇佣兵会帮我们,前提是我付钱。但它们的价格并不低。因此，我们不得不建造一个小营地，生产所需的货物。。。
 
-We had to hurry - the more time we lost, the more the pirates would vandalise our village ...
+我们必须抓紧时间——我们损失的时间越多，海盗就越会破坏我们的村庄。。。
 [blockend:03]
 
 [blockstart:04]
 
-MERCENARY CAMP 2
+雇佣军营地2
 
-"Be welcome! We train our skills here! We can offer you our services - if you can afford them ..."
+“欢迎！我们在这里磨炼我们的技能！如果您给的起钱，我们可以为您提供服务…”
 
 <usericon:1,34,579>
 
-The mercenaries would help us for payment but their price was not low. 
-In spite of our desperate hurry, we had to produce the requested goods first ... 
+雇佣兵会帮助我们，前提是我们给的起钱，但他们的价格并不低。
+尽管我们急得不可开交，我们还是得先生产所需的货物。。。
 [blockend:04]
 
 [blockstart:05]
 
-INTO THE FRAY!
+加入战斗！
 
-We had hired all mercenaries. From now on, they would be under my command. With these soldiers, we should manage to repel the pirates from our home island!
+我们雇佣了所有的雇佣兵。从现在起，他们将由我指挥。有了这些士兵，我们应该设法击退来自我们家乡岛屿的海盗！
 
 <usericon:0,71>
 
-We wanted to spare the dragons for now, though. If I was right and they were only prisoners, they would perhaps help us if we freed them ...
+不过，我们想暂时放过龙。如果我猜想是对的，他们只是被奴役，如果我们释放他们，他们也许会帮助我们。。。
 [blockend:05]
 
 [blockstart:06]
 
 SHIPS?!
 
-Now we did have mercenaries available, but what we still needed was a sufficient number of ships!
+现在我们确实有不少雇佣军可指挥，但我们仍然需要足够数量的船只！
 
-We could buy them at the mercenary camps as well, which would save us the long production ...
+我们也可以在雇佣军营地购买，这将让我们节省不少时间。。。
 [blockend:06]
 
 [blockstart:07]
 
-LIBERATION
+解放
 
-We had spared the dragons as they apparently did not want to do us any harm either. They were so thankful for their liberation that they even joined our group! And - the next surprise - the dragons were able to talk! Unbelievable!
+我们放过了龙，因为它们显然也不想伤害我们。他们感谢我们解放了它们，甚至加入了我们的团队！接下来的惊喜是，龙居然能说话了！难以置信的
 
-Therefore they could tell us everything they knew about our women's fate:
+因此，他们可以告诉我们他们所知道的关于我们女性命运的一切：
 
-"When we were on our way here, we could see them in a camp. They were as well as one might expect under the circumstances. They were well guarded though ... We heard about three camps - but we could not learn the location of the other ones.
+“当我们在来这里的路上，我们可以在一个营地里看到他们。这跟我们一开始想的一样，女人被带走了。尽管他们基地防守很好……我们听说有三个营地，但我们无法了解其他营地的位置。”。
 
-Our home country is suppressed as well!
+我们的故乡也被洗劫了！
 
 <usericon:1,195,72>
 
-Please help our people to escape slavery. We lived far up in the north before they built three camps and locked up many of us there. The rest of us were deported to their pirate realm,
+请帮助我们的人民逃离奴役。他们在建造了三个营地并将我们中的许多人锁在那里之前，我们居住在北方较远的地方。我们其余的人被驱逐到了他们的海盗领域，就像你们的女人一样...
+
 
 <usericon:1,445,333>
-
-just like your women ...
-
-If you help us to free the camps, our people will join your fight!"
-
-
-HINT:
-You have to defeat all guards or get into the respective camp to free the women or the dragons.
+提示：
+您必须打败所有的警卫或进入相应的营地以释放妇女或龙。
 [blockend:07]
 
 [blockstart:08]
 
-VICTORY!
-
-The pirates were defeated, the land was our own again. But all that was left was ruin and ash ...
+胜利！
+海盗被打败了，这块土地又归我们所有了。但只剩下废墟和灰烬。。。
 
 <usericon:1,226,541>
 
-... and without women, we were left with nothing, our tribe was doomed to extinction ...
-
-
-Then I remembered that long ago an expedition had left northwards in order to explore the area. Women had been part of the expedition as well! 
-
-
-Now we wanted to search this group - they were our last hope.
+…没有女人，我们一无所有，我们的部落注定要灭绝。。。
+然后我想起很久以前，一支探险队为了探索这个地区向北出发了。女人们也参加了探险！
+现在我们想搜索这个群体——他们是我们最后的希望。
 [blockend:08]
 
 [blockstart:09]
 
-THE EXPEDITION / A NEW BEGINNING
+探险 / 新的开始
 
-When we arrived, signposts led us inland. Soon we came across their owners: the members of our expedition!
+当我们到达时，路标引导我们向内陆前进。很快，我们遇到了他们的拥有者：我们探险队的成员！
 
-There were many stories to be told - about the adventures of these settlers and their new Frankish trade partners.
-But we also talked about our hard lot.
+他们有很多故事要讲——关于这些定居者和他们的新弗兰克贸易伙伴的冒险。但我们也谈到了我们的艰难处境。
 
-We were joyfully offered to stay - this place was our new home!
+我们欣喜地被邀请留下——这里是我们的新家！
 
-Now we had to free the dragons and rescue our women! We required a small fleet with well equipped soldiers and sufficient supplies. 
+现在，我们必须解救龙并拯救我们的妇女！我们需要一支小舰队，配备精良的士兵和足够的补给。
 
-
-This would be a tough mission, but now we had the possibility to make all necessary preparations.
+这将是一次艰苦的任务，但现在我们有了做好所有必要准备的可能性。
 [blockend:09]
 
 [blockstart:10]
 
-We succeeded and recaptured our land - but it was not worth much without women. 
+我们成功了，重新夺回了我们的土地——但如果没有妇女，这并不值得太多。
 
-
-Hopefully we would be welcomed more warmly in the expedition camp now ...
+希望我们在探险队营地受到更热情的欢迎.....
 [blockend:10]
 
 [blockstart:11]
 
-HINTS
+提示
 
-We came across a Frankish settlement, whose inhabitants were friendly to us.
+我们遇到了一个弗兰克人的定居点，里面的居民对我们很友好。
 
-When we asked them for the reason of their friendliness, they told us about other Vikings they traded with from time to time. The trade was advantageous for both parties; therefore the people here were content. 
+当我们问他们为什么那么友善时，他们告诉我们他们经常与其他维京人进行贸易。贸易对双方都有利，因此这里的人们很满意。
 
-When we told our story, they wanted to help us. 
-We were told that all we had to do in order to find our people was to follow the signposts eastwards ...
-
-
-We thanked the Franks and left immediately ...
+当我们讲述我们的故事时，他们想要帮助我们。
+我们被告知，只要向东沿着路标走，就可以找到我们的人...
 [blockend:11]
 
 [blockstart:12]
 
-TRADE PARTNERS
+贸易伙伴
 
-We found the Frankish village and were welcomed in a friendly way.
+我们发现了一个友好的弗兰克村庄，并受到友好的欢迎。
 
-The trade offers of our brothers held for us as well. We accepted them gratefully.
+我们的兄弟的贸易提议对我们也适用。我们非常感激地接受了它们。
 [blockend:12]
 
 [blockstart:13]
 
-THE EXPEDITION / A NEW BEGINNING
+探险 / 新的开始
 
-Finally we found our expedition!
+最终，我们找到了我们的探险队！
 
-There were many stories about the adventures of these settlers to be told. But we also talked about our hard lot.
-We were joyfully offered to stay - this place was our new home!
+有许多关于这些定居者冒险的故事要讲。但我们也谈到了我们的艰难处境。
 
-Now we had to free the dragons and rescue our women! We required a small fleet with well equipped soldiers and sufficient supplies. 
+我们欣喜地被邀请留下——这里是我们的新家！
 
+现在，我们必须解救龙并拯救我们的妇女！我们需要一支小舰队，配备精良的士兵和足够的补给。
 
-This would be a tough mission, but now we had the possibility to make all necessary preparations.
+这将是一次艰苦的任务，但现在我们有了做好所有必要准备的可能性。
 [blockend:13]
 
 [blockstart:14]
 
-We had not recaptured our land yet when we spotted another Viking tribe in the distance.
+当我们回到我们的兄弟那里时，他们为我们的胜利感到高兴。因为我们已经证明了自己的荣誉，所以我们将得到帮助。
 
-When we reached the village, I recognised them at once: It was the small expedition which had left our island long ago in order to explore the north. Here was the place where our people had set up their camp ...
+我们被录取了，可以为战斗做好准备。
 
-They recognised us as well, but they did not want to help us. If we were not willing to recapture the lands of our ancestors, we were not welcome either.
+任务是解救龙并拯救我们的妇女！我们需要一支小舰队，配备精良的士兵和足够的补给。
 
-
-We were allowed to stay for a while, but we had to face the truth: Only once we had expelled the pirates from our land would we receive help here ...
+这将是一次艰苦的任务，但现在我们有了做好所有必要准备的可能性。
 [blockend:14]
 
 [blockstart:15]
 
-When we arrived back at our brothers', they were delighted with our victory. As we had proved our honour now, we would be helped. 
+当我们回到兄弟们的地方时，他们为我们的胜利感到高兴。我们证明了我们的荣誉，现在他们会帮助我们。
 
-We were admitted and could prepare for our fight.
+我们被接纳了，可以准备战斗。
 
-The task was to free the dragons and rescue our women! We required a small fleet with well equipped soldiers and sufficient supplies. 
+任务是解救龙和拯救我们的妇女！我们需要一支小型舰队，配备精良的士兵和足够的补给品。
 
-This would be a tough mission, but now we had the possibility to make all necessary preparations.
+这将是一次艰巨的任务，但现在我们有可能进行所有必要的准备。
 [blockend:15]
 
 [blockstart:16]
 
-We came across a Frankish settlement, whose inhabitants were friendly to us. In better times, they would trade with us as well ...
+我们遇到了一个与我们友好的法兰克人定居点。在合适的时候，他们也会与我们进行贸易......
 [blockend:16]
 
 [blockstart:17]
 
-SECRET PASSAGE
+秘密通道
 
-We had discovered a secret passage with our ship! The pirates must have come this way ...
+我们发现了一条秘密通道！海盗肯定来过这里...
 [blockend:17]
 
 [blockstart:18]
 
-SECRET PASSAGE
+秘密通道
 
-We had discovered a secret passage with our ship! This route would enable us to get to our side fast and fetch supplies.
+我们发现了一条秘密通道！这条路线将使我们能够快速到达我们的一方，并取得补给。
 
-But if the pirates knew of this passage as well, we would all be in immense danger ...
+但如果海盗也知道这个通道，我们都将面临巨大的危险......
 [blockend:18]
 
 [blockstart:19]
@@ -290,236 +266,234 @@ And so we listened to them ...
 
 [blockstart:20]
 
-THE EXPEDITION
+我们部落的第一批妇女已经被解救出来了！
 
-When we arrived, signposts led us inland. Soon we came across their owners: the members of our expedition!
+但当我们想要开始搜寻其他人时，他们阻止了我们！他们说这个地区的海盗太多，我们的人手不够......
+我们被告知先重建我们的村庄，训练更多的士兵，然后再冒险进行这场战斗！
 
-There were many stories to be told - about the adventures of these settlers and their new Frankish trade partners. But we also talked about our hard lot.
-
-
-Optimistically we were offered to stay ...
+于是我们听从了他们的建议......
 [blockend:20]
 
 [blockstart:21]
 
-We had sailed to the centre of the pirates' realm. The first big part of the voyage was over!
+我们已经驶向海盗领地的中心。航行的第一大部分已经结束了！
 
 <usericon:1,361,415>
 
-Our scouts spotted a bay which might conceal a passage to the other side of the mountains. We wanted to explore this bay ...
+当我们到达时，路标引导我们进入内陆。很快我们遇到了远征队的成员！
 [blockend:21]
 
 [blockstart:22]
 
-LIBERATION
+解放
 
-One of the three women's camps was liberated!
+三个妇女营地中的一个被解放了！
 
-Sobbing with happiness, the women fell round our necks. Then they told us that the last women had been sent directly to the pirate camp in the centre of the pirates' realm.
+妇女们高兴地哭泣着拥抱我们。然后她们告诉我们，最后的妇女被直接送往海盗领地中心的海盗营地。
 
 <usericon:1,432,774>
 
-It would be difficult to free them there ...
+在那里解救她们将会很困难......
 [blockend:22]
 
 [blockstart:23]
 
-LIBERATION
+解放
 
-One of the three women's camps was liberated!
+三个妇女营地中的一个被解放了！
 
-The best guarded camp was situated far to the south, directly within the pirate city!
+最重要的营地位于海盗城的南方！
 
 <usericon:1,432,764>
 [blockend:23]
 
 [blockstart:24]
 
-A DUBIOUS OFFER
+可疑的信息
 
-We had liberated the two outer women's camps - now we had to go for the last one. Encouraged by our success, we left for this last camp ...
+我们解救了两个外部妇女营地——现在我们必须去最后一个。在取得成功的鼓舞下，我们前往最后一个营地......
 
-Suddenly a message of the pirates reached us:
+突然海盗传来了一条消息：
 
 <usericon:1,450,764>
 
-"We acknowledge your strength - and if you want to avoid the further shedding of blood, you can pay a ransom for your women!
+我们承认你们的力量——如果你们想避免更多的血腥屠杀，你们可以为你们的妇女支付赎金！
 
-We demand 100 gold coins - then we'll set them free and you can come to us to get them peacefully.
+我们要求100枚金币——然后我们会释放她们，你们可以和平地来接她们。
 
-The choice is yours - if you fight, we will defeat you!"
+选择在你们——如果你们战斗，我们将击败你们！”
 
+这个提议出乎意料。似乎海盗感到害怕了！我必须决定如何继续......
 
-This offer came as a surprise. It seemed as if the pirates were frightened! I had to decide how to proceed ...
 [blockend:24]
 
 [blockstart:25]
 
-VICTORY!
+胜利
 
-We had refused the ridiculous offer of the pirates - we would not have them blackmail us!
+我们拒绝了海盗荒谬的提议——我们不会让他们勒索我们！
 
-So our victory meant the utter defeat of the pirates ... The triumph was ours, and now we could return to our village as heroes. 
+因此，我们的胜利意味着海盗的彻底失败……胜利属于我们，现在我们可以作为英雄回到村庄。
 
-We would still hear of this day in songs and sagas for many years to come!
+这一天我们将会听到很多关于这段旅途的歌曲和传说！
 [blockend:25]
 
 [blockstart:26]
 
-After a fierce battle we finally freed our women from this camp! 
+经过一场激烈的战斗，我们终于从这个营地解救出了我们的妇女！
 
-
-But there were others who had to be rescued as well ...
+但还有其他人需要被解救......
 [blockend:26]
 
 [blockstart:27]
 
-VICTORY!
+胜利！
 
-We had paid - and the gates to the women's camp were indeed opened and they were set free!
+我们付了赎金——妇女营地的大门确实打开了，她们被释放了！
 
-The pirates would not attack us as long as we did not provoke them ... So we could take our women home!
+只要我们不惹事，海盗就不会攻击我们......所以我们可以带着妇女回家！
 
 <usericon:1,432,776>
 
-The long way and the fierce battle had been worthwhile - the pirates really had made their offer because they were afraid of our anger! 
+这次漫长的旅程和激烈的战斗是值得的——海盗之所以提出交换，是因为他们害怕我们的愤怒！
 
-And we had paid because we did not want to fight any more!
+我们为我们的聪明而自豪！
 
-We were proud of our cleverness!
 [blockend:27]
 
 [blockstart:28]
 
-VICTORY!
+胜利！
 
-All the women were free - we had gained a glorious victory! Now we could return to our village as heroes - we would still hear about this day in songs and sagas for many years to come!
+所有的妇女都自由了——我们取得了辉煌的胜利！现在我们可以作为英雄回到村庄——这些天的经历，会流传出许多的歌曲和传说！
 [blockend:28]
 
 [blockstart:29]
 
-THE FIRST CAMP
+第一个营地
 
-One of the three dragon camps in this land was liberated!
+这片土地上的三个龙营地中的一个被解救了！
 
-The dragons thanked us for our help and joined our fight.
+龙们感谢我们的帮助，并加入了我们的战斗。
 
-"We will always be grateful to you and therefore support you! Let us free our other brothers and sisters!"
+“我们将永远感激你们，并因此支持你们！让我们释放其他的兄弟姐妹吧！”
 [blockend:29]
 
 [blockstart:30]
 
-THE SECOND CAMP
+第二个营地
 
-The second of the three dragon camps was liberated!
+这片土地上的第二个龙营地被解救了！
 
-The dragons thanked us again and joined us! Another dragon camp in this land had to be liberated yet, and therefore we left together.
+龙再次感谢我们，并加入我们！这片土地上还有一个龙营地需要解救，因此我们一起离开了。
 [blockend:30]
 
 [blockstart:31]
 
-THE THIRD CAMP
+第三个营地
 
-The third of the three dragon camps was liberated!
-Once more, the dragons joined us thankfully - they would prove very helpful in the rescue of our women ...
+这片土地上的第三个龙营地被解救了！
 
-One of the dragons approached us:
+龙们再次感激地加入了我们——在解救我们的妇女行动中，他们将非常有帮助......
 
-"There is one more camp with dragons left! It's located somewhere deep in the pirates' realm ...
-We can only get there through the north-eastern passage. But first we have to use the two switches which unlock the mechanism of the ancient sea blockade!
+其中一条龙接近我们：
+
+“还有一个龙营地！它位于海盗的领地深处......
+我们只能通过东北通道到达那里。但首先，我们必须使用两个开启古老海上封锁机制的开关！
+
+它们就在大门后面，但守卫森严。
+我们必须通过封锁坝前往开关......”
 
 <usericon:1,438,77>
 
-They are right behind the gate, but they are well guarded.
-We have to make our way to the switches through the blockade dams ..."
+它们就在大门后面，但守卫森严。
+我们必须通过封锁坝前往开关......”
 [blockend:31]
 
 [blockstart:32]
 
-THE LAST DRAGON CAMP
+最后一个龙营地
 
-The last enslaved dragons were free!
+最后一批被奴役的龙已经自由了！
 
-They would be forever grateful! They would support us until the end of our mission!
+他们将永远感激我们！他们将支持我们直到任务结束！
 
 <usericon:2,71>
 
-... deep down I wished that our women may be freed as well - but there was still a long way to go ...
+......深藏心底，我希望我们的妇女也能获得自由——但前路依然漫长......
+
 [blockend:32]
 
 [blockstart:33]
 
-FREE PASSAGE
+自由通道
 
-With a loud creaking noise, the heavy blockade gate had opened! The way to the pirate realm was open for our ships ...
+沉重的封锁大门发出了刺耳的嘎吱声！我们的船可以打开通往海盗领地的道路......
 
 <usericon:1,438,77>
 [blockend:33]
 
 [blockstart:34]
+维京部落被击败了......你的人民都死了，我们的其他妇女将在余生中作为俘虏度过......
 
-The Viking tribe is defeated ...
-All your people died, and the rest of our women will spend the rest of their lives as captives ...
-
-Perhaps you should start again at an earlier point ...
+也许你应该从一个较早的时刻重新开始......
 [blockend:34]
 
 [blockstart:35]
 
-Bjarni died! This story cannot end happily without his help!
+布加尼死了！没有他的帮助，你的人民将遭受苦难
 [blockend:35]
 
 [blockstart:36]
 
-The camp our dragons came from was freed by us ... But many of them were still suppressed in their home land further north! Many dragons joined us thankfully.
+我们解救了我们的龙来自的营地......但他们中的许多人仍然被压迫在更北方的家园！许多龙感激地加入了我们。
 [blockend:36]
 
 [blockstart:37]
 
-ENTRANCE TO THE PIRATE REALM
+进入海盗领地
 
-This was the north-eastern passage, which we could use to penetrate the pirates' land. At first we had to use the two switches though which would unlock the ancient mechanism of the sea blockade!
+这是通往海盗领地的东北通道。首先，我们必须使用两个开关来解开古老的海上封锁机制！
 
 <usericon:1,438,77>
 
-They were right behind the gate, but they were well guarded.
+他们就在大门后面，但守卫森严。
 
-
-We had to make our way to the switches through the blockade dams ..."
+我们必须通过封锁坝前往开关......
 [blockend:37]
 
 [blockstart:38]
 
-THE THIRD CAMP
+第三个龙营地
 
-The third of the three dragon camps was liberated!
+第三个龙营地已经被解救了！
 
-Once more, the dragons joined us thankfully - they would prove very helpful in the rescue of our women ...
+龙再次感激地加入了我们的队伍——在拯救妇女的行动中，他们将非常有帮助......
 
-One of the many dragons approached us:
+其中一条龙接近我们：
 
-"There is one more camp with dragons left! It's located somewhere deep in the pirates' realm ...
+“还有一个龙营地！它位于海盗的领地深处......”
 [blockend:38]
 
 [blockstart:39]
 
-HINT: CAPTURING SHIPS
+提示：捕获船只
 
-Our enemies' ships could serve us well in the future! If we defeated our opponents on the particular island, we could board the ships! 
+我们的敌人的船只对我们未来的计划很有用！如果我们在特定的岛上打败了对手，我们可以登上他们的船只！
 
-We only had to take care not to destroy the ships when doing so.
+我们只需小心不要在这个过程中摧毁船只。
 [blockend:39]
 
 [blockstart:40]
 
-We had arrived on our home island completely unprepared - with so few people, we could hardly survive this fight!
+我们完全没有准备地回到了家岛上——人手太少，我们几乎无法在这场战斗中生存下去！
 
 [blockend:40]
 
 
 [blockstart:41]
 
-With the help of the mercenaries, we should be able to drive the pirates from our home island!
+借助雇佣兵的帮助，我们应该能够将海盗赶出我们的家岛！
 
-We wanted to spare the dragons for now, though. If I was right and they were only prisoners, they would perhaps help us if we freed them ...
+不过，我们暂时不想让龙们参与战斗。如果我没猜错，它们可能是被奴役的，如果我们释放它们，它们也许会帮助我们......
 [blockend:41]

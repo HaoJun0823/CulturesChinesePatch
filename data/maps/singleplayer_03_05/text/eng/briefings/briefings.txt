@@ -1,149 +1,132 @@
 [blockstart:lost]
 
-MISSION FAILED!
+任务失败！
 [blockend:lost]
 
 [blockstart:header]
 
-INTIHUATANA
+因蒂瓦塔纳
 
 [blockend:header]
 
 [blockstart:00]
-After a long trek full of privation through the desert, the Vikings finally reached this bleak spot. They were obviously hopelessly lost, even though their intended destination had to be nearby - a fertile, green oasis where they could live happily.
+在经历了漫长而艰苦的沙漠跋涉后，维京人终于来到了这个荒凉之地。他们显然已经彻底迷失了方向，他们的目的地应该就在附近——一个肥沃的绿洲，在那里他们可以过上幸福的生活。
 
-At least there were useful treasure chests in this place ... The Vikings decided to recover their strength here before they continued their search for the promised land ...
+至少这个地方还有一些有用的宝箱……维京人决定在这里恢复力量，然后继续寻找那个有应许之地。
 [blockend:00]
 
 [blockstart:01]
 
-THE OASIS
+终于，绿洲出现在维京人面前了。
 
-At last the oasis appeared before the Vikings.
-It was a green and blossoming spot in the middle of this bleak country.
+这是一个绿树成荫、花团锦簇的地方，坐落在这片荒凉之地中央。
 
-They decided to stay here and set up camp. However, they had to be quick about producing something to eat, for food was in short supply - and hunger was a bad friend ...
+他们决定在这里扎营停留。然而，他们必须尽快生产出一些食物，因为食物供应短缺，我相信没人想要饿肚子…
 
-
-NOTE:
-You have a few useful papers among your luggage that should help you along ... 
-Once you have secured the food supply, you can continue playing as you like - there is no victory objective in this mission.
+注意：
+你的行李中有一些有用的文件，可以帮助你继续游戏...
+一旦你确保了食物供应，你可以按照自己的喜好继续玩耍——这个任务中没有胜利目标。
 [blockend:01]
 
 [blockstart:02]
 
-THE DESERT PEOPLE
+“陌生人，你们在我们的国土上做什么？这里是太阳的朝露地——因蒂瓦塔纳！
 
-"What are you doing in our country, strangers? This is Intihuatana, the mooring place of the sun!
+现在就离开，我们不信任陌生人。你们是来洗劫我们的坟墓吗？如果是的话——要小心，我们会阻止你们！”
 
-Leave now, we do not trust strangers. Have you come to raid our tombs? If so - be warned that we will stop you!"
-
-
-NOTE:
-You will surely be able to convince this tribe of your honesty by paying a small tribute - maybe your tribe and this one will even become friends someday!
+注意：
+通过支付一点小小的贡品，你肯定能够说服这个部落相信你的诚实——也许你的部落和这个部落甚至有朝一日能成为朋友！
 [blockend:02]
 
 [blockstart:03]
 
-PEACE
+维京人给了沙漠人一份有价值的礼物，这使他们相信了维京人的诚实！然而，一些沙漠居民仍然对他们表示怀疑，并阻止了友好联盟的达成。
 
-The Vikings had given the desert people a valuable present, and this convinced them of their honesty! However, some of the desert dwellers still doubted them and prevented the conclusion of a friendly alliance. 
+进一步的贡品必将安抚他们——并消除达成贸易协议的最后障碍...
 
-A further tribute was bound to appease them - and eliminate the last obstacles to a trade agreement ...
 [blockend:03]
 
 [blockstart:04]
 
-TRADE OFFER
+提供交易协定
 
-"We are happy to welcome you as our honoured neighbours! From now on, we will trade with you and offer you good prices!"
+“我们很高兴欢迎你们作为我们尊贵的邻居！从现在开始，我们将与你们进行贸易，并提供优惠的价格！”
 [blockend:04]
 
 [blockstart:05]
 
-CALL FOR HELP
+寻求帮助
 
-"Help! The final resting place of our greatest king is under attack by grave robbers!
+"帮助我们最伟大的国王的最后安息之地，他的陵墓正遭到盗墓者的袭击!
 
 <usericon:1,163,446>
 
-We can't defend this place alone ... Is there no one able and willing to drive the robbers from our holy shrine?"
+我们无法独自保卫这个地方。。。你能够而且愿意把强盗赶出我们的圣地吗？"
 [blockend:05]
 
 [blockstart:06]
 
-GRAVE ROBBERS
+盗墓者
 
-"The treasures of this place are now ours! 
+“这个地方的珍宝现在是我们的了！
 
-Be gone, or will we teach you the meaning of fear!"
+走开，否则我们会给你教训！"
 [blockend:06]
 
 [blockstart:07]
+盗墓者被击败了
 
-GRAVE ROBBERS' DEFEAT
-
-The grave robbers had been defeated. The Vikings were celebrated gratefully in Intihuatana ...
+盗墓贼被打败了。维京人在因蒂瓦塔纳受到了热烈的庆祝。。。
 [blockend:07]
 
 [blockstart:08]
 
-MERCHANT
+商人
 
-"Welcome to this place of trade and exchange! We are peaceful neighbours, and you may purchase our treasures!"
+"欢迎来到我们这里，多看看，多敲敲。我们很高兴你能跟我们进行贸易，我们提供不少东西."
 [blockend:08]
 
 [blockstart:09]
 
-MERCHANT DIED
+商人死亡
 
-Why did your Vikings kill the harmless merchant?
+你的维京人为什么要攻击手无寸铁的商人
 
-Well, that puts a stop to all trade opportunities!
+好吧，现在没有人愿意跟你贸易了
 [blockend:09]
 
 [blockstart:10]
 
-DESERT PEOPLE DESTROYED
-
-The Vikings have destroyed the desert tribe, though these people were only wary and could almost certainly have been persuaded ... 
-
-But you have decided on the way of war! It is doubtful whether Odin will be pleased ...
+沙漠人民被击败
+维京人已经征服了了沙漠部落，
+但你已经决定走上战争的道路！奥丁是否会高兴是个疑问。。。
 [blockend:10]
 
 [blockstart:11]
-
-The Vikings have left this world! So then must this mission end!
+维京人已经离开了这个地方！那么这次任务必须结束！
 [blockend:11]
 
 [blockstart:12]
+因蒂瓦塔纳的宝藏
 
-THE TREASURE OF THE INTIHUATANA
-
-The grave robbers have been defeated. Their legacy - the treasure of the Intihuatana - now belongs to the Vikings!
+盗墓贼被打败了。他们的遗产——因蒂瓦塔纳的宝藏——现在属于维京人！
 [blockend:12]
 
 [blockstart:13]
 
-The grave robbers have been defeated. But who may now claim this place of peace?
+盗墓贼被打败了。但是，现在谁能声称拥有这个和平之地呢？
 [blockend:13]
 
 [blockstart:14]
-
-THE DESERT PEOPLE
-
-"We welcome you to our land, strangers. This is Intihuatana, the mooring place of the sun!
-
-Aren't you the ones who warded off the cowardly attack of the grave robbers? 
-
-We thank you for your deeds and will open our trade posts to you! You and your merchants will always be welcomed here!"
+沙漠人民
+“我们欢迎你们来到我们的土地，陌生人。这里是因蒂瓦塔纳，太阳的停泊地！
+你不就是那些躲避盗墓贼怯懦袭击的人吗？
+我们感谢您的行为，并将向您开放我们的贸易港！您和您的客商将永远受到欢迎！"
 [blockend:14]
 
 [blockstart:15]
 
-DESERT PEOPLE DESTROYED
-
-The Vikings have eliminated the desert tribe, even though these people had offered them friendship ... 
-
-But you have decided on the way of war! It is doubtful whether Odin will be pleased ...
+沙漠人民人被毁
+维京人消灭了沙漠部落，尽管这些人是对维京人友好的。。。
+但你已经决定走上战争的道路！奥丁是否会高兴是个疑问。。。
 [blockend:15]

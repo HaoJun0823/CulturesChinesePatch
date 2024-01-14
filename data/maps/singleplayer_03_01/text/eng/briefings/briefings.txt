@@ -1,308 +1,291 @@
 [blockstart:lost]
 
-MISSION FAILED!
+任务失败
 
 [blockend:lost]
 
 [blockstart:won]
 
-MISSION COMPLETED!
+任务完成
 
 [blockend:won]
 
 [blockstart:header]
 
-THE WATER ORACLE
+水神谕
 
 [blockend:header]
 
 [blockstart:begin_00]
-We set up camp in a fertile valley at the verge of the desert. Our baker provided lots of food for us, which enabled us to fulfil one of our wives' wishes: building a school for the little ones ...
+我们在沙漠边缘的一片肥沃的山谷里搭起了营地。我们的面包师傅为我们提供了大量的食物，这使我们能够满足妻子们的一个愿望：为孩子们建一所学校……
 
-Our druid and his family had found a place suited for gaining raw materials for producing the Holy Oil behind the hill to the south-east.
+我们的德鲁伊和他的家人在东南方的山后找到了一个适合获取制作神圣之油原材料的地方。
 
-On one of his excursions, one of the sons of the druid came across rich gold deposits in the mountains, which protected the fertile valley from the torrid heat of the desert.
-Learning about this finding, the druid rejoiced - What fantastic potions he would be able to produce with the gold!
+在他的一次探险中，德鲁伊的儿子发现了山中丰富的金矿，这些金矿保护了肥沃的山谷免受沙漠的炎热侵袭。
+得知这一发现，德鲁伊感到欣喜若狂——他将能够用金矿制作出多么神奇的药水啊！
 
-This plan had first to be agreed with me, Bjarni, the tribe's chieftain though. Therefore we agreed to meet at his place the next day.
+然而，这个计划首先需要得到我——部落首领毕亚尼的同意。因此，我们约定第二天在他的地方会面。
 
+提示：
+你不能让德鲁伊和他的儿子从事其他职业——他们太喜欢自己的工作了！但你可以决定他们生产什么商品……
 
-HINTS:
-You cannot assign the druid and his sons to other professions - they love their work too much! You can decide which goods they are to produce though ...
-
-
-You should only go to the desert with enough mead or nourishing potions: an unprepared wanderer can quickly become a starved wanderer!
-Water and food - these are the essentials of the desert!
+前往沙漠时，你应该准备足够的蜜酒或滋补药水：一个没有准备的流浪者很快就会变成饥饿的流浪者！
+水和食物是沙漠中的基本需求！
 
 [blockend:begin_00]
 
 [blockstart:01]
 
-The desert robbers were defeated and the camels freed! Our mission was fulfilled. The water caravan could be resurrected!
+沙漠强盗被击败，骆驼们得到解救！我们的任务完成了。水运队可以重建了！
 
 [blockend:01]
 
 [blockstart:02]
 
-THRIVING LANDS
+大地上的繁荣
 
-The rain had returned to the land, and it fell as it had never done before! The oasis of the oasis farmers finally flourished and the palm trees began to grow ...
+雨水回归了这片土地，它下得从未有过的多！绿洲农民的绿洲终于茁壮成长，棕榈树开始生长……
 
-Now the builders could gather their camels in peace and sent them on their journey again in order to preserve the green ...
+现在建造者们可以安心地聚集他们的骆驼，再次将它们派往旅途，以保护这片绿色……
 
-We were thanked, and a new friendship among tribes was born ...
+我们受到了感谢，部落之间结下了新的友谊……
 [blockend:02]
 
 [blockstart:03]
 
-When the tribe round Bjarni ceased to exist, all hopes of the oasis farmers to get back their water were lost. Their fate was sealed!
+当布加尼周围的部落消失时，绿洲农民夺回水源的希望也烟消云散。他们的命运已经注定！
 
-Here ends the story of your Vikings!
+这就是你们维京人的故事的结局！
 
 [blockend:03]
 
 [blockstart:04]
 
-Bjarni is dead! Who is to get involved in all the adventures now?
+布加尼死了，现在谁能带领他们继续前行？？
 
 [blockend:04]
 
 [blockstart:05]
 
-The last hope of a new oasis died with the elimination of the oasis farmers!
+绿洲农民被消灭，建造新绿洲的最后希望也随之烟消云散！
 
-Your Vikings should be ashamed of bringing such evil over mankind!
+你们维京人应该感到羞耻，为对人类带来这样的邪恶！
 
 [blockend:05]
 
 [blockstart:06]
 
-THE OASIS FARMERS
+绿洲农民
 
-After a long journey through the desert and privation brought on by the sun and the sand, we finally found Oasia, the city of the water caravan!
+经过漫长的沙漠旅行和太阳和沙尘带来的艰辛，我们终于找到了水运队的城市——Oasia！
 
-It was located in the middle of nowhere, and we were appalled by its state! Neither trees nor grass nor wheat were anywhere to be seen. And worst: We could not find as much as a single drop of water!
+它位于无人区中心，我们对它的状态感到震惊！无论是树木、草地还是小麦，都无处可见。最糟糕的是：我们连一滴水都找不到！
 
-It was said that it had used to rain from time to time, but the last rain shower must have been long ago ...
+据说过去偶尔会下雨，但最后一次雨水恐怕已经很久了……
 
-Be that as it may ... The chieftain would be expecting us with his soldiers.
+无论如何……部落首领和他的士兵们应该在等着我们。
 
-We didn't want to lose any time and went to see him.
+我们不想浪费任何时间，赶紧去见他。
 
 [blockend:06]
 
 [blockstart:07]
 
-THE DESERT ROBBERS
+沙漠强盗
 
-"Ho Ho! We are the new owners of this land, as we triumphed over desert and water! Get lost, or we'll show you how strong we are!"
+“嘿嘿！我们是这片土地的新主人，因为我们在沙漠和水源上取得了胜利！滚开，否则我们会向你展示我们的力量！”
 
-
-NOTE:
-You should get away from here as soon as possible as the desert robbers are rather irritable and are serious about their threats!
+注意：你应该尽快离开这里，因为沙漠强盗情绪不稳定，他们的威胁是认真的！
 [blockend:07]
 
 [blockstart:08]
 
-DRUID
+德鲁伊
 
-When I reached the druid, he was more than happy to see me.
+当我到达德鲁伊那里时，他见到我非常高兴。
 
-Even though he liked his eremite existence a lot, he urged me to send further gold miners to his place to keep his supplies coming.
+尽管他非常喜欢隐居的生活，但他敦促我派更多的金矿工到他的地方，以保证他的供应。
 
-I promised him my support as the whole community could profit from the nourishing potions of the druid.
+我答应了他的支持，因为整个社区都可以从德鲁伊的滋补药剂中受益。
 
+然而，他似乎还为其他事情而担忧……
 
-He seemed to be worried by something else though ...
+显然，沙漠上运水的商队发生了一些意外。它通常会来到西边的池塘，但德鲁伊已经很久没见到它了！
 
-Apparently something had happened to the desert caravan which transported water. It usually came to the pond in the west, but the druid had not seen it for a remarkably long time!
+骆驼商队到底发生了什么事？作为冒险者，我无法停止思考这个问题，决定去拜访商队的部落。
 
-What could have happened to the camel caravan? I as an adventurer could not stop thinking of this question and I decided to visit the tribe of the caravan.
-
-I wanted to start my search at the signpost at the pond; it would show me the right way ...
+我想从池塘处的路标开始我的搜索，它将指引我正确的方向……
 [blockend:08]
 
 [blockstart:09]
 
-CHIEFTAIN
+首领
 
-Looking the chieftain in the eyes, I could see pain and sorrow.
+凝视首领的双眼，我看到了他的痛苦和悲伤。
 
-Once he had dreamt of reclaiming a piece of land to the south of his village. All he needed was water which he found close to my tribe. Everything went well, the project was a success - the desert began to blossom.
+曾经，他梦想着夺回位于他村庄南部的一片土地。他所需的只是水，而他在我部落附近找到了水源。一切进展顺利，项目取得成功，沙漠开始开花结果。
 
-But then the water caravan was robbed!
-Evil characters stole the valuable good and took away the camels of burden. 
+但随后，水的商队遭到了抢劫！邪恶的人偷走了这宝贵的财物，并带走了骆驼。
 
-The surviving people were left in the desert with a message for the tribe: "Whoever comes here again, is deemed to die! All water now belongs to us! Even the oracle had to realise this!"
+幸存下来的人们被留在沙漠中，带着对部落的信息：“谁再敢来此处，定会死无葬身之地！所有的水现在都属于我们！就连神谕也不得不承认这一点！”
 
-Since then, nobody had dared to cross the desert ... And the chieftain's dreams were destroyed.
+从那时起，没有人敢越过这片沙漠……首领的梦想也被摧毁了。
 
-Aghast at such meanness, I wanted to help the chieftain.
+对于如此卑鄙的行径感到震惊，我想要帮助首领。
 
-I would continue with the water transport by harnessing my ox to the cart! And if anybody should dare to attack it, he would get to know my sword ...
+我将用我的牛来拉车，继续进行水运输！如果有人胆敢袭击，他将会见识到我的剑……
 
-
-HINT:
-You should build a well directly at the watering place and start trading there, as this is the shortest way through the desert!
+提示：你应该直接在这个水源地修建一个井，并在那里开始交易，因为这是穿越沙漠最短的道路！
 
 <usericon:1,83,267>
 
-If you build a warehouse next to the well and have your carriers stock water, a merchant will be able to set up a trading business between the warehouse and the oasis farmers.
+如果你在井旁建造一个仓库，并让你的搬运工储存水，那么一位商人就能够在仓库和绿洲农民之间建立贸易业务。
 [blockend:09]
 
 
 [blockstart:10]
 
-TEMPORARY SOLUTION
+临时解决方案
 
-The chieftain was overjoyed because of the delivery as he had not reckoned on this any more! We told him about our fight for water and cattle in the desert. 
+首领因交付而欣喜若狂，因为他已经不再指望这件事了！我们告诉他我们在沙漠中为水和牲畜而战的经历。
 
-The chieftain thanked us a lot for our efforts and our courage, but he was still desperate: "If we only had our transport camels back and the desert robbers would not do us any harm  ..."
+首领非常感谢我们的努力和勇气，但他仍然绝望：“如果我们只能拿回我们的运输骆驼，而沙漠强盗也不会对我们造成任何伤害……”
 
-We really wanted to help him, but as much as we deliberated on it - we did not come across a solution. Then all of a sudden, the chieftain's face brightened up:
+我们真的想帮助他，但无论我们怎么考虑，都没有找到解决办法。突然间，首领的脸色一亮：
 
-"Of course! THAT'S it! Do you remember - they said: 'Even the oracle had to realise this ...' - They have paralysed the Keepers of the Water! These bandits! That must be the answer, and it would explain the long drought as well! That must be it!" 
-He was very excited while he was speaking. 
+“当然！就是这个！你还记得吗——他们说过：‘就连神谕也不得不承认这一点……’——他们瘫痪了水之守护者！这些强盗！那一定是答案，也可以解释长期的干旱！这一定是它！”他说话时非常激动。
 
-"Help us, brave Northerner, and make sure that everything is all right with the oracle. If my suspicion proves right, the roots of all evil can be found there!"
+“帮助我们，勇敢的北方人，确保神谕一切正常。如果我的怀疑是正确的，那么所有恶行的根源就可以找到那里了！”
 
-The chieftain presumed that we would find hints on the oracle and the way there at the temple - the only place where palm trees still grew.
+首领预计我们会在寺庙里找到有关神谕和去那里的线索——那是唯一还有棕榈树的地方。
 
-Now I had to take a decision: Did I want to fight or succeed peacefully?
+现在我必须做出决定：我想要战斗还是和平成功？
 
+提示：如果你选择好战的方式，你将不得不打败沙漠中的守卫、骆驼避难所的守卫以及沙漠强盗本身！
 
-HINT:
-If you decide in favour of the militant way, you will have to defeat the guards in the desert, the guards of the camel shelter as well as the desert robbers themselves!
-
-This way will not be an easy one ...
+这条路不会容易……
 [blockend:10]
 
 [blockstart:11]
 
-RAID
+突袭
 
-We met the henchmen of the desert robbers and they uttered their threats once more:
- 
-"All water of this land is ours now! The oracle had to realise this as well! You are to die!"
+我们遇到了沙漠强盗的手下，他们再次发出威胁：
 
-And this time, it was not an idle threat - they attacked!
+“这片土地上的所有水资源现在都是我们的！神谕也不得不承认这一点！你们必须死！”
+
+这次，这不是空口说白话——他们发动了攻击！
 [blockend:11]
 
 
 [blockstart:12]
 
-VICTORY OF THE OX CARAVAN
+牛车队的胜利
 
-We had driven back the attackers, but it was just a matter of time until they would return ...
+我们成功击退了袭击者，但他们会回来只是时间问题……
 
-We wanted to reach our destination as quickly as possible.
+我们希望尽快到达目的地。
 
-We would inform the chieftain of the talk about the oracle.
+我们将向首领通报有关神谕的谈话。
 [blockend:12]
 
 
 [blockstart:13]
 
-TEMPLE
+神庙
 
-We had entered the temple but we could not find many hints regarding the oracle. In a dark corner of the room, a bluish light glowed from far below! I had to take a closer look at it! 
+我们已经进入了神庙，但是我们在神谕方面没有找到太多线索。在房间的一个黑暗角落里，从远处发出一道蓝色的光芒！我必须仔细看看！
 
-We found a hatch in the floor, and I let myself down through it with a rope. 
+我们在地板上找到了一个舱口，我用绳子从中下去。
 
-And my amazement grew beyond all limits ...
+简直让我惊呆了……
 
 [blockend:13]
 
 [blockstart:14]
 
-The being had kept its promise - the stones surrounding the island had gone, and we had a mooring place for our ship!
+这只生物信守了诺言——岛上周围的石头都不见了，我们的船有了停泊处！
 
 [blockend:14]
 
 [blockstart:15]
 
-The ship was built and loaded with water. Now we could start our voyage to call on the oracle and extinguish the fire around it!
+这艘船造好了，船上装满了水。现在我们可以开始我们的航行，去拜访神谕并扑灭它周围的火了！
 
 [blockend:15]
 
 [blockstart:16]
 
-GUARD OF THE ORACLE
+神谕守卫
 
-The guard had already heard of our arrival from the servant of the oracle and greeted me by name:
+守卫已经从神谕的仆人那里听说了我们的到来，并用我的名字来迎接我：
 
-"Noble Bjarni, extinguish this evil fire, which is ignited by the desert miscreants again and again! It paralyses my powers, and I cannot approach the fire ...
+“高贵的布加尼，熄灭这场邪恶的火焰，这是由沙漠罪犯一次又一次点燃的！它让我的力量瘫痪，我无法接近这个火……
 
-If it is extinguished, I will prove myself grateful!"
+如果它被扑灭了，我会表现出感激之情！”
 [blockend:16]
 
 [blockstart:17]
 
-GONE ASHORE
+上岸
 
-While I wanted to call on the guard of the oracle, my people should unload the water from the ship ...
+当我想去拜访神谕守卫时，我的人们应该从船上卸下水……
 
 [blockend:17]
 
 [blockstart:18]
 
-BROKEN SPELL
+破解咒语
 
-The water had been unloaded to the shore, and the fire-fighting was going on well!
-When the last flame had been extinguished, the oracle seemed to grow, and something was apparently happening ...
+水已经被卸到岸边，灭火工作进行得很顺利！当最后一团火焰被扑灭时，神谕似乎变大了，显然发生了某种变化……
 
 [blockend:18]
 
 [blockstart:19]
 
-PUNISHMENT
+惩罚
 
-The guard of the oracle punished the guilty immediately ...
+神谕守卫立即对有罪者进行了惩罚……
 
-"You mean rogues! Did you think your spell would last forever? Now you will experience the powers of nature! 
+“你们这些恶棍！你们以为你们的咒语会永远持续下去吗？现在你们将亲身体验自然的力量！
 
-Your village will be swallowed up into the ground, and if you want to survive, you have to disappear today! Leave this place and never return here!"
+你们的村庄将被地面吞噬，如果你们想生存下去，就必须今天就消失！离开这个地方，永远不要再回来！”
 
 [blockend:19]
 
 [blockstart:20]
 
-THANK YOU!
+谢谢你们！
 
-... and thanked his helpers:
+... 并向他的帮手表示感谢：
 
-"The desert robbers have left this country! Now peace and quiet will return!
+“沙漠强盗已经离开了这片土地！现在和平与宁静将重归！
 
-Be thanked, noble desert people! You called for help and tried to defy the drought!
-As a reward we will give you what you lacked for such a long time!
+感谢你们，高贵的沙漠人民！你们呼唤帮助，尝试抵御干旱！作为回报，我们将给你们长期以来所缺乏的东西！
 
-Brave Vikings, be thanked as well. You freed us from the spell of the miscreants!"
+勇敢的维京人，也要感谢你们。你们将我们从恶徒的咒语中解救出来！”
 [blockend:20]
 
 [blockstart:21]
 
-The desert robbers were defeated - and an oracle thanked us for its rescue!? Only much later were we to learn that the desert robbers had spellbound the powers of the water oracle in order to control the small water deposits in the desert. They wanted to blackmail everybody with the water ...
+沙漠强盗被击败了，神谕却感谢我们的救援！？直到后来我们才得知，沙漠强盗曾经用咒语束缚了水神谕的力量，以控制沙漠中的小水源。他们想用水来勒索每个人……
 
-Their defeat set the oracle free again and all evil was eliminated!
+他们的失败使神谕再次自由，一切邪恶都被消灭了！
 
 [blockend:21]
 
 [blockstart:22]
 
-CAMELS
+我们找到了骆驼，但它们被沙漠强盗的一个哨所严密看守着。守卫们立刻开始向我们射击……
 
-We had found the camels but they were well guarded by a guard post of the desert robbers. The guards started shooting at us at once ... 
-
-They were certainly not joking! If we started a fight, all the other desert robbers would come for the defence of the camels ...
+他们肯定不是在开玩笑！如果我们发起战斗，其他所有的沙漠强盗都会前来保护骆驼……
 
 [blockend:22]
 
 [blockstart:23]
 
-THE OASIS FARMER
+我们在沙漠中遇到了一个部落，他们并不反对我们的存在，但也对我们的到来不感兴趣。显然，这里的人们正忙于其他事情……
 
-We met a tribe in the desert which did not oppose us, but paid no interest to our presence either. Apparently, people here were preoccupied with other things ...
-
-HINT: 
-The druid to the south-west of your village is already waiting for you! You should pay him a visit soon ...
+提示：
+在你村庄的西南方向有一个德鲁伊等着你！你应该尽快去拜访他……
 [blockend:23]

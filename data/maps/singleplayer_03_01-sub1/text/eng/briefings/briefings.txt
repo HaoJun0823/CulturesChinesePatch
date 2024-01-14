@@ -1,30 +1,27 @@
 [blockstart:header]
 
-SERVANT OF THE ORACLE
+神域的仆人
 
 [blockend:header]
 
 [blockstart:begin_00]
-The foundation of the temple was cool and humid, although there was no water! This unreal blue light was shining from the ground, and a being that looked like it came from a different world stood in the centre of the room ...
+神庙的地基凉爽潮湿，尽管没有水！这种非真实的蓝色光芒从地面上照射出来，一个看起来来自另一个世界的存在站在房间中央……
 
-Did the chieftain of the oasis farmers know about this? I stepped in front of the being ...
+绿洲农民的酋长知道这件事吗？我走到那个存在的面前……
 [blockend:begin_00]
 
 [blockstart:01]
 
-WATER BEING
+“你好，高大的年轻人！多年来，我没有见到过人类…
 
-"Hail, stately youth!
-For centuries, I have not seen a human here ...
+听我说！我是水神谕的仆人，负责保护我的主人！沙漠强盗通过在水神谕周围布置一圈火焰，来束缚了它的力量。现在它被困住了，我无能为力！我的水之力只限于这些墙壁，但那只够喂养直接在上面的植物。
 
-Listen to me! I am the servant of the water oracle and protect my master! Desert robbers have spellbound the power of the oracle by laying a circle of fire round it. Now it is caught, and I cannot help it! My power over the water is limited to these walls, but that is only enough to feed the plants directly above.
+如果您能帮助我解救神谕……我可以让您进入神谕，远离所有邪恶生物……”
 
-If you would help me to free the oracle ... I could get you access to the oracle, past all evil creatures ..."
+当然，我们不能拒绝这个请求——也符合我们自己的利益。
 
-Naturally we could not refuse this request - also in our own interest. 
+“谢谢你！听好：建造一艘船，在海上航行到神谕处。你们可以通过危险的峭壁！
 
-"I thank you! Listen: Build a ship and sail over the sea to the oracle. The dangerous cliffs surrounding it can be passed by you!
-
-Take 30 bottles of water on board to extinguish the circle of fire! And when the oracle is liberated due to your help, the evil doers will have to pay a fair price for their sins ..."
+带上30瓶水在船上，用它们灭掉火焰的圈子！当由于你们的帮助，神谕被解救出来时，邪恶的人们将为他们的罪行付出公平的代价……”
 [blockend:01]
 
