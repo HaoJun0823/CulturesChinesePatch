@@ -1,265 +1,260 @@
 [blockstart:header] 
-HEIMKEHR
+还乡
 [blockend:header]
 
 [blockstart:00_start] 
-Wir beschlossen zur Siedlungsst鋞te zur點kzukehren, die das eigentliche Ziel unserer Reise war, um dort unser Leben wieder in gewohnten Bahnen aufzunehmen. Einiges w黵de sich wohl nach der Zeit, die wir nicht da waren, ver鋘dert haben.
+我们决定回到定居点，毕竟我们好不容易来到这个地方。重新开始我们习以为常的生活。然而，在我们离开的时间里，发生了一些让我们难以接受的事情。
 [blockend:00_start]
 
 [blockstart:00_start1]
-Doch was war das? Unser Dorf war zerst鰎t. Wir waren unserem Stamm verpflichtet und mussten uns nun um den Aufbau des Dorfes k黰mern. Gleichzeitig beschlossen wir einen Boten auszusenden, der andere Wikinger vor solchen 躡ergriffen warnen sollte. 
+怎么回事？我们的村庄被摧毁了。谁袭击了我们！！我现在必须着手重建村庄。与此同时，我们决定派遣一名使者去警告其他维京人，防止类似的侵袭发生。
 
-Errichte dein Dorf schicke einen Boten zu den anderen V鰈kern. 
+重建你的村庄，派遣一名使者去其他部落。
 [blockend:00_start1]
 
 
 [blockstart:50_endheader] 
-KAMPAGNE GEWONNEN! 
+任务完成！
 [blockend:50_endheader] 
 
 [blockstart:50_end] 
-Dank unserer Freunde war es uns gelungen, die Napalianer endg黮tig aus diesen Landstrichen zu vertreiben und ihnen ihre Boshaftigkeiten abzugew鰄nen. Niemals wieder sollten sie anderen Menschen noch Drachen Leid zuf黦en. Dies war das Versprechen, das wir uns gaben.  
+多亏了我们的朋友们，我们成功地将拿波利亚人从这片土地上彻底赶走，这片土地没有他们的容身之处了！他们再也不能伤害其他人和龙了。
 [blockend:50_end]
 
 [blockstart:50_end1]
-Die sch鰊ste Freude jedoch war es Norbert wieder in die Arme zu schie遝n. Der kleine Drache war gewachsen und hatte bereits viel von den anderen Erddrachen gelernt und seine ganz eigenen Erfahrungen gemacht. Trotzdem war es, als w鋜e er nie von uns gegangen. Er und die anderen Drachen waren uns so vertraut und fortan sollten die Menschen und Drachen allerorts in Frieden leben... 
+然而，最开心的事莫过于是再次见到诺伯特。这只小龙已经长大了，已经从其他地龙那里学到了很多东西，获得了很多龙群中才能学习到的知识。尽管如此，他就像从未离开过一样。他和其他龙对我们来说，一直是老朋友，从现在开始，人类和龙将在世界各地和平共处…
 [blockend:50_end1]
 
 
 [blockstart:01] 
-WALDPOSTEN 1 - DIE TEMPELW腃HTER
+森林哨站1 - 守护者神殿
 
-"Sch鰊 euch wieder zu sehen!" sprachen die Tempelw鋍hter. 
+“很高兴再次见到你们！”守护者们说道。
 
 <usericon:1,201,69>
 
-"Ihr habt uns damals beigestanden. Nun ist euch unsere Hilfe sicher, nutzt unsere Kr鋟ter und Tr鋘ke aus dem Lagerhaus!
-Gegen einen Tribut stellen wir euch auch gerne noch mehr her!" 
+“你们曾经支持过我们。现在我们会支持你们，使用我们仓库里的草药和药剂！如果你们愿意付出一些贡品，我们也很乐意为你们提供更多！”
 ...
-"Ihr sucht die orangenen Drachen? Die sind im Palmenhain und besch黷zen die Kinder."
+“你们在找橙色龙吗？它们在棕榈树林中，保护着孩子们。”
 
 <usericon:2,13>
 [blockend:01]
 
 [blockstart:02] 
-TRIBUT AN TEMPELW腃HTER BEZAHLT!
+向守护者神殿支付贡品！
 
-"Diese frische Pilze ergeben fantastische Tr鋘ke. Hoffentlich werden sie euch munden! Wir produzieren auch gerne Nachschub, gegen einen Tribut, versteht sich..." 
+“这些新鲜的蘑菇可以制作出极好的药剂。希望它们会对你们有所帮助！我们也很乐意为你们生产更多，当然需要贡品作为交换…”
 
 <usericon:1,201,69>
 [blockend:02]
 
 
 [blockstart:03] 
-POSTEN 2 - KR腢TERSAMMLER
+哨站2 - 采药者
 
-"Damals habt ihr uns neues Werkzeug geliefert, als unser altes vom Rost zerfressen war. Mittlerweile haben wir eine eigene Werkzeugschmiede. Wir mussten uns gegen die Napalianer zur Wehr setzen, deshalb produzieren wir auch Waffen und R黶tungen."
-
+“当年你们为我们提供了新的工具，因为我们的旧工具都被锈蚀了。现在我们有了自己的铁匠铺。我们必须对付拿波利亚人，因此我们也开始制造武器和盔甲。”
 <usericon:1,358,90>
 
-"Verf黦t 黚er uns, wenn ihr wollt!"
+“如果你们需要，我们一直是你可信任的后盾！！”
 ...
-"Ihr sucht die orangenen Drachen? Die sind im Palmenhain und besch黷zen die Kinder."
+“你们在找橙色龙吗？它们在棕榈树林中，保护着孩子们。”
 
 <usericon:2,13>
 [blockend:03]
 
 [blockstart:04] 
-TRIBUT AN KR腢TERSAMMLER BEZAHLT!
+跟采药者交易！
 
-"Der Posten, der urspr黱glich aus Kr鋟tersammlern bestand, stellte nun fantastische Waffen und R黶tungen her, die wir f黵 unsere Zwecke dank der Tribute nutzen konnten. Als Bonus gaben sie uns sogar noch ein Katapult hinzu." 
-
+“这个哨站原本由采药者组成，现在他们制作出了我们可以借用的精美武器和盔甲。作为额外奖励，他们甚至给了我们一个投石车。”
 <usericon:1,350,120>
 [blockend:04]
 
 
 [blockstart:05] 
-BERGE DER GEROLS - DER STEINDRACHEN
+格罗尔斯山脉 - 石龙
 
-Einstmals gab es in diesem steinigen Gebirge alte weise Steindrachen, doch nun waren sie alle verschwunden... 
+在这片多岩的山区曾经生活着古老智慧的石龙，但现在它们全都消失了…
 
 <usericon:1,312,65>
 [blockend:05]
 
 
 [blockstart:06] 
-WIKINGERDORF
+维京人村庄
 
-"Es ist schlimmer geworden, seitdem ihr weg wart. Die Napalianer haben sich wieder weiter ausgebreitet. Selbst ihr kleinerer St黷zpunkt im Westen ist nun von dieser Giftwolke umgeben."
+“自从你们离开后情况变得更加糟糕。拿波利亚人又扩张了。他们在西边的小据点现在也被一片有毒的烟雾笼罩。”
 
 <usericon:1,365,345>
 
-"Wir stehen euch mit allem was uns zur Verf黦ung steht zur Seite!"
+“我们会尽我们所能地支持你们！”
 [blockend:06]
 
 [blockstart:07] 
-H腘DLERPOSTEN
+商人哨站
 
-"Ihr seid wieder da! Nun wird sicher alles wieder gut!" 
+“你们回来了！现在一切肯定会好起来的！”
 
 <usericon:1,246,361> 
 
-"Durch die 躡ergriffe der Napalianer stecke ich leider wieder in einer Handelsflaute, aber wenn ihr mit mir Handel treibt, wird mein Freund euch wieder helfen, die Giftwolken um das Napalianerlager zu beseitigen."
+“由于拿波利亚人的侵袭，我的贸易陷入了困境，但如果你们与我进行贸易，我的朋友会帮助你们消除拿波利亚人据点周围的毒雾。”
 [blockend:07]
 
 [blockstart:08] 
-WAREN MIT H腘DLER GEHANDELT
+与商人进行了交易
 
-"Mein Gesch鋐t boomt, dank eurer Hilfe! Auch ich werde euch zur gegebener Zeit mit meinem Hausdrachen helfen."
+“多亏了你们的帮助，我的生意兴隆起来了！我也会在适当的时候让我认识的龙来帮助你们。”
 
 <usericon:1,246,361> 
 [blockend:08]
 
 [blockstart:09] 
-ORT DER FEUERDACHEN
+火龙之地
 
-Einstmals war dies der Ort, an dem es viele Feuerdrachen gab. Doch nun waren sie alle verschwunden... 
+曾经这里有许多火龙。但现在它们全都消失了…
 
 <usericon:1,152,345>
 [blockend:09]
 
 [blockstart:10] 
-PROF. WAMUGO
+瓦穆戈教授
 
-"Geduldet euch meine Freunde, meine Tauben sind auf den Weg! Gut, dass ihr euch f黵 die friedliche L鰏ung entschieden habt."
+“耐心等待，我的朋友，我的信鸽们已经在路上了！你们选择了和平解决问题，真是太好了。”
 [blockend:10]
 
 [blockstart:11] 
-PROF. WAMUGO
+瓦穆戈教授
 
-"Ich habe meinen Unterricht in den Palmenhain verlegt, denn der weite Weg ist f黵 die Kinder in diesen gef鋒rlichen Zeiten unzumutbar! Ich ahnte schon, dass die Napalianer keine Ruhe geben w黵den. Ich habe f黵 eine friedliche L鰏ung an alle Drachen Briefe geschrieben, nur sind meine Brieftauben etwas malade. So m鯿hte ich sie nur ungern auf die Reise schicken, denn wir wollen doch sicher sein, dass sie auch ankommen? Ihr versteht?"
+“我已经把我的课程转移到了棕榈树林，这个危险的时期，远道而来的孩子来这样的地方实在是太危险了！我早就预料到拿波利亚人不会善罢甘休。我给所有龙写了一封和平解决问题的信，只是我的信鸽们有些虚弱。出远门的风险太大了，如果强行让信鸽飞出去送信，我想半路就没了消息，你们明白吧。”
 
 <usericon:2,7>
 
-Gib Prof. WAMUGO 15 kleine Heiltr鋘ke zum Tribut f黵 seine Brieftauben, wenn du eine friedliche L鰏ung w黱schst!
+如果你希望和平解决问题，请向瓦穆戈教授提供15瓶小型治疗药水作为贡品，帮助他的信鸽们。
 [blockend:11]
 
 [blockstart:12] 
-WALDDORFSCHULE DER WASSERDRACHEN
+森林水龙学校
 
 <usericon:1,78,530>
 
-"Aufgrund der Umst鋘de war Prof. Wamugo's Schule geschlossen!"
+“由于环境原因，瓦穆戈教授的学校已经关闭！”
 [blockend:12]
 
 [blockstart:13] 
-SCHULE AM PALMENHAIN
+棕榈树林学校
 
-"Ihr seid zur點k! Unsere Kinder haben viel gelernt, denn Prof. Wamugo unterrichtet nun auch hier." 
+“你们回来了！我们的孩子们学到了很多知识，这多亏了教授在这里教授知识啊！”
 
 <usericon:1,376,559>
 
-Gehe zu Professor WAMUGO.
+前往瓦穆戈教授处。
 [blockend:13]
 
 [blockstart:14] 
-DER ALTE MANN
+老人
 
 <usericon:1,98,211>
 
-"Es ist schlimmer geworden mit den Napalianern...
-Nun umgibt diese Giftwolke beide St黷zpunkte und die Hausdrachen der Waldposten sch黷zen die Kinder im Palmenhain bis auf einen einzigen beim H鋘dler."
+“拿波利亚人变本加厉了…现在他们的两个据点都笼罩在有毒的雾气中，而森林哨站的家龙保护着棕榈树林中的孩子，除了一个在商人那儿。”
 
 <usericon:2,13>
 [blockend:14]
 
 [blockstart:15] 
-ALLE ORANGENEN DRACHEN!
+所有橙色龙集合！
 
-Nun hatten wir die Posten der Waldh黷er aufgesucht und die orangenen Drachen gegen die Giftwolke versammelt. 
+我们已经访问了森林守护者的哨站，将橙色龙聚集起来对抗毒雾。
 
 <usericon:2,13>
 
-Wir konnten nun gegen die Napalianer kriegerisch vorgehen oder Prof. Wamugo's Vorschlag der friedlichen Einigung annehmen! Die Wahl lag bei uns...
+现在我们可以选择对抗拿波利亚人，或者接受瓦穆戈教授和平解决问题的建议！选择权在我们手中…
 [blockend:15]
 
 [blockstart:16] 
-GIFTWOLKE BESEITIGT
+清除毒雾
 
-In Windeseile sammelten sich die Hausdrachen der Waldposten um die Giftwolke um die St黷zpunkte der Napalianer zu neutralisieren!
+周围的龙龙飞快地聚集起来，一起协作着，将拿波利亚人据点周围的毒雾中和！
 
 <usericon:1,372,261>
 
-Nun war der Weg frei und die Entscheidung lag bei uns...
+现在决策在我们手中…让我们赶跑那些人吧？
 [blockend:16]
 
 [blockstart:17] 
-DER ALTE MANN
+老人
 
 <usericon:1,252,502>
 
-"Die Wasserdrachen r黶ten sich f黵 den Ernstfall im Wassertempel. Sicherlich gibt euch der alte AQUAROM eine Armee von Wasserdrachen zum Geleit, wenn ihr es ernsthaft meint."
+“水龙们正在为水神殿的紧急情况做准备。如果你们是认真的，老AQUAROM会给你们一支水龙军队作为护卫。”
 [blockend:17]
 
 [blockstart:18] 
-AQUAS - DIE WASSERDRACHEN
+水龙阿夸斯
 
-"Es ist eine Schande, dass immer wieder Unruhestifter gibt. Dabei sind wir friedliebenden Drachen selten aus der Reserve zu locken..."
+“总是有人闹事，真是可耻。我们这些爱好和平的龙很少会被挑衅…”
 
 <usericon:1,169,577>
 
-"...aber unter diesen Umst鋘den bleibt uns nichts anderes 黚rig.
-Im Wasserdrachentempel r黶ten wir uns gegen den Feind. Aber nur euer st鋜kster Held hat Zutritt zu ihm!"
+“…但在这种情况下，我们别无选择。
+在水龙神殿，我们正在备战。只有你们最强大的英雄才能进入！”
 
-Gehe mit Bjarni zum Wasserdrachentempel, wenn du Verst鋜kung ben鰐igst.
+如果你需要增援，带着布加尼去水龙神殿。
 [blockend:18]
 
 [blockstart:19] 
-NAPALIANER
+拿波利亚人
 
-"Keinen Schritt n鋒er! Noch einmal werden wir uns nicht in die Irre f黨ren lassen!"
+“再靠近一步试试看！我们不会再被你们骗了！你只要靠近我们一定会干掉你的。”
 
 <usericon:1,23,295> 
  
-"Geht, oder wir sind gezwungen unsere Waffen zu gebrauchen!"
+“走开，否则我们将不得不使用武器！”
 [blockend:19]
 
 [blockstart:20] 
-NAPALIANER
+拿波利亚人
 
-"Ihr habt es so gewollt! Unsere Waffen werden euch vernichten. Zahlt den Tribut und wir werden unsere Haltung zu euch 黚erdenken, aber nur, wenn ihr sofort unsere St黷zpunkte verlasst!"
+“你们自找的！我们的武器将毁灭你们。支付贡品，我们会重新考虑对你们的态度，但前提是你们立刻离开我们的领地！”
 
-Zahle den Tribut, um sie wieder neutral zu stimmen!
+支付贡品，让他们重新对你们表示友好。
 [blockend:20]
 
 [blockstart:21] 
-TRIBUT GELEISTET!
+支付了贡品！
 
-"Nun werden wir unsere Haltung zu euch 黚erdenken, aber wagt euch nicht wieder in unser Terrain!" riefen uns die Napalianer zu und 鋘derten ihren Diplomatiestatus uns gegen黚er.
-
+“现在我们会重新考虑对你们的态度，但你们胆敢再踏入我们的领地！下次可没那么好运了！” 拿波利亚人向我们喊道，并改变了他们对我们的外交状态。
 <usericon:1,581,291> 
 [blockend:21]
 
 [blockstart:22] 
-NAPALIANER BESIEGT!
+打败了拿波利亚人！
 
-Zwar waren die Napalianer geschlagen, doch war nicht auch eine friedliche Einigung m鰃lich gewesen? 
+拿波利亚人虽然被打败了，但和平解决问题难道不是可以让人死的更少些吗。
 
 <usericon:1,373,262>
 [blockend:22]
 
 [blockstart:23] 
-ALLE DRACHEN VERSAMMELT!
+我们集合了所有的龙！
 
-Es war unglaublich! Aus alle Himmelsrichtungen str鰉ten unsere alten Freunde die Drachen herbei, um uns zu helfen!
+这真是不可思议！从四面八方涌来了我们的老朋友——龙，来帮助我们！
 
 <usericon:1,361,269> 
 
-Unter ihnen auch Norbert. 
+其中还有诺伯特。
 
 <usericon:2,6> 
 
-WAMUGO hatte Wort gehalten!
+瓦穆戈履行了他的诺言！
 [blockend:23]
 
 [blockstart:24] 
-HILFE DURCH DIE DRACHEN!
+龙的帮助！
 
-Es war unglaublich! Aus alle Himmelsrichtungen str鰉ten unsere alten Freunde die Drachen herbei, um uns zu helfen!
+这真是不可思议！从四面八方涌来了我们的老朋友——龙，来帮助我们！
 
 <usericon:1,319,120> 
 
-Nun konnten wir gemeinsam gegen die Napalianer vorgehen!
+现在我们可以共同对抗拿波利亚人！
 [blockend:24]
 
 
@@ -274,7 +269,7 @@ Nun konnten wir gemeinsam gegen die Napalianer vorgehen!
 MISSION VERLOREN!
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
-Heldenmut oder Leichtsinn? Als BJARNI starb, weinten die G鰐ter... Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+英雄的勇气还是鲁莽？当布加尼牺牲时，众神为之哭泣… 没有了这位英雄，你将永远无法知道任务的结局。
 [blockend:100]
 
 [blockstart:200]
@@ -282,7 +277,7 @@ Heldenmut oder Leichtsinn? Als BJARNI starb, weinten die G鰐ter... Ohne diesen H
 MISSION VERLOREN!
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
-Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Deine Heldin CYRA erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+英雄的勇气还是鲁莽？当西拉牺牲时，众神为之哭泣… 没有了这位英雄，你将永远无法知道任务的结局。
 [blockend:200]
 
 [blockstart:500]
@@ -290,7 +285,7 @@ Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Deine Heldin C
 MISSION VERLOREN!
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
-Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! MANI - Sohn von Bjarni und Cyra erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+英雄的勇气还是鲁莽？当曼尼牺牲时，众神为之哭泣… 没有了这位英雄，你将永远无法知道任务的结局。
 [blockend:500]
 
 [blockstart:600]
@@ -298,5 +293,5 @@ Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! MANI - Sohn vo
 MISSION VERLOREN!
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
-Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund und Held der Drache NORBERT erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+英雄的勇气还是鲁莽？当诺伯特牺牲时，众神为之哭泣… 没有了这位英雄，你将永远无法知道任务的结局。
 [blockend:600]
