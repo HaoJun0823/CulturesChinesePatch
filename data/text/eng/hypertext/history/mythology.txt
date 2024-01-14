@@ -1,51 +1,49 @@
             
 [blockstart:indexstart]
-HISTORICAL TABLES
+历史表格
 [blockend:indexstart]
                   
 				                                                                                
 [blockstart:zurucktext]
-Back_to_index
+后退索引
 [blockend:zurucktext]
     
 
                                                                                             
 
 [blockstart:0_uberschrift]
-THE_SEVEN_WONDERS_OF_THE_WORLD 
+世界上的七大奇观
 [blockend:0_uberschrift]	
 
 [blockstart:0_text_0]
-In the first quarter of the 3rd century B.C., people began to form groups of seven. Among other things, the list with the seven most impressive technical achievements of the artistic circle around the Aegean Sea was drawn up. This original list consisted of one Egyptian, two Babylonian and four Greek Wonders of the World: the Pyramids of Giza, the Ramparts of Babylon, the Hanging Gardens of Semiramis in Babylon, the Zeus Statue of Phidias in Olympia, the Artemis Temple in Ephesus, the marble Mausoleum in Halicarnassus and  the Helios Colossus of Rhodes. 
+在公元前3世纪第一季度，人们开始组成七个团体。除其他事项外，还列出了绕爱琴海艺术圈的七项最令人印象深刻的技术成就清单。这个最初的名单包括七大奇迹：埃及金字塔、巴比伦的城墙、巴比伦的塞米拉米斯花园、奥林匹亚的菲狄亚斯宙斯雕像、以弗所的阿耳忒弥斯神庙、哈里卡纳索斯的大理石陵墓和罗德岛的太阳神巨像。
 \n
 \n
-At the time when the list was drawn up, the Lighthouse of Pharos - today known as the Seventh Wonder of the World - did not yet exist. In the second oldest and nowadays common list of the Wonders of the World, it replaces the mighty Ramparts of Babylon.
-The frequently mentioned Tower of Babylon does not appear in any of the original lists. At the beginning of the third century B.C. it was no longer in existence.
-In the later, altered lists of Wonders, the Labyrinth, the Euphrates Bridge, the Persian Palace and others were added. In the course of time, other lists of Wonders were drawn up, consisting of up to 50 Wonders of the World like e.g. the Pergamon Altar, the Roman Colosseum or the Hagia Sophia in Istanbul.
+当名单被列出时，后来被称为世界七大奇迹的“法洛斯灯塔”还不存在。在较老的、现在广泛接受的世界奇迹名单中，它取代了强大的巴比伦城墙。而频繁被提及的巴比伦塔并未出现在任何原始名单中，因为在公元前3世纪初，它已不复存在。
+在后来修改过的世界奇迹名单中，增加了迷宫、幼发拉底河桥、波斯宫殿等内容。随着时间的推移，还列出了包括50个世界奇迹的其他名单，如别加蒙祭坛、罗马斗兽场或伊斯坦布尔的圣索菲亚大教堂等。
 \n
 \n
-The nowadays accepted catalogue of the Seven Wonders of the World dates back to the Greek writer Antipater of Sidon in the second century B.C. It is therefore not the oldest, but the slightly amended second oldest list:
+如今公认的世界七大奇迹目录可追溯到公元前2世纪的希腊作家西顿的安提帕特尔。因此，它不是最古老的，而是稍微修改过的第二古老的名单：
 \n
 \n
 <block:2>
-Pyramids of Giza\nGiza, Egypt (around 2590-2470 B.C.)
+金字塔\n吉萨，埃及（约公元前2590-2470年）
 \n\n
-Zeus Statue of Phidias\nOlympia, Greece (5th century B.C.)
+菲狄亚斯宙斯雕像\n奥林匹亚，希腊（公元前5世纪）
 \n\n
-Temple of Artemis\nEphesus, Turkey (6th century B.C.)
+阿耳忒弥斯神庙\n土耳其以弗所（公元前6世纪）
 \n\n
-Tomb of Mausolos\nHalicarnassus, Turkey (around 325 B.C.)
+摩索罗斯陵墓\n土耳其哈里卡纳索斯（约公元前325年）
 \n\n
-Hanging Gardens of Babylon\nBabylon, Iraq (date of origin unknown;
-probably built by Nebuchadnezzar II around 604-562 B.C.)
+巴比伦的空中花园\n伊拉克巴比伦（起源日期不详；可能由尼布甲尼撒二世于公元前604-562年左右建造）
 \n\n
-Colossus of Rhodes\nRhodes, Greece (292-282 B.C.)
+罗得岛的太阳神巨像\n希腊罗得（公元前292-282年）
 \n\n
-Lighthouse of Pharos\nAlexandria, Egypt (270 B.C.)
+法洛斯灯塔\n埃及亚历山大港（公元前270年）
 \n
 \n
 <block:0>
-Apart from the Pyramids of Giza, all the Wonders of the World have been destroyed.
+除了吉萨金字塔外，所有世界奇迹都已被摧毁..除了吉萨金字塔外，所有世界奇迹都已被摧毁.
 [blockend:0_text_0]	
 
 [blockstart:0_text_1]
@@ -56,25 +54,26 @@ Apart from the Pyramids of Giza, all the Wonders of the World have been destroye
                                                                                             
 
 [blockstart:1_uberschrift]
-Lighthouse_of_Pharos 
+亚历山大灯塔
 [blockend:1_uberschrift]	
 
 [blockstart:1_text_0]
->Out of all the Seven Wonders of the Ancient World, the Lighthouse of Alexandria is the only one that also had a practical use apart from its architectural significance. It guaranteed safe entrance into the harbour for sailors. However, for architects it had a greater meaning: It was the tallest building in the world. Its light could be seen from a distance of more than 50 kilometres.
+>在古代世界的七大奇迹中，亚历山大灯塔是唯一一个除了其建筑意义外还具有实际用途的。它为船员们提供了安全进入港口的保障。然而，对于建筑师们来说，它有着更重要的意义：它是世界上最高的建筑。它的光线可以被看到超过50公里的距离。
 \n
 [blockend:1_text_0]	
 
 [blockstart:1_text_1]
-The Pharos Lighthouse is often referred to as the so-called "Eighth Wonder of the World". After its completion and inauguration in 279 B.C. it was added to the original list of Wonders. It replaced the city walls of Babylon. However, in some lists the Hanging Gardens of Semiramis are occasionally left out instead.
+亚历山大灯塔通常被称为所谓的“世界第八大奇迹”。在其完成和启用后的公元前279年，它被添加到原始奇迹的清单中。它取代了巴比伦的城墙。然而，在一些清单中，也有时会偶尔遗漏塞米拉米斯的空中花园。
+
 \n
 \n
-The island of Pharos off the coast of Alexandria was linked to the mainland by a dam with water passageways which was at that time technically important - the so-called "Heptastadium" of Dexiphanes of Knidos. Sostratos, son of Dexiphanes of Knidos, was the architect of the mighty Lighthouse that was built on the island.
+位于亚历山大港外海岛屿费罗斯岛与大陆之间，当时技术上很重要-所谓的Dexiphanes of Knidos的Heptastadium的水道大坝将该岛与大陆连接起来。Dexiphanes of Knidos的儿子Sostratos是建造在岛上的强大灯塔的建筑师。
 \n
 \n
-A high basement rose on a foundation of 30x30 square metres that was narrower towards the top. A path with tritons at the four corners was left, and a less high second storey was built on top as an octagonal prism. On top of that was a small cylindrical third storey. Finally, the crowned bronze statue of Zeus Soter was placed on its conical roof as a symbol of welfare for the sailors. The overall height of the relatively narrow tower amounted to 113 metres.
+高基座建在30x30平方米的基础上，顶部变窄。在四个角落留下一个有涡旋海神的小径，然后在顶部建造了一个较低的二楼，呈八面体棱柱形。最后，在其圆锥形屋顶上放置了宙斯救世主的镀金铜像，作为船员幸福的象征。相对狭窄的塔的总高度为113米。
 \n
 \n
-In the 14th century, the Lighthouse was finally destroyed by an earthquake. Later, the Fort of Kait Bey was built on its foundations.
+在14世纪，灯塔最终被地震摧毁。后来，Kait Bey堡垒建在其基础之上。
 [blockend:1_text_1]	
 
 
@@ -83,19 +82,19 @@ In the 14th century, the Lighthouse was finally destroyed by an earthquake. Late
                                                                                             
 
 [blockstart:2_uberschrift]
-The Hanging_Gardens_of_Semiramis
+塞米拉米斯的空中花园
 [blockend:2_uberschrift]	
 
 [blockstart:2_text_0]
-In the circulating records, the Hanging Gardens were often mentioned in connection with the legendary Assyrian-Babylonian Semiramis (around 775 B.C.) and thus named after her. The oldest source, the work "Persica" by the royal physician Ktesias (around 400 B.C.), however, stresses explicitly that the elaborate Gardens were not built by Semiramis, but by a king of a later time.
+在流传的记录中，空中花园经常与传奇的亚述-巴比伦王塞米拉米斯（约公元前775年）联系在一起，因此以她的名字命名。最古老的来源《波斯》（约公元前400年）的著作中明确强调，精心制作的花园并非由塞米拉米斯建造，而是由一个更晚的国王建造的。
 \n
 [blockend:2_text_0]	
 
 [blockstart:2_text_1]
-Besides the date and the designer, another thing that is not known about the Hanging Gardens of Babylon is their exact location. Among the possible designers were Nebuchadnezzar II, Syros, Semiramis II or Cyrus. The clever ways to draw water are mentioned again and again in the records. That is why the Hanging Gardens are probably near the southern fortress of Nebuchadnezzar II. The excavations in the old riverbed of the Euphrates, close to the southern fortress, uncovered the ruins of a bulwark made of tiles and asphalt mortar that once formed an ostentatious western protection against the waves of the river Euphrates. The bulwark that ran from north to south on the eastern bank of the Euphrates was shaped like a rectangle of approximately 197.5x106.5 square metres, with two fortifications in the west. The nearly square southern part would have provided enough space for the construction of a considerably large creation of a special kind. It is also possible that the entrenchment was not converted into the Hanging Gardens until later, when the Persian kings (Dareios II Nothos - 425-404 B.C., and Mnemon - 404-361 B.C.) were in Babylon.
+关于巴比伦空中花园的确切位置和设计者，还有许多事情是未知的。在可能的设计者中包括尼布甲尼撒二世、西罗斯、塞米拉米斯二世或赛鲁士。记录中反复提到的巧妙的供水方式。这就是为什么空中花园可能靠近尼布甲尼撒二世的南部要塞的原因。在幼发拉底河旧河床的发掘中，靠近尼布甲尼撒二世南部要塞的地方发现了一座由瓦片和沥青灰浆建成的堡垒的废墟，这座堡垒曾经构成对幼发拉底河波浪的一道华丽的西部防线。从北到南延伸的堡垒形状类似于一个约197.5x106.5平方米的矩形，西部有两个防御工事。几乎正方形的南部可以为建造一种特殊类型的大型建筑提供足够的空间。也有可能这个防线直到后来才转变成空中花园，当时波斯国王（达里奥斯二世诺图斯 - 公元前425-404年，和Mnemon - 公元前404-361年）统治巴比伦。
 \n
 \n
-Apparently, the square southern part of the Euphrates trenchwork was crowned by the stepped-pyramid construction skeleton of a 25 to 30 metre-high artificial mountain terrace with a base side measuring 100 metres. The thick walls and pillars of this skeleton were mostly made out of tiles. Flattened or vaulted paths were said to have stretched below the individual steps over a width of 3 metres. The cover above the ceiling beams of the individual storeys consisted of a base of pipes with plenty of asphalt, with a double layer of tiles embedded in gypsum mortar on top, and a third layer of lead plates. This prevented the dampness of the scattered humus from seeping through to the depths of the paths. Various trees were planted in the humus floor.
+显然，幼发拉底河沟的正方形南部被一座25到30米高的人工山地台阶式金字塔结构所覆盖，底边长100米。这个骨架的厚墙和柱子大多由瓦片制成。据说，扁平或拱形的路径在每个阶梯下方延伸，宽3米。在每个楼层的天花板梁上方的覆盖物由大量沥青管构成，上面加有两层嵌入石膏砂浆的瓦片，并有一个第三层的铅板。这阻止了散落的腐殖质的湿气渗透到路径的深处。各种树木种植在这些土壤中。
 [blockend:2_text_1]
 
 
@@ -103,22 +102,22 @@ Apparently, the square southern part of the Euphrates trenchwork was crowned by 
                                                                                             
 
 [blockstart:3_uberschrift]
-The_Colossus_of_Rhodes
+罗得的巨像
 [blockend:3_uberschrift]	
 
 [blockstart:3_text_0]
-After the defeat of Kypros in the years 305/304 B.C., King Demetrios Poliorketes, the great city conqueror of the Alexandrine era, wanted to conquer the favourably located port of Rhodes that was flourishing at that time. After a long unsuccessful siege, he finally gave up his plan. The people of Rhodes thereupon honoured their patron saint Helios with a giant statue carved in his image.
+在公元前305/304年，大亚历山大时代的伟大城市征服者Demetrios Poliorketes击败了Kypros后，他想征服当时繁荣的罗得港口。经过长时间的失败围攻，他最终放弃了他的计划。罗得的人民因此用一尊占星者希利欧斯的巨大雕像来向他们的守护神Helios表示敬意。
 \n
 [blockend:3_text_0]	
 
 [blockstart:3_text_1]
-The Colossus of Rhodes was finished about 290 B.C. after a construction time of 12 years. Chares, a citizen of Lindos, declared himself responsible for the construction financed by selling the rest of the siege material that had been left over. Several sources say that the Colossus was built at a height of 80 ells (approx. 35 metres). The bronze image of the god supposedly sat on a triangular white marble pedestal. The notion that the Colossus stood straddling the entrance to the harbour, holding a flaming torch in his upraised right hand, does not correspond to the popular records. Instead, the reports tell of only one base (thus the god's legs cannot have been parted), and of a location in the middle of the city.
+罗得巨像在公元前290年左右完工，历时12年。由琳多斯的一位市民Chares负责建造，资金来源于剩余的围攻材料的出售。一些资料表明，巨像的高度为80肘（约35米）。据说，神的铜像坐落在一个三角形的白色大理石底座上。巨像站在港口入口处，抬起右手持着火炬的说法并不符合普遍的记录。相反，报告中只提到了一个底座（因此神的腿部不能分开），并且位于城市中心。
 \n
 \n
-66 years after its completion (around 224 B.C.), the statue collapsed during an earthquake and broke at the knees. Due to the oracle's wisdom "What lies well should not be moved", the Colossus was indeed left lying on the ground for almost 900 years. An old record of Pliny says: "Even lying on the ground, it is a marvel. Few people can make their arms meet round its thumbs, and its fingers are larger than most statues."
+在其竣工后66年（约公元前224年左右），一场地震导致雕像倒塌并在膝盖处折断。由于神谕的智慧：“站得好的东西不应该被移动”，巨像确实被放在地面上近900年之久。Pliny的一份古老记录说：“即使躺在地上，它也是一个奇迹。很少有人能将他们的手臂环绕在它的大拇指周围，它的手指比大多数雕像都要大。”
 \n
 \n
-After the conquest of the island by the Arabs in 653 A.D., the lower part of the Colossus that was still standing was pulled down from its marble pedestal, and the whole ore mass was brought to Edessa to be melted down.
+在公元653年阿拉伯人征服了罗得岛之后，雕像的下半部分仍然矗立着被从大理石底座上拆下，并将整块矿石送到埃德萨进行熔化。
 [blockend:3_text_1]	
 
 
@@ -127,23 +126,23 @@ After the conquest of the island by the Arabs in 653 A.D., the lower part of the
                                                                                             
 
 [blockstart:4_uberschrift]
-The_Tomb_of_Mausolos
+莫索洛斯陵墓
 [blockend:4_uberschrift]	
 
 [blockstart:4_text_0]
-In Halicarnassus, located in the south-western coastal region of Asia Minor, King Mausolos built a new residence with a palace and a temple complex. On a broad road that ran above the semicircular structure, a huge square was built that Mausolos always intended to use as his royal monumental tomb. The word "mausoleum" to describe a tomb was later derived from this.
+在小亚细亚西南沿海地区的哈利卡纳苏斯，国王莫索洛斯建造了一座新的住所，其中包括一座宫殿和一个神庙群。在一条宽阔的路上，在半圆形的结构上方建造了一个巨大的广场，莫索洛斯一直打算将其作为他的皇家纪念性陵墓使用。后来，“陵墓”一词用于描述墓地就是从这里演变而来的。
 \n
 
 [blockend:4_text_0]	
 
 [blockstart:4_text_1]
-The rectangular excavation pit of the Mausoleum that was found embedded in the stony ground had a surface of 39x33 square metres. Above the underground foundation stood the base construction, the Krepidoma, which was several storeys high. On top rested not the peripteral house, as was usually the case with Greek temples, but the multi-levelled based was continued in a massive prismatic body of about 33 metres in length and almost 27 metres in height, resulting in an overall base height of almost 22 metres. The top was crowned with the temple, measuring about 13 metres high and accommodating the "Pteron", a colonnade of 36 Asian-Ionic columns around the big centre; Asian-Ionic stone beams rounded off the construction. Above the temple rose a pyramid-like 9 metre-high roof consisting of 24 steps and a platform that held a marble four-horsed chariot with a height of 5 metres, including its own pedestal. The overall height of the Mausoleum amounted to 49 metres.
+在石质地面中发现的莫索洛斯陵墓的矩形挖掘坑面积为39x33平方米。在地下基础上方建立了几层高的基础构造，Krepidoma，高度约27米，几乎为22米。顶部是高约13米的神庙，装有“Pteron”，一个围绕大中心的36根亚洲-爱奥尼亚柱的回廊；亚洲-爱奥尼亚石梁圆润地结束了建筑。在神庙上方是一个金字塔状的9米高的屋顶，由24级台阶和一个平台组成，上面放着一个高5米（包括自己的基座）的大理石四匹马的战车。陵墓的总高度为49米。
 \n
 \n
-In 377 B.C., Mausolos moved to Halicarnassus. After 24 years on the throne, he died childless in the year 353 B.C. His unfinished tomb was first continued by his sister Artemisia, whom he was also married to. Two years later, the construction began to falter when Artemisia also died. It was only when Alexander the Great took care of the project in 334 B.C. that the Wonder could be finished.
+公元前377年，莫索洛斯搬到了哈利卡纳苏斯。在王位上任职24年后，他于公元前353年无子女去世。他的未完成的陵墓首先由他的妹妹Artemisia继续建造，他也与她结婚。两年后，当Artemisia去世时，建造开始动摇。直到公元前334年亚历山大大帝照料这个项目，奇迹才得以完成。
 \n
 \n
-Finally, in the 13th century, the tomb collapsed during an earthquake, and from the 15th century, in times of emergency and danger, the Knights of St. John used the material to build the defensive port fortress of Petronia, today known as Fort Budrum.
+最后，在13世纪，陵墓在一次地震中坍塌，从15世纪开始，在紧急和危险时期，耶稣骑士团使用材料修建了Petronia防御港口要塞，今天被称为Budrum堡垒。
 [blockend:4_text_1]	
 
 
@@ -152,22 +151,22 @@ Finally, in the 13th century, the tomb collapsed during an earthquake, and from 
                                                                                             
 
 [blockstart:5_uberschrift]
-The_Temple_of_Artemis
+阿尔忒弥斯神庙
 [blockend:5_uberschrift]	
 
 [blockstart:5_text_0]
-As early as 1398 B.C., a building with 4 columns was placed on the site of the later Artemis Temple to hold the image of a goddess that was said to have fallen from the sky. 
+早在公元前1398年，在后来的阿尔忒弥斯神庙的遗址上放置了一个带有4根柱子的建筑，用于容纳一尊据说从天上掉下来的女神形象。
 \n
 [blockend:5_text_0]	
 
 [blockstart:5_text_1]
-After about 560 / 550 B.C., this building was transformed into a giant temple, after having been destroyed and expanded several times. After the end of the Persian wars, around 440 B.C., the Temple was almost finished by Demetrios and Paionios from Ephesus, so that the construction works lasted for 120 years altogether. In 356 B.C., the magnificent site was burnt down by Herostratos, an insignificant citizen from Ephesus who had an obsessive desire to earn fame. At least the holy image of the goddess Artemis could be saved. Apparently, this gave the citizens of Ephesus the motivation to build a new home for the celestial image of the goddess. The new Artemis Temple was far more magnificent than its predecessor, and was later listed among the Seven Wonders of the World.
+大约在公元前560/550年，这座建筑被改造成一座巨大的神庙，经过多次被毁坏和扩建。在波斯战争结束后，约公元前440年，神庙基本上是由来自以弗所的Demetrios和Paionios完成的，因此总共持续了120年的建设。在公元前356年，这座宏伟的遗址被无足轻重的以弗所市民Herostratos焚毁，他渴望获得名声。至少女神阿尔忒弥斯的神圣形象得以保存。显然，这给了以弗所市民建造女神新住所的动力。新的阿尔忒弥斯神庙比其前身要华丽得多，并且后来被列入世界七大奇迹之一。
 \n
 \n
-Cheirokrates, an architect from Ephesus, took care of the planning, the organisation and the reconstruction. The debris of the collapsed building was used as a new foundation. The massive centre was filled up and smoothed out before being extended to a platform with an area of 125.67 x 65.05 square metres and a height of 2 metres by building a massive framework covered with marble. On this new foundation they built a construction that was to correspond exactly to the destroyed temple with regard to its basic plan and the arrangement of the columns. 127 columns, each with a height of at least 18 metres, are said to have been used for this. 
+来自以弗所的建筑师Cheirokrates负责规划、组织和重建工作。倒塌建筑的残骸被用作新的基础。巨大的中心被填充和平整，然后通过建造一个面积为125.67 x 65.05平方米，高2米的大理石框架来扩展为一个平台。在这个新的基础上，他们建造了一座建筑，其基本平面和柱子的排列与被摧毁的神庙完全相同。据说为此使用了127根高度至少18米的柱子。
 \n
 \n
-During the reign of the Great Roman Empire in Ephesus (after 133 A.D.), the Greek Artemis became the Roman Diana. After much plundering and pillaging during the time of the Goths (262 / 263 A.D.) and total destruction under Constantine the Great after the time of the Seljuks and the Osmano Turks (13th and 15th century), the remains disappeared in the constantly rising swamps.
+在大罗马帝国统治以弗所（公元133年后），希腊阿尔忒弥斯成为罗马戴安娜。在哥特人（公元262/263年）和君士坦丁大帝统治后（13世纪和15世纪的塞尔柱克人和奥斯曼人之后）的抢劫和破坏之后，遗迹消失在不断上升的沼泽中。
 [blockend:5_text_1]	
 
 
@@ -176,28 +175,28 @@ During the reign of the Great Roman Empire in Ephesus (after 133 A.D.), the Gree
                                                                                             
 
 [blockstart:6_uberschrift]
-Zeus_Statue_of_Phidias_in_Olympia 
+奥林匹亚的菲迪亚斯的宙斯雕像
 [blockend:6_uberschrift]	
 
 [blockstart:6_text_0]
-A consecrated site existed on the Peleponnes peninsular at the river Alpheios in the area of Elis since as early as the second millennium. A cult image of Zeus Areios, measuring about 4 metres in height, sat in the ancient temple of Hera on the festival square at the foot of the Kronos Hill. After the Persian wars had passed and with the following political progress, the people felt the desire to build their own mighty Zeus temple as a national shrine. Around 457 B.C., a typically Doric temple was built at the then important Hellenic place of worship.
+自第二千纪以来，Peleponnes半岛的Alpheios河流域的一个神圣的场所就存在着。在Kronos山脚下的古老赫拉神庙的节日广场上，有一尊Zeus Areios的文物，大约高4米。波斯战争结束后，伴随着后来的政治进步，人们渴望建造自己的巨大宙斯神庙作为国家圣地。约公元前457年，在当时重要的希腊祭祀地点建造了一座典型的多立克式神庙。
 \n
 [blockend:6_text_0]	
 
 [blockstart:6_text_1]
-Libon, an architect from the neighbouring city of Elis, built a church from white stone that was placed on three high pedestals and surrounded by 34 Doric columns. The temple covered an area of 30.30 x 66.74 square metres and had a height of around 24 metres up to its ridge, including the Nike Acroterion of Paionios. This became the site for the image of Zeus that was later created (around 438 / 432 B.C.) by the Greek Phidias. 
+邻近的伊利斯城的建筑师利波恩（Libon）用白石建造了一座教堂，它被放置在三个高的基座上，周围有34根多立克柱。这座神庙占地30.30 x 66.74平方米，高约24米，包括了帕伊奥尼奥斯的耐克装饰。这座神庙后来成为了希腊雕塑家菲迪亚斯创作（大约438/432年前后）的宙斯雕像的所在地。
 \n
 \n
-The enthroned figure of Zeus stood on a limestone plinth and was about seven times as tall as a man (about 12 metres). The mighty centre of this colossal structure was made from cypress and ebony. The naked body parts (face, neck, arms, hands and feet) were artfully modelled and carved in ivory. The soles of the sandals, the ankle-length robe of the god and the flowing hair were made of pure gold! In his outstretched right hand, Zeus held a floating, slim Nike; the left hand held a sceptre made out of various precious metals and crowned by the golden eagle. The golden stool beneath the god's feet held an inscription of the artist: "Phidias, son of Charmides from Athens, created me."
+坐在石灰石基座上的宙斯雕像身高约为人类身高的七倍（约12米）。这个巨大的结构中心由柏木和乌木制成。裸露的身体部位（脸、颈、手臂、手和脚）以象牙技巧巧妙地塑造和雕刻而成。凉鞋的鞋底、神的及脚踝长度的长袍以及飘逸的头发都是纯金制成！宙斯右手伸出，握着一只飞翔的细长耐克（胜利女神）；左手握着一根由各种贵金属制成并由金鹰加冕的权杖。宙斯脚下的金色凳子上刻有艺术家的铭文：“雅典的卡米德斯之子菲迪亚斯创作了我”。
 \n
 \n
-The Zeus temple with the famous Zeus Statue was about 80 meters away from the arena in Olympia. The athletes made sacrifices to their god before the competitions and took the oath of fair play.
+著名的宙斯神庙与宙斯雕像距离奥林匹亚竞技场约80米。运动员在比赛前向他们的神献祭，并发誓遵守公平竞争原则。
 \n
 \n
-During the Olympic Games (from 776 B.C. to 394 A.D.) that were held every four years, no arms were carried. Only men participated in the Games; women were excluded - even from the audience, as the men competed in the nude. The best athletes were determined in the disciplines of discus throwing, running, javelin, wrestling and the long jump - the winner was crowned with a laurel wreath. After the emperor Theodosius prohibited the Games, the temple too was closed in 426 A.D. Nobody knew what happened to the Statue. However, stone, marble and gold were often taken and used to create other works of art.
+在每四年举办的奥运会（公元前776年至公元394年）期间，不允许携带武器。只有男性参加比赛，女性被排除在外，甚至连观众席上也不允许女性入场，因为男性参赛者裸体比赛。最优秀的运动员在铁饼掷、跑步、标枪投掷、摔跤和跳远等项目中产生，获胜者将戴上月桂冠。在西奥多修斯禁止奥运会后，神庙在公元426年关闭。没人知道雕像去哪里了，然而，石头、大理石和黄金经常被取走，并用于创作其他艺术作品。
 \n
 \n
-Despite its beauty and magnificent decorations, the Statue of Zeus is probably the only one of the Seven Wonders of the World that was added to the list not because of its design, but because of its unbelievable aura as a kind of father of the gods and the people. "We look at the other Wonders of the World in amazement, but this one we adore," Philion of Byzantium wrote in an ancient travel guide.
+尽管它美丽而华丽的装饰，宙斯雕像可能是世界七大奇迹中唯一一个因其令人难以置信的神圣氛围而被列入名单的，它是神和人民的一种象征。拜占庭的菲利翁在一本古代旅行指南中写道：“我们对其他七大奇迹感到惊讶，但对这个我们崇拜”。
 [blockend:6_text_1]	
 
 
@@ -206,20 +205,20 @@ Despite its beauty and magnificent decorations, the Statue of Zeus is probably t
                                                                                             
 
 [blockstart:7_uberschrift]
-Pyramids_of_Giza 
+古埃及的吉萨金字塔
 [blockend:7_uberschrift]	
 
 [blockstart:7_text_0]
-The Pyramids of Giza were built in the days of the Fourth Dynasty by the kings Cheops, Chepren and Mycerinus (2590 - 2470 B.C.). The Pyramids of Cheops and Chepren are the tallest buildings of the entire antiquity, and were e.g. one third taller than the Tower of Babylon. 
+古埃及的吉萨金字塔是在第四王朝的国王舒夫、舒普雷和门考尔（公元前2590年至公元前2470年）统治时期建造的。胡夫金字塔和舒普雷金字塔是整个古代最高的建筑物，比巴比伦塔高出三分之一。
 \n
 [blockend:7_text_0]	
 
 [blockstart:7_text_1]
-With a square base area of a side length of 230.36 metres, the Pyramid of Cheops was originally 146.60 metres high. The Pyramid of Chepren originally measured 143.50 metres in height, with a side length of 215.26 metres.
+胡夫金字塔的方形基座面积为230.36米，最初高度为146.60米。舒普雷金字塔的原始高度为143.50米，边长为215.26米。
 \n
 \n
-Apparently, each of the Pyramids only contained one burial chamber of a very modest size - compared to the giant volume of the Pyramids. The chamber was either built in the rocky subsoil, on the same height as the Pyramid's base, or in the gravitational centre of the structure's stone mass. Only the burial chamber in the Pyramid of Cheops, in addition to the access tunnel, was connected to the outside world by narrow ventilation shafts (20 x 20 square centimetres). After the burial of the mummy in the burial chamber, the access tunnel was walled up for good, so that nobody could tell where the entrance was.
+显然，每个金字塔只包含一个非常简陋的墓室，与巨大的金字塔体量相比显得很小。墓室要么建在岩石地下，与金字塔基地齐平，要么建在结构石质量的重心位置。除了通道，胡夫金字塔的墓室还通过狭窄的通风管道（20 x 20平方厘米）与外界相连。在将木乃伊安葬在墓室后，通道被永久封闭，以便没有人能找到入口。
 \n
 \n
-Over the years, the construction of the Pyramids continued during the three months of the Nile inundations (from the middle of August until the middle of November), during which time the Egyptian farmers usually had no work to do. After building up the centre of a pyramid to serve as a large staircase with four fronts, the big terraces were interspersed from one storey to another by homogeneous layers. Initially, this resulted in a layered structure that could be climbed from all sides until the outer surfaces of the Pyramid were smoothed out from top to bottom, so that they finally sparkled in the sun like giant crystals or gleamed mysteriously under the stars at night in the glaring moonlight. The Pyramid of Cheops was once surfaced with snow-white limestone that had been thoroughly mortised and unshakeably fixed. However, as the outer layer was later used for the building of Cairo, the Pyramids nowadays are merely uncovered step pyramids.
+多年来，修建金字塔的工作在三个月的尼罗河洪水期间进行（从8月中旬到11月中旬），此时埃及农民通常没有工作可做。先是在金字塔中心建造一个用作四面大楼梯的大台阶，然后通过均匀的层层在每个层之间插入大露台。最初，这导致了一个分层结构，可以从四面攀爬，直到金字塔的外表从上到下被抹平，最终在阳光下闪闪发光，或者在夜晚的明亮月光下神秘地闪耀。胡夫金字塔曾经覆盖着彻底拼接和坚固固定的雪白石灰石。然而，随后外层被用于建造开罗，现在的金字塔只是露天的阶梯状金字塔。
 [blockend:7_text_1]	

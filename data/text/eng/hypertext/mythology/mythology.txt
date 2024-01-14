@@ -1,28 +1,29 @@
             
 [blockstart:indexstart]
-MYTHOLOGICAL INFORMATION
+Éñ»°ĞÅÏ¢
 [blockend:indexstart]
                   
 				                                                                                
 [blockstart:zurucktext]
-Back_to_selection
+·µ»ØÉÏ¸öÑ¡Ôñ
 [blockend:zurucktext]
     
 
                                                                                             
 
 [blockstart:0_uberschrift]
-Midgard_and_Asgard 
+Ã×µÂ¼Ó¶ûµÂºÍ°¢Ë¹¼ÓµÂ
 [blockend:0_uberschrift]	
 
 [blockstart:0_text_0]
-Midgard (Old Nordic "Midgardr", residence in the middle) is the world of the humans, located in the middle, between the fire world in the south and the ice world in the north, protected against Utgard by the Asen gods with the help of a bulwark and connected to Asgard via the Asen bridge of Bifrost.
+
+Ã×µÂ¼Ó¶ûµÂ£¨¹Å±±Å·Óï¡°Midgardr¡±£¬ÒâÎªÖĞ²¿×¡Ëù£©ÊÇÈËÀàµÄÊÀ½ç£¬Î»ÓÚÄÏ·½µÄ»ğÊÀ½çºÍ±±·½µÄ±ùÊÀ½çÖ®¼ä£¬ÓÉ°¢ÉªÉñºÍÒ»µÀ±¤Àİ±£»¤£¬Í¨¹ı²ÊºçÇÅÓë°¢Ë¹¼ÓµÂÁ¬½Ó¡£
 \n
 \n
-Asgard (Old Nordic "Asgadr") is the residence of the Asen gods - a huge mountain in the centre of the universe. At its peak lie Valhall and Hlidskjalf, the high seat of Odin. Vikings who die in battle are taken to Valhall (Valhalla). 
+°¢Ë¹¼ÓµÂ£¨¹Å±±Å·Óï¡°Asgadr¡±£©ÊÇ°¢ÉªÉñµÄ×¡Ëù¡ª¡ªÓîÖæÖĞĞÄµÄÒ»×ù¾Ş´óÉ½¡£É½¶¥ÉÏÓĞÍß¶û¹şÀ­ºÍ°Â¶¡µÄ¸ß×ùÏ¯Hlidskjalf¡£ÔÚÕ½¶·ÖĞËÀÈ¥µÄÎ¬¾©ÈË½«±»´øµ½Íß¶û¹şÀ­¡£
 \n
 \n
-Valhall (Old Nordic "Valholl", residence of those who die in war): In the hall of the fallen, Odin gathers the Einherjers for the last battle against the enemies of the world. 800 Einherjers were able to move out through each of the 540 gates of Valhall at a time.
+Íß¶û¹şÀ­£¨¹Å±±Å·Óï¡°Valholl¡±£¬Õ½ÕùÖĞËÀÈ¥ÕßµÄ×¡Ëù£©£ºÔÚÔÉÂäÕß´óÌü£¬°Â¶¡¾Û¼¯Ó¢ĞÛ£¬×¼±¸½øĞĞ×îºóÒ»³¡ÓëÊÀ½çµĞÈËµÄÕ½¶·¡£Ã¿´Î800ÃûÔÉÂäÕßÄÜ¹»Í¬Ê±´©¹ıÍß¶û¹şÀ­µÄ540¸ö´óÃÅ¡£
 [blockend:0_text_0]	
 
 [blockstart:0_text_1]
@@ -33,22 +34,22 @@ Valhall (Old Nordic "Valholl", residence of those who die in war): In the hall o
                                                                                             
 
 [blockstart:1_uberschrift]
-Vanen_and_Asen 
+·²¶÷Éñ×åºÍ°¢ÉªÉñ×å
 [blockend:1_uberschrift]	
 
 [blockstart:1_text_0]
-The Viking gods belong to two different tribes. One of these, the tribe of the Vanen gods, is very important and affects many things in nature, but there are comparatively few major gods here. The Vanen gods (Nordic "Vanir") are the descendants of Mother Earth. Freyr and Freya are the most important among them. The tribe most gods belong to is that of the Asen gods, Odin's family. 
+Î¬¾©Éñµo·ÖÎªÁ½¸ö²»Í¬µÄ×Ú×å¡£ÆäÖĞÒ»¸öÊÇ·²¶÷Éñ×å£¬¶Ô×ÔÈ»½çµÄĞí¶àÊÂÎï²úÉúÖØÒªÓ°Ïì£¬µ«ÕâÀïµÄÖ÷ÒªÉñÃ÷Ïà¶Ô½ÏÉÙ¡£·²¶÷Éñ£¨±±Å·Óï¡°Vanir¡±£©ÊÇ´óµØÄ¸ÉñµÄºó´ú¡£¸¥À×ºÍ¸¥ÀÙÑÅÊÇÆäÖĞ×îÖØÒªµÄ¡£¶ø´ó¶àÊıÉñÃ÷ÊôÓÚ°Â¶¡¼Ò×åµÄ°¢ÉªÉñ×å¡£
 \n
-The Vanen gods are friendly, helpful and life-giving, connected with earth and water. They live in the powers that help nature to grow, give the fields fruit, secure the offspring and create peace, understanding, love and friendship among the humans. 
-\n
-\n
-So, several gods belong to the powerful lineage of the Asen gods, for example: the almighty Odin and his wife Frigg, Thor with his hammer Mjöllnir, Baldur the Good, the one-handed Tyr, the poet Bragi, Idun with the apples of eternal youth, and Heimdall, the keeper of Asgard.
+·²¶÷ÉñÓÑºÃ¡¢ÀÖÓÚÖúÈË¡¢¸³ÓèÉúÃüÁ¦£¬Óë´óµØºÍË®Ïà¹ØÁª¡£ËûÃÇ¾Ó×¡ÔÚÖú³¤×ÔÈ»Éú³¤¡¢¸øÌïµØ½á¹û¡¢±£ÕÏ×ÓËÃ¡¢ÔÚÈËÀàÖ®¼ä´´ÔìºÍÆ½¡¢Àí½â¡¢°®ÓëÓÑÒêµÄÁ¦Á¿ÖĞ¡£
 \n
 \n
-Others belong to the noble lineage of the Vanen gods: Njord, Frey and Freya, the goddess of war and fertility ...
+Òò´Ë£¬Ò»Ğ©ÉñÃ÷ÊôÓÚÇ¿´óµÄ°¢ÉªÉñ×åÑªÍ³£¬ÀıÈç£ºÈ«ÄÜµÄ°Â¶¡ºÍËûµÄÆŞ×Ó¸¥Àö¸ñ¡¢ÊÖ³ÖÀ×ÉñÖ®´¸Ã×ÊÏ¶ûÄá¶ûµÄË÷¶û¡¢ÉÆÁ¼µÄ°Í¶ûµÂ¡¢µ¥ÊÖµÄÌá¶û¡¢Ê«ÈË²¼À­¼ª¡¢ÓµÓĞÓÀÉú¹ûÊµÒÁ¶ÙÒÔ¼°°¢Ë¹¼ÓµÂµÄ¿´ÃÅÈËº£Ä·´ï¶û¡£
+\n
+\n
+ÆäËûÉñÃ÷ÔòÊôÓÚ¸ß¹óµÄ·²¶÷Éñ×åÑªÍ³£¬±ÈÈç£ºÄáÔ¼µÂ¡¢¸¥À×ºÍ¸¥ÀÙÑÅ£¬Õ½ÕùºÍÉúÓıÖ®ÉñÅ®¡­¡­
 \n
 \n 
-... but among them in Asgard dwells Loki, a friend of the giants, who with his poisonous lies wreaks havoc among the gods. 
+ÔÚ°¢Ë¹¼ÓµÂÖĞ£¬»¹¾Ó×¡×ÅÂå»ù£¬Ò»¸öÓë¾ŞÈËÎªÓÑ£¬ÒÔÆä¶¾ÉàÔì³ÉÁËÉñÃ÷Ö®¼äµÄ»ìÂÒ¡£
 [blockend:1_text_0]	
 
 [blockstart:1_text_1]
@@ -60,18 +61,18 @@ Others belong to the noble lineage of the Vanen gods: Njord, Frey and Freya, the
                                                                                             
 
 [blockstart:2_uberschrift]
-The_Fenris_Wolf
+·ÒÀï¶ûÀÇ
 [blockend:2_uberschrift]	
 
 [blockstart:2_text_0]
-The Fenris Wolf (Old Nordic "Fenrir", wolf of the moorland) is the offspring of Loki and the giantess Angurboda. He is an enemy of the gods. They chain him, but he frees himself in the Ragnarok and devours Odin.
+·ÒÀï¶ûÀÇ£¨¹Å±±Å·Óï¡°Fenrir¡±£¬ÕÓÔóÖ®ÀÇ£©ÊÇÂå»ùºÍ¾ŞÈË°²¸ñ¶û²©´ïµÄºóÒá£¬ÊÇÉñÃ÷µÄµĞÈË¡£ËûÃÇÓÃËøÁ´Êø¸¿Ëû£¬µ«ËûÔÚÖîÉñµÄ»Æ»èÖĞ×ÔÎÒ½â·Å£¬²¢ÍÌÊ³ÁË°Â¶¡¡£
 \n
 [blockend:2_text_0]	
 
 [blockstart:2_text_1]
-He was raised in Asgard, but very soon he became huge, wild and mad, so that only the god Tyr dared to feed him. The Asen gods persuade the dwarfs to forge a chain out of six components: the echo of cats' paws, the beards of women, the roots of the mountains, the tendons of the bears, the breath of the fish and the saliva of the birds. This is why cats' paws don't make a sound, why women don't have beards ... 
+ËûÔÚ°¢Ë¹¼ÓµÂ³¤´ó£¬ºÜ¿ì±äµÃÅÓ´ó¡¢¿ñÒ°ºÍ·è¿ñ£¬Ö»ÓĞÌá¶û¸ÒÓÚÎ¹ÑøËû¡£°¢ÉªÉñËµ·ş°«ÈË´òÔìÁËÒ»ÌõËøÁ´£¬ÓÉÁù²¿·Ö×é³É£ºÃ¨×¦µÄ»ØÉù¡¢Å®ÈËµÄºúĞë¡¢É½ÂöµÄ¸ù¡¢ĞÜµÄ¼¡ëì¡¢ÓãµÄÆøÏ¢ºÍÄñµÄ¿ÚË®¡£Õâ¾ÍÊÇÎªÊ²Ã´Ã¨×¦²»·¢³öÉùÒô£¬Å®ÈËÃ»ÓĞºúĞë¡­¡­
 \n
-With cunning they chain the wolf so that he can barely move, and they stick a sword between his jaws so he can only stand motionless with his mouth wide open, unable to bite at all. Only when Ragnarok (the end of the world) comes will he be able to free himself ... 
+ËûÃÇÇÉÃîµØÓÃËøÁ´Êø¸¿ÀÇ£¬Ê¹Ëû¼¸ºõÎŞ·¨ÒÆ¶¯£¬²¢ÔÚËûµÄ×ì¼ä²åÉÏÒ»°Ñ½££¬Ê¹ËûÖ»ÄÜÕÅ×Å´ó×ìÕ¾Á¢£¬¸ù±¾ÎŞ·¨Ò§ÈË¡£Ö»ÓĞµ±ÊÀ½çµÄ»Æ»èÀ´ÁÙÊ±£¬Ëû²ÅÄÜ×ÔÎÒ½â·Å¡­¡­
 [blockend:2_text_1]	
 
 
@@ -80,19 +81,18 @@ With cunning they chain the wolf so that he can barely move, and they stick a sw
                                                                                             
 
 [blockstart:3_uberschrift]
-The_World_Tree_Yggdrasil 
+ÊÀ½çÊ÷¡ª¡ªÒÁ¸ñµÂÀ­Ï£¶û 
 [blockend:3_uberschrift]	
 
 [blockstart:3_text_0]
-Yggdrasil - a holy place in the centre of the world - is considered the most beautiful of all trees. It carries the world, and its branches spread from heaven to earth. They connect Asgard - the land of the gods - with Midgard - the land of the humans - and both of these with the underground realms of Hel and Niflheim. The tree of life is evergreen; if a branch dies, new leaves will sprout the next day. Three strong roots reach far and keep Yggdrasil upright. The first root stretches to the gods and humans, the second to the giants, the third to Niflheim. A spring has its source under each root.
+ÒÁ¸ñµÂÀ­Ï£¶ûÊÇÊÀ½çÖĞĞÄµÄÊ¥µØ£¬±»ÈÏÎªÊÇËùÓĞÊ÷Ä¾ÖĞ×îÃÀÀöµÄ¡£Ëü³ĞÔØ×ÅÊÀ½ç£¬²¢ÇÒËüµÄÖ¦¸É´ÓÌìÌÃÑÓÉìµ½µØÃæ¡£Ëü½«°¢Ë¹¼ÓµÂ£¨ÉñÁéÖ®µØ£©ÓëÃ×µÂ¼Ó¶ûµÂ£¨ÈËÀàÖ®µØ£©ÒÔ¼°ÕâÁ½ÕßÓëÚ¤½çºÍÄá·ò¶ûº£Ä·µÄµØÏÂÁìÓòÁ¬½ÓÆğÀ´¡£Õâ¿ÃÉúÃüÖ®Ê÷³£Çà²»°Ü£»Èç¹ûÒ»¸ùÖ¦¸ÉËÀÈ¥£¬µÚ¶şÌì¾Í»á³¤³öĞÂÒ¶¡£Èı¸ù¼áÊµµÄ¸ùÑÓÉìºÜÔ¶£¬Ê¹ÒÁ¸ñµÂÀ­Ï£¶û±£³ÖÍ¦Á¢¡£µÚÒ»¸ù¸ùÑÓÉìµ½ÉñÁéºÍÈËÀà£¬µÚ¶ş¸ùÑÓÉìµ½¾ŞÈË£¬µÚÈı¸ùÑÓÉìµ½Äá·ò¶ûº£Ä·¡£Ã¿¸ù¸ùÏÂ¶¼ÓĞÒ»´¦ÈªÔ´¡£
 \n
 [blockend:3_text_0]	
 
 [blockstart:3_text_1]
-On the top of the World Tree a cockerel stands on guard, sparkling golden in the sunlight. Among the highest branches of the World Tree perches an eagle that knows many things, and between his eyes sits a hawk named Vedurfolnir, the weathermaker.
+ÔÚÊÀ½çÊ÷µÄ¶¥²¿£¬Ò»Ö»¹«¼¦Õ¾¸Ú£¬ÉÁÉÁ·¢¹â£¬Ñô¹âÏÂ½ğ¹âÉÁÉÁ¡£ÔÚÊÀ½çÊ÷µÄ×î¸ßÖ¦Í·£¬ÆÜÏ¢×ÅÒ»Ö»ÖªÏşÖÚ¶àÊÂÎïµÄÀÏÓ¥£¬ÆäË«ÑÛÖ®¼äÆÜÏ¢×ÅÒ»Ö»Ãû½ĞVedurfolnirµÄ²ÔÓ¥£¬¼´Ôì³ÉÌìÆø±ä»¯µÄ²ÔÓ¥¡£
 \n
-The tree is threatened by many dangers. The goat Heidrun grazes on its branches. Four stags eat its young shoots. Niddhogg, the dragon of envy, nests at its roots. He and other serpent-like worms are continuously gnawing at Yggdrasil. There is a feud between the eagle in the heights and the dragon in the deep. A squirrel, Ratatoskr, runs up and down the trunk, passing messages between the two rivals and incessantly creating new dispute in the world. Nevertheless, the tree remains green, and it is said that it will remain so until the twilight of the gods, because it is protected by the Norns, who know the fate of the world.
-The gods hold their councils at this holy site and ride to it over the Asen bridge of Bifrost.
+ÊÀ½çÊ÷ÃæÁÙĞí¶àÎ£ÏÕ¡£É½Ñòº£µÂÂ×ÔÚËüµÄÖ¦ÉÏ³Ô²İ¡£ËÄÖ»ĞÛÂ¹³ÔËüµÄĞÂÖ¦¡£ÄİµÂ»ô¸ñ£¬¼µ¶ÊÖ®Áú£¬Öş³²ÓÚËüµÄ¸ù²¿¡£ËûºÍÆäËûÏñÉßÒ»ÑùµÄ³æ×Ó²»¶ÏµØ¿ĞÊ³×ÅÒÁ¸ñµÂÀ­Ï£¶û¡£Ó¥ÔÚÌì¿ÕºÍÉîÔ¨ÖĞµÄÁú¼ä´æÔÚ²»ºÍ¡£Ò»Ö»Ãû½ĞÀ­ËşÍĞË¹¿ËµÄËÉÊóÔÚÊ÷¸ÉÉÏÏÂ±¼ÅÜ£¬´«µİÏûÏ¢¸øÕâÁ½¸öµĞ¶ÔÕß£¬²¢²»¶ÏÖÆÔìÊÀ½çÉÏµÄĞÂÕù¶Ë¡£¾¡¹ÜÈç´Ë£¬Ê÷ÒÀÈ»´äÂÌ£¬¾İËµÖ±µ½ÖîÉñµÄ»Æ»è£¬ÒòÎªËüÊÜÅµ¶÷Å®ÉñµÄ±£»¤£¬ËıÖªÏşÊÀ½çµÄÃüÔË¡£ÖîÉñÔÚÕâ¸öÊ¥µØ¾ÙĞĞÒé»á£¬²¢ÇÒ³Ë×Å²ÊºçÇÅµ½´ïÕâÀï¡£
 [blockend:3_text_1]	
 
 
@@ -101,15 +101,15 @@ The gods hold their councils at this holy site and ride to it over the Asen brid
                                                                                             
 
 [blockstart:4_uberschrift]
-Heimdall_-_Keeper_of_the_Gods
+º£Ä·´ï¶û¡ª¡ªÉñÃ÷µÄÊØ»¤Õß
 [blockend:4_uberschrift]	
 
 [blockstart:4_text_0]
-Heimdall (Heimdallr) is the guardian of the three-rayed bridge of Bifrost, which leads from the earth to Asgard and resembles a rainbow. With his excellent hearing, he listens for enemies of the gods by day and night. The Asen gods cross the bridge every day. In case of danger, Heimdall will warn Asgard with his Gjallarhorn (Old Nordic "the loud horn"), which he will also blow on the day of Ragnarok, the twilight of the gods. It is said that the horn will sound in all nine worlds.
+º£Ä·´ï¶û£¨Heimdallr£©ÊÇÈıµÀ²ÊºçÇÅBifrostµÄÊØ»¤Õß£¬ËüÍ¨ÏòµØÇòµ½°¢Ë¹¼ÓµÂ£¬ĞÎÈçÒ»µÀ²Êºç¡£Ëû°×ÌìºÍºÚÒ¹½èÖúÆäÃôÈñµÄÌı¾õ¼àÌı×ÅÉñÃ÷µÄµĞÈË¡£°¢ÉªÉñÃ¿Ìì¶¼Òª¹ıÇÅ¡£ÔÚÎ£ÏÕÇé¿öÏÂ£¬º£Ä·´ï¶û»áÓÃËûµÄGjallarhorn£¨¹Å±±Å·Óï¡°´óºÅ½Ç¡±£©¾¯¸æ°¢Ë¹¼ÓµÂ£¬¶øÔÚÖîÉñµÄ»Æ»èÊ±£¬ËûÒ²½«´µÏìÕâÖ»ºÅ½Ç¡£¾İËµºÅ½ÇµÄÉùÒô½«´«±é¾Å¸öÊÀ½ç¡£
 \n 
-He is considered the progenitor of humans and the different levels of society. Heimdall lives in his palace Himinbioerg at the bridge of Bifrost.
+Ëû±»ÈÏÎªÊÇÈËÀàºÍÉç»á²»Í¬²ãÃæµÄÊ¼×æ¡£º£Ä·´ï¶û¾Ó×¡ÔÚËûµÄ¹¬µîHiminbioergÔÚ²ÊºçÇÅµÄÅÔ±ß¡£
 \n
-He sleeps less than a bird and it is said that he can see for a distance of 100 miles by day and night, and that he can hear the grass grow.
+Ëû±ÈÄñ¶ùË¯Ãß¸üÉÙ£¬¾İËµËû°×ÌìºÍºÚÒ¹¿ÉÒÔ¿´µ½100Ó¢ÀïÔ¶µÄ¾àÀë£¬¿ÉÒÔÌıµ½²İÉú³¤µÄÉùÒô¡£
 [blockend:4_text_0]	
 
 [blockstart:4_text_1]
@@ -121,19 +121,19 @@ He sleeps less than a bird and it is said that he can see for a distance of 100 
                                                                                             
 
 [blockstart:5_uberschrift]
-Almighty_Odin
+È«ÄÜµÄ°Â¶¡
 [blockend:5_uberschrift]	
 
 [blockstart:5_text_0]
-Like the other Asen gods, their one-eyed father lives in Asgard, where he owns three castles. On the occasion of Gladsheim he chairs the gathering of the Diar. In Valaskialf he is enthroned upon Hliskialf, from where he can see the entire world. In Valhall (Valhalla) he gathers the Einherjers, the heroes who have fallen in battle, around him.
+ÏñÆäËû°¢ÉªÉñÒ»Ñù£¬ËûÖ»ÓĞÒ»Ö»ÑÛ¾¦µÄ¸¸Ç×Éú»îÔÚ°¢Ë¹¼ÓµÂ£¬ÓµÓĞÈı×ù³Ç±¤¡£ÔÚ¸ñÀ­×Èº£Ä·£¬ËûÖ÷³Ö×ÅµÏÑÇ¶ûµÄ¾Û»á¡£Ëû×øÔÚÍßÀ­Ë¹»ùÑÇ¶ûÉÏ£¬¿ÉÒÔ¸©ÊÓÕû¸öÊÀ½ç¡£ÔÚÍß¶û¹şÀ­£¬Ëû¾Û¼¯Õ½¶·ÖĞÔÉÂäµÄÓ¢ĞÛÃÇ¡£
 \n
-The name Odin (Odinn, Wodan, Wotan, Voden) is derived from the word woğ, which means "fury" (but originally referred to a spiritual/mental excitement, energy, enthusiasm and ecstasy). 
+°Â¶¡£¨Odinn£¬Wodan£¬Wotan£¬Voden£©µÄÃû×ÖÔ´×Ôµ¥´Êwo??£¬ÒâÎª¡°¿ñÅ­¡±£¨µ«×î³õÖ¸µÄÊÇ¾«Éñ/ĞÄÁéµÄ¼¤¶¯¡¢ÄÜÁ¿¡¢ÈÈÇéºÍ¿ñÏ²£©¡£
 \n
-Odin is the god of spiritual powers, knowledge and wisdom. He is a magician, a seer, a healer, a poet and the discoverer of the runes. He reveals himself in the powers of wind and storm, in the rustling of the forests and everything that holds a secret power. He is known as the almighty father (Nordic "Alföğur"), because he is the father of the gods and our mythological ancestor. He knows and fulfils the fates of humans. This is why he is also the god of death, the leader of the spirits of the dead and the lord of war.
+°Â¶¡ÊÇ¾«ÉñÁ¦Á¿¡¢ÖªÊ¶ºÍÖÇ»ÛÖ®Éñ¡£ËûÊÇÒ»ÃûÊõÊ¿¡¢Õ¼²·Õß¡¢Ò½ÖÎÕß¡¢Ê«ÈËºÍ·ûÎÄµÄ·¢ÏÖÕß¡£ËûÔÚ·çºÍ·ç±©µÄÁ¦Á¿ÖĞÏÔÏÖ£¬ÔÚÉ­ÁÖµÄÉ³É³ÉùÖĞÒÔ¼°Ò»ÇĞÒş²Ø×ÅÃØÃÜÁ¦Á¿µÄÊÂÎïÖĞ¡£Ëû±»³ÆÎªÈ«ÄÜµÄ¸¸Éñ£¨±±Å·Óï¡°Alföğur¡±£©£¬ÒòÎªËûÊÇÉñÃ÷µÄ¸¸Ç×£¬Ò²ÊÇÎÒÃÇµÄÉñ»°×æÏÈ¡£ËûÁË½â²¢ÊµÏÖÁËÈËÀàµÄÃüÔË¡£Òò´Ë£¬ËûÒ²ÊÇËÀÍöÖ®Éñ¡¢ËÀÕßÖ®ÁéµÄÁìµ¼ÕßºÍÕ½ÕùÖ®Ö÷¡£
 \n 
-Due to his spiritual superiority as a shaman or druid, Odin is the highest god and combines spirit, will and consecration. He is therefore revered as a trinity: Odin, Vili and Vé.
+ÓÉÓÚËû×÷ÎªÈøÂú»òµÂÂ³ÒÁµÄ¾«Éñ×¿Ô½£¬°Â¶¡ÊÇ×î¸ßµÄÉñÃ÷£¬½áºÏÁË¾«Éñ¡¢ÒâÖ¾ºÍ·îÏ×¡£Òò´Ë£¬Ëû±»×ğ·îÎªÈıÎ»Ò»Ìå£º°Â¶¡¡¢Î¬ÀûºÍÎ¬£¿
 \n
-Odin is married to Frigg, who gave birth to their sons Thor, Baldur and Tyr. 
+°Â¶¡È¢ÁË¸¥Àö¸ñ£¬ËûÃÇÉúÏÂÁËËûÃÇµÄ¶ù×ÓË÷¶û¡¢°Í¶ûµÂºÍÌá¶û¡£
 [blockend:5_text_0]	
 
 [blockstart:5_text_1]
@@ -145,15 +145,15 @@ Odin is married to Frigg, who gave birth to their sons Thor, Baldur and Tyr.
                                                                                             
 
 [blockstart:6_uberschrift]
-Frigg_-_the_Queen_of_the_Heavens 
+¸¥Àö¸ñ¡ª¡ªÌì¹úÅ®Íõ
 [blockend:6_uberschrift]	
 
 [blockstart:6_text_0]
-Frigg (beloved) is the most important goddess among the Asen gods. She is Odin's wife and the mother of Baldur and Thor. Above all, she is the goddess of love, women, family and the home. It is said that she is omniscient, but discreet. Frigg's palace is the Fensal (hall of water).
+¸¥Àö¸ñ£¨ĞÄ°®µÄ£©ÊÇ°¢ÉªÉñÖĞ×îÖØÒªµÄÅ®Éñ¡£ËıÊÇ°Â¶¡µÄÆŞ×Ó£¬°Í¶ûµÂºÍË÷¶ûµÄÄ¸Ç×¡£×îÖØÒªµÄÊÇ£¬ËıÊÇ°®Ö®Å®Éñ¡¢Å®ĞÔ¡¢¼ÒÍ¥ºÍ¼ÒÍ¥µÄÅ®Éñ¡£¾İËµËıÎŞËù²»Öª£¬µ«ÓÖÉ÷ÖØ¡£¸¥Àö¸ñµÄ¹¬µîÊÇ·ÒÈø¶û£¨Ë®Ö®Ìü£©¡£
 \n
-She is the great goddess, but in keeping with the common nature of the Asen gods, she is not considered the mother of the earth, but the queen of the heavens. As such, she reigns over the holy order of the universe and the unions of humans which transcend the limits of clans. She guards the oaths with which strangers commit themselves to one another and marriage, by which not only individual women and men, but also their clans are bound. Therefore she is the goddess of married women, she protects them in their tasks and interests.
+ËıÊÇÎ°´óµÄÅ®Éñ£¬µ«°´ÕÕ°¢ÉªÉñÆÕ±éµÄĞÔÖÊ£¬Ëı²»±»ÊÓÎª´óµØÖ®Ä¸£¬¶øÊÇÌì¹úµÄÅ®Íõ¡£×÷ÎªÕâÑùµÄÅ®Íõ£¬ËıÍ³ÖÎ×ÅÓîÖæµÄÉñÊ¥ÖÈĞòºÍ³¬Ô½¼Ò×åÏŞÖÆµÄÈËÀàÁªÃË¡£Ëı±£»¤×ÅÒì°îÈËÖ®¼äËù×öµÄÊÄÑÔÒÔ¼°»éÒö£¬Õâ²»½öÊÇ¸ö±ğÄĞÅ®Ö®¼äµÄ£¬Ò²ÊÇËûÃÇµÄ¼Ò×åÖ®¼äµÄÊÄÔ¼¡£Òò´Ë£¬ËıÊÇÒÑ»é¸¾Å®µÄÅ®Éñ£¬ËıÔÚËıÃÇµÄÈÎÎñºÍÀûÒæÖĞ±£»¤ËıÃÇ¡£
 \n 
-Frigg possesses shaman magic and is a seer, the same as Odin. However, she didn't have to learn these skills as Odin did, but simply owns these abilities. The powers and divinity of goddesses are innate, they don't have to acquire them or fight for them as the gods do. In contrast to Freya, who taught Odin the art of Seiğr, Frigg doesn't pass on her knowledge. She knows the destiny of all beings but remains silent, because she knows that fate is irrevocable. This attitude lies in Frigg's nature, because as the queen of the heavens and ruler of the divine order, she herself shapes destiny.
+¸¥Àö¸ñÓµÓĞÈøÂúÄ§·¨£¬ºÍ°Â¶¡Ò»ÑùÊÇÒ»ÃûÕ¼²·Õß¡£È»¶ø£¬Ëı²»Ïñ°Â¶¡ÄÇÑùĞèÒªÑ§Ï°ÕâĞ©¼¼ÄÜ£¬¶øÊÇÌìÉú¾ß±¸ÕâĞ©ÄÜÁ¦¡£Å®ÉñÃÇµÄÁ¦Á¿ºÍÉñĞÔÊÇÓëÉú¾ãÀ´µÄ£¬²»±ØÏñÉñÃ÷ÄÇÑùÈ¥»ñµÃ»òÕù¶·¡£Óë¸¥ÀÙæ«²»Í¬£¬¸¥Àö¸ñÃ»ÓĞ½Ì°Â¶¡Õ¼²·µÄÒÕÊõ¡£ËıÖªÏşËùÓĞÉúÁéµÄÃüÔË£¬µ«±£³Ö³ÁÄ¬£¬ÒòÎªËıÖªµÀÃüÔËÊÇ²»¿É³·ÏúµÄ¡£ÕâÖÖÌ¬¶ÈÔÌ²ØÔÚ¸¥Àö¸ñµÄ±¾ĞÔÖĞ£¬ÒòÎª×÷ÎªÌì¹úÅ®ÍõºÍÉñÊ¥ÖÈĞòµÄÍ³ÖÎÕß£¬Ëı±¾ÉíËÜÔì×ÅÃüÔË¡£
 [blockend:6_text_0]	
 
 [blockstart:6_text_1]
@@ -165,17 +165,17 @@ Frigg possesses shaman magic and is a seer, the same as Odin. However, she didn'
                                                                                             
 
 [blockstart:7_uberschrift]
-The_Thunder_God_Thor
+À×ÉñË÷¶û
 [blockend:7_uberschrift]	
 
 [blockstart:7_text_0]
-Odin and Frigg's first-born son is the strongest of all gods and humans, the second highest of all Asen gods after his father. He is the god of the warriors, of fertility and thunder (Old Nordic (Icelandic) "the thunderer"), the god of thunderstorms among the Asen lineage.
+°Â¶¡ºÍ¸¥Àö¸ñµÄ³¤×ÓÊÇËùÓĞÉñÃ÷ºÍÈËÀàÖĞ×îÇ¿´óµÄ£¬½ö´ÎÓÚËû¸¸Ç×µÄËùÓĞ°¢ÉªÉñÖĞÅÅĞĞµÚ¶şµÄÉñÃ÷¡£ËûÊÇÕ½Ê¿Ö®Éñ¡¢·ÊÎÖºÍÀ×µçÖ®Éñ£¨¹Å±±Å·Óï£¨±ùµºÓï£©¡°À×Éñ¡±£©£¬ÊÇ°¢ÉªÉñ×åµÄÀ×±©Ö®Éñ¡£
 \n 
-He is the protector of the divine lineage of the Asen gods, and at the same time protects the divine lineage of the Vanen gods and of Midgard, its inhabitants and their hearths, homes and families. Apart from his role as a protector, Thor (Donar, Donner, Thorr) is a god of agriculture and brings warm rain at the time of the harvest.
+ËûÊÇ°¢ÉªÉñ×åµÄÉñÃ÷Ö®ÉñµÄÊØ»¤Õß£¬Í¬Ê±Ò²ÊÇ·²¶÷Éñ×åºÍÃ×µÂ¼Ó¶ûµÂ¡¢Æä¾ÓÃñÒÔ¼°ËûÃÇµÄÂ¯Ôî¡¢¼ÒÔ°ºÍ¼ÒÍ¥µÄÉñÃ÷Ö®ÉñµÄÊØ»¤Õß¡£³ıÁËËûµÄÊØ»¤Ö°ÔğÍâ£¬Ë÷¶û£¨Donar£¬Donner£¬Thorr£©Ò²ÊÇÅ©ÒµÖ®Éñ£¬ÄÜÔÚÊÕ»ñ¼¾½Ú´øÀ´ÎÂÅ¯µÄÓêË®¡£
 \n
-He is described as a man in the prime of life with a red beard, of a solid build, good-natured, upright and honest, but easily upset and angered. With his battle hammer Mjöllnir, which always returns to him, he creates lightning and successfully fights the giants. His servants are Thjalfi and Röskwa, his realm is Thrudwanger and his castle Bilskirnir, his flying war chariot is drawn by two billy goats called "tooth-cracker" and "tooth-gnasher" (Tanngniostr and Tanngrisnt).
+Ëû±»ÃèÊöÎª×³ÄêÊ±ÆÚµÄÄĞĞÔ£¬ºìÉ«µÄºúĞë£¬Ìå¸ñ½¡Ë¶£¬ĞÔÇéÎÂºÍ¡¢ÕıÖ±¡¢³ÏÊµ£¬µ«ÈİÒ×¼¤¶¯ºÍ·ßÅ­¡£ËûÓÃÓÀÔ¶»Øµ½ËûÉí±ßµÄÕ½´¸ÖÆÔìÉÁµç£¬²¢³É¹¦µØÓë¾ŞÈËÕ½¶·¡£ËûµÄÆÍÈËÊÇThjalfi£¬ËûµÄÁìµØÊÇThrudwanger£¬ËûµÄ³Ç±¤ÊÇBilskirnir£¬ËûµÄ·ÉĞĞÕ½³µÓÉÁ½Ö»Ãû½Ğ¡°Ò§ÁÑÕß¡±ºÍ¡°Ò§½ÀÕß¡±µÄÉ½ÑòÇı¶¯¡£
 \n
-With his belt of power, his iron gloves and Mjöllnir, Thor defends the worlds against the attacks of the giants from Utgard and their allied trio Hel, the Midgard serpent and the great wolf Fenrir. Thor is considered a special friend of the people. 
+Ë÷¶ûÆ¾½èËûµÄÁ¦Á¿Ö®´ø¡¢ÌúÊÖÌ×ºÍMjöllnirº´ÎÀ×ÅÊÀ½çÃâÊÜÀ´×ÔÎÚÌØ¼ÓµÂµÄ¾ŞÈË¼°ÆäÈıÎ»ÃËÓÑ¡ª¡ªÚ¤½ç¡¢ÖĞÑëÉßºÍ´óÀÇ·ÒÀï¶ûµÄ¹¥»÷¡£Ë÷¶û±»ÊÓÎªÈËÀàµÄÌØÊâÅóÓÑ¡£
 [blockend:7_text_0]	
 
 [blockstart:7_text_1]
@@ -187,13 +187,13 @@ With his belt of power, his iron gloves and Mjöllnir, Thor defends the worlds ag
                                                                                             
 
 [blockstart:8_uberschrift]
-Baldur_-_the_God_of_Light
+°Í¶ûµÂ¡ª¡ª¹âÃ÷Ö®Éñ
 [blockend:8_uberschrift]	
 
 [blockstart:8_text_0]
-Baldur (Balder, Baldr, Power, Lord, the Radiant), the cleverest and most beautiful of the Asen gods, is the second son of Odin and Frigg. He is a god of sunshine and spring, the god of light and the creator of anything good, the god of kindness and male beauty. Baldur is also the god of sorrow, as he was killed by Hoedr through Loki's cunning. The death of Baldur heralded the beginning of Ragnarok.
+°Í¶ûµÂ£¨Balder£¬Baldr£¬Power£¬Lord£¬the Radiant£©ÊÇ°¢ÉªÉñÖĞ×î´ÏÃ÷¡¢×îÃÀÀöµÄ£¬ÊÇ°Â¶¡ºÍ¸¥Àö¸ñµÄµÚ¶ş¸ö¶ù×Ó¡£ËûÊÇÑô¹âºÍ´ºÌìÖ®Éñ£¬ÉÆÁ¼ºÍÃÀÀöÖ®Éñ£¬ÉÆÁ¼ºÍÄĞĞÔÃÀµÄ´´ÔìÕß¡£°Í¶ûµÂÒ²ÊÇ±¯ÉËÖ®Éñ£¬ÒòÎªËû±»Âå»ùµÄ¹î¼ÆÉ±º¦¡£°Í¶ûµÂµÄËÀĞû¸æÁËÖîÉñµÄ»Æ»èµÄ¿ªÊ¼¡£
 \n 
-He is renowned for his friendliness, mildness and intelligence. Baldur has bad dreams and is afraid of dying; but thanks to his mother - the most powerful of all the goddesses in Asgard ­ all beings and inanimate objects swear that they will never harm him. In Asgard, the gods now enjoy shooting at Baldur for fun, since he can never be killed or wounded. However, Frigg forgets to consult the mistletoe, thinking it too small and plain to consider. The ever-scheming Loki hears of this, and tricks the blind Hoedr into shooting Baldur. The Asen gods send mounted messengers to the realm of the dead to ask for Baldur's return. Hel, the queen of the realm of death, says that if the whole world cried for Baldur, he would come back to life. All things and all beings ­ even stones and trees ­ therefore try (unsuccessfully), to cry the dead god back to life ... 
+ËûÒÔÓÑÉÆ¡¢ÎÂºÍºÍ´ÏÃ÷¶øÎÅÃû¡£°Í¶ûµÂ×öÁËÒ»³¡Ø¬ÃÎ£¬º¦ÅÂËÀÈ¥£»µ«ÓÉÓÚËûµÄÄ¸Ç×¡ª¡ª°¢Ë¹¼ÓµÂ×îÇ¿´óµÄËùÓĞÅ®ÉñµÄÊÄÔ¼£¬ËùÓĞÉúÎïºÍÎŞÉúÎï¶¼ÊÄÑÔÓÀÔ¶²»»áÉËº¦Ëû¡£ÔÚ°¢Ë¹¼ÓµÂ£¬ÖîÉñÏÖÔÚÏíÊÜ×ÅÉä»÷°Í¶ûµÂÎªÀÖµÄÀÖÈ¤£¬ÒòÎªËûÓÀÔ¶²»ÄÜ±»É±º¦»òÊÜÉË¡£È»¶ø£¬¸¥Àö¸ñÍü¼ÇÁË²é¿´éÎ¼ÄÉú£¬ÈÏÎªËüÌ«Ğ¡Ì«Æ½·²£¬²»ÖµµÃ¿¼ÂÇ¡£
 [blockend:8_text_0]	
 
 [blockstart:8_text_1]
@@ -205,14 +205,14 @@ He is renowned for his friendliness, mildness and intelligence. Baldur has bad d
                                                                                             
 
 [blockstart:9_uberschrift]
-Freya_-_Goddess_of_War_and_Fertility
+Õ½ÕùÓëÉúÓıÅ®Éñ¸¥À×æ«
 [blockend:9_uberschrift]	
 
 [blockstart:9_text_0]
-Freya (woman, mistress) is the daughter of the god Njord and the twin sister of Frey. She is a goddess of fertility and war. When she rides out for battle, she obtains half of the fallen heroes, whom she will welcome in her hall of Sessrumnir - the other half belong to Odin and are taken to Valhall. Dead women also go to Sessrumnir. Due to her relationship with the dead, Odin has made her the mistress of the Valkyries.
+¸¥À×æ«£¨Å®ĞÔ£¬Å®Ö÷ÈË£©ÊÇº£ÉñÄáÔ¼¶ûµÂºÍËûµÄÂÏÉúĞÖµÜ¸¥À×Ö®Å®¡£ËıÊÇÉúÓıÓëÕ½ÕùµÄÅ®Éñ¡£µ±ËıÆï×ÅÂí³öÕ÷Ê±£¬Ëı»áµÃµ½Ò»°ëµÄÕóÍöÓ¢ĞÛ£¬Ëı½«ÔÚËıµÄ´óÌüSessrumnirÖĞ»¶Ó­ËûÃÇ£¬ÁíÒ»°ëÊôÓÚ°Â¶¡£¬±»´øµ½Íß¶û¹şÀ­¡£ËÀÈ¥µÄÅ®ÈËÒ²»áÈ¥Sessrumnir¡£ÓÉÓÚËıÓëËÀÕßµÄ¹ØÏµ£¬°Â¶¡ÈÃËı³ÉÎªÅ®ÎäÉñµÄÅ®Ö÷ÈË¡£
 \n
 \n
-Freya (Freyja) is worshipped as the goddess of lovers as well. She loves music, spring and flowers, and she especially loves elfs (fairies). Freya is one of the first goddesses among the Vanen gods. She is the patron of the harvest and birth, and the embodiment of sensuality. 
+¸¥À×æ«£¨Freyja£©Ò²±»³ç°İÎª°®ÇéÅ®Éñ¡£ËıÏ²»¶ÒôÀÖ¡¢´ºÌìºÍ»¨¶ä£¬ÓÈÆäÏ²»¶¾«Áé£¨ÏÉÅ®£©¡£¸¥À×æ«ÊÇ·¶¶÷Éñ×åÖĞ×îÔçµÄÅ®ÉñÖ®Ò»¡£ËıÊÇ·áÊÕºÍÉúÓıµÄÊØ»¤Éñ£¬Ò²ÊÇ¸ĞĞÔµÄ»¯Éí¡£
 [blockend:9_text_0]	
 
 [blockstart:9_text_1]
@@ -224,11 +224,11 @@ Freya (Freyja) is worshipped as the goddess of lovers as well. She loves music, 
                                                                                             
 
 [blockstart:10_uberschrift]
-Njord_-_God_of_Wind_and_Sea
+·çÓëº£Ö®ÉñÄáÔ¼¶ûµÂ
 [blockend:10_uberschrift]	
 
 [blockstart:10_text_0]
-Njord (Nioerd, Njördr) is the god of wind, sea and fire. He is called upon for safe seafaring and fishing. The god of the sea is one of the Vanen gods, he is the father of the fertility gods Freyr and Freya. Since the Vanen gods and the Asen gods made peace, these three have dwelt with the latter group. This god controls the stream, draught and direction of the wind. He appeases the sea and puts out fires. He lives in Noatun (Nordic "ship place", "ship town"). As a god of fertility, he gives fishermen a good catch and farmers a rich harvest. He bestows goods and reigns over the wind and seas. He is the protector of seafarers and fishermen, and is considered the lord of the humans.
+ÄáÔ¼¶ûµÂ£¨Nioerd£©ÊÇ·ç¡¢º£ºÍ»ğÖ®Éñ¡£ÈËÃÇÆíÇóËûÆ½°²º½º£ºÍ·áÊÕ¡£ÕâÎ»º£ÉñÊÇ·¶¶÷Éñ×åÖĞµÄÒ»Ô±£¬ËûÊÇÉúÓıÖ®Éñ¸¥À×¶ûºÍ¸¥À×æ«µÄ¸¸Ç×¡£×Ô´Ó·¶¶÷Éñ×åºÍ°¢É­Éñ×åºÍÆ½Ïà´¦ÒÔÀ´£¬ÕâÈıÎ»ÉñÃ÷¾ÍÓëºóÕßÍ¬×¡¡£ÕâÎ»Éñ¿ØÖÆ×Å·çµÄÁ÷¶¯¡¢ÆøºòºÍ·½Ïò¡£ËûÆ½Ï¢º£Ñó£¬ÆËÃğ»ğÔÖ¡£Ëû¾Ó×¡ÔÚÅµ¶Ù£¨±±Å·ÓïÖĞµÄ¡°´¬µÄµØ·½¡±¡¢¡°´¬³Ç¡±£©¡£×÷ÎªÉúÓıÖ®Éñ£¬Ëû¸øÓæÃñ´øÀ´ºÃµÄ²¶»ñ£¬¸øÅ©Ãñ´øÀ´·áÊÕ¡£Ëû´ÍÓè²Æ¸»£¬Í³ÖÎ·çÓëº£Ñó¡£ËûÊÇº½º£ÕßºÍÓæÃñµÄ±£»¤Éñ£¬±»ÈÏÎªÊÇÈËÀàµÄÖ÷Ô×¡£
 [blockend:10_text_0]	
 
 [blockstart:10_text_1]
@@ -240,13 +240,13 @@ Njord (Nioerd, Njördr) is the god of wind, sea and fire. He is called upon for s
                                                                                             
 
 [blockstart:11_uberschrift]
-Death_Goddess_Hel
+ËÀÍöÅ®Éñº£À­
 [blockend:11_uberschrift]	
 
 [blockstart:11_text_0]
-She is the daughter of Loki and the giantess Angurboda, and an adversary of the Asen gods and Odin. She is a mysterious girl ­ half white, half black and blue. She was banned from Asgard and settled high up in the north. Here she created an underground realm of death ­ a grey, cold and damp world. Her name is Hel, and this is also the name of her realm of death. Hel is the place where people go who die of illnesses or of old age. Here they "live" a safe life in the shadows.
+ËıÊÇÂå»ùºÍ¾ŞÈË°²¸ñ²©´ïµÄÅ®¶ù£¬ÊÇ°¢É­ÉñºÍ°Â¶¡µÄ¶ÔÊÖ¡£ËıÊÇÒ»¸öÉñÃØµÄÅ®º¢£¬°ëºÚ°ëÀ¶¡£Ëı±»·ÅÖğ³ö°¢Ë¹¼ÓµÂ£¬¶¨¾ÓÔÚ±±·½¸ß´¦¡£ÔÚÕâÀï£¬Ëı´´ÔìÁËÒ»¸öµØÏÂµÄËÀÍöÁìÓò£¬Ò»¸ö»Ò°µ¡¢º®ÀäºÍ³±ÊªµÄÊÀ½ç¡£ËıµÄÃû×ÖÊÇº£¶û£¬ÕâÒ²ÊÇËıµÄËÀÍöÁìÓòµÄÃû×Ö¡£º£¶ûÊÇÄÇĞ©Òò¼²²¡»òÄêÀÏ¶øËÀÈ¥µÄÈËÃÇÈ¥µÄµØ·½¡£ÔÚÕâÀï£¬ËûÃÇÔÚÒõÓ°ÖĞ¡°Éú»î¡±×Å¡£
 \n
-Hel (Old Nordic "helan", hide) is therefore the goddess of the underground world of the dead who did not fall in battle. Since the great goddess contains life and death, Hel must be considered a goddess as well, even if she is of Jöten (giant) descent. Her name (Old German "Hella") is related to "verhehlen" (to conceal), thus it refers to the hidden existence of the dead, but has no negative meaning. Only in Christian times has Hel become "hell" in the sense of Hebrew mythology. Just like the Norns, Hel is respected, but not worshipped with rites.
+º£¶û£¨¹Å±±Å·Óï¡°helan¡±£¬Òş²Ø£©Òò´Ë±»ÈÏÎªÊÇÄÇĞ©Ã»ÓĞÔÚÕ½¶·ÖĞÕóÍöµÄµØÏÂÊÀ½çµÄÅ®Éñ¡£ÓÉÓÚ´óÅ®Éñ°üº¬ÁËÉúÓëËÀ£¬Òò´Ëº£¶ûÒ²±ØĞë±»ÊÓÎªÅ®Éñ£¬¼´Ê¹ËıÊÇÒÁµé£¨¾ŞÈË£©µÄºó´ú¡£ËıµÄÃû×Ö£¨¹ÅµÂÓï¡°Hella¡±£©Óë¡°verhehlen¡±£¨Òş²Ø£©ÓĞ¹Ø£¬Òò´ËËüÖ¸µÄÊÇËÀÕßµÄÒş²Ø´æÔÚ£¬µ«Ã»ÓĞ¸ºÃæÒâÒå¡£Ö»ÓĞÔÚ»ù¶½½ÌÊ±´ú£¬º£¶û²Å³ÉÎªÏ£²®À´Éñ»°ÖĞ¡°µØÓü¡±µÄÒâË¼¡£¾ÍÏñÅµ¶÷Ë¹Ò»Ñù£¬º£¶ûÊÜµ½×ğ¾´£¬µ«²»ÒÔÒÇÊ½³ç°İ¡£
 [blockend:11_text_0]	
 
 [blockstart:11_text_1]
@@ -258,15 +258,15 @@ Hel (Old Nordic "helan", hide) is therefore the goddess of the underground world
                                                                                             
 
 [blockstart:12_uberschrift]
-Loki_the_Fire_Bringer
+»ğÖ®Ê¹ÕßÂå»ù
 [blockend:12_uberschrift]	
 
 [blockstart:12_text_0]
-Loki (Lopt, Fire), a giant by descent, was accepted among the Asen gods. He is considered a blood brother of Odin. Loki has often created enmity among the gods. He is the god of the all-devouring fire and of ruses. Though he has helped the gods, he finally initiates Ragnarok, the twilight of the gods, by fathering the three adversaries of the world (Fenrir, the Midgard serpent Jormungand and Hel) with the giantess Angurboda.
+Âå»ù£¨Lopt£¬»ğ£©ÊÇ¾ŞÈËµÄºóÒá£¬±»°¢É­Éñ½ÓÄÉ¡£Ëû±»ÈÏÎªÊÇ°Â¶¡µÄÑªĞÖµÜ¡£Âå»ù¾­³£ÔÚÖÚÉñ¼äÖÆÔìµĞÒâ¡£ËûÊÇÍÌÊÉÒ»ÇĞµÄ»ğÖ®ÉñºÍ¹î¼ÆÖ®Éñ¡£¾¡¹ÜËûÔø°ïÖúÖÚÉñ£¬µ«Ëû×îÖÕÍ¨¹ıÓë¾ŞÈË°²¸ñ²©´ïÉúÏÂÊÀ½çµÄÈı¸öµĞÈË£¨·ÒÀï¶û¡¢ÖĞÍÁÉßÒ®ÃÎ¼ÓµÃºÍº£¶û£©À´Òı·¢ÁËÖîÉñ»Æ»è-À­¸ñÄÉÂŞ¿Ë¡£
 \n
-He is the god of marriage from the lineage of the Asen gods and he is the father of Hel, of Nörfi, of Fenrir, the Cannibal, the Midgard serpent and (as a mare) of Sleipnir. He is the intelligent and cunning mocker among the gods. Sometimes he fights with the gods, and sometimes he fights against them. Loki gives Hoedr the mistletoe that kills Baldur. As punishment for his involvement in Baldur's death and because he refuses to cry to help him return from the realm of the dead, he is tied to a rock with the intestines of wolves and has snake poison trickled on him constantly. His rebellion against the punishment shakes the earth. He will only be set free at the time of Ragnarok. Then he will lead Fenrir and the Midgard serpent into battle against the gods. After being banned from Asgard, he has become Utgardloki.
+ËûÊÇ°¢É­Éñ×åÑªÍ³µÄ»éÒöÖ®Éñ£¬Ò²ÊÇº£¶û¡¢ÄÉ·Æ¡¢·ÒÀï¶û¡¢ÍÌÊÉÕß¡¢ÖĞÍÁÉßºÍ£¨×÷ÎªÄ¸Âí£©Ë¹À³ÆÕÄá¶ûµÄ¸¸Ç×¡£ËûÊÇÖÚÉñÖĞ´ÏÃ÷¶ø½ÆÕ©µÄ³°Ğ¦Õß¡£ÓĞÊ±ËûÓëÖÚÉñÕ½¶·£¬ÓĞÊ±ËûÓÖ·´¶ÔËûÃÇ¡£Âå»ù¸øÁËºÉµÂ¶ûÒ»ÖêÉ±ËÀ°Í¶ûµÂ¶ûµÄéÎ¼ÄÉú¡£ÓÉÓÚ²ÎÓë°Í¶ûµÂ¶ûµÄËÀÍö²¢¾Ü¾ø¿ŞÆü°ïÖúËû´ÓËÀÍöÁìÓò·µ»Ø£¬Ëû±»ÓÃÀÇ³¦ÏµÔÚÑÒÊ¯ÉÏ£¬²¢²»¶ÏµÎÈëÉß¶¾¡£Ëû¶Ô³Í·£µÄ·´¿¹Õğ¶¯×Å´óµØ¡£Ö»ÓĞÔÚÀ­¸ñÄÉÂŞ¿ËÊ±²Å»áÊÍ·ÅËû¡£½ìÊ±£¬Ëû½«´øÁì·ÒÀï¶ûºÍÖĞÍÁÉßÓëÖÚÉñÕ½¶·¡£±»ÇıÖğ³ö°¢Ë¹¼ÓµÂºó£¬Ëû³ÉÎªÁËÎÚÌØ¼ÓµÂÂå»ù¡£
 \n  
-Loki knows how to perform magic, but he is so unreliable that the gods never trusted him much. He is considered a bad character and completely unpredictable.
+Âå»ù¶®µÃÊ©Õ¹Ä§·¨£¬µ«ËûÌ«²»¿É¿¿£¬ÖÚÉñ´Ó²»Ì«ĞÅÈÎËû¡£Ëû±»ÈÏÎªÊÇÒ»¸öĞ°¶ñµÄ½ÇÉ«£¬ÍêÈ«²»¿ÉÔ¤²â¡£
 [blockend:12_text_0]	
 
 [blockstart:12_text_1]

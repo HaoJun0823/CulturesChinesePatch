@@ -1,112 +1,111 @@
 [blockstart:keys]
 <font:$local$\fonts\fonthead16bld.fnt>
-KEY CONFIGURATION
+按键配置
 <font:$local$\fonts\font12.fnt>
 
-<textxstart:40> Right-click <textxstart:200> Issue contextual order.
+<textxstart:40>  <textxstart:200> 发出上下文命令.
 
-<textxstart:40> A <textxstart:200> Open assistant.
-<textxstart:40> e <textxstart:200> Open extras menu.
-<textxstart:40> B <textxstart:200> Open papers window.
+<textxstart:40> A <textxstart:200> 打开助手.
+<textxstart:40> e <textxstart:200> 打开额外菜单.
+<textxstart:40> B <textxstart:200> 打开文件窗口.
 
-<textxstart:40> v <textxstart:200> Activate global defence mode.
-<textxstart:40> V <textxstart:200> Deactivate global defence mode.
-
-
-<textxstart:40> . <textxstart:200> Select next civilian.
-<textxstart:40> , <textxstart:200> Select next scout.
-<textxstart:40> f <textxstart:200> Select all heroes.
-<textxstart:40> x <textxstart:200> Deselect all non-heroes.
-<textxstart:40> y <textxstart:200> Deselect all non-soldiers.
-
-<textxstart:40> b <textxstart:200>	 Issue build order for building.
-<textxstart:40> s <textxstart:200>	 Issue build order for road.
-<textxstart:40> d <textxstart:200>	 Issue build order for stockade.
-<textxstart:40> SHIFT d <textxstart:200>	 Issue build order for gate in stockade.
+<textxstart:40> v <textxstart:200> 激活防御模式.
+<textxstart:40> V <textxstart:200> 关闭防御模式.
 
 
-<textxstart:0><block:2> WHEN A CHARACTER IS SELECTED
+<textxstart:40> . <textxstart:200> 选择下一个市民.
+<textxstart:40> , <textxstart:200> 选择下一个侦察兵.
+<textxstart:40> f <textxstart:200> 选择你所有的英雄.
+<textxstart:40> x <textxstart:200> 取消选择所有非英雄.
+<textxstart:40> y <textxstart:200> 取消选择所有非士兵.
 
-<textxstart:40> c <textxstart:200> Change character's profession.
-<textxstart:40> w <textxstart:200> Assign a home.
-<textxstart:40> a <textxstart:200> Assign a work place.
-
-<textxstart:40> CTRL + right-click
-<textxstart:200> Set centre of work area (for outdoor workers).
-
-<textxstart:40> SPACEBAR <textxstart:200> Display action menu.
-
-
-<textxstart:0><block:2> WHEN ONE OR SEVERAL CHARACTERS, VEHICLES OR BUILDINGS ARE SELECTED
-
-<textxstart:40> CTRL 0-9 <textxstart:200> Define all selected characters, vehicles or buildings as a group; assign number to group.
-
-<textxstart:40> SHIFT 0-9 <textxstart:200> Add all selected characters, vehicles or buildings to the group with the corresponding number.
-
-<textxstart:40> 0-9 <textxstart:200> Select the group with the corresponding number.
-
-<textxstart:40> CTRL + left-click 
-<textxstart:200> Remove selected object from selection.
-
-<textxstart:40> SHIFT + left-click 
-<textxstart:200> Add selected object to selection.
-
-<textxstart:40> SPACEBAR <textxstart:200> Display action menu for selected object.
+<textxstart:40> b <textxstart:200>	 建筑列表快捷键.
+<textxstart:40> s <textxstart:200>	 修路快捷键.
+<textxstart:40> d <textxstart:200>	 栅栏快捷键.
+<textxstart:40> SHIFT d <textxstart:200>	 栅栏大门快捷键.
 
 
-<textxstart:40> h <textxstart:200>	 Jump to headquarters.
+<textxstart:0><block:2> 当选择一个角色时
 
-<textxstart:40> z <textxstart:200>	 Zoom in or out.
+<textxstart:40> c <textxstart:200> 更改角色的职业
+<textxstart:40> w <textxstart:200> 指定住宅
+<textxstart:40> a <textxstart:200> 指定工作场所.
 
-<textxstart:40> o <textxstart:200> Open observation window. 
+<textxstart:40>  CTRL + 鼠标右键
+<textxstart:200> 设置工作区中心（用于室外工人）.
 
-<textxstart:40> p <textxstart:200>	 Pause game.
-<textxstart:40> l <textxstart:200> Increase game speed.
-
-<textxstart:40> TAB <textxstart:200> Display all characters' and buildings' tooltips.
-
-<textxstart:40> Arrow keys <textxstart:200> Scroll screen detail.
-<textxstart:40> Num pad	 <textxstart:200> Scroll screen detail.
-
-<textxstart:40> ESC <textxstart:200> Close window, deselect.
-
-<textxstart:40> F1 <textxstart:200> Access help.
-<textxstart:40> F2 <textxstart:200> Open options window (game settings).
-
-<textxstart:40> F3 <textxstart:200> Load a game.
-<textxstart:40> F4 <textxstart:200> Save the game.
-
-<textxstart:40> F5 <textxstart:200> Open diplomacy window.
-<textxstart:40> F6 <textxstart:200> Open statistics window.
-<textxstart:40> F7 <textxstart:200> Open character list.
-<textxstart:40> F8 <textxstart:200> Open technology tree.
-
-<textxstart:40> F9 <textxstart:200> Quick save.
-
-<textxstart:40> F10 <textxstart:200> Display general map.
-
-<textxstart:40> CTRL b <textxstart:200> Take screenshot of current screen.
-
-<textxstart:40> CTRL s <textxstart:200> Quick save.
-
-<textxstart:40> ALT (left) + F4 <textxstart:200> Exit game and return to Windows.
+<textxstart:40> SPACEBAR <textxstart:200>  显示操作菜单.
 
 
-<textxstart:0><block:2> IN THE CHARACTER DISPLAY (worker)
+<textxstart:0><block:2> 将所有选择的角色、车辆或建筑物定义为一组，并为该组分配号码.
 
-<textxstart:40> CTRL + left-click +/- buttons next to goods
-<textxstart:200> Set amount of required goods to infinite/none.
+<textxstart:40> CTRL 0-9 <textxstart:200> 将所有选择的角色、车辆或建筑物定义为一组，并为该组分配号码.
+
+<textxstart:40> SHIFT 0-9 <textxstart:200> 将所有选择的角色、车辆或建筑物添加到具有相应编号的组中.
+
+<textxstart:40> 0-9 <textxstart:200> 选择具有相应编号的组.
+
+<textxstart:40> CTRL + 鼠标左键
+<textxstart:200> 从选择中移除选定的对象.
+
+<textxstart:40> SHIFT + 鼠标左键	
+<textxstart:200> 将选定的对象添加到选择中.
+
+<textxstart:40> SPACEBAR <textxstart:200> 显示所选对象的操作菜单.
 
 
-<textxstart:0><block:2> IN THE BUILDING DISPLAY (warehouse)
-<textxstart:0><block:2> (when type of goods is selected)
+<textxstart:40> h <textxstart:200>	 跳转到总部.
+<textxstart:40> z <textxstart:200>	 放大或缩小.
 
-<textxstart:40> CTRL + left-click +/- buttons
-<textxstart:200> Increase/decrease amount of goods by 10 units.
+<textxstart:40> o <textxstart:200> 打开观察窗口. 
+
+<textxstart:40> p <textxstart:200> 暂停游戏.
+<textxstart:40> l <textxstart:200> 加快游戏速度.
+
+<textxstart:40> TAB <textxstart:200> 显示所有角色和建筑物的工具注释.
+
+<textxstart:40> Arrow keys <textxstart:200>滚动屏幕细节.
+<textxstart:40> Num pad	 <textxstart:200> 滚动屏幕细节.
+
+<textxstart:40> ESC <textxstart:200> 关闭窗口，取消选择.
+
+<textxstart:40> F1 <textxstart:200> 访问帮助.
+<textxstart:40> F2 <textxstart:200> 打开选项窗口（游戏设置).
+
+<textxstart:40> F3 <textxstart:200> 加载游戏.
+<textxstart:40> F4 <textxstart:200> 保存游戏.
+
+<textxstart:40> F5 <textxstart:200> 打开外交窗口.
+<textxstart:40> F6 <textxstart:200> 打开统计窗口.
+<textxstart:40> F7 <textxstart:200> 打开角色列表.
+<textxstart:40> F8 <textxstart:200> 打开科技树.
+
+<textxstart:40> F9 <textxstart:200> 快速保存.
+
+<textxstart:40> F10 <textxstart:200> 显示总地图.
+
+<textxstart:40> CTRL b <textxstart:200> 当前屏幕截图.
+
+<textxstart:40> CTRL s <textxstart:200> 快速保存.
+
+<textxstart:40> ALT (left) + F4 <textxstart:200> 退出游戏并返回Windows.
 
 
-<textxstart:0><block:2> IN THE MULTIPLAYER GAME
+<textxstart:0><block:2> 在角色显示中（工人）
 
-<textxstart:40> ENTER	<textxstart:200> Start chat.
+<textxstart:40> CTRL + 鼠标左键 +/-按钮旁边的货物
+<textxstart:200> 将所需货物的数量设置为无限/无.
+
+
+<textxstart:0><block:2>  在建筑物显示中（仓库）
+<textxstart:0><block:2> （当选择货物类型时）
+
+<textxstart:40> CTRL + 鼠标左键 +/-按钮
+<textxstart:200> 增加/减少10个单位的货物量.
+
+
+<textxstart:0><block:2>在多人游戏中
+
+<textxstart:40> ENTER	<textxstart:200>开始聊天.
 
 [blockend:keys]
