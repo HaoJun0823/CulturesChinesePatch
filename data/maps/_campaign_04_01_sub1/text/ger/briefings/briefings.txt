@@ -54,7 +54,7 @@
 
 [blockstart:600]
 <font:$local$\fonts\fonthead16bld.fnt>
-MISSION VERLOREN!
+任务失败！
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
 一时的疏忽，生命瞬间离去！你的朋友和英雄——龙诺伯特就是因为你的不注意而逝去！没有这个英雄，你将无法知道任务的结局。

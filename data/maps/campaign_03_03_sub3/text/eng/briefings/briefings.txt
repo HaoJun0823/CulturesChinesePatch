@@ -7,7 +7,7 @@
 
 [blockstart:100]
 <font:$local$\fonts\fonthead16bld.fnt>
-任务失败
+任务失败！
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
 布加尼死了
@@ -15,7 +15,7 @@
 
 [blockstart:200]
 <font:$local$\fonts\fonthead16bld.fnt>
-MISSION FAILED!
+任务失败！
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
 西拉死了
@@ -23,7 +23,7 @@ MISSION FAILED!
 
 [blockstart:300]
 <font:$local$\fonts\fonthead16bld.fnt>
-MISSION FAILED!
+任务失败！
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
 哈迪死了
@@ -31,15 +31,15 @@ MISSION FAILED!
 
 [blockstart:400]
 <font:$local$\fonts\fonthead16bld.fnt>
-MISSION FAILED!
+任务失败！
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
-西加哥德死了 
+西加哥德死了。
 [blockend:400]
 
 [blockstart:500]
 <font:$local$\fonts\fonthead16bld.fnt>
-任务失败
+任务失败！
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\People_Dead_F.pcx>
 你一直在进攻我们的盟友。我们失去了他们的信任。
@@ -47,7 +47,7 @@ MISSION FAILED!
 
 [blockstart:600]
 <font:$local$\fonts\fonthead16bld.fnt>
-任务失败
+任务失败！
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
 奥克拉的守护者比你要强太多了。
@@ -114,7 +114,7 @@ MISSION FAILED!
 [blockstart:20] 
 奥克拉神殿守护者
 
-我们怎么可能知道。。。。居然还要面对如此的怪物。
+我们怎么可能知道……居然还要面对如此的怪物。
 黑暗中，一个巨大的恶魔出现在我们面前，守护着神谕！
 愿上帝善待我们！
 [blockend:20] 

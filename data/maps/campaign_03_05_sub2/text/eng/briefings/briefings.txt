@@ -95,7 +95,7 @@ WISE MEN
 
 [blockstart:200]
 <font:$local$\fonts\fonthead16bld.fnt>
-MISSION FAILED!
+任务失败！
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
 是英雄主义还是粗心大意？西拉死去时，上天在哭泣……没有这位英雄，这次故事的结局将永远不为人知！
@@ -103,7 +103,7 @@ MISSION FAILED!
 
 [blockstart:300]
 <font:$local$\fonts\fonthead16bld.fnt>
-MISSION FAILED!
+任务失败！
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
 是英雄主义还是粗心大意？哈迪死去时，上天在哭泣……没有这位英雄，这次故事的结局将永远不为人知！
@@ -111,7 +111,7 @@ MISSION FAILED!
 
 [blockstart:400]
 <font:$local$\fonts\fonthead16bld.fnt>
-MISSION FAILED!
+任务失败！
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
 是英雄主义还是粗心大意？西加哥德死去时，上天在哭泣……没有这位英雄，这次故事的结局将永远不为人知！
@@ -119,7 +119,7 @@ MISSION FAILED!
 
 [blockstart:500]
 <font:$local$\fonts\fonthead16bld.fnt>
-MISSION FAILED!
+任务失败！
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
 是英雄主义还是粗心大意？诺伯特死去时，上天在哭泣……没有这位英雄，这次故事的结局将永远不为人知！
@@ -127,7 +127,7 @@ MISSION FAILED!
 
 [blockstart:600]
 <font:$local$\fonts\fonthead16bld.fnt>
-MISSION FAILED!
+任务失败！
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
 是英雄主义还是粗心大意？曼尼死去时，上天在哭泣……没有这位英雄，这次故事的结局将永远不为人知！

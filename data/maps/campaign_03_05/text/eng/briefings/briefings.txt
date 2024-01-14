@@ -309,7 +309,7 @@
 
 [blockstart:100]
 <font:$local$\fonts\fonthead16bld.fnt>
-ÈÎÎñÊ§°Ü
+ÈÎÎñÊ§°Ü£¡
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
 ÊÇÓ¢ÐÛÖ÷Òå»¹ÊÇ´ÖÐÄ´óÒâ£¿²¼¼ÓÄáËÀÈ¥Ê±£¬ÉÏÌìÔÚ¿ÞÆü¡­¡­Ã»ÓÐÕâÎ»Ó¢ÐÛ£¬Õâ´Î¹ÊÊÂµÄ½á¾Ö½«ÓÀÔ¶²»ÎªÈËÖª£¡
@@ -317,7 +317,7 @@
 
 [blockstart:200]
 <font:$local$\fonts\fonthead16bld.fnt>
-MISSION FAILED!
+ÈÎÎñÊ§°Ü£¡
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
 ÊÇÓ¢ÐÛÖ÷Òå»¹ÊÇ´ÖÐÄ´óÒâ£¿Î÷À­ËÀÈ¥Ê±£¬ÉÏÌìÔÚ¿ÞÆü¡­¡­Ã»ÓÐÕâÎ»Ó¢ÐÛ£¬Õâ´Î¹ÊÊÂµÄ½á¾Ö½«ÓÀÔ¶²»ÎªÈËÖª£¡
@@ -325,7 +325,7 @@ MISSION FAILED!
 
 [blockstart:400]
 <font:$local$\fonts\fonthead16bld.fnt>
-MISSION FAILED!
+ÈÎÎñÊ§°Ü£¡
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
 ÊÇÓ¢ÐÛÖ÷Òå»¹ÊÇ´ÖÐÄ´óÒâ£¿Î÷¼Ó¸çµÂËÀÈ¥Ê±£¬ÉÏÌìÔÚ¿ÞÆü¡­¡­Ã»ÓÐÕâÎ»Ó¢ÐÛ£¬Õâ´Î¹ÊÊÂµÄ½á¾Ö½«ÓÀÔ¶²»ÎªÈËÖª£¡
@@ -333,7 +333,7 @@ MISSION FAILED!
 
 [blockstart:500]
 <font:$local$\fonts\fonthead16bld.fnt>
-MISSION FAILED!
+ÈÎÎñÊ§°Ü£¡
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
 ÊÇÓ¢ÐÛÖ÷Òå»¹ÊÇ´ÖÐÄ´óÒâ£¿Åµ²®ÌØËÀÈ¥Ê±£¬ÉÏÌìÔÚ¿ÞÆü¡­¡­Ã»ÓÐÕâÎ»Ó¢ÐÛ£¬Õâ´Î¹ÊÊÂµÄ½á¾Ö½«ÓÀÔ¶²»ÎªÈËÖª£¡
@@ -341,7 +341,7 @@ MISSION FAILED!
 
 [blockstart:600]
 <font:$local$\fonts\fonthead16bld.fnt>
-MISSION FAILED!
+ÈÎÎñÊ§°Ü£¡
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
 ÊÇÓ¢ÐÛÖ÷Òå»¹ÊÇ´ÖÐÄ´óÒâ£¿ÂüÄáËÀÈ¥Ê±£¬ÉÏÌìÔÚ¿ÞÆü¡­¡­Ã»ÓÐÕâÎ»Ó¢ÐÛ£¬Õâ´Î¹ÊÊÂµÄ½á¾Ö½«ÓÀÔ¶²»ÎªÈËÖª£¡

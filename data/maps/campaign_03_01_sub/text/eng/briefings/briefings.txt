@@ -78,7 +78,7 @@ Find the Holy Fire.
 
 [blockstart:200]
 <font:$local$\fonts\fonthead16bld.fnt>
-MISSION FAILED!
+任务失败！
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
 英勇或者粗心大意？西拉 死去时，诸神在哭泣……没有了这位英雄，这次任务的结果将对你来说永远是个谜！
@@ -86,7 +86,7 @@ MISSION FAILED!
 
 [blockstart:300]
 <font:$local$\fonts\fonthead16bld.fnt>
-MISSION FAILED!
+任务失败！
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
 英勇或者粗心大意？当 哈迪 死去时，诸神在哭泣……没有了这位英雄，这次任务的结果将对你来说永远是个谜！
@@ -94,7 +94,7 @@ MISSION FAILED!
 
 [blockstart:400]
 <font:$local$\fonts\fonthead16bld.fnt>
-MISSION FAILED!
+任务失败！
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
 英勇或者粗心大意？当 西加哥德 死去时，诸神在哭泣……没有了这位英雄，这次任务的结果将对你来说永远是个谜！

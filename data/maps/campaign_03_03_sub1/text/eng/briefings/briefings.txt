@@ -26,12 +26,12 @@
 任务失败
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
-哈迪死了。保护好他
+哈迪死了！保护好他。
 [blockend:300]
 
 [blockstart:400]
 <font:$local$\fonts\fonthead16bld.fnt>
-任务失败''
+任务失败！
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
 是英雄主义还是粗心大意？西加哥德死去时，上天在哭泣……没有这位英雄，这次故事的结局将永远不为人知！
@@ -40,12 +40,12 @@
 
 [blockstart:500]
 <font:$local$\fonts\fonthead16bld.fnt>
-MISSION FAILED!
+任务失败！
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\People_Dead_F.pcx>
-You attacked your best friends although you had been warned! 
+尽管已经被警告过，但你还是攻击了你最好的朋友！
 
-This way you will not be able to complete your mission!
+这样你就无法完成你的使命了！
 [blockend:500]
 
 
@@ -53,7 +53,7 @@ This way you will not be able to complete your mission!
 
 // Startbriefing
 [blockstart:header] 
-THE SECRET PASSAGE
+秘密通道
 [blockend:header]
 
 [blockstart:00_start] 
@@ -104,7 +104,7 @@ THE SECRET PASSAGE
 增援部队
 
 彼得罗斯正在向你派遣增援部队。
-这是他能给你的唯一帮助。。。
+这是他能给你的唯一帮助……
 [blockend:120]
 
 

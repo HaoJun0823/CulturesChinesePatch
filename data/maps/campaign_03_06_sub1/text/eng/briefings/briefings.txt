@@ -36,7 +36,7 @@
 
 [blockstart:02]
 <font:$local$\fonts\fonthead16bld.fnt>
-MISSION FAILED!
+任务失败！
 <font:$local$\fonts\font12.fnt>
 真可惜，他跑的是真的快啊。
 
