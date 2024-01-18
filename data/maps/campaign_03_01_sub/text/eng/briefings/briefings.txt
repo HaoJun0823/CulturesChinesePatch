@@ -18,7 +18,7 @@ Find the Holy Fire.
 寻找圣火。
 [blockend:50_endheader]
 [blockstart:50_end] 
-法罗斯灯塔，灯塔将再次照亮航行的船只！！
+太好了，我们找到了圣火。现在，法罗斯灯塔将再次闪耀，为周围航行的船只保驾护航！！
 
 <usericon:1,137,14>
 [blockend:50_end]
