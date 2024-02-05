@@ -266,7 +266,7 @@
 
 [blockstart:100]
 <font:$local$\fonts\fonthead16bld.fnt>
-MISSION VERLOREN!
+任务失败！
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
 英雄的勇气还是鲁莽？当布加尼牺牲时，众神为之哭泣… 没有了这位英雄，你将永远无法知道任务的结局。
@@ -274,7 +274,7 @@ MISSION VERLOREN!
 
 [blockstart:200]
 <font:$local$\fonts\fonthead16bld.fnt>
-MISSION VERLOREN!
+任务失败！
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
 英雄的勇气还是鲁莽？当西拉牺牲时，众神为之哭泣… 没有了这位英雄，你将永远无法知道任务的结局。
@@ -282,7 +282,7 @@ MISSION VERLOREN!
 
 [blockstart:500]
 <font:$local$\fonts\fonthead16bld.fnt>
-MISSION VERLOREN!
+任务失败！
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
 英雄的勇气还是鲁莽？当曼尼牺牲时，众神为之哭泣… 没有了这位英雄，你将永远无法知道任务的结局。
@@ -290,7 +290,7 @@ MISSION VERLOREN!
 
 [blockstart:600]
 <font:$local$\fonts\fonthead16bld.fnt>
-MISSION VERLOREN!
+任务失败！
 <font:$local$\fonts\font12.fnt>
 <picture:$local$\graphics\Hero_Dead_F.pcx>
 英雄的勇气还是鲁莽？当诺伯特牺牲时，众神为之哭泣… 没有了这位英雄，你将永远无法知道任务的结局。
