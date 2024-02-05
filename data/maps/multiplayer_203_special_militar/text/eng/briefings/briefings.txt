@@ -1,39 +1,35 @@
 [blockstart:header]
 
-LAND OF THE DRAGONS II
+龙之地 II
 
 [blockend:header]
 
 [blockstart:begin_00]
-The chieftain of a local tribe has asked for help:
+当地一个部落的酋长请求帮助：
 
-"The land of the dragons has been attacked by wolf creatures! I fear they plan to set the dragons free that we fought so hard to drive back into their caves and trap there!
+“龙之地受到狼族生物的攻击！我担心他们计划释放那些我们曾经艰苦驱逐回洞穴并困住的龙！
 
-Fight the wolves. Quickly, before they release the dragons!"
+与狼战斗。快点，别让他们释放龙！”
 
+每个参与狼猎的队伍都会获得三份有用的文件。
+此外，新士兵将定期进入游戏的起始位置，以确保在损失的情况下有足够的增援。
 
-Every team that joins the wolf hunt starts out with three useful papers. 
-Also, new soldiers will enter the game at the starting position at regular intervals, to make sure you have sufficient reinforcements in case of losses.
+你可以在不时出现的许多隐藏宝箱中找到重要的装备...
 
-You can find vital equipment in the many hidden treasure chests that will appear now and then ...
+现在出发打猎吧，是时候拯救龙之地了！
+获胜者必须首先击败100个对手！
 
+提示：
+如果你捕获到这里的五只不死圣雨牛之一，你可以随心所欲地改变天气！如果一名玩家成功从另一名玩家那里夺取了一只雨牛，新的雨牛所有者将成为操控天气的人！
 
-Now go out and hunt, it's time to save the land of the dragons!
-The winner must be the first to defeat 100 opponents!
+另一个提示：
+偶尔会出现开关供你使用...它们几分钟后会消失，所以当你看到它们时要赶紧按下一个！
 
-
-Hint:
-If you capture one of the five immortal holy raincows that live here, you can change the weather as often as you like! If a player manages to capture a raincow from another player, the new owner of the raincow is the weathermaker!
-
-
-Another hint:
-From time to time, switches will appear for you to use ... They disappear again after a few minutes, so hurry up and push one when you see them! 
-
-Some switches activate mechanisms in the same location, others affect your warehouses.
+某些开关会激活同一位置的机制，其他开关会影响你的仓库。
 [blockend:begin_00]
 
 [blockstart:begin_01]
-SWITCH USED
+使用了开关
 
-Maybe you should check your warehouses ...
+也许你应该检查一下你的仓库...
 [blockend:begin_01]

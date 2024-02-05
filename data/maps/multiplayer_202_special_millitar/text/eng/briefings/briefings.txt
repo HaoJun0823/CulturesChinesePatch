@@ -1,54 +1,48 @@
 [blockstart:header]
 
-LAND OF THE DRAGONS I
+龙之地 I
 
 [blockend:header]
 
 [blockstart:begin_00]
-The situation is desperate!
+情况十分危急！
 
-The fearsome dragons that dwell in the mountains have left their caves to go hunting in the villages!
-They will be here soon, and they will return regularly. Their attacks will be disastrous for the population! 
+居住在山中的可怕巨龙已经离开洞穴，前往村庄进行猎食！
+它们很快就会到达这里，并且会定期返回。它们的袭击对人口将是灾难性的！
 
-We must withstand their attacks and try to trap them back in their caves! 
+我们必须抵挡它们的攻击，试图将它们重新困回洞穴中！
 
-It is said that there are ancient mechanisms that can do this hidden in the wolves' wood: They will close the heavy iron gates to the four dragons' caves the beasts are coming from. These switches are invisible most of the time, but they materialise every now and then. When this happens, you must quickly use the switches! 
+据说隐藏在狼林中的古老机制可以做到这一点：它们将关闭四条巨龙从中出来的洞穴的沉重铁门。这些开关大部分时间都是看不见的，但不时会显现出来。当这种情况发生时，你必须迅速使用开关！
 
-But beware! The wolves hiding in the dense forest won't make matters any easier for you ... 
+但要小心！隐藏在茂密森林中的狼不会让情况变得更容易...
 
+抵御龙的进攻，找到关闭狼林中龙门的开关！不要毫无准备地进入森林，也不要离开总部太远，直到你为战斗准备好你的部队！
 
-
-Defend yourself against the dragons and find the switches to close the dragons' gates in the wolves' wood! Don't enter the forest unprepared, and don't stray too far from your headquarters until you have prepared your troops for battle!
-
-NOTE:
-There are ample resources here, but the more players join, the less room you will all have. If you need more space, you must capture some land from the wolf creatures ...
+注意：
+这里有丰富的资源，但是玩家越多，你们所有人的空间就会越少。如果你需要更多的空间，你必须从狼生物那里夺取一些土地...
 [blockend:begin_00]
 
 [blockstart:01]
+门已关闭！
 
-GATE CLOSED!
-
-The gate to the cave in the north-west has been closed with a loud boom ...
+西北洞穴的门已经发出巨大的轰鸣关闭了...
 [blockend:01]
 
 [blockstart:02]
+门已关闭！
 
-GATE CLOSED!
-
-The gate to the cave in the north-east has been closed with a loud boom ...
+东北洞穴的门已经发出巨大的轰鸣关闭了...
 [blockend:02]
 
 [blockstart:03]
+门已关闭！
 
-GATE CLOSED!
-
-The gate to the cave in the south-east has been closed with a loud boom ...
+东南洞穴的门已经发出巨大的轰鸣关闭了...
 [blockend:03]
 
 [blockstart:04]
+门已关闭！
 
-GATE CLOSED!
-
-The gate to the cave in the south-west has been closed with a loud boom ...
+西南洞穴的门已经发出巨大的轰鸣关闭了...
 [blockend:04]
 
